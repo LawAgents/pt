@@ -1,0 +1,226 @@
+---
+id: "decreto-lei-336-1984-portline-transportes-maritimos-internacionais-s-a-r-l-estatu"
+dre_id: "400198"
+title: "Decreto-Lei n.º 336/84, de 18 de outubro — PORTLINE - Transportes Marítimos Internacionais, S. A. R. L. — Estatutos"
+type: "Decreto-Lei"
+number: "336/84"
+year: 1984
+date: 1984-10-18
+issuer: "Ministérios da Justiça, das Finanças e do Plano, do Trabalho e Segurança Social e do Mar"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 1990-04-03
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-890051583"
+original_pdf: "https://files.diariodarepublica.pt/1s/1984/10/24200/32403244.pdf"
+retrieved: 2026-10-21
+summary: "Cria duas novas empresas de transportes marítimos, a PORTLINE - Transportes Marítimos Internacionais, S. A. R. L., e a TRANSINSULAR - Transportes Marítimos Insulares, S. A. R. L., e aprova os respectivos estatutos"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-336-1984"
+part: "PORTLINE - Transportes Marítimos Internacionais, S. A. R. L. — Estatutos"
+---
+
+# Decreto-Lei n.º 336/84, de 18 de outubro — PORTLINE - Transportes Marítimos Internacionais, S. A. R. L. — Estatutos
+
+## PORTLINE - Transportes Marítimos Internacionais, S. A. R. L. — Estatutos
+
+### Capítulo I — Denominação, sede, duração e objecto
+
+#### Artigo 1.º
+
+É constituída, nos termos da lei e dos presentes estatutos, uma sociedade anónima de responsabilidade limitada denominada PORTLINE - Transportes Marítimos Internacionais, S. A. R. L.
+
+#### Artigo 2.º
+
+A sociedade tem a sua sede em Lisboa, podendo, mediante deliberação do conselho de administração, estabelecer, em qualquer ponto do território nacional ou no estrangeiro, agências, delegações ou qualquer outra forma de representação que considere necessária à prossecução dos seus fins.
+
+#### Artigo 3.º
+
+A duração da sociedade é por tempo indeterminado.
+
+#### Artigo 4.º
+
+A PORTLINE - Transportes Marítimos Internacionais, S. A. R. L., tem por objecto o exercício da indústria de transportes marítimos, compreendendo, nomeadamente, a navegação de longo curso, de cabotagem e costeira para o transporte de pessoas e bens, fretamento e afretamento de navios, bem como das actividades que possam concorrer para o seu desenvolvimento ou para completar os seus fins sociais.
+
+### Capítulo II — Capital social, acções e obrigações
+
+#### Artigo 5.º
+
+1 - O capital social é de 5000000000$00, representado por acções de 1000$00 cada uma, integralmente subscrito pelo Estado e pela IPE - Investimentos e Participações do Estado, S. A. R. L., na proporção de 4000000000$00 e 1000000000$00, respectivamente.
+
+2 - (Revogado).
+
+3 - Do capital social serão imediatamente realizados 51%, sendo o restante realizado no prazo máximo de 1 ano.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08*
+
+#### Artigo 6.º
+
+Haverá títulos de 50, 100 e 1000 acções, podendo o conselho de administração emitir certificados, provisórios ou definitivos, representativos de qualquer número de acções.
+
+#### Artigo 7.º
+
+1 - O aumento do capital depende de deliberação da assembleia geral.
+
+2 - Na subscrição de novas acções resultantes do aumento do capital têm preferência os accionistas, na proporção das respectivas posições.
+
+3 - A realização dos aumentos de capital pode ser efectuada escalonadamente, nos termos que forem fixados pela assembleia geral.
+
+4 - Quando num aumento de capital haja accionistas que renunciem à subscrição de acções que lhes caberiam, poderão as mesmas acções ser subscritas pelos demais accionistas, na proporção das respectivas participações, sem prejuízo do estabelecido no n.º 2 do artigo 5.º
+
+#### Artigo 8.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03, em vigor a partir de 1990-04-08*
+
+### Capítulo III — Órgãos sociais
+
+#### Secção I — Assembleia geral
+
+##### Artigo 9.º
+
+São órgãos da sociedade:
+
+a) A assembleia geral;
+
+b) O conselho de administração;
+
+c) O conselho fiscal.
+
+##### Artigo 10.º
+
+1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+
+2 - A cada 10000 acções corresponderá 1 voto na assembleia geral.
+
+3 - Os accionistas possuidores de um número de acções que não atinja o fixado no número anterior poderão agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem entre si o número necessário ao exercício do direito de voto.
+
+4 - Qualquer accionista com direito a voto pode fazer-se representar na assembleia geral por outro accionista com igual direito mediante simples carta dirigida ao presidente da mesa.
+
+5 - O Estado, quando accionista, será representado na assembleia geral pela pessoa designada mediante despacho conjunto dos ministros responsáveis pelas finanças e pela marinha mercante; os fundos, pela pessoa indicada pela respectiva gestão em carta dirigida ao presidente da mesa; as empresas públicas e outras entidades públicas, pela pessoa indicada pelo respectivo conselho ou órgão de gestão ou administração em carta dirigida ao presidente da mesa.
+
+##### Artigo 11.º
+
+Compete à assembleia geral:
+
+a) Discutir e aprovar o balanço e as contas anuais de gerência, acompanhados do relatório do conselho de administração e do parecer do conselho fiscal, bem como decidir sobre o destino dos resultados do exercício;
+
+b) Definir políticas gerais relativas à actividade da sociedade, com vista à prossecução do objecto social, mediante aprovação de um plano e um orçamento anuais;
+
+c) Eleger a mesa da assembleia geral, bem como os membros do conselho de administração e do conselho fiscal;
+
+d) Deliberar sobre quaisquer alterações aos presentes estatutos e acerca de aumentos de capital;
+
+e) Estabelecer directivas gerais quanto à aquisição, alienação, troca ou oneração de navios, bens imóveis ou participação noutras sociedades, bem como quanto à emissão de obrigações e à contracção de empréstimos de duração superior a 2 anos;
+
+f) Fixar as remunerações dos membros dos conselhos de administração e fiscal ou delegar tais poderes em comissão especial, eleita pela assembleia geral;
+
+g) Tratar de qualquer outro assunto para que tenha sido convocada.
+
+##### Artigo 12.º
+
+A mesa da assembleia geral é composta por 3 membros, 1 presidente, 1 vice-presidente e 1 secretário, eleitos por períodos de 3 anos renováveis.
+
+##### Artigo 13.º
+
+Compete à mesa da assembleia geral dirigir os trabalhos da assembleia geral e ao respectivo presidente convocar, nos termos legais e estatutários, as assembleias ordinárias e extraordinárias.
+
+##### Artigo 14.º
+
+A convocação da assembleia geral faz-se com uma antecedência mínima de 15 dias, com indicação expressa dos assuntos a tratar.
+
+##### Artigo 15.º
+
+A assembleia geral reunirá ordinariamente uma vez por ano e extraordinariamente a solicitação do conselho de administração, do conselho fiscal, do Estado, quando accionista, ou de accionistas que representem, pelo menos, 20% do capital social.
+
+#### Secção II — Conselho de administração
+
+##### Artigo 16.º
+
+1 - O conselho de administração é composto por 3, 5 ou 7 membros, um dos quais será o presidente, eleitos em assembleia geral por períodos de 3 anos renováveis.
+
+2 - Os administradores eleitos nos termos do n.º 1 manter-se-ão em funções até à data da sua efectiva substituição.
+
+##### Artigo 17.º
+
+Compete ao conselho de administração:
+
+a) Gerir a sociedade e praticar todos os actos e operações necessários ao cumprimento do objecto social;
+
+b) Representar a sociedade em juízo ou fora dele, activa ou passivamente, propondo e seguindo quaisquer acções, com poderes para confessar, desistir, transigir ou comprometer-se em árbitros;
+
+c) Adquirir, vender, hipotecar, trocar ou, por qualquer forma, alienar ou onerar direitos e bens, assim como emitir obrigações e contrair empréstimos, sem prejuízo do disposto na alínea e) do artigo 11.º
+
+d) Dar de arrendamento os bens imóveis pertencentes à sociedade e tomar de arrendamento os que para a sua actividade forem necessários;
+
+e) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento e de gestão dos recursos humanos;
+
+f) Elaborar o plano e o orçamento anuais para aprovação pela asembleia geral;
+
+g) Elaborar o relatório e as contas anuais de gerência, bem como a proposta de aplicação dos resultados do exercício, e submetê-los a parecer do conselho fiscal e, posteriormente, a aprovação da assembleia geral até ao final do mês de Março de cada ano;
+
+h) Executar e fazer cumprir os preceitos legais e estatutários e as deliberações da assembleia geral.
+
+##### Artigo 18.º
+
+O conselho de administração poderá designar um administrador-delegado, definindo os respectivos poderes e atribuições.
+
+##### Artigo 19.º
+
+1 - O conselho de administração reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque por sua iniciativa ou a solicitação de 2 administradores.
+
+2 - O conselho de administração poderá fixar as condições de realização das reuniões extraordinárias do conselho, as quais devem ficar consignadas em acta.
+
+3 - O conselho de administração só poderá funcionar com a presença da maioria dos seus membros.
+
+4 - As deliberações são tomadas por maioria dos votos dos membros presentes, cabendo ao presidente voto de qualidade.
+
+5 - De todas as reuniões serão lavradas actas, a assinar por todos os participantes, e delas constarão, obrigatoriamente, as deliberações e declarações correspondentes aos votos de vencido.
+
+##### Artigo 20.º
+
+O conselho de administração pode deliberar a constituição de mandatários com os poderes que julgue convenientes e fiquem definidos em acta, precisando na procuração os limites e as condições do exercício dos mandatos.
+
+##### Artigo 21.º
+
+1 - A sociedade obriga-se pela assinatura de 2 administradores, pela de 1 administrador e de 1 procurador ou de 2 procuradores constituídos nos termos do artigo anterior.
+
+2 - Em assuntos de mero expediente bastará a assinatura de 1 administrador ou de 1 procurador com poderes suficientes.
+
+#### Secção III — Conselho fiscal
+
+##### Artigo 22.º
+
+1 - A fiscalização da actividade social compete a um conselho fiscal, composto por 1 presidente e 2 ou 4 vogais, um dos quais será obrigatoriamente revisor oficial de contas, eleitos em assembleia geral por um período de 3 anos renovável.
+
+2 - Em vez do conselho fiscal, poderá a assembleia geral, nos termos legais, eleger uma sociedade revisora de contas.
+
+3 - Quando os membros do conselho fiscal forem pessoas colectivas, estas deverão, em carta dirigida à sociedade, designar os indivíduos que as representarão e os respectivos substitutos.
+
+##### Artigo 23.º
+
+Compete ao conselho fiscal:
+
+a) Emitir parecer acerca do relatório e das contas anuais de gerência elaborados pelo conselho de administração;
+
+b) Examinar a escrituração e os cofres da sociedade sempre que o julgue conveniente;
+
+c) Chamar a atenção do conselho de administração para qualquer assunto que entenda dever ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão;
+
+d) Assistir, sempre que os seus membros o entendam conveniente, às reuniões do conselho de administração, bem como participar naquelas para que o presidente do conselho de administração o convoque ou em que se apreciem as contas do exercício;
+
+e) Praticar todos os demais actos que lhe sejam cometidos por lei ou pelos presentes estatutos.
+
+##### Artigo 24.º
+
+1 - O conselho fiscal reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque.
+
+2 - Ao conselho fiscal aplica-se o disposto nos n.os 2 a 5 do artigo 19.º dos presentes estatutos.
+
+### Capítulo IV — Disposições finais
+
+#### Artigo 25.º
+
+Os membros do conselho de administração e do conselho fiscal estão dispensados de prestar caução.
+
+#### Artigo 26.º
+
+A sociedade dissolve-se nos casos e termos legais e a sua liquidação reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

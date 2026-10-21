@@ -1,0 +1,106 @@
+---
+id: "portaria-15-a-2018-diploma-de-aprovacao"
+dre_id: "114513618"
+title: "Portaria n.º 15-A/2018, de 12 de janeiro — Diploma de aprovação"
+type: "Portaria"
+number: "15-A/2018"
+year: 2018
+date: 2018-01-12
+issuer: "Agricultura, Florestas e Desenvolvimento Rural"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2025-04-21
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-915639679"
+original_pdf: "https://files.diariodarepublica.pt/1s/2018/01/00901/0000200004.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece as normas técnicas essenciais a considerar no âmbito da elaboração de projetos de arborização e de rearborização, do respetivo processo de análise e decisão, e da sua execução"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "portaria-15-a-2018"
+part: "Diploma de aprovação"
+---
+
+# Portaria n.º 15-A/2018, de 12 de janeiro — Diploma de aprovação
+
+Com a publicação do Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto, entrou em vigor o regime jurídico aplicável às ações de arborização e rearborização, com recurso a espécies florestais, no território continental.
+
+Estabelece este diploma, no seu artigo 10.º, que o pedido de autorização e a comunicação prévia relativos às ações de arborização e rearborização e o processo de análise e decisão se devem basear, entre outros aspetos, em normas e boas práticas de preparação de solo, bem como nas condicionantes de técnicas de instalação de povoamentos florestais e demais disposições orientadoras dos programas regionais de ordenamento florestal, dos planos específicos de intervenção florestal e dos planos de gestão florestal.
+
+Algumas dessas normas técnicas dizem respeito às distâncias de arborização e rearborização a salvaguardar aos prédios confinantes no momento da instalação de novos povoamentos florestais, independentemente do seu uso e sem prejuízo da aplicação de todas as demais decorrentes de legislação específica, nomeadamente no âmbito da defesa da floresta contra incêndios, da conservação da natureza e da biodiversidade, da defesa dos solos e dos recursos hídricos.
+
+São igualmente incluídas normas técnicas para a seleção adequada das operações de preparação de terreno, a aplicar nas ações de arborização e rearborização, que salvaguardem o recurso solo.
+
+A presente portaria foi objeto de consulta pública.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, ao abrigo do disposto no artigo 10.º do Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto, e ao abrigo das competências delegadas pelo Despacho n.º 5564/2017, de 1 de junho, alterado pelos Despachos n.os 7088/2017, de 21 de julho, e 10644/2017, de 14 de novembro, o seguinte:
+
+## Artigo 1.º — Objeto
+
+A presente portaria estabelece as normas técnicas essenciais a considerar no âmbito da elaboração de projetos de arborização e de rearborização, do respetivo processo de análise e decisão, e da sua execução.
+
+## Artigo 2.º — Definições
+
+a) Preparação do terreno - conjunto de ações que têm como objetivo genérico criar ou melhorar as condições necessárias à instalação e crescimento de espécies florestais;
+
+b) Terrenos confinantes - terrenos que estremam com os povoamentos florestais a instalar;
+
+c) Leito - o terreno coberto pelas águas, quando não influenciadas por cheias extraordinárias, inundações ou tempestades, incluindo-se os mouchões, lodeiros e areais nele formados por deposição aluvial;
+
+d) Linhas de água torrenciais ou temporárias - aquelas em que, por força do regime de precipitação, só existe água durante uma parte do ano;
+
+e) Linhas de água permanentes - aquelas onde existe água durante todo o ano, independentemente do regime de precipitação;
+
+f) Faixa de proteção das linhas de água - a faixa de terreno contígua ou sobranceira à linha que limita o leito das águas com as seguintes larguras:
+
+Linhas de água torrenciais ou temporárias: 5 metros;
+
+Linhas de água permanentes não navegáveis: 10 metros;
+
+Linhas de água permanentes e navegáveis: de 30 a 50 metros;
+
+g) Operação manual - operação executada com equipamento não motorizado, em que tanto o trabalho de deslocação do equipamento como o de execução da operação propriamente dita são realizados pelo operador;
+
+h) Operação motomanual - operação executada com equipamento motorizado, em que o trabalho de deslocação do equipamento é realizado pelo operador e o trabalho de execução da operação propriamente dita é realizado pelo equipamento motorizado;
+
+i) Operação mecanizada - operação executada por maquinaria motorizada automóvel, em que todo o trabalho é realizado pela máquina, sendo o operador responsável pelo controlo da mesma.
+
+## Artigo 3.º — Normas técnicas para a instalação de povoamentos florestais
+
+1 - As ações de arborização e rearborização, bem como a elaboração e análise dos respetivos projetos, devem cumprir as orientações estabelecidas no Anexo da presente portaria, da qual faz parte integrante, por forma a garantir a manutenção da floresta enquanto recurso indissociável de outros recursos naturais como a água, o solo, o ar, a fauna e a flora.
+
+2 - Sem prejuízo do disposto no número anterior, são admissíveis, quando fundamentadas, situações cujas condições de terreno, vegetação ou estatuto especial de conservação permitam recorrer a outras soluções técnicas.
+
+## Artigo 4.º — Distâncias de arborização e rearborização às estremas
+
+1 - A distância mínima de arborização e rearborização às estremas dos terrenos confinantes, independentemente da espécie florestal utilizada, é de:
+
+a) (Revogada.)
+
+b) 10 metros, se o terreno confinante for espaço agrícola.
+
+2 - O disposto no número anterior não se aplica nas seguintes situações:
+
+a) Os terrenos em causa pertencerem ao mesmo titular;
+
+b) Configurar uma situação em que seja aplicável outra distância superior por força de legislação específica.
+
+3 - Na distância referida no número anterior é contabilizada a largura de quaisquer estradas e/ou caminhos limites da propriedade.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-2025-915525584), em vigor a partir de 2025-04-22*
+
+## Artigo 5.º — Distâncias de arborização e rearborização às linhas de água
+
+1 - As ações de arborização e rearborização com recurso à mobilização mecânica do terreno não podem ser realizadas nas faixas de proteção das linhas de água tal como definidas na alínea f) do artigo 2.º
+
+2 - Sempre que se justifique, nas faixas acima estabelecidas podem ser realizadas operações motomanuais e manuais de controlo de matos e vegetação herbácea, respeitando sempre as espécies florestais ripícolas.
+
+3 - Excetuam-se do disposto nos números anteriores as situações em que seja aplicável outra distância superior, por força de legislação específica.
+
+## Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor à data de entrada em vigor da Lei n.º 77/2017, de 17 de agosto.
+
+## Assinatura
+
+O Secretário de Estado das Florestas e do Desenvolvimento Rural, Miguel João Pisoeiro de Freitas, em 11 de janeiro de 2018.

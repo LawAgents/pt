@@ -1,0 +1,914 @@
+---
+id: "decreto-regulamentar-regional-20-2022-a-anexo-capitulo-i-a-capitulo-ii-seccao-iv"
+dre_id: "201838713"
+title: "Decreto Regulamentar Regional n.º 20/2022/A, de 4 de outubro — Anexo, Capítulo I a Capítulo II, Secção IV"
+type: "Decreto Regulamentar Regional"
+number: "20/2022/A"
+year: 2022
+date: 2022-10-04
+issuer: "Região Autónoma dos Açores - Presidência do Governo"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2022-12-02
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2022-201957123"
+original_pdf: "https://files.diariodarepublica.pt/1s/2022/10/19200/0001000044.pdf"
+retrieved: 2026-10-21
+summary: "Primeira alteração ao Decreto Regulamentar Regional n.º 17/2021/A , de 8 de julho, que aprova a orgânica e o quadro de pessoal dirigente da Secretaria Regional do Ambiente e Alterações Climáticas"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-regulamentar-regional-20-2022-a"
+part: "Anexo, Capítulo I a Capítulo II, Secção IV"
+---
+
+# Decreto Regulamentar Regional n.º 20/2022/A, de 4 de outubro — Anexo, Capítulo I a Capítulo II, Secção IV
+
+## Anexo
+
+### Capítulo I — Missão, atribuições e competências
+
+#### Artigo 1.º — Missão
+
+A Secretaria Regional do Ambiente e Alterações Climáticas, doravante designada por SRAAC, é o departamento do Governo Regional responsável pela definição e execução das ações necessárias ao cumprimento da política regional nas matérias seguintes:
+
+a) Ambiente;
+
+b) Prevenção, mitigação e adaptação aos efeitos das alterações climáticas;
+
+c) Desenvolvimento sustentável;
+
+d) Valorização e ordenamento do território;
+
+e) Cartografia, cadastro e informação geográfica;
+
+f) Proteção e gestão dos recursos hídricos;
+
+g) Ordenamento, gestão, conservação e proteção do património natural e paisagístico;
+
+h) Ordenamento, gestão e proteção da orla costeira das ilhas do arquipélago dos Açores, em cooperação com as demais entidades competentes;
+
+i) Licenciamento de atividades na área de intervenção do domínio público marítimo;
+
+j) Proteção e valorização da biodiversidade;
+
+k) Prevenção e gestão dos resíduos;
+
+l) Inspeção de ambiente.
+
+#### Artigo 2.º — Atribuições
+
+Constituem atribuições da SRAAC:
+
+a) Definir, desenvolver, coordenar e executar a política regional, nos domínios referidos no artigo anterior;
+
+b) Promover a informação, sensibilização, educação e formação, nos domínios sob a sua tutela;
+
+c) Planear, conceber, gerir e monitorizar os programas e os projetos da sua responsabilidade;
+
+d) Promover a correta adaptação às especificidades regionais das políticas nacionais e comunitárias;
+
+e) Apoiar as atividades económicas, nos domínios previstos no artigo anterior;
+
+f) Cooperar com entidades públicas e privadas, regionais, nacionais e internacionais, nos domínios sob a sua tutela;
+
+g) Promover, desenvolver e acompanhar a execução de políticas nas áreas do licenciamento, da monitorização e da avaliação da qualidade ambiental;
+
+h) Promover, desenvolver e acompanhar a execução de políticas de mitigação e adaptação aos efeitos das alterações climáticas;
+
+i) Coordenar, executar e fiscalizar as ações de planeamento e ordenamento territorial e urbanismo, em articulação com as demais entidades com competência nesta matéria, bem como identificar, avaliar e caracterizar as condicionantes do planeamento e ordenamento, em termos de riscos naturais e tecnológicos;
+
+j) Promover a proteção, a conservação, a valorização e a utilização dos recursos hídricos, visando um desenvolvimento sustentável, promovendo o desenvolvimento económico e social da Região Autónoma dos Açores;
+
+k) Exercer funções de licenciamento e de gestão no domínio público hídrico da responsabilidade da Região Autónoma dos Açores;
+
+l) Assegurar a cooperação com entidades públicas e privadas, regionais, nacionais e internacionais na área do domínio público marítimo;
+
+m) Assegurar o ordenamento e gestão da orla costeira das ilhas do arquipélago dos Açores;
+
+n) Gerir e desenvolver as ações específicas de conservação, monitorização e gestão de espécies e habitats, bem como a salvaguarda e valorização da biodiversidade, do património paisagístico, geológico, geomorfológico e paleontológico;
+
+o) Definir e coordenar a execução das políticas em matérias de resíduos, promovendo a elaboração de objetivos e estratégias para a sua adequada gestão;
+
+p) Promover o controlo, a auditoria, a regulação e a fiscalização em matéria de ambiente e ordenamento do território.
+
+#### Artigo 3.º — Competências do Secretário Regional do Ambiente e Alterações Climáticas
+
+Ao Secretário Regional do Ambiente e Alterações Climáticas, doravante designado por Secretário Regional, compete:
+
+a) Assegurar a representação da SRAAC;
+
+b) Dirigir, superintender e coordenar a ação dos vários órgãos e serviços integrados na SRAAC;
+
+c) Propor, definir e fazer executar as políticas regionais, no âmbito dos domínios que integram as atribuições da SRAAC;
+
+d) Definir os termos da representação oficial da SRAAC nos organismos nacionais e internacionais nas áreas da sua competência;
+
+e) Promover formas de cooperação, assistência e coordenação de ações com outras entidades, públicas ou privadas, nacionais ou estrangeiras;
+
+f) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.
+
+### Capítulo II — Estrutura orgânica
+
+#### Secção I — Serviços e organismos
+
+##### Artigo 4.º — Estrutura geral
+
+1 - Para a prossecução dos seus objetivos, a SRAAC integra os órgãos e serviços seguintes:
+
+a) Órgão consultivo: Conselho Regional do Ambiente e do Desenvolvimento Sustentável;
+
+b) Serviços executivos centrais:
+
+i) Gabinete de Planeamento e Promoção Ambiental;
+
+ii) Direção Regional do Ambiente e Alterações Climáticas;
+
+iii) Direção Regional do Ordenamento do Território e dos Recursos Hídricos;
+
+c) Serviços executivos periféricos:
+
+i) Serviços de Ambiente e Alterações Climáticas de Ilha;
+
+ii) Parques Naturais de Ilha;
+
+d) Serviço de inspeção e fiscalização: Inspeção Regional do Ambiente;
+
+e) Entidade administrativa de regulação e supervisão: Entidade Reguladora dos Serviços de Água e Resíduos dos Açores.
+
+2 - Os órgãos e serviços da SRAAC funcionam em estreita cooperação e, quando necessário, em interligação funcional, visando a plena execução das políticas regionais e a prossecução dos respetivos objetivos, atribuições e competências, designadamente no desenvolvimento e implementação de projetos e programas comuns, cabendo ao Secretário Regional, diretamente ou através do respetivo Gabinete, coordenar a referida interligação funcional.
+
+3 - Face à particularidade das atividades a desempenhar pela SRAAC, podem ainda ser designados, para o exercício de funções de coordenação, através de despacho do Secretário Regional, até 16 trabalhadores com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Secretário Regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
+
+#### Secção II — Órgão consultivo
+
+##### Artigo 5.º — Conselho Regional do Ambiente e do Desenvolvimento Sustentável
+
+1 - O Conselho Regional do Ambiente e do Desenvolvimento Sustentável, doravante designado por CRADS, é o órgão consultivo do departamento da administração regional competente em matéria de ambiente, constituído com o objetivo de contribuir para a garantia do direito de participação pública em matérias relativas às políticas públicas de ambiente e do desenvolvimento sustentável, e de assegurar o diálogo e cooperação com entidades e organizações da sociedade civil com interesse nos domínios ambiental e do desenvolvimento sustentável, na procura de consensos relativos a essas políticas.
+
+2 - O CRADS tem a sua composição e normas de funcionamento definidas no Decreto Legislativo Regional n.º 19/2010/A, de 25 de maio, na sua redação em vigor.
+
+#### Secção III — Serviços executivos centrais
+
+##### Subsecção I — Gabinete de Planeamento e Promoção Ambiental
+
+###### Artigo 6.º — Missão
+
+O Gabinete de Planeamento e Promoção Ambiental, doravante designado por GPPA, funciona na direta dependência do Secretário Regional, tendo por missão assegurar o apoio técnico nas componentes de planeamento e gestão orçamental, económico-financeira, jurídica, de gestão de recursos humanos, patrimonial, da contratação pública e gestão de procedimentos, da qualidade e otimização processual, da informática, comunicação e imagem, a todos os órgãos e serviços da SRAAC, bem como executar as políticas regionais nas áreas dos sistemas de informação geográfica, da cidadania ambiental, da promoção ambiental e da educação para o ambiente e o desenvolvimento sustentável, coordenando as ações tendentes à sua implementação.
+
+###### Artigo 7.º — Competências e estrutura
+
+1 - Ao GPPA compete:
+
+a) Assegurar, a todos os órgãos e serviços da SRAAC, o apoio técnico nas componentes de planeamento e gestão orçamental, económico-financeira, jurídica, de gestão de recursos humanos, patrimonial, da contratação pública e gestão de procedimentos, da qualidade e otimização processual, da informática, comunicação e imagem;
+
+b) Executar as políticas regionais nas áreas dos sistemas de informação geográfica, da cidadania ambiental, da promoção ambiental e da educação para o ambiente e o desenvolvimento sustentável, coordenando as ações tendentes à sua implementação;
+
+c) Apoiar o Secretário Regional na coordenação da atividade dos Serviços de Ambiente e Alterações Climáticas de Ilha, bem como articular a colaboração a prestar por estes a outros órgãos ou serviços da SRAAC;
+
+d) Coordenar e acompanhar, em articulação com os Serviços de Ambiente e Alterações Climáticas de Ilha e os demais serviços da SRAAC, a ação do corpo de vigilantes da natureza;
+
+e) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - O GPPA é dirigido por um diretor, cargo de direção superior de 2.º grau, ao qual compete:
+
+a) Coadjuvar o Secretário Regional, o respetivo Gabinete e os órgãos e serviços da SRAAC, no exercício das respetivas competências;
+
+b) Coordenar a elaboração e assegurar a prestação da conta de gerência da SRAAC, abrangendo todos os respetivos órgãos e serviços;
+
+c) Dirigir, coordenar e orientar os serviços que integram o GPPA;
+
+d) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+3 - O diretor do GPPA pode delegar ou subdelegar competências nos dirigentes das unidades orgânicas sob a sua dependência hierárquica.
+
+4 - A GPPA integra os serviços seguintes:
+
+a) Divisão Administrativa, Financeira e de Planeamento;
+
+b) Divisão de Projetos e Sistemas de Informação;
+
+c) Divisão de Cidadania e Educação Ambiental;
+
+d) Divisão de Gestão de Centros Ambientais.
+
+###### Artigo 8.º — Divisão Administrativa, Financeira e de Planeamento
+
+1 - À Divisão Administrativa, Financeira e de Planeamento, doravante designada por DAFP, compete:
+
+a) Coordenar a preparação dos principais documentos de planeamento e gestão da atividade, bem como dos recursos financeiros da SRAAC;
+
+b) Acompanhar a implementação dos instrumentos de planeamento da atividade e a execução dos orçamentos, propondo medidas de correção de eventuais desvios;
+
+c) Colaborar na preparação, execução e controlo do orçamento e suas alterações;
+
+d) Coordenar a elaboração do relatório de atividades e da conta de gerência, bem como a informação e as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades competentes;
+
+e) Assegurar todas as operações relativas ao serviço de contabilidade, executando as operações necessárias ao processamento das receitas e despesas, bem como ao respetivo controlo orçamental;
+
+f) Assegurar os procedimentos e registos relativos à execução orçamental;
+
+g) Assegurar o apoio administrativo geral e o apoio técnico nas áreas das respetivas competências;
+
+h) Assegurar a receção, tratamento e expedição da correspondência, bem como a gestão e organização documental e bibliográfica da SRAAC;
+
+i) Assegurar a gestão estratégica dos recursos humanos, incluindo a avaliação e promoção de competências, de níveis de desempenho e de melhoria de processos de trabalho, visando o aumento da produtividade e da satisfação;
+
+j) Assegurar a gestão administrativa de pessoal, incluindo a manutenção dos processos individuais, o processamento das remunerações, abonos e descontos, o controlo da assiduidade e pontualidade, gestão e manutenção de equipamentos e fardamentos, bem como os processos de apoios sociais e aposentação;
+
+k) Elaborar os planos de formação, com base nas necessidades de formação identificadas, bem como promover e assegurar a respetiva execução, em articulação com os demais serviços envolvidos;
+
+l) Assegurar os procedimentos relativos à constituição e modificação da relação jurídica de emprego público, designadamente no que respeita a procedimentos de recrutamento, seleção, provimento, desenvolvimento de carreiras e alterações de enquadramento;
+
+m) Assegurar a gestão, conservação e segurança do património afeto à SRAAC, bem como elaborar e manter atualizado o respetivo inventário;
+
+n) Assegurar o apoio jurídico geral e promover a instrução de processos disciplinares, de inquérito ou similares, bem como analisar as reclamações e recursos hierárquicos administrativos;
+
+o) Proceder à identificação e recolha de legislação e regulamentação, nacional e comunitária, bem como de jurisprudência com interesse para as atividades prosseguidas pela SRAAC, e elaborar e manter atualizado o respetivo sistema de base documental;
+
+p) Assegurar a gestão centralizada dos processos de contratação pública, no âmbito de aquisições de bens e serviços, bem como as necessidades de aprovisionamento e a gestão dos bens correntes, sem prejuízo dos pareceres e do acompanhamento previstos nas competências dos demais órgãos e serviços da SRAAC;
+
+q) Assegurar a coordenação de ações relacionadas com matérias de interesse transversal a diversos serviços da SRAAC;
+
+r) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DAFP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 9.º — Divisão de Projetos e Sistemas de Informação
+
+1 - À Divisão de Projetos e Sistemas de Informação, doravante designada por DPSI, compete:
+
+a) Assegurar a elaboração de programas, projetos e estudos sobre assuntos que lhe sejam atribuídos ou que envolvam diversos serviços da SRAAC, bem como coordenar o controlo das respetivas execuções materiais e financeiras, sem prejuízo das competências que assistem ao departamento do Governo Regional competente em matéria de obras públicas;
+
+b) Elaborar os programas preliminares de projetos de obras públicas a desenvolver no âmbito das atribuições da SRAAC, bem como acompanhar a respetiva execução, em articulação com o departamento do Governo Regional competente em matéria de obras públicas;
+
+c) Promover a elaboração das candidaturas a financiamentos nacionais, comunitários e internacionais, bem como acompanhar as execuções técnicas e financeiras dos respetivos projetos, em articulação com os restantes serviços envolvidos;
+
+d) Avaliar técnica e economicamente os projetos de investimento e outras medidas de política da responsabilidade da SRAAC, bem como estabelecer os métodos e critérios de recolha da informação estatística que sejam de interesse para a sua análise;
+
+e) Monitorizar e avaliar a qualidade, eficácia e eficiência dos serviços prestados pela SRAAC, propondo medidas para a sua melhoria;
+
+f) Promover a divulgação generalizada de informação e o acesso público a serviços de interesse para os cidadãos e para outras entidades, nas áreas de atribuições da SRAAC;
+
+g) Promover, de forma articulada com os restantes serviços da SRAAC e da administração regional, a gestão das páginas Internet e intranet da SRAAC;
+
+h) Coordenar as áreas de informática, telecomunicações e gestão eletrónica da informação, em articulação com os restantes serviços da SRAAC;
+
+i) Assegurar o desenvolvimento e atualização de um plano global de informatização e de comunicações da SRAAC, de acordo com as estratégias definidas, bem como com as políticas globais da administração regional para as áreas referidas;
+
+j) Assegurar a definição, a instalação e a gestão das plataformas tecnológicas, bem como das infraestruturas informática e de comunicações, necessárias para suportar o normal funcionamento dos órgãos e serviços da SRAAC;
+
+k) Assegurar a conceção, administração, manutenção e adequada gestão dos sistemas informáticos, redes de comunicações, portais e bases de dados, incluindo os respetivos sistemas de proteção, segurança e controlo de acesso, ainda que atribuídos à gestão de outras entidades;
+
+l) Coordenar todos os processos de aquisição de equipamentos e produtos informáticos, bem como providenciar as respetivas licenças de utilização;
+
+m) Assegurar a existência e manutenção de uma infraestrutura regional de informação geográfica, incluindo o Sistema de Metadados dos Açores, permitindo a sua disponibilização aos utilizadores interessados, no quadro da infraestrutura europeia de informação geográfica (Diretiva Inspire);
+
+n) Desenvolver e disponibilizar serviços de dados geográficos em formatos web map service (WMS) e web feature service (WFS), promovendo a sua manutenção e atualização;
+
+o) Promover e coordenar programas e projetos de âmbito regional no domínio da informação geográfica, incluindo ações de divulgação técnica e de capacitação dos serviços e agentes da administração regional;
+
+p) Desenvolver ações de articulação com programas nacionais e internacionais de informação geográfica;
+
+q) Desenvolver, em conjunto com os demais departamentos do Governo Regional com competências na matéria, uma solução tecnológica para o Sistema de Informação Geográfica (SIG), correspondente a um único repositório de dados e informação, em formato aberto e interoperável;
+
+r) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DPSI é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 10.º — Divisão de Cidadania e Educação Ambiental
+
+1 - À Divisão de Cidadania e Educação Ambiental, doravante designada por DCEA, compete:
+
+a) Promover uma cidadania ambiental ativa e a formação, sensibilização e educação para o ambiente e para o desenvolvimento sustentável;
+
+b) Promover a integração dos valores ambientais nos modelos de desenvolvimento socioeconómico;
+
+c) Promover a elaboração e aplicação de uma estratégia regional de educação para o ambiente e para o desenvolvimento sustentável;
+
+d) Assegurar as relações com o público, promover, coordenar e gerir a difusão interna e externa das atividades, serviços e imagem da SRAAC, bem como da informação técnica e setorial relevante;
+
+e) Organizar e manter atualizado o registo regional de organizações não governamentais de ambiente, avaliar os pedidos de inscrição e propor a respetiva decisão, nos termos da legislação aplicável em vigor, bem como acompanhar a execução do regime de apoios àquelas organizações;
+
+f) Desenvolver ações de informação, divulgação e sensibilização aos cidadãos nos domínios do ambiente e do desenvolvimento sustentável, promovendo a educação ambiental e uma cidadania ambiental ativa;
+
+g) Promover uma oferta educativa específica, ao longo do ano escolar, e apoiar a integração dos respetivos conteúdos nos programas de todos os graus de ensino, colaborando com as entidades competentes na formação dos agentes educativos, na implementação daqueles conteúdos e no desenvolvimento de outros projetos ambientais;
+
+h) Desenvolver e atualizar conteúdos nos domínios do ambiente e do desenvolvimento sustentável, bem como os suportes físicos e digitais para a respetiva disponibilização;
+
+i) Assegurar o apoio logístico e administrativo necessário para o funcionamento do CRADS;
+
+j) Coordenar e assegurar, em articulação com os Serviços de Ambiente e Alterações Climáticas de Ilha e os demais serviços da SRAAC, o funcionamento e a atividade da rede regional de ecotecas, enquanto espaços informativos e pedagógicos nas áreas do ambiente e do desenvolvimento sustentável;
+
+k) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DCEA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 11.º — Divisão de Gestão de Centros Ambientais
+
+1 - À Divisão de Gestão de Centros Ambientais, doravante designada por DGCA, compete:
+
+a) Desenvolver e gerir uma rede de centros de interpretação ambiental e de apoio à visitação de áreas protegidas;
+
+b) Assegurar a manutenção e atualização dos conteúdos expositivos e interpretativos da rede de centros ambientais;
+
+c) Assegurar a manutenção e a atualização dos conteúdos informativos e interpretativos instalados nas áreas protegidas e classificadas;
+
+d) Coordenar o funcionamento e a atividade da rede regional de centros ambientais, enquanto espaços privilegiados de promoção do património cultural e ambiental;
+
+e) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DGCA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+##### Subsecção II — Direção Regional do Ambiente e Alterações Climáticas
+
+###### Artigo 12.º — Missão
+
+A Direção Regional do Ambiente e Alterações Climáticas, doravante designada por DRAAC, é o serviço executivo da SRAAC responsável pela execução das políticas regionais nas áreas da gestão e qualidade ambiental, da gestão de resíduos, do clima e da adaptação às mudanças climáticas, da conservação da natureza e da biodiversidade, coordenando as ações tendentes à sua implementação e promovendo o desenvolvimento sustentável.
+
+###### Artigo 13.º — Competências
+
+1 - À DRAAC compete:
+
+a) Executar as políticas regionais nos domínios da sua missão;
+
+b) Contribuir para a formulação das estratégias e orientações regionais no âmbito das políticas e disposições comunitárias ou nacionais, nos domínios da sua missão;
+
+c) Promover e coordenar a implementação das estratégias, programas, planos e projetos relacionados com a concretização das políticas regionais, nacionais ou comunitárias, nos domínios da sua missão;
+
+d) Assegurar o controlo da legalidade e a fiscalização, nos domínios da sua missão;
+
+e) Exercer as funções de autoridade ambiental, nos termos da legislação aplicável em vigor;
+
+f) Exercer as funções de autoridade administrativa de avaliação do impacte ambiental, de licenciamento ambiental e de prevenção e controlo integrados da poluição, nos termos da legislação aplicável em vigor;
+
+g) Exercer as funções de autoridade administrativa da Convenção sobre o Comércio Internacional das Espécies da Fauna e Flora Selvagens Ameaçadas de Extinção, nos termos da legislação aplicável em vigor;
+
+h) Promover e salvaguardar o património natural, implementando a conservação da natureza e a proteção da biodiversidade e da geodiversidade;
+
+i) Assegurar a gestão da rede regional de áreas protegidas e a implementação da Rede Natura 2000, bem como coordenar a atividade das Reservas da Biosfera;
+
+j) Constituir um sistema de indicadores ambientais que permita sustentar as decisões e contribuir para um elevado nível da qualidade de vida dos cidadãos, bem como promover a integração dos valores ambientais nos modelos de desenvolvimento socioeconómico, sustentando o uso dos fatores ambientais, enquanto dinamizadores do desenvolvimento;
+
+k) Promover a qualidade do ambiente, designadamente a prevenção e controlo do ruído e da poluição em geral, bem como a recuperação de passivos ambientais;
+
+l) Coordenar e acompanhar a implementação das estratégias, programas e planos de adaptação às alterações climáticas e de mitigação das emissões de gases com efeito de estufa;
+
+m) Promover sistemas de monitorização e prevenção de riscos tecnológicos e ambientais graves;
+
+n) Promover a adequada gestão dos resíduos, visando a redução da respetiva produção e o incremento da valorização material, associada a uma gestão dos recursos e dos negócios, assente num modelo circular de produção de bens e serviços;
+
+o) Promover a investigação científica e a inovação e desenvolvimento tecnológico, nos domínios da sua missão, em articulação com os demais organismos competentes;
+
+p) Assegurar a divulgação generalizada de informação e o acesso público a serviços de interesse para os cidadãos e para outras entidades, nos domínios da sua missão;
+
+q) Contribuir para a formulação de legislação e regulamentação regional, bem como pronunciar-se sobre documentação e legislação, nacional e comunitária, nos domínios da sua missão;
+
+r) Assegurar a representação, nos domínios da sua missão, junto de outros organismos e serviços, bem como promover ligações com organismos regionais, nacionais, comunitários e internacionais, em áreas relevantes para desempenho das suas atribuições.
+
+2 - A DRAAC é dirigida por um diretor regional, cargo de direção superior de 1.º grau, ao qual compete:
+
+a) Coadjuvar o Secretário Regional no exercício das suas competências;
+
+b) Assegurar a representação da DRAAC;
+
+c) Dirigir, coordenar e orientar os serviços que integram a DRAAC, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;
+
+d) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+3 - O diretor regional pode delegar ou subdelegar competências nos dirigentes das unidades orgânicas sob a sua dependência hierárquica.
+
+###### Artigo 14.º — Estrutura
+
+A DRAAC integra os serviços seguintes:
+
+a) Divisão de Ação Climática e Avaliação Ambiental;
+
+b) Divisão de Gestão de Resíduos;
+
+c) Divisão de Áreas Classificadas;
+
+d) Divisão de Fauna e Flora Selvagens.
+
+###### Artigo 15.º — Divisão de Ação Climática e Avaliação Ambiental
+
+1 - À Divisão de Ação Climática e Avaliação Ambiental, doravante designada por DACAA, compete:
+
+a) Desenvolver os objetivos estratégicos e as bases técnicas para a formulação e execução das políticas de gestão da qualidade do ambiente, bem como assegurar a operacionalidade das redes e equipamentos de monitorização ambiental, recolhendo, sistematizando e disponibilizando os respetivos dados;
+
+b) Assegurar o cumprimento dos regimes de avaliação de impactes e licenciamento ambientais, de prevenção e controlo integrados da poluição, de prevenção de acidentes graves que envolvam substâncias perigosas e do comércio de licenças de emissão de gases com efeito de estufa, bem como coordenar e gerir os respetivos processos e promover planos e programas de formação e sensibilização técnica nessas áreas;
+
+c) Verificar a conformidade dos relatórios ambientais relativos a planos e programas sujeitos a avaliação ambiental estratégica;
+
+d) Assegurar o cumprimento do regime de gestão da qualidade do ar e da prevenção e controlo das emissões de poluentes para a atmosfera, bem como acompanhar a vigilância radiológica do ambiente;
+
+e) Assegurar a avaliação e a gestão dos riscos associados a substâncias químicas e produtos biocidas, no que diz respeito aos efeitos no ambiente, bem como assegurar o acompanhamento das matérias relacionadas com a sua colocação no mercado e utilização;
+
+f) Assegurar o cumprimento do regime de prevenção do ruído e de controlo da poluição sonora, bem como definir os princípios para a prevenção e a redução do ruído, tendo em vista a preservação e melhoria do ambiente acústico;
+
+g) Elaborar diretrizes e prestar apoio técnico, designadamente às autarquias locais, para a elaboração de planos de redução de ruído e planos de monitorização e mapas de ruído;
+
+h) Promover ações conducentes à deteção de passivos ambientais e de locais contaminados, bem como apoiar iniciativas no domínio da prevenção e combate à poluição e acompanhar a reabilitação das zonas afetadas;
+
+i) Coordenar, ao nível regional, a aplicação do regime jurídico da responsabilidade por danos ambientais;
+
+j) Intervir, nos termos legais e regulamentares, nos processos de licenciamento e fiscalização das atividades industriais, comerciais e de exploração de massas minerais, bem como coordenar o respetivo procedimento, no âmbito das competências da DRAAC;
+
+k) Promover e coordenar a elaboração do Relatório sobre o Estado do Ambiente dos Açores, a que se referem os n.os 2 e 3 do artigo 3.º do Decreto Legislativo Regional n.º 19/2010/A, de 25 de maio, na sua redação em vigor;
+
+l) Assegurar a elaboração e a atualização regular de cartas de risco de infestação por térmitas, bem como apoiar a investigação e desenvolvimento de técnicas de desinfestação e combate às térmitas;
+
+m) Assegurar a gestão do Sistema de Certificação de Infestação por Térmitas, a que se refere o regime jurídico do combate à infestação por térmitas, aprovado pelo Decreto Legislativo Regional n.º 22/2010/A, de 30 de junho, na sua redação em vigor, promovendo a formação e supervisão dos peritos qualificados e dos processos de certificação;
+
+n) Assegurar o acompanhamento das matérias relacionadas com o clima, a variabilidade climática e a meteorologia, contribuindo para a prevenção de riscos naturais, para o estabelecimento de cenários climáticos futuros e para a análise dos efeitos decorrentes das alterações climáticas, bem como para a definição das correspondentes medidas de adaptação, tendo em conta os impactes sobre o território, os ecossistemas e os recursos naturais;
+
+o) Assegurar a implementação da Estratégia Regional para as Alterações Climáticas e do Programa Regional para as Alterações Climáticas, em articulação com as entidades e serviços que com ele se relacionam, bem como promover a respetiva monitorização e avaliação periódica;
+
+p) Assegurar o funcionamento do Sistema Regional de Inventário de Emissões por Fontes e Remoção por Sumidouros de Poluentes Atmosféricos, garantindo a elaboração e atualização regular do respetivo inventário;
+
+q) Promover e colaborar na dinamização de plataformas de informação e de debate que visem a definição de critérios e indicadores de sustentabilidade social, ambiental e económica e de capacitação tecnológica, no âmbito da mitigação das emissões de poluentes atmosféricos e da adaptação aos efeitos das mudanças climáticas;
+
+r) Contribuir para o desenvolvimento e participar em redes de observação climática, a nível regional, nacional e internacional;
+
+s) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DACAA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 16.º — Divisão de Gestão de Resíduos
+
+1 - À Divisão de Gestão de Resíduos, doravante designada por DGR, compete:
+
+a) Promover a elaboração dos planos e programas de prevenção da produção e de gestão de resíduos, bem como acompanhar e avaliar a respetiva execução;
+
+b) Acompanhar e monitorizar a implementação do Plano Estratégico de Prevenção e Gestão de Resíduos dos Açores, promovendo uma estratégia para a adequada gestão de resíduos, visando a prevenção e redução da respetiva produção, bem como a valorização daqueles, com o objetivo da preservação dos recursos naturais e da promoção de uma economia circular, assegurando a minimização dos impactes ambientais dos produtos ao longo do seu ciclo de vida;
+
+c) Assegurar a gestão do Sistema Regional de Informação de Resíduos, abrangendo a produção, encaminhamento, comércio e destino final dos resíduos, bem como monitorizar o cumprimento das metas e objetivos de gestão de resíduos;
+
+d) Promover a elaboração de normas técnicas, metodologias e procedimentos relacionados com a prevenção da produção e a gestão de resíduos;
+
+e) Coordenar os procedimentos de licenciamento e de concessão de operações de gestão de resíduos e proceder ao acompanhamento da gestão e exploração das respetivas estruturas e equipamentos;
+
+f) Acompanhar, monitorizar e auditar a atividade das entidades gestoras de fluxos específicos de resíduos e dos operadores de gestão de resíduos;
+
+g) Proceder ao controlo administrativo e operacional das transferências de resíduos de e para o território regional;
+
+h) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DGR é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 17.º — Divisão de Áreas Classificadas
+
+1 - À Divisão de Áreas Classificadas, doravante designada por DAC, compete:
+
+a) Desenvolver os objetivos estratégicos e as bases técnicas para a formulação e execução das políticas de conservação da natureza, da biodiversidade e do património geológico, bem como os instrumentos de apoio à gestão das zonas emersas das áreas protegidas integradas nos Parques Naturais de Ilha, das áreas da Rede Natura 2000 e de outras áreas classificadas no âmbito da conservação da natureza, da biodiversidade e da geodiversidade;
+
+b) Elaborar, com a correspondente fundamentação técnica e científica, propostas de classificação, revisão, desclassificação de áreas protegidas e de áreas da Rede Natura 2000, bem como dos valores naturais protegidos ao abrigo da Diretiva n.º 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens, e da Diretiva n.º 92/43/CEE, do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens, e demais legislação aplicável;
+
+c) Coordenar a elaboração e assegurar a monitorização, avaliação e alteração dos planos de gestão dos Parques Naturais de Ilha e dos planos de ação das Reservas da Biosfera, bem como dos planos de gestão e planos de ação para a conservação da Rede Natura 2000, numa perspetiva de gestão integrada e em desenvolvimento das estratégias de conservação da natureza e de preservação da biodiversidade;
+
+d) Assegurar, em articulação com os Serviços de Ambiente e Alterações Climáticas de Ilha, a gestão das zonas emersas das áreas da Rede Regional de Áreas Protegidas integradas nos Parques Naturais de Ilha, da Rede Natura 2000, das Reservas da Biosfera e de outras áreas classificadas no âmbito da conservação da natureza, da biodiversidade e da geodiversidade;
+
+e) Acompanhar os processos de elaboração, avaliação e alteração ou revisão dos planos especiais de ordenamento das áreas protegidas integradas nos Parques Naturais de Ilha, da Rede Regional de Áreas Protegidas da Região Autónoma dos Açores, assegurando o desenvolvimento das estratégias de conservação da natureza e de preservação da biodiversidade;
+
+f) Valorizar as áreas protegidas e classificadas, através da promoção do património natural, e potenciar os serviços dos ecossistemas;
+
+g) Conceber e organizar a formação de guias dos Parques Naturais de Ilha, bem como manter e atualizar o respetivo registo;
+
+h) Acompanhar os processos de classificação dos percursos pedestres, coordenando a elaboração do parecer técnico da DRAAC, quando os percursos se integrem, ainda que parcialmente, em área protegida, bem como assegurar, sem prejuízo das competências que assistem ao departamento do Governo Regional competente em matéria de obras públicas, a respetiva monitorização e manutenção;
+
+i) Dinamizar o mecenato e o voluntariado e incentivar o envolvimento de outras entidades, públicas ou privadas, na sensibilização e promoção da conservação da natureza e da biodiversidade;
+
+j) Fomentar a participação dos agentes económicos nas áreas da conservação da natureza e da biodiversidade, bem como a integração dos valores naturais e da proteção da natureza nas suas estratégias empresariais;
+
+k) Promover a valorização de produtos e serviços associados às áreas protegidas e classificadas, identificando oportunidades de certificação e canais de distribuição e comercialização;
+
+l) Promover e gerir indicações associadas ao património natural e às áreas protegidas e classificadas, designadamente as marcas «Parques Naturais dos Açores» e «Biosfera Açores»;
+
+m) Acompanhar, em articulação com os Serviços de Ambiente e Alterações Climáticas de Ilha e as entidades gestoras dos espaços, o funcionamento e a atividade da rede regional de centros ambientais, enquanto espaços privilegiados de promoção do património cultural e ambiental;
+
+n) Coordenar a elaboração e atualização de um inventário do património espeleológico dos Açores, abrangendo todas as cavidades vulcânicas conhecidas;
+
+o) Promover medidas para a conservação e salvaguarda dos jardins, parques e sítios botânicos de interesse para a conservação da paisagem e da biodiversidade;
+
+p) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DAC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 18.º — Divisão de Fauna e Flora Selvagens
+
+1 - À Divisão de Fauna e Flora Selvagens, doravante designada por DFFS, compete:
+
+a) Gerir uma base de dados relativa a espécies e habitats, bem como disponibilizar o seu conteúdo aos interessados;
+
+b) Coordenar e acompanhar a implementação de ações de conservação e de recuperação da fauna e da flora e de habitats naturais;
+
+c) Assegurar a elaboração e atualização regular de censos de espécies de fauna endémica;
+
+d) Dinamizar os corredores ecológicos entre áreas naturais e entre estas e habitats específicos, por forma a assegurar o fluxo de diásporos de flora natural;
+
+e) Desenvolver planos de ação para espécies endémicas cujo estado de conservação no meio natural o requeira, incluindo, se necessário, ações de conservação ex situ;
+
+f) Coordenar a atividade do Banco de Sementes dos Açores, assegurando uma reserva de segurança de sementes ou esporos das espécies vegetais endémicas e de propágulos das variedades e cultivares das plantas tradicionalmente cultivadas que se encontrem em risco;
+
+g) Acompanhar o desenvolvimento e aplicação do regime relativo ao acesso e utilização sustentável dos recursos biológicos e genéticos da flora e da fauna e de micro-organismos, em articulação com os demais serviços envolvidos;
+
+h) Executar os procedimentos relativos à autorização ou licenciamento da criação, cultivo, manuseamento, detenção, comércio e introdução de espécies da fauna e da flora protegidas e de espécies que não ocorram naturalmente em território regional, bem como coordenar as ações de fiscalização da legislação correspondente e determinar o destino dos espécimes em situação ilegal;
+
+i) Coordenar a gestão da rede regional de centros de reabilitação de aves selvagens;
+
+j) Assegurar as funções de autoridade administrativa no âmbito da Convenção sobre o Comércio Internacional das Espécies da Fauna e Flora Selvagens Ameaçadas de Extinção;
+
+k) Assegurar o cumprimento e execução das convenções internacionais e da legislação comunitária, no âmbito da gestão de espécies da fauna e da flora;
+
+l) Coordenar a elaboração e monitorizar a implementação de uma estratégia regional de controlo de espécies exóticas invasoras, bem como conceber, acompanhar e executar programas e medidas adequadas ao controlo e erradicação de espécies da fauna e da flora que se tenham tornado invasoras ou que comportem risco ecológico conhecido;
+
+m) Gerir a informação de referência e coordenar a elaboração dos relatórios técnicos de comunicação às instâncias nacionais, comunitárias e internacionais, em matéria de conservação de habitats e espécies e relacionadas com o controlo da introdução de espécies exóticas, bem como dos livros e listas vermelhas e de outros documentos estruturantes, assegurando a validação e gestão dos dados;
+
+n) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DFFS é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+##### Subsecção III — Direção Regional do Ordenamento do Território e dos Recursos Hídricos
+
+###### Artigo 19.º — Missão
+
+A Direção Regional do Ordenamento do Território e dos Recursos Hídricos, doravante designada por DROTRH, é o serviço executivo da SRAAC responsável pela execução das políticas regionais nas áreas do ordenamento do território e urbanismo, da paisagem, da cartografia e cadastro, da gestão dos recursos hídricos, do ordenamento, gestão e proteção da orla costeira, coordenando as ações tendentes à sua implementação e promovendo o desenvolvimento sustentável.
+
+###### Artigo 20.º — Competências
+
+1 - À DROTRH compete:
+
+a) Executar as políticas regionais nos domínios da sua missão;
+
+b) Contribuir para a formulação das estratégias e orientações regionais no âmbito das políticas e disposições nacionais ou comunitárias, nos domínios da sua missão;
+
+c) Promover e coordenar a implementação das estratégias, programas, planos e projetos relacionados com a concretização das políticas regionais, nacionais ou comunitárias, nos domínios da sua missão;
+
+d) Assegurar o controlo da legalidade e a fiscalização nos domínios da sua missão;
+
+e) Exercer as funções de autoridade administrativa da água, nos termos do artigo 8.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, na sua redação em vigor;
+
+f) Promover a monitorização qualitativa e quantitativa dos recursos hídricos e a gestão da rede hidrográfica, assegurando a qualidade das massas de água interiores, superficiais e subterrâneas, de transição e costeiras, bem como promover a recuperação dos meios hídricos degradados;
+
+g) Promover a resiliência do território aos efeitos das alterações climáticas, através da identificação e monitorização de riscos naturais e das ações que garantam a minimização dos seus efeitos, visando a proteção de pessoas e bens;
+
+h) Desenvolver um sistema de gestão territorial coerente e integrador das diferentes políticas públicas com incidência no território, que assegure a correta ocupação e utilização do território e que promova e valorize o aproveitamento racional dos recursos naturais e a salvaguarda do património natural e cultural e da paisagem;
+
+i) Promover e coordenar a elaboração, avaliação, alteração e revisão dos instrumentos de gestão territorial nos domínios da sua missão, bem como acompanhar os processos de elaboração, alteração e revisão de outros instrumentos de gestão territorial sobre a alçada de outros departamentos da administração regional ou da administração local;
+
+j) Assegurar a gestão da utilização do domínio público marítimo;
+
+k) Assegurar a gestão e proteção da orla costeira regional de forma integrada e sustentável, promovendo a implementação de ações e medidas indispensáveis à sua requalificação, visando a salvaguarda de pessoas e bens e a preservação dos valores ambientais em presença;
+
+l) Cooperar com a autoridade marítima nacional nos domínios das suas competências;
+
+m) Assegurar a produção de cartografia de base e temática para a Região Autónoma dos Açores, bem como garantir a elaboração e atualização do cadastro predial, em articulação com os demais organismos competentes;
+
+n) Promover a investigação científica e a inovação e desenvolvimento tecnológico, nos domínios da sua missão, em articulação com os demais organismos competentes;
+
+o) Assegurar a divulgação generalizada de informação e o acesso público a serviços de interesse para os cidadãos e outras entidades, nos domínios da sua missão;
+
+p) Contribuir para a formulação de legislação e regulamentação regional e pronunciar-se sobre documentação e legislação, nacional e comunitária, nos domínios da sua missão;
+
+q) Assegurar a representação, nos domínios da sua missão, junto de outros organismos e serviços, e promover ligações com organismos regionais, nacionais, comunitários e internacionais em áreas relevantes para desempenho das suas atribuições.
+
+2 - A DROTRH é dirigida por um diretor regional, cargo de direção superior de 1.º grau, ao qual compete:
+
+a) Coadjuvar o Secretário Regional no exercício das suas competências;
+
+b) Assegurar a representação da DROTRH;
+
+c) Dirigir, coordenar e orientar os serviços que integram a DROTRH, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;
+
+d) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+3 - O diretor regional pode delegar ou subdelegar competências nos dirigentes das unidades orgânicas sob a sua dependência hierárquica.
+
+###### Artigo 21.º — Estrutura
+
+A DROTRH integra a Direção de Serviços do Território e da Água.
+
+###### Artigo 21.º-A — Direção de Serviços do Território e da Água
+
+1 - À Direção de Serviços do Território e da Água, doravante designada por DSTA, compete:
+
+a) Definir, orientar e coordenar as atividades das divisões nela integradas;
+
+b) Definir e desenvolver os objetivos estratégicos, os princípios gerais e as bases técnicas para a formulação e execução das políticas de ordenamento do território e urbanismo, de paisagem, de cartografia e cadastro, de recursos hídricos e de gestão e proteção da orla costeira;
+
+c) Promover o desenvolvimento de um sistema integrado de gestão territorial que garanta a coerência, compatibilização, integridade e complementaridade dos respetivos elementos, designadamente os instrumentos de gestão territorial e as servidões administrativas e restrições de utilidade pública, em articulação com os demais departamentos do Governo Regional;
+
+d) Proceder à avaliação do estado do ordenamento do território, incidindo sobre as dinâmicas territoriais em curso, as formas de articulação das políticas setoriais com incidência territorial e o balanço da sua aplicação, bem como sobre a concretização e adequação dos instrumentos de gestão territorial em vigor;
+
+e) Coordenar a elaboração, avaliação, alteração, revisão e implementação dos instrumentos de gestão territorial da competência da DROTRH e outros instrumentos de planeamento, em articulação com os demais departamentos do Governo Regional;
+
+f) Promover a elaboração, acompanhamento, avaliação, alteração e revisão dos instrumentos de gestão territorial e de outros instrumentos de planeamento e proteção, no domínio do ordenamento do território;
+
+g) Promover a colaboração na elaboração, avaliação, alteração e revisão de outros instrumentos de gestão territorial;
+
+h) Definir as orientações estratégicas e o esquema de referência da reserva ecológica regional;
+
+i) Assegurar a implementação de sistemas de monitorização e prevenção de riscos naturais, incluindo fenómenos de instabilidade geomorfológica, cheias e inundações e galgamentos e inundações costeiras;
+
+j) Assegurar a execução e atualização do cadastro predial, bem como coordenar o funcionamento do Sistema Integrado de Recolha e Gestão de Informação Cadastral (SiRGIC);
+
+k) Assegurar a elaboração de cartografia de base e temática, em articulação com os demais organismos competentes;
+
+l) Coordenar os sistemas regionais de informação nos domínios do território, da geodesia, cartografia e cadastro e da água;
+
+m) Promover o planeamento integrado da água, nas suas vertentes físicas e económica, e assegurar a proteção e a gestão dos recursos hídricos, em articulação com outras entidades competentes na matéria;
+
+n) Coordenar a implementação dos objetivos definidos para a Região Hidrográfica dos Açores;
+
+o) Assegurar a gestão integrada das zonas costeiras, incluindo as obras de proteção, as águas balneares e a utilização do domínio público marítimo;
+
+p) Coordenar a elaboração e proceder ao envio, para os serviços competentes da SRAAC, das propostas relativas aos planos de investimentos e orçamentos de funcionamento anuais da DROTRH, bem como acompanhar a respetiva execução material e financeira;
+
+q) Propor e implementar medidas para o aumento da qualidade, eficácia e eficiência dos serviços prestados pela DROTRH;
+
+r) Elaborar normas, pareceres, estudos, informações e prestar esclarecimentos sobre assuntos que lhe sejam atribuídos;
+
+s) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DSTA é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+
+3 - A DSTA integra os serviços seguintes:
+
+a) Divisão de Gestão Territorial;
+
+b) Divisão de Geodesia, Cartografia e Cadastro;
+
+c) Divisão de Gestão da Água;
+
+d) Divisão de Prevenção de Riscos Hidrológicos.
+
+###### Artigo 22.º — Divisão de Gestão Territorial
+
+1 - À Divisão de Gestão Territorial, doravante designada por DGT, compete:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) Propor normas técnicas de ordenamento do território e urbanismo, visando a qualificação do território, designadamente no que se refere às formas de ocupação do solo, à proteção e valorização dos recursos territoriais e da paisagem, às infraestruturas e serviços de interesse coletivo e aos sistemas de mobilidade, acessibilidade, circulação, informação e comunicação;
+
+e) Acompanhar, orientar e apoiar tecnicamente as práticas de gestão territorial e urbanística, de âmbito regional e local, promovendo a divulgação de boas práticas, a adoção de procedimentos uniformes e de critérios técnicos comuns e a disseminação da informação e do conhecimento;
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+i) (Revogada.)
+
+j) Assegurar o depósito dos instrumentos de gestão territorial e das cartas que contêm a delimitação dos regimes territoriais aplicáveis ao ordenamento do território, bem como manter o respetivo arquivo documental, físico e digital, garantindo a sua conservação e mecanismos de fácil acesso e consulta a todos os interessados;
+
+k) Assegurar a elaboração e atualização da Carta de Ocupação do Solo da Região Autónoma dos Açores;
+
+l) Desenvolver a estrutura e conteúdos do Sistema Regional de Informação Territorial e garantir a sua permanente atualização;
+
+m) Identificar e caracterizar as condicionantes ao planeamento e ordenamento do território, incluindo os riscos naturais, assegurando a sua permanente atualização e disponibilização online;
+
+n) Assegurar a adequada gestão do território, emitindo pareceres que, legal ou regulamentarmente, sejam requeridos, em matéria de uso, ocupação e transformação do solo, bem como acompanhando e emitindo parecer sobre estudos, programas e projetos em matéria de desenvolvimento urbanístico, de requalificação urbana e de reconversão de áreas degradadas e críticas;
+
+o) Assegurar a implementação dos instrumentos de gestão territorial no domínio do ordenamento do território, em articulação com os serviços com competências específicas;
+
+p) Garantir a atualização permanente do Portal do Ordenamento do Território dos Açores;
+
+q) Garantir a gestão e aplicação da reserva ecológica regional;
+
+r) Acompanhar a implementação de sistemas de monitorização de riscos naturais;
+
+s) Colaborar com outros serviços na preparação e realização de ações de sensibilização, formação e divulgação técnica em matéria de ordenamento do território, urbanismo e paisagem;
+
+t) Colaborar nos processos de avaliação de impacte ambiental e de licenciamento ambiental no domínio do ordenamento do território, urbanismo e paisagem;
+
+u) Contribuir para o desenvolvimento das redes de observação do ordenamento do território e do urbanismo a nível nacional, europeu e internacional e colaborar na dinamização das plataformas regionais de informação territorial;
+
+v) Promover a paisagem como recurso e enquanto fator de identidade, induzindo uma atitude ética que assegure a sua qualidade estética e estado de conservação;
+
+w) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DGT é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 23.º — Divisão de Geodesia, Cartografia e Cadastro
+
+1 - À Divisão de Geodesia, Cartografia e Cadastro, doravante designada por DGCC, compete:
+
+a) Assegurar a existência, manutenção e aperfeiçoamento dos referenciais e infraestruturas geodésicas regionais, incluindo as redes gravimétrica e de nivelamento geométrico;
+
+b) Assegurar a gestão da rede regional de estações permanentes de referência Global Navigation Satelite System e promover a sua integração nas redes nacional e europeia;
+
+c) Promover a execução e validar trabalhos de apoio fotogramétrico e de aerotriangulação, necessários à produção cartográfica regional;
+
+d) Promover a cobertura cartográfica do território regional, através do desenvolvimento de cartografia de base e temática, em articulação com os demais organismos competentes;
+
+e) Desenvolver e manter atualizado um modelo digital do terreno de precisão para todas as ilhas do arquipélago dos Açores;
+
+f) Proceder ao reconhecimento e demarcação da delimitação administrativa e disponibilizar a Carta Administrativa da Região Autónoma dos Açores;
+
+g) Desenvolver trabalhos de fotogrametria arquitetural, em articulação com os demais organismos competentes;
+
+h) Promover a homologação de produtos cartográficos da Região Autónoma dos Açores;
+
+i) Promover a execução, renovação e conservação do cadastro predial, bem como a referenciação e identificação dos prédios existentes no território regional e proceder à emissão dos cartões de identificação predial;
+
+j) Assegurar a implementação do SiRGIC, bem como verificar a conformidade técnica dos dados e validar os elementos cadastrais;
+
+k) Realizar trabalhos necessários à execução, conservação e renovação do cadastro predial, à reposição de estremas e à correta identificação dos prédios;
+
+l) Elaborar mapas parcelares;
+
+m) Desenvolver e manter cadastros ou registos específicos, de acordo com a legislação aplicável em matéria de cartografia e cadastro, bem como colaborar na promoção da regulação de atividades cartográficas e cadastrais;
+
+n) Desenvolver e gerir uma base de dados de informação geodésica, cartográfica e cadastral regional e promover a sua disponibilização aos utilizadores interessados;
+
+o) Colaborar no apoio técnico, no âmbito das suas atribuições e sempre que solicitado, a outros serviços da administração regional e à administração local;
+
+p) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DGCC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+###### Artigo 24.º — Divisão de Gestão da Água
+
+1 - À Divisão de Gestão da Água, doravante designada por DGA, compete:
+
+a) Desenvolver os objetivos estratégicos e as bases técnicas para a formulação e execução das políticas de recursos hídricos;
+
+b) Promover a elaboração, acompanhamento, avaliação, alteração, revisão e implementação dos instrumentos de gestão territorial e de outros instrumentos de planeamento e proteção, no domínio dos recursos hídricos;
+
+c) Gerir a utilização do domínio público marítimo na Região Autónoma dos Açores, por parte de entidades públicas e privadas;
+
+d) Promover, em articulação com os demais departamentos do Governo Regional, as ações atinentes à conservação dos recursos hídricos, nas perspetivas da quantidade, da qualidade e do uso eficiente da água;
+
+e) Definir os sistemas de classificação do estado das massas de água interiores, de transição e costeiras, bem como a definição dos sistemas de classificação do potencial ecológico das massas de água fortemente modificadas ou artificiais;
+
+f) Desenvolver os procedimentos e as metodologias a observar na monitorização dos recursos hídricos e estabelecer e implementar os programas de monitorização qualitativa, incluindo a avaliação do respetivo estado químico e ecológico, bem como assegurar o funcionamento de um laboratório de recursos hídricos;
+
+g) Proceder à identificação das águas balneares e definir e implementar programas de monitorização da sua qualidade, bem como exercer as demais funções que, nessa matéria, estejam cometidas à administração regional;
+
+h) Gerir o sistema regional de informação sobre a água, incluindo dados sobre a quantidade e qualidade da água, garantindo a sua integração com os sistemas nacionais e comunitários, designadamente o Water Information System for Europe;
+
+i) Executar, no âmbito da gestão dos recursos hídricos, os procedimentos relativos à emissão de títulos de utilização dos recursos hídricos, incluindo o domínio público marítimo, bem como coordenar as ações de fiscalização dos recursos hídricos;
+
+j) (Revogada.)
+
+k) Proceder ao inventário e delimitação do domínio público hídrico, incluindo o domínio público marítimo, através da organização e atualização do registo das águas e margens dominiais, em colaboração com as entidades nacionais competentes;
+
+l) (Revogada.)
+
+m) Definir critérios e abordagens a adotar na requalificação e valorização dos recursos hídricos, bem como implementar programas de recuperação do estado das massas de água e proceder à respetiva avaliação;
+
+n) Colaborar nos processos de avaliação de impacte ambiental e de licenciamento ambiental, no domínio dos recursos hídricos;
+
+o) Proceder à caracterização da região hidrográfica e das massas de água e avaliar as incidências das pressões sobre o estado das águas, bem como propor objetivos ambientais estratégicos e operacionais para a Região Hidrográfica dos Açores;
+
+p) Propor a definição e aplicação de critérios e abordagens para a aplicação do regime económico e financeiro dos recursos hídricos, incluindo a colaboração na análise económica das utilizações das águas doces, designadamente as águas de nascente, mineromedicinais, termais e os recursos geotérmicos de base hídrica;
+
+q) (Revogada.)
+
+r) (Revogada.)
+
+s) (Revogada.)
+
+t) (Revogada.)
+
+u) Colaborar com outros serviços na preparação e realização de ações de sensibilização, formação e divulgação técnica em matéria de recursos hídricos;
+
+v) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DGA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+- *Retificado pelo/a [Declaração de Retificação n.º 7/2022/A - Diário da República n.º 232/2022, Série I de 2022-12-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-2022-204234881), produz efeitos a partir de 2022-10-05*
+
+###### Artigo 25.º — Divisão de Prevenção de Riscos Hidrológicos
+
+1 - À Divisão de Prevenção de Riscos Hidrológicos, doravante designada por DPRH, compete:
+
+a) Promover a caracterização do ciclo hidrológico e a avaliação dos processos de recarga e da disponibilidade dos aquíferos, bem como monitorizar e prevenir os potenciais de risco hidrológico para salvaguarda de pessoas e bens, do ambiente, do património cultural e infraestruturas e das atividades económicas;
+
+b) Promover a elaboração, acompanhamento, avaliação, alteração, revisão e implementação dos instrumentos de gestão territorial e de outros instrumentos de planeamento e de prevenção, no domínio dos riscos hidrológicos;
+
+c) Desenvolver e implementar a proteção das zonas costeiras, incluindo a identificação e hierarquização das prioridades das intervenções a executar e, quando aplicável, colaborar na elaboração dos respetivos programas preliminares;
+
+d) Implementar e gerir uma rede hidrometeorológica automática e desenvolver sistemas de vigilância e informação de base para alerta de riscos hidrológicos;
+
+e) Assegurar a elaboração e a atualização do Relatório do Estado das Ribeiras dos Açores;
+
+f) Propor e acompanhar medidas de conservação, regularização e reabilitação da rede hidrográfica, designadamente a limpeza e desobstrução de linhas de água, o reperfilamento dos leitos e margens, a construção de estruturas artificiais que assegurem adequadas condições de escoamento e controlo ou redução de caudais, minimizando o risco de cheias e inundações, os efeitos da erosão hídrica e o risco de movimentos de massa no domínio público hídrico e, quando aplicável, colaborar na elaboração dos respetivos programas preliminares;
+
+g) Gerir e coordenar as medidas de conservação e reabilitação da rede hidrográfica e zonas ribeirinhas, incluindo a coordenação da equipa operacional afeta a esses mesmos trabalhos;
+
+h) Propor e acompanhar programas de manutenção e verificação da segurança das estruturas artificiais construídas em domínio público hídrico, em articulação com as demais entidades competentes, designadamente passagens hidráulicas, açudes e bacias de retenção e, quando aplicável, colaborar na elaboração dos respetivos programas preliminares;
+
+i) Promover e garantir a atualização do registo das infraestruturas hidráulicas, incluindo as destinadas ao aproveitamento energético de águas, das zonas de captação e de proteção;
+
+j) Emitir pareceres sobre projetos de infraestruturas hidráulicas, incluindo as destinadas a aproveitamento energético e, quando aplicável, colaborar na elaboração dos respetivos programas preliminares;
+
+k) Identificar as zonas de captação destinadas a água para uso humano, incluindo as águas de nascente e as águas mineromedicinais e termais;
+
+l) Emitir pareceres e acompanhar a implementação de programas de prevenção e combate a acidentes graves de poluição em áreas com incidência nos recursos hídricos;
+
+m) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - A DPRH é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+#### Secção IV — Serviços executivos periféricos
+
+Artigo 26.º
+
+Serviços de Ambiente e Alterações Climáticas de Ilha
+
+1 - Os Serviços de Ambiente e Alterações Climáticas de Ilha são unidades orgânicas geograficamente desconcentradas da SRAAC que, funcionando na direta dependência do Secretário Regional, exercem funções de caráter técnico e operativo, aos quais, nas respetivas ilhas, e sem prejuízo das competências que assistem ao departamento do Governo Regional em matérias de obras públicas, compete:
+
+a) Elaborar o planeamento operacional e assegurar a implementação local das ações necessárias à execução dos diversos programas, projetos e medidas da responsabilidade da SRAAC;
+
+b) Gerir os recursos humanos e materiais que lhes estão afetos;
+
+c) Coordenar a atividade operacional dos vigilantes da natureza afetos ao respetivo serviço;
+
+d) Promover a aplicação das disposições legais e regulamentares nas áreas da sua atividade;
+
+e) Acompanhar e operacionalizar a gestão das ecotecas, dos centros de interpretação ambiental, dos jardins botânicos e de outras infraestruturas da SRAAC localizadas na respetiva ilha;
+
+f) Assegurar o apoio técnico e logístico à gestão e funcionamento do parque natural e reserva da biosfera da respetiva ilha;
+
+g) Assegurar a gestão e a manutenção das viaturas afetas ao respetivo serviço;
+
+h) Colaborar com todos os órgãos e serviços da SRAAC;
+
+i) Assegurar a realização de outras tarefas que, no âmbito das competências da SRAAC, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - Os Serviços de Ambiente e Alterações Climáticas de Ilha são os seguintes:
+
+a) Serviço de Ambiente e Alterações Climáticas de Santa Maria;
+
+b) Serviço de Ambiente e Alterações Climáticas de São Miguel;
+
+c) Serviço de Ambiente e Alterações Climáticas da Terceira;
+
+d) Serviço de Ambiente e Alterações Climáticas do Faial;
+
+e) Serviço de Ambiente e Alterações Climáticas do Pico;
+
+f) Serviço de Ambiente e Alterações Climáticas de São Jorge;
+
+g) Serviço de Ambiente e Alterações Climáticas da Graciosa;
+
+h) Serviço de Ambiente e Alterações Climáticas das Flores;
+
+i) Serviço de Ambiente e Alterações Climáticas do Corvo.
+
+3 - Os Serviços de Ambiente e Alterações Climáticas de Ilha são dirigidos por um diretor, equiparado, para todos os efeitos legais, a chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+4 - Os diretores dos Serviços de Ambiente e Alterações Climáticas de Ilha acumulam, sem direito a remuneração, a direção do parque natural da respetiva ilha.
+
+Artigo 27.º
+
+Parques Naturais de Ilha
+
+1 - O Parque Natural de Ilha é a unidade de gestão base da Rede de Áreas Protegidas dos Açores, sendo constituído pelas áreas e sítios protegidos situados no território da respetiva ilha, nos termos do disposto no artigo 29.º do regime jurídico da conservação da natureza e da biodiversidade, aprovado pelo Decreto Legislativo Regional n.º 15/2012/A, de 2 de abril.
+
+2 - Os Parques Naturais de Ilha funcionam na direta dependência do Secretário Regional.
+
+3 - O Parque Natural da Ilha do Pico integra, ainda, o Gabinete Técnico da Paisagem da Cultura da Vinha da Ilha do Pico, serviço específico das áreas de paisagem protegida integradas na Paisagem da Cultura da Vinha da Ilha do Pico e suas zonas de proteção.
+
+##### Subsecção I — Gabinete Técnico da Paisagem da Cultura da Vinha da Ilha do Pico
+
+###### Artigo 28.º — Gabinete Técnico da Paisagem da Cultura da Vinha da Ilha do Pico
+
+1 - O Gabinete Técnico da Paisagem da Cultura da Vinha da Ilha do Pico, doravante designado por GTPCVIP, é um serviço do Parque Natural da Ilha do Pico, ao qual compete:
+
+a) Apoiar a implementação do plano especial de ordenamento da paisagem protegida;
+
+b) Apoiar a implementação das medidas previstas em planos de gestão e de ação, bem como na sua monitorização e revisão;
+
+c) Elaborar e desenvolver estudos técnicos necessários à prossecução dos objetivos definidos no plano especial de ordenamento da paisagem protegida;
+
+d) Propor a elaboração dos estudos técnicos necessários à reconstrução, reintegração ou restauro de imóveis públicos e, quando aplicável, colaborar na elaboração dos respetivos programas preliminares;
+
+e) Emitir parecer técnico sobre os projetos a implementar na área de paisagem protegida e, quando aplicável, colaborar na elaboração dos respetivos programas preliminares;
+
+f) Emitir parecer sobre todos os instrumentos de planeamento que, direta ou indiretamente, afetem a área de paisagem protegida;
+
+g) Acompanhar, em colaboração com o departamento do Governo Regional em matéria de obras públicas, a execução das obras, intervenções e atividades desenvolvidas na área de paisagem protegida e, quando aplicável, colaborar na elaboração dos respetivos programas preliminares;
+
+h) Organizar e gerir um sistema de informação geográfica e promover a elaboração e atualização do cadastro predial da paisagem protegida;
+
+i) Propor regulamentação específica, dinamizar e coordenar a atuação integrada das diferentes entidades com responsabilidade específica de gestão da área de paisagem protegida;
+
+j) Propor e executar ações de divulgação e promoção da paisagem protegida;
+
+k) Constituir-se como elemento técnico de relacionamento com as estruturas do Comité do Património Mundial ou outros organismos e instituições internacionais relevantes para a gestão da área de paisagem protegida;
+
+l) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
+
+2 - O GTPCVIP é dirigido, por inerência, pelo diretor do Parque Natural da Ilha do Pico, ao qual compete:
+
+a) Assegurar a representação do GTPCVIP;
+
+b) Coordenar o funcionamento do corpo técnico e do restante pessoal;
+
+c) Aprovar as propostas, os estudos e os pareceres da responsabilidade do GTPCVIP;
+
+d) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.

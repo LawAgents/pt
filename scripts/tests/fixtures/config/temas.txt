@@ -1,0 +1,5 @@
+# TEST FIXTURE ONLY. Format: id | theme
+lei-24-1996 | Consumo
+decreto-lei-330-1990 | Consumo
+decreto-lei-330-1990 | Publicidade
+decreto-legislativo-regional-7-1999-a | Proteção civil

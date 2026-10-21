@@ -1,0 +1,282 @@
+---
+id: "decreto-lei-122-2023-anexo-republicacao-do-decreto-lei-n-124-2017-de-27-de-setemb"
+dre_id: "835674287"
+title: "Decreto-Lei n.º 122/2023, de 26 de dezembro — Anexo — Republicação do Decreto-Lei n.º 124/2017, de 27 de setembro"
+type: "Decreto-Lei"
+number: "122/2023"
+year: 2023
+date: 2023-12-26
+issuer: "Presidência do Conselho de Ministros"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2025-03-18
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-835806398"
+original_pdf: "https://files.diariodarepublica.pt/1s/2023/12/24700/0004200061.pdf"
+retrieved: 2026-10-21
+summary: "Simplifica o processo de credenciação das associações das comunidades portuguesas no estrangeiro e cria o «Programa de Apoios à Comunicação Social da Diáspora Portuguesa»"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-122-2023"
+part: "Anexo — Republicação do Decreto-Lei n.º 124/2017, de 27 de setembro"
+---
+
+# Decreto-Lei n.º 122/2023, de 26 de dezembro — Anexo — Republicação do Decreto-Lei n.º 124/2017, de 27 de setembro
+
+## Anexo — Republicação do Decreto-Lei n.º 124/2017, de 27 de setembro
+
+(a que se refere o artigo 24.º)
+
+### Capítulo I — Disposições gerais
+
+#### Artigo 1.º — Objeto e âmbito
+
+1 - O presente decreto-lei estabelece e regula as condições de atribuição de apoios, por parte do Ministério dos Negócios Estrangeiros (MNE), às ações e projetos de movimentos associativos das comunidades portuguesas no estrangeiro, que contribuam para os seguintes objetivos gerais:
+
+a) Promover a integração social em termos linguísticos, culturais, políticos, económicos e reforçar a ligação dos portugueses nos países de acolhimento;
+
+b) (Revogada.)
+
+c) Promover e divulgar a língua e cultura portuguesas no estrangeiro;
+
+d) Consolidar os laços de solidariedade entre os membros de uma determinada comunidade, nomeadamente com os mais idosos e carenciados;
+
+e) Estimular e consolidar os vínculos de pertença à cultura portuguesa;
+
+f) Promover a formação dos dirigentes associativos;
+
+g) Promover a igualdade de género, a não discriminação em razão da raça, cor, origem étnica ou nacional, ascendência, língua, religião, sexo, orientação sexual, identidade de género ou deficiência física ou psíquica, a participação cívica e a cidadania.
+
+2 - Sem prejuízo do número anterior, consideram-se prioritárias as ações do movimento associativo que privilegiem a promoção da língua e da cultura portuguesas, a diplomacia científica, os jovens, os idosos, a inclusão social, a capacitação e a valorização profissional, a participação cívica e política, o combate à xenofobia, a promoção da igualdade de género e da não discriminação.
+
+3 - (Revogado.)
+
+#### Artigo 2.º — Natureza
+
+Os apoios têm a natureza de apoio financeiro não reembolsável e são concedidos através do financiamento de ações e projetos, enquadrados no plano de atividades e orçamento da entidade proponente, até ao limite máximo de 80 % ou de 50 % do valor considerado elegível do orçamento apresentado, consoante se trate de entidades com sede em território estrangeiro ou em território nacional.
+
+#### Artigo 3.º — Publicitação do apoio
+
+1 - As entidades beneficiárias ficam obrigadas a publicitar o apoio atribuído, com menção explícita ao MNE e utilização do logótipo das Comunidades Portuguesas, disponível no sítio na Internet do MNE, em todas as ações, atividades ou suportes de comunicação com divulgação pública.
+
+2 - O incumprimento do disposto no número anterior determina a impossibilidade de apresentação de novas candidaturas nos três anos seguintes à sua verificação.
+
+3 - A Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas (DGACCP) divulga anualmente, no sítio na Internet do MNE, a lista de apoios concedidos, nos termos dos artigos 4.º e 5.º da Lei n.º 64/2013, de 27 de agosto.
+
+### Capítulo II — Acesso aos apoios
+
+#### Artigo 4.º — Credenciação e candidaturas
+
+1 - É condição prévia à apresentação de qualquer candidatura a credenciação junto da DGACCP.
+
+2 - Podem credenciar-se as seguintes entidades:
+
+a) Associações e federações das comunidades portuguesas no estrangeiro, constituídas legalmente há mais de um ano, sem fins lucrativos ou partidários, cujo objeto vise o benefício sociocultural das referidas comunidades;
+
+b) Outras pessoas coletivas nacionais ou estrangeiras, cujos órgãos sociais sejam constituídos por cidadãos nacionais ou lusodescendentes, constituídas há mais de um ano, sem fins lucrativos ou partidários, que proponham a realização de atividades que resultem em benefício das comunidades portuguesas e se enquadrem em pelo menos um dos objetivos e prioridades definidas no artigo 1.º
+
+3 - A credenciação é conferida pelo prazo de três anos.
+
+4 - O pedido de credenciação pode ser requerido a todo o tempo pela entidade proponente, por via eletrónica, através da apresentação:
+
+a) Do ato de constituição e dos estatutos;
+
+b) Do registo junto das autoridades do país onde está sediada.
+
+5 - A lista das associações credenciadas e o período de validade da credenciação conferida é publicitada anualmente no sítio na Internet do MNE.
+
+6 - Podem candidatar-se à concessão de apoios as entidades credenciadas, nos termos dos números anteriores.
+
+7 - Cada entidade pode apresentar até três candidaturas por ano civil.
+
+#### Artigo 5.º — Apresentação de candidaturas
+
+1 - As candidaturas são apresentadas por via eletrónica, pela entidade credenciada, junto do posto consular ou secção consular da embaixada territorialmente competente, em razão da área de execução da ação ou projeto.
+
+2 - O prazo para apresentação de candidaturas decorre, anualmente, entre 1 de outubro e 31 de dezembro.
+
+3 - As candidaturas são acompanhadas pelos seguintes documentos:
+
+a) Formulário disponível no sítio na Internet do MNE;
+
+b) Plano de atividades calendarizado e do orçamento do ano para o qual se solicita o apoio, aprovados e assinados pelos órgãos sociais;
+
+c) Certidões comprovativas de situação contributiva e tributária regularizadas, quando aplicável, ou de consentimento para consulta da situação tributária ou contributiva regularizada;
+
+d) Programa do projeto, com orçamento e cronograma.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+#### Artigo 5.º-A — Admissão de candidaturas
+
+1 - As candidaturas apresentadas são objeto de registo, no momento em que as entidades candidatas as submetem eletronicamente, sendo permitidas, dentro do prazo fixado para a apresentação de candidaturas, por iniciativa da própria entidade ou a pedido do posto consular ou da secção consular da embaixada territorialmente competente, alterações posteriores para suprir deficiências documentais.
+
+2 - A não apresentação das candidaturas dentro do prazo fixado para a sua apresentação e a falta de apresentação dos documentos previstos no n.º 3 do artigo 5.º determina o indeferimento liminar da candidatura pelo posto consular ou secção consular da embaixada territorialmente competente.
+
+3 - Em casos excecionais, e de comprovada ausência de meios tecnológicos adequados, podem ser admitidas candidaturas e respetivos documentos em suporte papel.
+
+#### Artigo 6.º — Parecer consular
+
+As candidaturas admitidas pelo posto consular ou secção consular da embaixada territorialmente competente são enviadas, por via eletrónica, à DGACCP, nos 15 dias úteis após o fim do prazo da apresentação das mesmas, acompanhadas do respetivo parecer do posto consular ou secção consular, que deverá respeitar os seguintes critérios de apreciação:
+
+a) A exequibilidade temporal e objetiva do projeto ou ação;
+
+b) A capacidade organizativa da entidade candidata;
+
+c) A adequação dos meios utilizados para a concretização do projeto ou ação;
+
+d) Os benefícios para as comunidades portuguesas residentes na área de execução do projeto ou ação.
+
+#### Artigo 6.º-A — Júri
+
+1 - A apreciação das candidaturas é da competência do júri constituído por um presidente, dois vogais efetivos e dois vogais suplentes, designados pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas.
+
+2 - O júri é constituído por:
+
+a) Diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, que preside;
+
+b) Quatro trabalhadores em funções públicas, pertencentes ao mapa de pessoal da DGACCP, dois efetivos, um deles substitui o presidente nas suas faltas e impedimentos, e dois suplentes.
+
+#### Artigo 7.º — Critérios de apreciação do mérito das candidaturas
+
+1 - Na apreciação do mérito das candidaturas, e para efeitos de instrução da decisão sobre o pedido de atribuição do apoio, são considerados os seguintes critérios:
+
+a) A conformidade da ação ou projeto com os objetivos ou prioridades definidas no artigo 1.º;
+
+b) A conformidade com as exigências previstas no artigo 5.º;
+
+c) A qualidade do projeto apresentado, bem como a sua relevância e interesse para a comunidade portuguesa local;
+
+d) A capacidade de organização, de promoção e de divulgação de iniciativas demonstradas pela entidade candidata;
+
+e) O número e a caracterização dos potenciais destinatários do projeto;
+
+f) Previsão da ação ou projeto no plano de atividades anual, nos termos previstos no número seguinte;
+
+g) A não atribuição de financiamento para a mesma ação ou projeto por outra entidade, nacional ou estrangeira.
+
+2 - Para a concessão do apoio, é obrigatório que as ações ou projetos estejam devidamente enquadrados no plano de atividades anual da entidade candidata, aprovado pelos órgãos estatutários competentes.
+
+#### Artigo 8.º — Elegibilidade das despesas
+
+1 - São consideradas elegíveis as despesas previstas no orçamento apresentado com a candidatura, desde que adequadas, proporcionais e necessárias à execução da ação ou projeto.
+
+2 - Não são por regra consideradas as despesas relativas, nomeadamente:
+
+a) Aos encargos correntes e permanentes que digam respeito ao regular e normal funcionamento da entidade candidata ao apoio;
+
+b) À aquisição de instalações;
+
+c) À aquisição e aluguer de veículos automóveis;
+
+d) À aquisição de instrumentos, equipamentos científicos, técnicos e de software;
+
+e) Às viagens, alojamento, alimentação e ajudas de custo de qualquer espécie de colaboradores permanentes da entidade candidata ao apoio.
+
+#### Artigo 9.º — Decisão
+
+1 - Até ao dia 15 de março de cada ano, o júri procede à análise das candidaturas e elabora uma lista provisória de decisão, devidamente fundamentada, com a distribuição da dotação orçamental disponível que é notificada às candidaturas, deferidas e indeferidas, para pronúncia no prazo de 10 dias úteis, em sede de audiência prévia.
+
+2 - A lista provisória de decisão é, igualmente, publicada no sítio na Internet do MNE.
+
+3 - Após aquele prazo e analisadas as eventuais pronúncias, o júri envia a lista final de distribuição da dotação orçamental disponível para homologação do membro do Governo responsável pela área das comunidades portuguesas.
+
+4 - A lista das candidaturas a quem foi atribuído financiamento é divulgada no sítio na Internet do MNE, até ao dia 30 de abril de cada ano e as candidaturas notificadas.
+
+5 - As candidaturas que não foram objeto de atribuição de financiamento são notificadas da decisão, nos termos dos artigos 110.º e seguintes do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n. 4/2015, de 7 de janeiro, na sua redação atual.
+
+### Capítulo III — Entrega, controlo e avaliação dos apoios
+
+#### Artigo 10.º — Entrega do apoio atribuído
+
+1 - A entrega do apoio atribuído é feita por intermédio do posto ou secção consular da embaixada territorialmente competente, mediante a celebração de um contrato.
+
+2 - O contrato a celebrar contém, designadamente:
+
+a) A identificação das partes e dos respetivos representantes, assim como do título a que intervêm;
+
+b) A descrição do objeto do contrato;
+
+c) Os direitos e obrigações de cada uma das partes;
+
+d) O prazo de execução das atividades apoiadas;
+
+e) O montante do apoio atribuído;
+
+f) As consequências do incumprimento contratual.
+
+3 - O contrato é assinado, em representação da República Portuguesa, pelo titular do posto ou secção consular da embaixada territorialmente competente.
+
+4 - O contrato é celebrado em triplicado, sendo um exemplar enviado à DGACCP no prazo de 30 dias a contar da sua assinatura
+
+5 - A entrega do financiamento faz-se mediante a assinatura, pela entidade apoiada, de declaração de compromisso de execução da ação ou projeto, nos precisos termos da candidatura, e de aceitação das condições previstas no presente decreto-lei, a enviar pelo titular do posto ou secção consular da embaixada territorialmente competente à DGACCP, no prazo previsto no número anterior.
+
+#### Artigo 11.º — Circunstâncias imprevistas
+
+1 - Se, por circunstâncias imprevistas e imprevisíveis, uma ação ou projeto financeiramente apoiado não for cumprido no prazo estabelecido, o mesmo pode ainda ser executado até ao final do trimestre seguinte àquele prazo, nos termos do número seguinte.
+
+2 - O pedido de prorrogação deve ser apresentado junto do posto consular ou da secção consular da embaixada territorialmente competente, dirigido ao diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, e é remetido à DGACCP no prazo de 10 dias, instruído com o parecer do titular do serviço, para autorização.
+
+#### Artigo 11.º-A — Prorrogação excecional
+
+1 - Em circunstâncias absolutamente excecionais e imprevisíveis, designadamente provocadas por desastre natural ou ambiental, ou fortes perturbações de ordem pública, de segurança pública ou de saúde pública, e tendo em conta os pareceres dos postos consulares ou secções consulares das embaixadas territorialmente competentes e proposta da DGACCP, pode o membro do Governo responsável pela área das comunidades portuguesas prorrogar os prazos de execução dos projetos para além dos prazos identificados no n.º 1 do artigo anterior, bem como autorizar o reembolso até 40 % de despesas que tiveram de ser contraídas.
+
+2 - Para a entidade apoiada beneficiar do regime previsto no número anterior, deverá submeter requerimento fundamentado, junto do posto ou secção consular da embaixada territorialmente competente.
+
+3 - O requerimento deve ser acompanhado de prova dos pagamentos efetuados ou compromissos registados junto de fornecedores de bens ou serviços das despesas elegíveis do projeto, desde que emitidos em data prévia às circunstâncias excecionais que levaram ao cancelamento da ação ou projeto e em nome da entidade beneficiária do apoio.
+
+#### Artigo 12.º — Controlo, acompanhamento e avaliação
+
+1 - Cabe à DGACCP, em articulação com o posto consular ou secção consular da embaixada territorialmente competente, o controlo, acompanhamento e avaliação dos projetos apoiados e da respetiva execução.
+
+2 - As entidades apoiadas são obrigadas a apresentar à DGACCP, no prazo de 45 dias a contar do termo da ação ou projeto apoiado, um relatório final que contenha todos os elementos de natureza qualitativa e quantitativa necessários à análise e avaliação dos resultados obtidos e da boa aplicação do apoio concedido, o qual deve merecer parecer do posto ou secção consular da embaixada territorialmente competente.
+
+3 - Para efeitos do disposto no número anterior, a DGACCP, o posto consular ou secção consular da embaixada competente podem solicitar às entidades apoiadas o envio de informações ou documentos adicionais que considerem pertinentes.
+
+4 - As entidades apoiadas devem ainda organizar um arquivo autónomo, preferencialmente em suporte eletrónico, da documentação relativa à ação ou projeto apoiado, utilizando os documentos originais ou cópias autenticadas das despesas efetuadas e respetivos comprovativos de pagamento, emitidos nos termos legais aplicáveis, devidamente numerados, e identificando a percentagem de qualquer outro apoio financeiro recebido, quando seja caso disso.
+
+5 - O modelo de relatório final é aprovado por portaria do membro do Governo responsável pela área das comunidades portuguesas e disponibilizado no sítio na Internet do MNE.
+
+#### Artigo 13.º — Incumprimento
+
+1 - A falta de cumprimento, pela entidade apoiada, das respetivas obrigações ou do disposto no presente decreto-lei, determina a impossibilidade de apresentação de novas candidaturas nos três anos seguintes à verificação do incumprimento ou até à reposição total ou parcial da verba atribuída.
+
+2 - Implica ainda a reposição da totalidade ou de parte do montante atribuído, pela entidade apoiada, qualquer dos seguintes factos:
+
+a) A não execução ou execução parcial da ação ou projeto no prazo previsto ou até ao final da prorrogação autorizada nos termos do artigo 11.º;
+
+b) A não apresentação do relatório previsto no n.º 2 do artigo anterior;
+
+c) A não apresentação dos elementos solicitados pela DGACCP, nos termos do n.º 3 do artigo anterior, sempre que estes sejam considerados essenciais para justificar a boa aplicação do apoio concedido;
+
+d) A utilização do apoio financeiro, no todo ou em parte, para fins diversos daqueles para os quais foi atribuído, ou outras irregularidades de igual gravidade.
+
+3 - A reposição do montante atribuído pode ser exigida no prazo de dois anos a contar do seu recebimento pela entidade apoiada, aplicando-se quanto a esta matéria, com as devidas adaptações, o disposto no regime da administração financeira do Estado, aprovado pelo Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual.
+
+4 - As falsas declarações são puníveis nos termos gerais da lei.
+
+#### Artigo 13.º-A — Ações informativas e divulgação
+
+1 - A DGACCP promove a divulgação de materiais de suporte no sítio na Internet do MNE ou outros meios de informação relevantes a definir anualmente, com vista à capacitação de potenciais destinatários.
+
+2 - Os serviços periféricos externos do MNE divulgam, junto do movimento associativo ou outras entidades interessadas, a informação relevante sobre o regime consagrado no presente decreto-lei.
+
+### Capítulo IV — Disposições complementares e finais
+
+#### Artigo 14.º — Direito subsidiário
+
+Em tudo o que não estiver especificamente regulado no presente decreto-lei, aplica-se subsidiariamente, e com as necessárias adaptações, o disposto no Código do Procedimento Administrativo e no regime jurídico aplicável à concessão de subvenções públicas, estabelecido pelo Decreto-Lei n.º 167/2008, de 26 de agosto.
+
+#### Artigo 15.º — Norma revogatória
+
+É revogado o Despacho n.º 16155/2005, publicado no Diário da República, 2.ª série, n.º 141, de 25 de julho, com efeitos à data de 30 de setembro de 2017.
+
+#### Artigo 16.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+117186357

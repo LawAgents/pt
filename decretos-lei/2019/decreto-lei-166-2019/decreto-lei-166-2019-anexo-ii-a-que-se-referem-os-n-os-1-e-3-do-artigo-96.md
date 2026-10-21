@@ -1,0 +1,84 @@
+---
+id: "decreto-lei-166-2019-anexo-ii-a-que-se-referem-os-n-os-1-e-3-do-artigo-96"
+dre_id: "125865390"
+title: "Decreto-Lei n.º 166/2019, de 31 de outubro — Anexo II (a que se referem os n.os 1 e 3 do artigo 96.º)"
+type: "Decreto-Lei"
+number: "166/2019"
+year: 2019
+date: 2019-10-31
+issuer: "Presidência do Conselho de Ministros"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2025-03-24
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-167924001"
+original_pdf: "https://files.diariodarepublica.pt/1s/2019/10/21000/0000200058.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece o regime jurídico da atividade profissional do marítimo"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-166-2019"
+part: "Anexo II (a que se referem os n.os 1 e 3 do artigo 96.º)"
+---
+
+# Decreto-Lei n.º 166/2019, de 31 de outubro — Anexo II (a que se referem os n.os 1 e 3 do artigo 96.º)
+
+## Anexo II (a que se referem os n.os 1 e 3 do artigo 96.º)
+
+Tipo de informações a comunicar à comissão para fins estatísticos
+
+Caso seja feita referência ao presente anexo, devem ser fornecidas as seguintes informações, especificadas no n.º 9 da secção A-I/2 do Código sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, adotado pela Resolução 2 da Conferência de 1995, na versão atualizada (Código STCW), para todos os certificados de competência ou autenticações que atestem a sua emissão e para todas as autenticações que atestem o reconhecimento de certificados de competência emitidos por outros países, e deve ser garantido o anonimato das informações assinaladas por (*):
+
+a) Certificados de competência/autenticações que atestem a sua emissão:
+
+Identificador único do marítimo, caso exista (*);
+
+Nome do marítimo (*);
+
+Data de nascimento do marítimo;
+
+Nacionalidade do marítimo;
+
+Sexo do marítimo;
+
+Número autenticado do certificado de competência (*);
+
+Número da autenticação que atesta a emissão (*);
+
+Cargo(s);
+
+Data de emissão ou data da mais recente revalidação do documento;
+
+Data de caducidade;
+
+Situação do certificado;
+
+Limitações;
+
+b) Autenticações que atestam o reconhecimento de certificados de competência emitidos por Estados terceiros:
+
+Identificador único do marítimo, caso exista (*);
+
+Nome do marítimo (*);
+
+Data de nascimento do marítimo;
+
+Nacionalidade do marítimo;
+
+Sexo do marítimo;
+
+País de emissão do certificado de competência original;
+
+Número do certificado de competência original (*);
+
+Número da autenticação que atesta o reconhecimento (*);
+
+Cargo(s);
+
+Data de emissão ou data da mais recente revalidação do documento;
+
+Data de caducidade;
+
+Situação da autenticação;
+
+Limitações.
+
+112710693

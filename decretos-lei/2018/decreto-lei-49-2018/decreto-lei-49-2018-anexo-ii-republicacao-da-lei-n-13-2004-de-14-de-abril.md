@@ -1,0 +1,358 @@
+---
+id: "decreto-lei-49-2018-anexo-ii-republicacao-da-lei-n-13-2004-de-14-de-abril"
+dre_id: "115553662"
+title: "Decreto-Lei n.º 49/2018, de 21 de junho — Anexo II — Republicação da Lei n.º 13/2004, de 14 de abril"
+type: "Decreto-Lei"
+number: "49/2018"
+year: 2018
+date: 2018-06-21
+issuer: "Presidência do Conselho de Ministros"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2023-11-09
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115553667"
+original_pdf: "https://files.diariodarepublica.pt/1s/2018/06/11800/0259002605.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece o regime de exercício de funções nos Centros Portugueses da Cooperação e altera o regime do agente da cooperação"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-49-2018"
+part: "Anexo II — Republicação da Lei n.º 13/2004, de 14 de abril"
+---
+
+# Decreto-Lei n.º 49/2018, de 21 de junho — Anexo II — Republicação da Lei n.º 13/2004, de 14 de abril
+
+## Anexo II — Republicação da Lei n.º 13/2004, de 14 de abril
+
+(a que se refere o artigo 18.º)
+
+### Capítulo I — Disposições preliminares
+
+#### Artigo 1.º — Objeto
+
+A presente lei estabelece o enquadramento jurídico do agente da cooperação portuguesa e define os princípios e as normas integrantes do seu estatuto.
+
+#### Artigo 2.º — Agente da cooperação
+
+1 - Para efeitos da presente lei, considera-se agente da cooperação portuguesa o cidadão que, ao abrigo de um contrato, participe na identificação, formulação, execução, acompanhamento ou avaliação de um projeto, programa ou uma ação de cooperação financiada pelo Estado Português, promovida ou executada por uma entidade portuguesa de direito público ou por uma entidade de direito privado de fins não lucrativos em países parceiros.
+
+2 - Podem obter a equiparação a agente da cooperação:
+
+a) Os cidadãos portugueses ou aqueles que tenham residência fiscal em território português que, ao abrigo de um contrato, participem na execução de uma ação de cooperação financiada pelo Estado Português, desde que tenha sido objeto de parecer favorável nos termos do artigo 26.º da presente lei;
+
+b) Os cidadãos portugueses ou aqueles que tenham residência fiscal em território português que, ao abrigo de um contrato, participem na execução de uma ação de cooperação financiada por um Estado da União Europeia, por uma organização internacional, por uma agência especializada ou ainda por outra entidade promotora ou executora que suporte a ação com fundos próprios, desde que a sua atividade seja relevante e se insira nos objetivos da política externa portuguesa.
+
+3 - O procedimento de equiparação a agente da cooperação depende da apresentação de requerimento, pelo interessado ou pela entidade promotora, executora e/ou financiadora da ação de cooperação, dirigido ao Camões, I. P., com indicação do regime de exercício de funções e cópia do contrato.
+
+4 - A equiparação a agente da cooperação é concedida por despacho do membro do Governo responsável pela área da cooperação, mediante parecer prévio do Camões, I. P.
+
+#### Artigo 3.º — Definições
+
+Para efeitos da presente lei entende-se por:
+
+a) «Projeto de cooperação», o projeto, programa ou ação em prol do desenvolvimento de países parceiros ou de ajuda humanitária e de emergência;
+
+b) «Executor de cooperação» a entidade que, em função de atribuições próprias ou mediante delegação, subvenção ou contratação por parte de entidades terceiras, é responsável pela execução de um projeto de cooperação;
+
+c) «Ajuda humanitária e de emergência», a ação de curto prazo destinada a intervir em situações excecionais resultantes, nomeadamente, de catástrofes naturais ou provocadas pelo homem;
+
+d) «Centro português da cooperação», unidade orgânica do Camões, I. P., dotada de autonomia administrativa e sediada no país parceiro, junto da respetiva missão diplomática, cujo regime é objeto de diploma próprio;
+
+e) «Voluntário» o cidadão abrangido pelo regime previsto na Lei n.º 71/98, de 3 de novembro, que exerça a sua atividade no âmbito de projetos de cooperação.
+
+### Capítulo II — Agente da cooperação
+
+#### Artigo 4.º — Requisitos e recrutamento do agente da cooperação
+
+1 - As entidades promotoras ou executoras da cooperação podem recrutar livremente os candidatos a agente da cooperação que preencham os requisitos exigíveis ao desempenho das tarefas constantes do respetivo contrato.
+
+2 - Nos casos em que o executor seja o Estado português, os candidatos a agente da cooperação que sejam trabalhadores em funções públicas podem ser recrutados ao abrigo de qualquer mecanismo legal, designadamente mobilidade, cedência de interesse público ou licença sem remuneração, com fundamento em interesse público, devendo a decisão observar os prazos previstos no artigo 5.º
+
+3 - No caso de titulares de relações jurídicas de emprego privado, as funções de agente da cooperação podem ser exercidas por acordo de cedência ocasional, nos termos da lei.
+
+4 - Compete ao organismo do Estado português que promove o recrutamento suportar a totalidade dos encargos decorrentes dos mecanismos referidos nos termos do n.º 2.
+
+5 - Podem igualmente ser recrutados cidadãos em situação de aposentação ou reforma, bem como agentes de forças de segurança na reserva.
+
+6 - O exercício de funções nos termos dos números anteriores não atribui ao agente da cooperação o direito à ocupação de lugar no mapa de pessoal do organismo do Estado português que promove o recrutamento, executa ou financia a ação de cooperação.
+
+#### Artigo 4.º-A — Processo de seleção
+
+1 - O recrutamento dos agentes da cooperação por entidades executoras de direito público é feito por escolha do órgão máximo da entidade executora de entre candidatos, em número pelo menos três vezes superior ao número de contratos a celebrar, que cumpram os requisitos gerais e específicos constantes da presente lei e pré-selecionados por entidade externa qualificada e especializada no recrutamento de recursos humanos contratada para o efeito.
+
+2 - Quando a entidade executora de direito público não for o Camões, I. P., a escolha é feita pelo órgão máximo daquela, de entre candidatos em número pelo menos três vezes superior ao número de contratos a celebrar, sendo os candidatos pré-selecionados nos termos do número anterior objeto de parecer prévio vinculativo do conselho diretivo do Camões, I. P., e, no caso da sua exclusão por este, substituídos pelos que se lhes seguirem em resultado do processo de seleção.
+
+3 - Excecionalmente, por fundadas razões de urgência ou de conveniência na prossecução do interesse público, ou quando as funções a desempenhar resultem do exercício de funções de soberania, o órgão máximo da entidade executora pode, com autorização da respetiva tutela, determinar o recurso a outros mecanismos de pré-seleção de candidatos no âmbito do procedimento de recrutamento previsto no presente artigo, respeitando-se sempre, no caso do número anterior, a necessidade de parecer prévio vinculativo do conselho diretivo do Camões, I. P.
+
+4 - As entidades de direito privado de fins não lucrativos que sejam promotoras ou executoras de projetos de cooperação podem recrutar livremente os candidatos a agente da cooperação que preencham os requisitos exigíveis ao desempenho das tarefas constantes do respetivo contrato.
+
+#### Artigo 5.º — Prazos
+
+1 - A entidade empregadora de um candidato a agente de cooperação responde ao pedido feito para efeitos do n.º 2 do artigo 4.º no prazo de 15 dias úteis, sob pena de deferimento tácito.
+
+2 - Nos casos previstos no n.º 2 do artigo anterior, a recusa de anuência deverá ser devidamente fundamentada.
+
+3 - Tratando-se de ações de ajuda humanitária, o prazo previsto no n.º 1 é de 10 dias úteis, salvo caso de imperativa urgência em que pode ser fixado prazo inferior.
+
+#### Artigo 6.º — Bolsa de candidatos para ações de cooperação
+
+[Revogado.]
+
+### Capítulo III — Contrato de cooperação
+
+#### Artigo 7.º — Contrato de cooperação
+
+1 - A prestação de serviços dos agentes da cooperação às entidades promotoras ou executoras será obrigatoriamente efetuada ao abrigo de contrato escrito.
+
+2 - Nos contratos de cooperação em que é parte o Estado Português ou entidade de direito público, ao agente da cooperação não é conferida a qualidade de funcionário ou agente da Administração Pública.
+
+3 - O regime do contrato de cooperação é o constante da presente lei, aplicando-se-lhe subsidiariamente as regras do contrato de prestação de serviços.
+
+#### Artigo 7.º-A — Categorias
+
+1 - As funções do agente da cooperação contratado por entidade pública são diferenciadas em categorias, em razão da sua complexidade, requisitos exigidos para o seu exercício e local de exercício habitual.
+
+2 - As categorias previstas no anexo ao presente diploma, e do qual faz parte integrante, não se inserem em carreira e as respetivas funções têm caráter transitório.
+
+#### Artigo 8.º — Registo de contratos
+
+1 - Os contratos de cooperação bem como as suas renovações estão sujeitos a registo no Camões, I. P.
+
+2 - O registo dos contratos de cooperação compete à entidade promotora ou executora, diretamente ou por entidade para o efeito mandatada, e constitui condição de aplicabilidade do regime previsto na presente lei, nomeadamente para os efeitos previstos no artigo 2.º
+
+#### Artigo 9.º — Cláusulas contratuais
+
+Sem prejuízo do clausulado estabelecido em função de especificidades do contrato de cooperação, constarão, nomeadamente, disposições relativas a:
+
+a) Objeto do contrato;
+
+b) Identificação da categoria de agente da cooperação;
+
+c) Enquadramento em equipa ou equipas de projeto;
+
+d) Duração e renovação do contrato;
+
+e) Remuneração e abonos;
+
+f) Modo e local de pagamento;
+
+g) Proteção social;
+
+h) Férias;
+
+i) Alojamento;
+
+j) Transportes;
+
+k) Seguros;
+
+l) Condições de resolução do contrato;
+
+m) Regime de exclusividade, nos termos do artigo 24.º-A;
+
+n) Legislação aplicável;
+
+o) Foro ou arbitragem convencionados.
+
+#### Artigo 10.º — Início da prestação de serviço
+
+Para efeitos de obrigações do Estado Português, o início da prestação de serviços do agente da cooperação conta-se a partir da data do embarque para o país parceiro, salvo disposição contratual em contrário.
+
+#### Artigo 11.º — Duração dos contratos
+
+1 - Os contratos de cooperação têm a duração do projeto ou projetos em causa, se outra inferior não for fixada pela entidade contratante, podendo ser renovados quando ocorra uma prorrogação do prazo do projeto, até ao seu termo ou por período idêntico ao do contrato inicial.
+
+2 - Terminados os contratos e respetivas renovações previstos no número anterior, pode ser celebrado novo contrato com o mesmo agente da cooperação, conquanto este tenha por objeto um projeto distinto ou funções correspondentes a categoria diversa no mesmo projeto.
+
+3 - Os contratos de assessores da cooperação têm uma duração máxima de três anos, prorrogável até igual período, aplicando-se com as devidas adaptações o disposto no número anterior.
+
+4 - O contrato de cooperação no âmbito da ajuda humanitária não pode ter prazo superior a seis meses, exceto os casos devidamente justificados pela entidade promotora ou executora e aprovados pelo membro do Governo com a área da cooperação, sob proposta do Camões, I. P.
+
+#### Artigo 12.º — Renovação dos contratos
+
+1 - Nos casos em que seja pretendida a renovação do contrato de cooperação, a entidade promotora ou executora, obtido o acordo escrito do agente da cooperação, deve, pelo menos 30 dias antes da data de caducidade do mesmo, notificar a entidade empregadora a que o agente esteja vinculado.
+
+2 - Considera-se tacitamente autorizada a renovação da requisição, no caso de a entidade empregadora não comunicar à entidade promotora ou executora e ao Camões, I. P., a recusa de anuência, devidamente fundamentada, no prazo máximo de 30 dias a contar da data da notificação.
+
+#### Artigo 13.º — Cessação dos contratos
+
+1 - O contrato de cooperação cessa:
+
+a) No termo do seu prazo inicial ou da sua renovação;
+
+b) Por acordo, que deve constar de documento escrito;
+
+c) Por impossibilidade superveniente de o agente da cooperação exercer a sua atividade por período superior a 60 dias.
+
+2 - Os contratos de cooperação podem ser rescindidos por qualquer das partes com fundamento em justa causa.
+
+3 - A rescisão do contrato sem justa causa, por parte do agente da cooperação, ou com justa causa, por parte da entidade promotora ou executora, determina o reembolso, pelo agente, das despesas que hajam sido efetuadas com a sua viagem, com o transporte das respetivas bagagens e com quaisquer abonos que lhe hajam sido pagos, na proporção do número de meses que faltarem para completar o período de duração inicial do contrato ou da sua renovação.
+
+4 - A rescisão do contrato com justa causa, por parte do agente da cooperação, ou sem justa causa, por parte da entidade promotora ou executora, confere ao agente o direito a uma indemnização igual à remuneração e eventuais abonos que seriam devidos até ao termo do prazo do contrato ou sua renovação, de montante não inferior a três meses, sem prejuízo do pagamento das despesas com a sua viagem e com o transporte das respetivas bagagens.
+
+5 - Os promotores ou executores da cooperação devem comunicar ao Camões, I. P., a cessação dos contratos dos respetivos agentes da cooperação que não ocorra por mero efeito do termo do prazo.
+
+### Capítulo IV — Direitos, deveres e garantias dos agentes da cooperação
+
+#### Artigo 14.º — Remuneração dos agentes da cooperação
+
+1 - Os agentes da cooperação auferem a remuneração bem como eventuais abonos que forem fixados no contrato de cooperação respetivo.
+
+2 - Nos casos em que o promotor ou o executor seja o Estado Português ou uma pessoa coletiva portuguesa de direito público, a remuneração, incluindo complementos, se for caso disso, e eventuais abonos são fixados por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
+
+3 - Nos casos em que, nos termos do contrato de cooperação, a remuneração do agente deva ser suportada pela entidade ou pelo Estado recetor da ação, pode o Estado Português conceder um complemento de remuneração, sob proposta do Camões, I. P., por despacho conjunto nos termos do número anterior.
+
+#### Artigo 14.º-A — Encargos
+
+1 - No caso de pessoas coletivas de direito público, os encargos com o pagamento das despesas relativas ao agente da cooperação são suportados pela entidade que o designou e imputados aos custos do projeto.
+
+2 - Mediante protocolo com os Estados parceiros ou entidades terceiras, podem os encargos referidos no número anterior ser, total ou parcialmente, suportados por estes, incluindo o pagamento da remuneração dos agentes da cooperação.
+
+#### Artigo 15.º — Transportes
+
+1 - É da responsabilidade do promotor ou executor o pagamento das despesas de transporte e de bagagens dos agentes da cooperação, entre o local da sua residência e o local de destino, no início e no fim do contrato.
+
+2 - O transporte do agente de cooperação é efetuado por via aérea, em classe económica e na tarifa menos onerosa praticada para a época do ano e respetivo destino.
+
+3 - As despesas de bagagem compreendem os custos de transporte de excesso de bagagem, acompanhada ou não, até ao limite de 30 kg.
+
+4 - Nos casos previstos no n.º 3 do artigo 14.º, o Estado Português, por intermédio do Camões, I. P., assumirá os encargos referidos nos n.os 1 e 2, caso não sejam suportados pela entidade ou Estado recetor da ação.
+
+#### Artigo 16.º — Aposentados e reformados
+
+1 - Os aposentados ou reformados com experiência relevante em áreas que contribuam para a execução de projetos de cooperação para o desenvolvimento podem exercer funções na qualidade de agentes da cooperação nos termos do presente diploma.
+
+2 - Os aposentados ou reformados em exercício de funções como agentes da cooperação mantêm o direito à respetiva pensão quando esta seja superior ao valor da remuneração e abonos fixados no contrato de cooperação, no montante correspondente à diferença entre aqueles e esta.
+
+#### Artigo 17.º — Proteção social
+
+1 - Os agentes da cooperação têm o direito a manter o regime de proteção social obrigatório em que se encontram inseridos.
+
+2 - Os agentes da cooperação que à data de início da vigência do contrato de cooperação não estejam enquadrados por qualquer regime de segurança social de inscrição obrigatória ou, embora inscritos, não estejam a contribuir, serão obrigatoriamente inscritos, pelo período de vigência dos contratos de cooperação, no regime do seguro social voluntário, previsto no Decreto-Lei n.º 40/89, de 1 de fevereiro.
+
+3 - A inscrição a que se refere o número anterior será feita pelo promotor ou pelo executor, salvo nos casos previstos no n.º 3 do artigo 14.º da presente lei em que a inscrição será da responsabilidade do Estado Português.
+
+4 - Competem às entidades promotoras ou executoras da cooperação os encargos com a contribuição dos agentes e das respetivas entidades empregadoras para os regimes obrigatórios de proteção social e para o regime previsto no n.º 2.
+
+5 - Nos casos previstos no n.º 3 do artigo 14.º o Estado Português, por intermédio do Camões, I. P., assumirá os encargos referidos no número anterior.
+
+6 - Para efeitos do disposto no n.º 1 deste artigo, a remuneração a considerar como base de incidência contributiva dos agentes da cooperação enquadrados no regime de segurança social dos trabalhadores por conta de outrem ou no regime de segurança social da função pública é a auferida imediatamente antes do início da vigência do contrato de cooperação, com as atualizações a que houver lugar durante a vigência do contrato.
+
+7 - Para efeitos do disposto no n.º 2 deste artigo, a remuneração a considerar para efeitos de contribuição será correspondente ao triplo do salário mínimo nacional fixado por lei.
+
+8 - As entidades promotoras ou executoras devem apresentar ao Camões, I. P., os documentos comprovativos da situação contributiva regularizada perante a segurança social relativa aos respetivos agentes da cooperação.
+
+9 - Os agentes da cooperação têm ainda direito a beneficiar de um sistema de seguro privado, obrigatoriamente previsto no contrato de cooperação, cujas condições são definidas por portaria conjunta dos Ministros das Finanças e dos Negócios Estrangeiros.
+
+10 - A celebração dos contratos de seguros referidos no número anterior é autorizada pelo membro do Governo com tutela sobre a entidade responsável pelos respetivos encargos, com dispensa de pareceres prévios legalmente previstos.
+
+11 - São tornados extensivos aos agentes da cooperação que desempenhem funções ao abrigo de contrato de duração superior a dois anos os benefícios e garantias previstos na lei para os emigrantes.
+
+#### Artigo 17.º-A — Ajudas de custo em missões temporárias
+
+O agente da cooperação tem direito a ajudas de custo e transporte, nos termos da lei, sempre que no âmbito das suas funções realize missões temporárias que impliquem uma deslocação ao estrangeiro ou a Portugal, ou no estrangeiro fora da área de execução do projeto ou projetos a que se encontra adstrito.
+
+#### Artigo 18.º — Garantias gerais dos agentes da cooperação
+
+1 - É garantido a todo o agente da cooperação o direito ao lugar que ocupa à data do início da vigência do contrato de cooperação ou que, entretanto, adquira no seu quadro de origem.
+
+2 - A prestação de serviço como agente da cooperação no país solicitante ou parceiro é equiparada à comissão de serviço público por tempo determinado, para efeitos de arrendamento, de acordo com o disposto na alínea b) do n.º 2 do artigo 64.º do Regime do Arrendamento Urbano (RAU), aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro.
+
+#### Artigo 19.º — Garantias dos agentes da cooperação, trabalhadores com vínculo de emprego público
+
+1 - Ao agente da cooperação, trabalhador com vínculo de emprego público, é garantido:
+
+a) O direito de se candidatar a qualquer concurso de promoção, nos termos da legislação aplicável, competindo à entidade promotora ou executora o pagamento da sua deslocação, se for indispensável;
+
+b) O direito a um período de férias, no ano em que retomar funções e no seguinte, respetivamente proporcional ao tempo de serviço prestado no ano em que se vinculou à cooperação e no ano de regresso à atividade, sem prejuízo do gozo de férias acumuladas a que tenha direito.
+
+2 - O tempo de serviço prestado como agente da cooperação será contado para todos os efeitos legais, nomeadamente antiguidade, diuturnidades, progressão e promoção na carreira, como se tivesse sido prestado no lugar de origem.
+
+3 - Ao cônjuge do agente de cooperação ou quem com ele viva em situação análoga há mais de dois anos pode ser concedida licença sem remuneração para acompanhamento de cônjuge colocado no estrangeiro, caso seja titular de vínculo de emprego público, nos termos previstos no artigo 282.º da LGTFP, aprovada pela Lei n.º 35/2014, de 20 de junho.
+
+#### Artigo 20.º — Serviço militar
+
+Os agentes da cooperação que se encontrem abrangidos pela presente lei podem requerer ao Ministro da Defesa que o serviço assim prestado seja substitutivo do cumprimento do serviço efetivo normal.
+
+#### Artigo 21.º — Consultas, vacinas e medicamentos profiláticos
+
+As consultas, vacinas e os medicamentos profiláticos para as doenças consideradas endémicas na região ou país de destino do agente da cooperação serão suportados pelo promotor, salvo nos casos previstos no n.º 2 do artigo 14.º desta lei, que são da responsabilidade do Estado Português, através da área governativa em que se desenvolve a ação de cooperação.
+
+#### Artigo 22.º — Acompanhamento
+
+[Revogado.]
+
+#### Artigo 23.º — Escolaridade dos descendentes e cônjuges
+
+1 - A equivalência de escolaridade dos descendentes e cônjuges dos agentes da cooperação prosseguida em Estados parceiros é estabelecida de acordo com as normas para o efeito definidas pelo Ministério da Educação.
+
+2 - Ao abrigo do princípio da cooperação entre os Estados, compete à entidade contratante apoiar a admissão dos descendentes e cônjuge dos agentes da cooperação ou quem com ele viva em situação análoga há mais de dois anos em escolas portuguesas, se existirem, ou em escolas locais.
+
+#### Artigo 24.º — Deveres dos agentes da cooperação
+
+1 - Constituem deveres dos agentes da cooperação:
+
+a) Cumprir com todas as suas obrigações contratuais tendo em conta os objetivos da ação de cooperação em que se encontrem integrados;
+
+b) Respeitar as disposições legais vigentes no país parceiro;
+
+c) Respeitar os usos e costumes e não incorrer em práticas que prejudiquem as relações existentes entre o Estado Português e o Estado parceiro;
+
+d) Não interferir nos assuntos internos do Estado parceiro.
+
+2 - O agente da cooperação está sujeito ao dever de diligência e sigilo sobre todos os assuntos que lhe sejam confiados ou de que tenha conhecimento por inerência das suas funções.
+
+3 - A atuação do agente da cooperação que viole o disposto nos números anteriores constitui fundamento de justa causa para efeitos de rescisão do respetivo contrato.
+
+#### Artigo 24.º-A — Regime de exclusividade
+
+1 - O agente da cooperação exerce as suas funções em regime de exclusividade, com renúncia ao exercício de outras atividades ou funções de natureza profissional remuneradas, públicas ou privadas e exercidas com caráter regular ou não.
+
+2 - Excecionalmente, quando expressamente autorizado por despacho do órgão máximo da entidade que o contratou, e sob parecer vinculativo do conselho diretivo do Camões, I. P., sempre que este não seja a entidade executora, o agente da cooperação pode exercer as atividades referidas no número anterior, desde que comprove que as mesmas não são conflituantes com os fins da cooperação portuguesa.
+
+### Capítulo V — Promotores e executores de cooperação
+
+#### Artigo 25.º — Promotores e executores de cooperação
+
+Podem ser promotores e executores de cooperação portuguesa:
+
+a) Os órgãos e serviços do Estado e das demais pessoas coletivas de direito público, designadamente os órgãos e serviços de administração central, autárquica e regional;
+
+b) As pessoas coletivas de direito privado;
+
+c) Quaisquer entidades do Estado parceiro, cuja natureza seja similar às entidades indicadas nas precedentes alíneas deste artigo;
+
+d) Os organismos internacionais.
+
+### Capítulo VI — Ações de cooperação
+
+#### Artigo 26.º — Parecer favorável
+
+Os programas, projetos e ações de cooperação para o desenvolvimento financiados ou executados pelo Estado, seus organismos e demais entidades públicas, carecem do parecer prévio vinculativo do Camões, I. P.
+
+### Capítulo VII — Voluntários
+
+#### Artigo 27.º — Apoio aos voluntários
+
+1 - Os casos inerentes à prestação de serviço do voluntário para a cooperação incumbem à entidade promotora ou executora.
+
+2 - Poderá ser atribuído pelo Estado Português aos voluntários um abono mensal para compensação de despesas pessoais.
+
+3 - O montante do abono referido no número anterior será fixado por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
+
+#### Artigo 28.º — Proteção social
+
+Em matéria de proteção social aplicar-se-á aos voluntários o disposto na lei de bases do enquadramento jurídico do voluntariado e respetivos diplomas regulamentares.
+
+#### Artigo 29.º — Remissões
+
+Ao voluntário é aplicável, com as devidas adaptações, o regime do agente da cooperação previsto na presente lei, salvo na parte em que, pela sua natureza, seja incompatível com a lei de bases do enquadramento jurídico do voluntariado.
+
+### Capítulo VIII — Disposições finais
+
+#### Artigo 30.º — Contratos em vigor
+
+O regime definido nesta lei é aplicável à renovação dos atuais contratos em vigor celebrados nos termos dos Decretos-Leis n.os 363/85, de 10 de setembro, e 10/2000, de 10 de fevereiro.
+
+#### Artigo 31.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 363/85, de 10 de setembro, e 10/2000, de 10 de fevereiro.

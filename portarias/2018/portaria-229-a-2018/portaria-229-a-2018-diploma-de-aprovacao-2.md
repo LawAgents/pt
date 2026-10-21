@@ -1,0 +1,850 @@
+---
+id: "portaria-229-a-2018-diploma-de-aprovacao-2"
+dre_id: "116068173"
+title: "Portaria n.º 229-A/2018, de 14 de agosto — Diploma de aprovação (2)"
+type: "Portaria"
+number: "229-A/2018"
+year: 2018
+date: 2018-08-14
+issuer: "Educação"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2025-03-06
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-116279760"
+original_pdf: "https://files.diariodarepublica.pt/1s/2018/08/15601/0000200022.pdf"
+retrieved: 2026-10-21
+summary: "Procede à regulamentação dos cursos artísticos especializados de Dança, de Música, de Canto e de Canto Gregoriano, a que se refere a alínea c) do n.º 4 do artigo 7.º do Decreto-Lei n.º 55/2018 , de 6 de julho"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "portaria-229-a-2018"
+part: "Diploma de aprovação (2)"
+---
+
+# Portaria n.º 229-A/2018, de 14 de agosto — Diploma de aprovação (2)
+
+## Capítulo II — Currículo dos cursos artísticos especializados
+
+### Secção I — Conceção e operacionalização do currículo
+
+#### Artigo 5.º — Objetivos
+
+Os cursos artísticos especializados visam proporcionar aos alunos uma formação geral, científica, e técnica artística, alinhada com os seus interesses em termos de prosseguimento de estudos de nível superior e ou de inserção no mercado de trabalho, procurando através dos conhecimentos, capacidades e atitudes, trabalhados nas áreas da Dança, da Música, do Canto e do Canto Gregoriano, alcançar as áreas de competência constantes do Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+#### Artigo 6.º — Matrizes curriculares-base
+
+1 - Considerando a matriz curricular-base dos cursos artísticos especializados prevista no anexo vii ao Decreto-Lei n.º 55/2018, de 6 de julho, são definidas as matrizes curriculares-base dos cursos artísticos especializados seguintes:
+
+a) Curso Secundário de Dança, constante do anexo i à presente portaria e da qual faz parte integrante;
+
+b) Curso Secundário de Música, constante do anexo ii à presente portaria e da qual faz parte integrante;
+
+c) Curso Secundário de Canto, constante do anexo iii à presente portaria e da qual faz parte integrante;
+
+d) Curso Secundário de Canto Gregoriano, constante do anexo iv à presente portaria e da qual faz parte integrante.
+
+2 - Os planos curriculares organizados nas matrizes curriculares-base referidas no número anterior integram as seguintes componentes de formação:
+
+a) A componente de formação geral, que visa contribuir para a construção da identidade pessoal, social e cultural dos alunos;
+
+b) A componente de formação científica, que visa proporcionar uma formação consistente no domínio do respetivo curso;
+
+c) A componente técnica artística, que visa a aquisição e desenvolvimento de um conjunto de aprendizagens, conhecimentos, aptidões e competências técnicas e artísticas para o perfil profissional visado;
+
+d) A formação em contexto de trabalho, quando exista, que visa a aquisição e o desenvolvimento de competências técnicas e artísticas, relacionais e organizacionais relevantes para a qualificação profissional a adquirir.
+
+3 - As matrizes curriculares-base incluem na componente de formação científica, duas ou três disciplinas trienais, na componente de formação técnica artística, duas a três disciplinas trienais e uma disciplina bienal de opção nos 11.º e 12.º anos, podendo ainda ser criada uma disciplina de Oferta Complementar de acordo com o previsto no artigo 8.º da presente portaria.
+
+4 - Sem prejuízo do disposto no número anterior a disciplina de opção pode ser igualmente frequentada, nos 10.º e 11.º anos.
+
+5 - A matriz curricular-base do Curso Secundário de Música contempla as variantes de Instrumento, de Formação Musical e de Composição, sendo inerente a cada uma delas uma disciplina trienal distinta.
+
+6 - Nos cursos secundários na área da música são ministrados os instrumentos que constam do anexo v da presente portaria e da qual faz parte integrante.
+
+7 - Sem prejuízo do disposto no número anterior, podem ser lecionados outros instrumentos, na sequência de proposta fundamentada formulada pelas escolas e aprovada por despacho do membro do Governo responsável pela área da educação.
+
+8 - As matrizes integram, ainda, a disciplina de Educação Moral e Religiosa, como componente de oferta obrigatória e de frequência facultativa, cujo tempo acresce ao total das matrizes.
+
+#### Artigo 7.º — Gestão da carga horária inscrita nas matrizes curriculares-base
+
+1 - No desenvolvimento da autonomia e flexibilidade curricular conferida às escolas, e considerando, entre outras, as prioridades e opções curriculares previstas no artigo 19.º do Decreto-Lei n.º 55/2018, de 6 de julho, as escolas organizam as suas matrizes curriculares na unidade de tempo que considerem mais adequada.
+
+2 - A carga horária das disciplinas inscritas nas matrizes curriculares-base constitui um valor de referência, a gerir por cada escola.
+
+3 - Constitui exceção à carga horária entendida como valor de referência:
+
+a) A carga horária semanal das componentes de formação científica e técnica artística;
+
+b) A componente de formação em contexto de trabalho, quando exista.
+
+4 - Sem prejuízo do disposto no número anterior, com o objetivo de encontrar respostas pedagogicamente adequadas ao contexto da turma ou grupo de alunos, as escolas podem gerir, na componente de formação geral, num intervalo entre 0 e 25 %, o resultado da soma das cargas horária das disciplinas procedendo à redistribuição desse resultado entre as disciplinas dessa componente.
+
+5 - Com vista à promoção de melhores aprendizagens, a operacionalização da faculdade conferida no número anterior pode variar ao longo do ano letivo adotando uma organização diversa da anual, salvaguardado o disposto no n.º 5 do artigo 12.º do citado decreto-lei.
+
+6 - A operacionalização do previsto nos n.os 2, 4 e 5 não pode prejudicar a existência das disciplinas inscritas nas matrizes curriculares-base.
+
+7 - Sem prejuízo do disposto no número seguinte, as escolas devem garantir, por ano de escolaridade, o cumprimento do tempo total anual por componente de formação, sendo este igual ao produto resultante da multiplicação do total da carga horária semanal da componente de currículo pelo número de semanas letivas do calendário escolar.
+
+8 - Sempre que da implementação do previsto no n.º 1 resultar fração de tempo inferior à unidade adotada, o tempo sobrante é utilizado nessa componente de formação.
+
+9 - As decisões tomadas, no âmbito da gestão carga horária, bem como as previstas no artigo seguinte, devem ser divulgadas aos pais e encarregados de educação.
+
+#### Artigo 8.º — Matriz curricular de escola
+
+1 - No âmbito do planeamento curricular ao nível da escola e da turma, e considerando as decisões previstas no artigo anterior em sede da matriz curricular, cabe também à escola decidir, em conformidade com o previsto no artigo 14.º do Decreto-Lei n.º 55/2018, de 6 de julho, sobre:
+
+a) A implementação das opções curriculares adequadas ao seu projeto educativo, considerando, entre outras, as previstas no n.º 2 do artigo 19.º do referido decreto-lei;
+
+b) A forma de implementação da componente de Cidadania e Desenvolvimento, nos termos do artigo 10.º da presente portaria;
+
+c) A criação de disciplinas de oferta complementar.
+
+2 - Nos casos em que a escola decide criar disciplinas nos termos do disposto na alínea c) do número anterior a sua frequência torna-se obrigatória.
+
+3 - A criação de disciplinas a que se refere a alínea c) do n.º 1 deve atender à disponibilidade de recursos humanos e financeiros.
+
+4 - As disciplinas de cariz complementar são criadas de acordo com os objetivos do projeto educativo da escola, devendo as normas relativas à organização do seu funcionamento constar do regulamento interno.
+
+5 - A disciplina de Oferta Complementar deve ser lecionada em conjunto.
+
+6 - As disciplinas de Oferta Complementar podem ter uma organização anual ou outra.
+
+7 - As disciplinas de Oferta Complementar podem ser lecionadas, consoante as suas características e a sua integração no currículo, em qualquer dos anos de escolaridade.
+
+8 - Sempre que exista a disciplina de Oferta Complementar, compete ao conselho pedagógico aprovar os respetivos documentos curriculares.
+
+#### Artigo 9.º — Domínios de autonomia curricular
+
+1 - Os domínios de autonomia curricular (DAC) constituem uma opção curricular de trabalho interdisciplinar e ou articulação curricular, cuja planificação deve identificar as disciplinas envolvidas e a forma de organização.
+
+2 - O trabalho em DAC tem por base as Aprendizagens Essenciais, quando aplicável, e os demais documentos curriculares, com vista ao desenvolvimento das áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+3 - Os DAC, numa interseção de aprendizagens de diferentes disciplinas, exploram percursos pedagógico-didáticos, em que se privilegia o trabalho prático e ou experimental e o desenvolvimento das capacidades de pesquisa, relação e análise, tendo por base, designadamente:
+
+a) Os temas ou problemas tratados sob perspetivas disciplinares, numa abordagem interdisciplinar;
+
+b) Os conceitos, factos, relações, procedimentos, capacidades e competências, na sua transversalidade e especificidade disciplinar;
+
+c) Os géneros textuais associados à produção e transmissão de informação e de conhecimento, presentes em todas as disciplinas.
+
+4 - Na concretização de DAC não fica prejudicada a existência das disciplinas previstas nas matrizes curriculares.
+
+#### Artigo 10.º — Cidadania e Desenvolvimento
+
+1 - No quadro da Estratégia Nacional de Educação para a Cidadania (ENEC), cabe à escola aprovar a sua estratégia de educação para a cidadania de acordo com o previsto no artigo 15.º do Decreto-Lei n.º 55/2018, de 6 de julho.
+
+2 - Na estratégia de educação para a cidadania definida pela escola os domínios a desenvolver, a que se refere a alínea a) do n.º 2 do referido artigo 15.º, são os constantes no anexo vi à presente portaria da qual faz parte integrante.
+
+3 - A componente de Cidadania e Desenvolvimento é uma área transversal, onde se cruzam contributos das diferentes disciplinas com os temas da estratégia de educação para a cidadania da escola através do desenvolvimento e concretização de projetos pelos alunos.
+
+4 - Cabe ainda à escola decidir a forma de implementar a componente de Cidadania e Desenvolvimento, podendo optar, designadamente, por:
+
+a) Oferta como disciplina autónoma, em qualquer dos anos deste nível de ensino;
+
+b) Prática de coadjuvação no âmbito de uma disciplina;
+
+c) Funcionamento em justaposição com outra disciplina;
+
+d) Desenvolvimento de temas e projetos, no âmbito das diferentes disciplinas da matriz, sob a coordenação de um dos professores da turma ou grupo de alunos.
+
+5 - Independentemente das opções adotadas pela escola previstas no número anterior, a componente de Cidadania e Desenvolvimento não é objeto de avaliação sumativa, sendo a participação nos projetos desenvolvidos no âmbito desta componente objeto de registo anual no certificado do aluno.
+
+#### Artigo 11.º — Português Língua Não Materna
+
+*(Revogado)* — *Revogado pelo/a Artigo 4.º do/a Portaria n.º 86/2025/1 - Diário da República n.º 46/2025, Série I de 2025-03-06, em vigor a partir de 2025-03-07*
+
+#### Artigo 12.º — Língua materna de alunos de sistemas de ensino estrangeiros
+
+Aos alunos recém-integrados no ensino secundário, provenientes de sistemas educativos estrangeiros, cuja língua materna não é o Português, e que no seu percurso escolar apenas estudaram uma língua estrangeira, aplica-se o seguinte:
+
+a) Reconhecimento da língua materna do aluno;
+
+b) Reforço da aprendizagem do Português, designadamente como PLNM;
+
+c) Dispensa da obrigatoriedade de iniciar uma segunda língua estrangeira, visando o reforço do previsto na alínea anterior;
+
+d) Continuidade da aprendizagem da língua estrangeira do sistema de ensino de origem do aluno (LE I), desde que esta seja oferecida no sistema educativo português;
+
+e) Possibilidade do aluno iniciar, no 10.º ano de escolaridade, uma nova língua estrangeira (LE II), desde que esta não coincida com a sua língua materna.
+
+#### Artigo 13.º — Educação bilingue
+
+1 - As escolas de referência para a educação e ensino bilingue constituem uma resposta educativa especializada para garantir o acesso ao currículo nacional.
+
+2 - Para os efeitos previstos no número anterior, as matrizes curriculares-base dos cursos artísticos especializados regulados pela presente portaria integram na componente de formação geral:
+
+a) Língua Gestual Portuguesa (LGP), como primeira língua (L1);
+
+b) Língua Portuguesa Escrita como Segunda Língua (L2).
+
+3 - Nos termos dos n.os 1 e 2, a disciplina de LGP substitui a disciplina de Português.
+
+4 - Os alunos cuja primeira língua é a LGP frequentam ainda a disciplina de L2, com acréscimo de carga horária, tendo como referência a carga horária da matriz curricular-base dos artísticos especializados.
+
+5 - Os tempos a atribuir às disciplinas mencionadas no n.º 2 são os previstos para a correspondente disciplina na matriz curricular-base, podendo as escolas proceder ao seu reforço, de acordo com as necessidades identificadas.
+
+6 - Sem prejuízo do estabelecido no n.º 4, os alunos dão continuidade à língua estrangeira iniciada no ensino básico ou, em alternativa, por decisão da escola e em articulação com os encarregados de educação, podem iniciar uma segunda língua estrangeira no 10.º ano de escolaridade.
+
+#### Artigo 14.º — Organização do percurso formativo próprio e complemento de currículo
+
+1 - Na prossecução do desenvolvimento de maior flexibilidade nas matrizes curriculares-base dos cursos secundários de Dança, de Música, de Canto e de Canto Gregoriano é garantida aos alunos a possibilidade de adoção de um percurso formativo próprio.
+
+2 - Para efeitos do disposto no número anterior é permitida a substituição de uma das disciplinas da componente de formação científica, através da aplicação da tabela constante do anexo vii, por:
+
+a) Disciplina correspondente dos cursos profissionais;
+
+b) Disciplina da formação específica dos cursos científico-humanísticos.
+
+3 - A substituição de disciplinas é realizada aquando da inscrição para a frequência do 10.º ano de escolaridade ou até ao 5.º dia útil do 2.º período.
+
+4 - O percurso formativo do aluno pode, ainda, ser diversificado e complementado, mediante a inscrição noutras disciplinas, de acordo com a oferta educativa e formativa da escola, sem prejuízo do seguinte:
+
+a) O registo da frequência e do aproveitamento nestas disciplinas consta do processo individual do aluno como disciplina de complemento do currículo, contando as respetivas classificações para o cálculo da média final de curso, por opção do aluno, desde que integrem a matriz curricular do respetivo curso;
+
+b) A classificação obtida nestas disciplinas não é considerada para efeitos de transição de ano e de conclusão de curso.
+
+5 - Para efeitos do disposto nos n.os 1, 2, e 4, quando os cursos artísticos especializados forem ministrados em escolas que não ofereçam as disciplinas pretendidas, pode ser permitida a frequência destas numa outra escola, desde que sejam estabelecidas as condições necessárias, designadamente, protocolos de colaboração.
+
+6 - Após a conclusão de qualquer curso o aluno pode frequentar outro curso ou outras disciplinas do mesmo ou de outros cursos, de acordo com a oferta educativa e formativa da escola, desde que não implique um acréscimo de encargos para o erário público.
+
+7 - A classificação obtida nas disciplinas referidas no número anterior pode contar, por opção do aluno, para efeitos de cálculo da média final de curso, nos termos do disposto no n.º 8 do artigo 44.º
+
+8 - A adoção de um percurso próprio é feita mediante requerimento do encarregado de educação ou do aluno, quando maior de idade, devendo ser garantido o acesso a toda a informação relevante, designadamente as condições de frequência, conclusão e prosseguimento de estudos.
+
+#### Artigo 15.º — Formação em contexto de trabalho
+
+1 - A matriz curricular-base do Curso Secundário de Dança integra, no 12.º ano, uma formação em contexto de trabalho (FCT).
+
+2 - A FCT consiste num conjunto de atividades profissionais desenvolvidas sob coordenação e acompanhamento da escola, que visam a aquisição ou o desenvolvimento de conhecimentos e capacidades técnicas, artísticas, relacionais e organizacionais relevantes para o perfil de desempenho à saída do curso frequentado pelo aluno.
+
+3 - A FCT, nos termos da alínea d) do n.º 2 do artigo 6.º, integra um conjunto de atividades relevantes para o perfil profissional associado à respetiva qualificação do curso frequentado, desenvolvidas sob coordenação e acompanhamento da escola.
+
+4 - A FCT realiza-se, preferencialmente, em posto de trabalho, em companhias de dança profissionais, empresas ou noutras organizações, sob a forma de experiências de trabalho pontuais ou sob a forma de estágio.
+
+5 - A FCT pode ainda assumir a forma de simulação de um conjunto de atividades profissionais relevantes para o perfil de saída do curso a desenvolver em condições similares às do contexto real de trabalho.
+
+#### Artigo 16.º — Organização e desenvolvimento da formação em contexto de trabalho
+
+1 - A organização e o desenvolvimento da FCT obedecem a um plano de trabalho individual, elaborado com a participação das partes envolvidas e assinado pelo órgão competente da escola, pela entidade de acolhimento, quando aplicável, pelo aluno e encarregado de educação, caso o aluno seja menor de idade.
+
+2 - O plano, depois de assinado, é considerado como parte integrante do contrato de formação celebrado entre a escola e o aluno.
+
+3 - O plano a que se referem os números anteriores deve, obrigatoriamente, identificar:
+
+a) Os objetivos, as competências técnicas, relacionais e organizacionais a desenvolver ao longo da FCT;
+
+b) A programação, o período de duração, o horário e o local de realização das atividades;
+
+c) As formas de monitorização e acompanhamento do aluno e os respetivos responsáveis pela sua operacionalização;
+
+d) Os direitos e deveres das partes envolvidas.
+
+4 - A FCT, quando efetuada em posto de trabalho, rege-se por um protocolo a celebrar entre a escola e a entidade de acolhimento, devendo esta desenvolver atividades profissionais compatíveis e adequadas ao perfil de desempenho visado pelo curso frequentado pelo aluno.
+
+5 - Quando as atividades da FCT são desenvolvidas fora da escola observa-se o seguinte:
+
+a) A orientação e o acompanhamento do aluno são da responsabilidade conjunta da escola e da entidade de acolhimento, cabendo à última designar o respetivo tutor;
+
+b) Os alunos têm direito a um seguro que garanta a cobertura dos riscos das deslocações a que estão obrigados, bem como das atividades a desenvolver;
+
+c) Os contratos e protocolos referidos nos n.os 2 e 4 não geram nem titulam relações de trabalho subordinado e caducam com a conclusão da formação para que foram celebrados.
+
+#### Artigo 17.º — Regulamento da formação em contexto de trabalho
+
+1 - A FCT, nas matérias não previstas na presente portaria ou noutra legislação aplicável, rege-se por regulamento específico, aprovado pelos órgãos competentes de direção ou gestão da escola, e integra o respetivo regulamento interno.
+
+2 - O regulamento da FCT, para além de outras matérias consideradas relevantes, deve obrigatoriamente prever:
+
+a) O regime aplicável à sua operacionalização;
+
+b) Os procedimentos destinados ao controlo da assiduidade do aluno;
+
+c) A fórmula de apuramento da respetiva classificação final, com o peso relativo a atribuir às suas diferentes modalidades ou etapas de concretização.
+
+3 - O orientador da FCT é designado pelo órgão de direção ou gestão da escola, ouvido o diretor do curso, de entre os professores que lecionam as disciplinas da componente de formação técnica artística.
+
+#### Artigo 18.º — Diretor do curso
+
+1 - No Curso Secundário de Dança, a articulação entre as aprendizagens a desenvolver nas disciplinas que integram as diferentes componentes de formação é assegurada por um diretor de curso, designado pelo diretor da escola, ouvido o conselho pedagógico, preferencialmente de entre os professores profissionalizados que lecionam as disciplinas da componente de formação técnica artística.
+
+2 - Sem prejuízo de outras competências definidas no regulamento interno, cabe ao diretor de curso:
+
+a) Assegurar a articulação pedagógica entre as diferentes disciplinas do curso;
+
+b) Organizar e coordenar as atividades a desenvolver no âmbito da formação técnica artística;
+
+c) Participar em reuniões de conselho de turma, no âmbito das suas funções;
+
+d) Articular com os órgãos de gestão da escola, no que respeita aos procedimentos necessários à realização da prova de aptidão artística (PAA);
+
+e) Assegurar, se for o caso, a articulação entre a escola e as entidades envolvidas na FCT, identificando-as, fazendo a respetiva seleção, preparando protocolos, procedendo à distribuição dos alunos por cada entidade e coordenando o acompanhamento dos mesmos, em estreita relação com os professores das disciplinas de Técnicas de Dança;
+
+f) Assegurar a articulação com os serviços com competência em matéria de apoio socioeducativo;
+
+g) Coordenar o acompanhamento e a avaliação do curso.
+
+#### Artigo 19.º — Orientador da formação em contexto de trabalho
+
+1 - A supervisão da FCT cabe:
+
+a) Ao orientador, docente que assegura uma das disciplinas da componente de formação técnica artística, em representação do estabelecimento de ensino;
+
+b) Ao tutor, em representação da entidade de acolhimento.
+
+2 - Ao orientador cabe, ainda, planear, acompanhar e avaliar a FCT, em conjunto com o tutor e o aluno, nos termos definidos no regulamento da FCT, e em articulação com o diretor de curso.
+
+#### Artigo 20.º — Planeamento curricular
+
+1 - No âmbito das competências que lhe estão atribuídas, cabe aos órgãos de administração e de gestão da escola a conceção e operacionalização do planeamento curricular, designadamente no que respeita a prioridades e opções estruturantes de natureza curricular.
+
+2 - O conselho pedagógico, enquanto órgão de coordenação e supervisão pedagógica e orientação educativa, para além de propor a definição das opções curriculares estruturantes a consagrar no projeto educativo da escola, delibera sobre:
+
+a) A adoção de outros instrumentos do planeamento curricular, definindo, sempre que existam, a sua natureza e finalidades;
+
+b) As formas de monitorização do planeamento curricular no âmbito dos instrumentos adotados pela escola.
+
+3 - Na concretização das opções curriculares estruturantes, do planeamento e organização das atividades a desenvolver ao nível da turma ou grupo de alunos, com vista à prossecução das áreas de competência inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória intervêm, designadamente:
+
+a) O conselho de turma;
+
+b) As equipas educativas, caso existam;
+
+c) Outros professores ou técnicos que intervenham no processo de ensino e aprendizagem e representantes de serviços ou entidades cuja contribuição o conselho de turma considere conveniente;
+
+d) Os representantes dos pais e encarregados de educação da turma.
+
+4 - Os alunos são envolvidos no desenho de opções curriculares e na avaliação da sua eficácia, bem como no planeamento do ensino e na avaliação, tendo por referência processos de autorregulação da aprendizagem.
+
+5 - Assumem especial relevância no planeamento curricular os intervenientes diretamente envolvidos no processo de ensino, aprendizagem e avaliação, competindo-lhes, designadamente, promover:
+
+a) A adequação do currículo e das ações estratégicas de ensino às características específicas da turma ou grupo de alunos, tomando decisões relativas à consolidação, aprofundamento e enriquecimento das Aprendizagens Essenciais, quando aplicável;
+
+b) O desenvolvimento de trabalho interdisciplinar e de articulação curricular, sustentado em práticas de planeamento conjunto de estratégias de ensino e de aprendizagem, incluindo os procedimentos, técnicas e instrumentos de avaliação.
+
+6 - No desenvolvimento do previsto no n.º 3 devem ser privilegiadas dinâmicas de trabalho pedagógico de natureza interdisciplinar e de articulação disciplinar, concretizadas numa ação educativa que, nos termos previstos no n.º 3 do artigo 21.º do Decreto-Lei n.º 55/2018, de 6 de julho, vise, entre outras, garantir:
+
+a) Uma atuação preventiva que permita antecipar e prevenir o insucesso e o abandono escolares;
+
+b) A implementação das medidas multinível, universais, seletivas e adicionais, que se revelem ajustadas à aprendizagem e inclusão dos alunos;
+
+c) A rentabilização eficiente dos recursos existentes na escola e na comunidade;
+
+d) A adequação, diversidade e complementaridade das estratégias de ensino e aprendizagem, bem como a produção de informação descritiva sobre os desempenhos dos alunos;
+
+e) A regularidade da monitorização, avaliando a intencionalidade e o impacto das estratégias e medidas adotadas.
+
+### Secção II — Avaliação das aprendizagens
+
+#### Subsecção I — Processo de avaliação
+
+##### Artigo 21.º — Objeto da avaliação
+
+1 - A avaliação incide sobre as aprendizagens desenvolvidas pelos alunos, tendo por referência os documentos curriculares e, quando aplicável, as Aprendizagens Essenciais, que constituem orientação curricular de base, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+2 - A avaliação assume caráter contínuo e sistemático, ao serviço das aprendizagens, e fornece ao professor, ao aluno, ao encarregado de educação e aos restantes intervenientes informação sobre o desenvolvimento do trabalho, a qualidade das aprendizagens realizadas e os percursos para a sua melhoria.
+
+3 - As informações obtidas em resultado da avaliação permitem ainda a revisão do processo de ensino e de aprendizagem.
+
+4 - A avaliação certifica aprendizagens realizadas, nomeadamente os saberes adquiridos, bem como as capacidades e atitudes desenvolvidas no âmbito das áreas de competência inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+##### Artigo 22.º — Intervenientes e competências no processo de avaliação
+
+1 - No processo de avaliação das aprendizagens são intervenientes, para além dos constantes no artigo 20.º, o tutor designado pela entidade de acolhimento, no caso do Curso Secundário de Dança, personalidades de reconhecido mérito na área artística do respetivo curso e os serviços do Ministério da Educação.
+
+2 - Aos professores e outros profissionais intervenientes no processo de avaliação compete, designadamente, através da modalidade de avaliação formativa, em harmonia com as orientações definidas pelos órgãos com competências nos domínios pedagógico-didático:
+
+a) Adotar medidas que visam contribuir para as aprendizagens de todos os alunos;
+
+b) Fornecer informação aos alunos e encarregados de educação sobre o desenvolvimento das aprendizagens;
+
+c) Reajustar as práticas educativas, orientando-as para a promoção do sucesso educativo.
+
+3 - O acompanhamento e a avaliação das aprendizagens são da responsabilidade do conselho de turma, sob proposta dos professores de cada disciplina, bem como dos órgãos de administração e gestão e dos órgãos de coordenação e supervisão pedagógica da escola.
+
+4 - Compete ao diretor, com base em dados regulares da avaliação das aprendizagens e noutros elementos apresentados pelo diretor de turma, bem como pela equipa multidisciplinar, prevista no Decreto-Lei n.º 54/2018, de 6 de julho, mobilizar e coordenar os recursos educativos existentes, com vista a desencadear respostas adequadas às necessidades dos alunos.
+
+5 - As respostas às necessidades dos alunos, enquanto medidas de promoção do sucesso educativo, devem ser pedagogicamente alinhadas com evidências do desempenho, assumindo, sempre que aplicável, um caráter transitório.
+
+6 - O diretor deve ainda garantir o acesso à informação e assegurar as condições de participação dos alunos e dos encarregados de educação, dos professores e de outros profissionais intervenientes no processo, nos termos definidos no regulamento interno.
+
+##### Artigo 23.º — Critérios de avaliação
+
+1 - Até ao início do ano letivo, o conselho pedagógico da escola, enquanto órgão regulador do processo de avaliação das aprendizagens, define, no âmbito das prioridades e opções curriculares, e sob proposta dos departamentos curriculares, os critérios de avaliação tendo em conta, designadamente:
+
+a) O Perfil dos Alunos à Saída da Escolaridade Obrigatória;
+
+b) As Aprendizagens Essenciais, quando aplicável;
+
+c) Os demais documentos curriculares, visando, quando aplicável, a consolidação, aprofundamento e enriquecimento das Aprendizagens Essenciais.
+
+2 - Nos critérios de avaliação deve ser enunciado um perfil de aprendizagens específicas para cada ano de escolaridade, integrando descritores de desempenho, em consonância com os documentos curriculares em vigor e, quando aplicável, com as Aprendizagens Essenciais e as áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+3 - Os critérios de avaliação devem traduzir a importância relativa que cada um dos domínios e temas assume nas Aprendizagens Essenciais, quando aplicável, e nos demais documentos curriculares, designadamente no que respeita à valorização da competência da oralidade e à dimensão prática e ou experimental das aprendizagens a desenvolver.
+
+4 - Os critérios de avaliação constituem referenciais comuns na escola, sendo operacionalizados pelo conselho de turma.
+
+5 - No Curso Secundário de Dança, na definição dos critérios de avaliação constantes no n.º 1 participam ainda os diretores de curso, devendo os referidos critérios abranger a formação em contexto de trabalho.
+
+6 - O diretor da escola deve garantir a divulgação dos critérios de avaliação junto dos diversos intervenientes.
+
+##### Artigo 24.º — Registo, tratamento e análise da informação
+
+1 - As informações relativas a cada aluno decorrentes das diferentes modalidades de avaliação devem ser objeto de registo, nos termos a definir pelos órgãos de administração e gestão e de coordenação e supervisão pedagógica da escola.
+
+2 - Cabe ao diretor definir os procedimentos adequados para assegurar a circulação, em tempo útil, da informação relativa aos resultados e desempenhos escolares, a fim de garantir as condições necessárias para que os encarregados de educação e os alunos possam participar na melhoria das aprendizagens.
+
+3 - A partir da informação individual sobre o desempenho dos alunos e da informação agregada, nomeadamente de relatórios com resultados e outros dados relevantes ao nível da turma e da escola, os professores e os demais intervenientes no processo de ensino devem implementar rotinas de avaliação sobre as suas práticas pedagógicas com vista à consolidação ou reajustamento de estratégias que conduzam à melhoria das aprendizagens.
+
+4 - A análise a que se refere o número anterior deve ter em conta os indicadores de desempenho considerados relevantes, designadamente as taxas de retenção e desistência, transição e conclusão, numa lógica de melhoria de prestação do serviço educativo.
+
+5 - No processo de análise da informação, devem valorizar-se abordagens de complementaridade entre os dados da avaliação interna e os gerados pela avaliação externa, nomeadamente os decorrentes das PAA visando uma leitura abrangente do percurso de aprendizagem do aluno, designadamente no contexto específico da escola.
+
+6 - Do resultado da análise devem decorrer processos de planificação das atividades curriculares e extracurriculares que, sustentados pelos dados disponíveis, visem melhorar a qualidade das aprendizagens, combater o abandono escolar e promover o sucesso educativo.
+
+7 - Os resultados do processo mencionado nos n.os 3, 4 e 5 são disponibilizados à comunidade escolar pelos meios considerados adequados.
+
+#### Subsecção II — Avaliação interna e externa
+
+##### Artigo 25.º — Avaliação interna
+
+1 - A avaliação interna das aprendizagens compreende, de acordo com a finalidade que preside à recolha de informação, as modalidades formativa e sumativa.
+
+2 - A avaliação interna das aprendizagens é da responsabilidade dos professores e dos órgãos de administração e gestão e de coordenação e supervisão pedagógica da escola.
+
+3 - Na avaliação interna são envolvidos os alunos, privilegiando-se um processo de autorregulação das suas aprendizagens.
+
+##### Artigo 26.º — Avaliação formativa
+
+1 - A avaliação formativa, enquanto principal modalidade de avaliação, integra o processo de ensino e de aprendizagem fundamentando o seu desenvolvimento.
+
+2 - Os procedimentos a adotar no âmbito desta modalidade de avaliação devem privilegiar:
+
+a) A regulação do ensino e das aprendizagens, através da recolha de informação que permita conhecer a forma como se ensina e como se aprende, fundamentando a adoção e o ajustamento de medidas e estratégias pedagógicas;
+
+b) O carácter contínuo e sistemático dos processos avaliativos e a sua adaptação aos contextos em que ocorrem;
+
+c) A diversidade das formas de recolha de informação, recorrendo a uma variedade de procedimentos, técnicas e instrumentos adequados às finalidades que lhes presidem, à diversidade das aprendizagens, aos destinatários e às circunstâncias em que ocorrem.
+
+3 - Na recolha de informação sobre as aprendizagens, com recurso à diversidade e adequação de procedimentos, técnicas e instrumentos de avaliação, devem ser prosseguidos objetivos de melhoria da qualidade da informação a recolher.
+
+4 - A melhoria da qualidade da informação recolhida exige a triangulação de estratégias, técnicas e instrumentos, beneficiando com a intervenção de mais do que um avaliador.
+
+##### Artigo 27.º — Avaliação sumativa
+
+1 - A avaliação sumativa consubstancia um juízo global sobre as aprendizagens desenvolvidas pelos alunos.
+
+2 - A avaliação sumativa traduz a necessidade de, no final de cada período letivo, informar alunos e encarregados de educação sobre o estado de desenvolvimento das aprendizagens.
+
+3 - Esta modalidade de avaliação traduz ainda a tomada de decisão sobre o percurso escolar do aluno.
+
+4 - A coordenação do processo de tomada de decisão relativa à avaliação sumativa, garantindo a sua natureza globalizante e o respeito pelos critérios de avaliação referidos no artigo 23.º, compete ao diretor de turma.
+
+5 - A avaliação sumativa de disciplinas com organização de funcionamento diversa da anual processa-se do seguinte modo:
+
+a) Para a atribuição das classificações, o conselho de turma reúne no final do período de organização adotado;
+
+b) A classificação atribuída no final do período adotado fica registada em ata e está sujeita a aprovação do conselho de turma de avaliação no final do ano letivo.
+
+6 - Na organização de funcionamento de disciplinas diversa da anual não pode resultar uma diminuição do reporte aos alunos e encarregados de educação sobre a avaliação das aprendizagens, devendo ser garantida, pelo menos, uma vez durante o período adotado e, no final do mesmo, uma apreciação sobre a evolução das aprendizagens, incluindo as áreas a melhorar ou a consolidar, a inscrever na ficha de registo de avaliação.
+
+7 - A avaliação sumativa pode ainda processar-se através da realização de provas para a transição de ano ou grau, provas globais e provas de equivalência à frequência, nos termos dos artigos 29.º, 30.º e 31.º
+
+##### Artigo 28.º — Formalização da avaliação sumativa
+
+1 - A avaliação sumativa formalizada em reuniões do conselho de turma, no final de cada período escolar, tem, no final do 3.º período, as seguintes finalidades:
+
+a) Apreciação global das aprendizagens desenvolvidas pelo aluno e do seu aproveitamento ao longo do ano;
+
+b) Atribuição, no respetivo ano de escolaridade, de classificação de frequência ou de classificação final nas disciplinas e, ainda, no Curso Secundário de Dança, na FCT;
+
+c) Decisão, conforme os casos, sobre a progressão nas disciplinas ou transição de ano, bem como sobre a aprovação em disciplinas terminais dos 10.º, 11.º e 12.º anos de escolaridade.
+
+2 - As duas escolas envolvidas na lecionação da matriz curricular, dos cursos frequentados em regime articulado, devem estabelecer os mecanismos necessários para efeitos de articulação pedagógica, os quais devem integrar o regulamento interno.
+
+3 - A avaliação sumativa é da responsabilidade conjunta e exclusiva dos professores que compõem o conselho de turma, sob critérios aprovados pelo conselho pedagógico de acordo com o disposto no n.º 1 do artigo 23.º
+
+4 - A classificação a atribuir a cada aluno é proposta ao conselho de turma pelo professor de cada disciplina e pelo orientador da FCT.
+
+5 - A avaliação sumativa dos alunos que frequentam os Cursos Secundários de Música, de Canto ou de Canto Gregoriano em regime supletivo é formalizada nas condições definidas pelo conselho pedagógico, as quais devem constar do regulamento interno da escola, tendo em conta o disposto no n.º 1 do artigo 23.º e nos artigos 39.º, 40.º e 41.º, com as devidas adaptações.
+
+6 - As disciplinas constantes dos planos curriculares são objeto de classificações na escala de 0 a 20 valores e, sempre que se considere relevante, a classificação é acompanhada de uma apreciação descritiva sobre a evolução da aprendizagem do aluno, incluindo as áreas a melhorar ou a consolidar, sempre que aplicável, a inscrever na ficha de registo de avaliação.
+
+7 - Exceciona-se do disposto no número anterior Cidadania e Desenvolvimento que, em caso algum, é objeto de avaliação sumativa.
+
+8 - As aprendizagens desenvolvidas pelos alunos no quadro das opções curriculares, nomeadamente dos DAC, a que se refere o artigo 9.º, são consideradas na avaliação no âmbito de cada uma das disciplinas envolvidas.
+
+##### Artigo 29.º — Provas para transição de ano ou grau
+
+1 - Os alunos podem requerer ao órgão competente de direção ou gestão do estabelecimento de ensino artístico especializado a realização de provas de avaliação para transição de ano ou grau nas disciplinas das componentes científica e técnica artística.
+
+2 - As provas incidem sobre todo o programa do ano de escolaridade anterior àquele a que o aluno se candidata.
+
+3 - As provas de transição de ano ou grau devem ser realizadas até ao final do mês de fevereiro.
+
+4 - A classificação obtida na prova de transição de ano ou grau corresponde, em caso de aprovação, à classificação de frequência da disciplina no ano ou grau ao qual a mesma se reporta.
+
+5 - Compete ao conselho pedagógico da escola responsável pelas componentes de formação científica e técnica artística definir as regras e os procedimentos para a realização das provas, os quais devem constar no respetivo regulamento interno.
+
+##### Artigo 30.º — Provas globais
+
+1 - A avaliação das disciplinas terminais das componentes de formação científica e técnica artística pode incluir a realização de provas globais, cuja ponderação não pode ser superior a 50 % no apuramento da classificação de frequência da disciplina.
+
+2 - A realização das provas globais deve ocorrer dentro do calendário escolar previsto para este nível de ensino, podendo ainda decorrer dentro dos limites da calendarização definida para a realização de exames finais nacionais e provas de equivalência à frequência e em datas não coincidentes com exames finais nacionais que os alunos pretendam realizar.
+
+3 - A cada grupo disciplinar ou departamento curricular compete propor ao conselho pedagógico ou equivalente a informação sobre as provas globais, das quais devem constar:
+
+a) O objeto de avaliação;
+
+b) As características e estrutura da prova;
+
+c) Os critérios gerais de classificação;
+
+d) Material permitido;
+
+e) Duração da prova.
+
+4 - A informação a que se refere o número anterior, após aprovação pelo conselho pedagógico, deve ser afixada na escola, em local acessível aos interessados, até ao fim do mês de dezembro.
+
+5 - Os efeitos decorrentes de falta à prova global e procedimentos inerentes à marcação de nova prova global devem estar definidos em regulamento interno.
+
+##### Artigo 31.º — Provas de equivalência à frequência
+
+1 - As provas de equivalência realizam-se a nível de escola, em duas fases, com vista a certificação de conclusão do ensino secundário.
+
+2 - Aos alunos dos Cursos Secundários de Dança, de Música, de Canto e de Canto Gregoriano é facultada a apresentação a provas de equivalência à frequência em qualquer disciplina da respetiva matriz curricular-base, desde que frequentem ou tenham frequentado o ano terminal dessa disciplina.
+
+3 - Considerada a natureza das aprendizagens objeto de avaliação, e em função de parâmetros previamente definidos pelo conselho pedagógico, as provas podem ser constituídas pelas seguintes componentes:
+
+a) Escrita (E), que implica um registo escrito ou um registo bidimensional ou tridimensional e a possível utilização de diferentes materiais;
+
+b) Oral (O), que implica, com eventual recurso a um guião, a produção e interação oral na presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno;
+
+c) Prática (P), que implica a realização de tarefas objeto de avaliação performativa, em situações de organização individual ou em grupo, a manipulação de materiais, instrumentos e equipamentos, com eventual produção escrita, que incide sobre o trabalho prático e ou experimental produzido, implicando a presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno.
+
+4 - As provas referidas no número anterior têm como referencial base os documentos curriculares e, quando aplicável, as Aprendizagens Essenciais, relativos à totalidade dos anos que constituem o plano curricular de cada disciplina, devendo ainda contemplar a avaliação da capacidade de mobilização e integração dos saberes disciplinares, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+5 - Podem realizar provas de equivalência à frequência os candidatos autopropostos que se encontrem designadamente numa das seguintes situações:
+
+a) Tenham estado matriculados no ano terminal da disciplina a que respeita a prova e anulado a matrícula até ao final da penúltima semana do 3.º período;
+
+b) Pretendam obter aprovação em disciplina cujo ano terminal frequentaram sem aprovação;
+
+c) Pretendam obter aprovação em disciplinas do mesmo curso ou de curso diferente do frequentado e nas quais nunca tenham estado matriculados, desde que estejam ou tenham estado matriculados no ano curricular em que essas disciplinas são terminais;
+
+d) Sejam maiores de 18 anos, fora da escolaridade obrigatória, que possuindo o 3.º ciclo do ensino básico ou outra habilitação equivalente, não se encontrem matriculados ou tenham anulado a matrícula em todas as disciplinas até ao final da penúltima semana do 3.º período;
+
+e) Pretendam melhorar a classificação final da disciplina;
+
+f) Tenham ficado excluídos por faltas no ano terminal da disciplina, pela aplicação do previsto na alínea b) do n.º 4 do artigo 21.º do Estatuto do Aluno e Ética Escolar, e pretendam realizar provas na 2.ª fase desse mesmo ano escolar.
+
+6 - Os candidatos a que se refere a alínea d) do número anterior podem ser admitidos à prestação de provas de equivalência à frequência dos 11.º e 12.º anos de escolaridade.
+
+7 - Os alunos a frequentar o 11.º ou 12.º anos de escolaridade, matriculados em disciplinas plurianuais nos 10.º ou 11.º anos nas quais não tenham progredido, desde que estejam ou tenham estado matriculados no ano terminal das mesmas, podem ser admitidos à prova de equivalência à frequência ou exame final nacional dessas disciplinas, sem prejuízo do disposto no número seguinte.
+
+8 - A eventual reprovação na prova ou exame final nacional não determina anulação da classificação obtida na frequência do ano ou anos curriculares anteriores.
+
+9 - Os alunos excluídos por faltas em qualquer disciplina só podem apresentar-se à respetiva prova de equivalência à frequência no mesmo ano letivo, na 2.ª fase.
+
+10 - Aos alunos do 11.º ano é autorizada a realização de quaisquer provas de equivalência à frequência de disciplinas terminais nesse ano de escolaridade.
+
+11 - Aos alunos do 12.º ano, para efeitos de conclusão de curso, é facultada a apresentação a provas de equivalência à frequência em qualquer disciplina, independentemente do ano e do plano de estudos a que pertençam.
+
+12 - Os alunos aprovados em disciplinas terminais dos 11.º e 12.º anos de escolaridade, que pretendam melhorar a sua classificação podem requerer a realização de provas de equivalência à frequência:
+
+a) No ano de conclusão, na 2.ª fase;
+
+b) No ano escolar seguinte ao previsto na alínea anterior, na 1.ª e 2.ª fases.
+
+13 - Nos casos previstos no número anterior apenas é considerada a nova classificação caso seja superior à anteriormente obtida.
+
+14 - Para efeito de melhoria de classificação, são válidas somente as provas prestadas em disciplinas com o mesmo código de prova de equivalência à frequência do plano curricular em que o aluno obteve a primeira aprovação.
+
+15 - Não é permitida a realização de provas de equivalência à frequência para melhoria de classificação em disciplinas cuja aprovação foi obtida em sistemas de ensino estrangeiros.
+
+16 - A identificação das disciplinas da componente de formação geral em que existem provas de equivalência à frequência são as constantes do anexo viii da presente portaria, da qual faz parte integrante.
+
+17 - As normas e os procedimentos a observar relativos à realização das provas de equivalência à frequência, identificadas nos termos do número anterior, incluindo a sua duração, são objeto do regulamento de provas e exames aprovado por despacho do membro do Governo responsável pela área da Educação.
+
+18 - As provas de equivalência à frequência realizam-se no período de tempo fixado no calendário de provas e exames.
+
+19 - Aos alunos abrangidos por medidas universais, seletivas ou adicionais, aplicadas no âmbito do Decreto-Lei n.º 54/2018, de 6 de julho, que realizem provas de equivalência à frequência são garantidas, se necessário, adaptações no processo de realização das mesmas.
+
+20 - Compete ao conselho pedagógico definir as componentes e a duração das provas de equivalência à frequência realizadas nos anos terminais das disciplinas das componentes de formação científica e técnica artística.
+
+21 - Na FCT não há lugar à realização de prova de equivalência à frequência.
+
+- *Retificado pelo/a [Declaração de Retificação n.º 29/2018 - Diário da República n.º 170/2018, Série I de 2018-09-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-2018-116320539), em vigor a partir de 2018-08-15*
+
+##### Artigo 32.º — Avaliação externa
+
+1 - A avaliação externa das aprendizagens deve contemplar a avaliação da capacidade de mobilização e de integração de todos os conhecimentos, competências técnicas, artísticas e relacionais, a qual deve ser realizada em complemento da avaliação interna das aprendizagens através da PAA.
+
+2 - A natureza externa da PAA é assegurada pela integração no júri de personalidades externas de reconhecido mérito na área artística do curso e realiza-se nos termos previstos nos artigos 33.º a 35.º
+
+3 - Os alunos dos cursos regulados pela presente portaria podem candidatar-se, na qualidade de alunos autopropostos, à realização de exames finais nacionais, para certificação de disciplinas correspondentes dos cursos científico-humanísticos, para melhoria de classificação nas referidas disciplinas ou para ingresso no ensino superior.
+
+4 - Aos alunos abrangidos por medidas universais, seletivas ou adicionais, aplicadas no âmbito do regime jurídico da educação inclusiva, aprovado pelo Decreto-Lei n.º 54/2018, de 6 de julho, que realizem os exames finais nacionais nos termos do número anterior são garantidas, se necessário, adaptações no processo de realização das mesmas.
+
+##### Artigo 33.º — Prova de aptidão artística
+
+1 - A PAA, de acordo com o previsto na subalínea iv) da alínea b) do n.º 2 do artigo 23.º do Decreto-Lei n.º 55/2018, de 6 de julho, integra a avaliação externa.
+
+2 - A PAA consiste na apresentação, perante um júri, de um projeto, consubstanciado num desempenho demonstrativo de conhecimentos e competências técnicas e artísticas adquiridas pelo aluno ao longo da sua formação, e do respetivo relatório final, com apreciação crítica.
+
+3 - O projeto defendido na PAA centra-se em temas e problemas perspetivados e desenvolvidos pelo aluno e, quando aplicável, em estreita ligação com os contextos de trabalho, e realiza-se sob orientação e o acompanhamento de um ou mais professores.
+
+4 - Tendo em conta a natureza do projeto, este pode ser desenvolvido em equipa, desde que, em todas as suas fases e momentos de concretização, seja visível e avaliável a contribuição individual específica de cada um dos respetivos membros.
+
+5 - Os termos da realização da PAA, em ano letivo posterior ao do término da totalidade das disciplinas do plano de estudos, são aprovados pelo conselho pedagógico da escola onde esta se realiza, devendo ser dado conhecimento da resolução tomada aos serviços competentes do Ministério da Educação.
+
+##### Artigo 34.º — Júri da prova de aptidão artística
+
+1 - O júri de avaliação da PAA é designado pelo órgão de gestão e administração da escola e tem a seguinte composição:
+
+a) O diretor ou um seu representante, que preside;
+
+b) O diretor de curso;
+
+c) O diretor de turma;
+
+d) O orientador do projeto;
+
+e) Um representante de associação de setor afim ao curso ou um docente de outra escola com formação na área;
+
+f) Uma personalidade de reconhecido mérito na área artística do curso ou dos setores de atividade afins ao curso.
+
+2 - O júri, para deliberar, necessita da presença de, pelo menos, quatro elementos dos referidos no número anterior, estando, entre eles, obrigatoriamente:
+
+a) O elemento a que se refere a alínea a);
+
+b) Um dos elementos a que se referem as alíneas b) e c);
+
+c) Um dos elementos a que se refere a alínea e);
+
+d) O elemento a que se refere a alínea f).
+
+3 - Em caso de empate nas votações o presidente tem voto de qualidade.
+
+##### Artigo 35.º — Regulamento da prova de aptidão artística
+
+1 - A PAA rege-se, em todas as matérias não previstas no presente regime ou noutra legislação aplicável, por regulamento específico aprovado pelos órgãos de gestão e administração da escola que integra o respetivo regulamento interno.
+
+2 - O regulamento da PAA define, entre outras, as seguintes matérias:
+
+a) A forma de designação, bem como os direitos e deveres de todos os intervenientes;
+
+b) Os critérios e os procedimentos a observar pelos diferentes órgãos e demais intervenientes para aceitação e acompanhamento dos projetos;
+
+c) A negociação dos projetos, no contexto da escola e no contexto real de trabalho;
+
+d) A calendarização de todo o processo;
+
+e) A duração da PAA, a qual não poderá ultrapassar o período máximo de 45 minutos;
+
+f) Os critérios de classificação a observar pelo júri da PAA;
+
+g) Outras disposições que os órgãos de gestão e administração da escola entenderem por convenientes, designadamente o modo de justificação das faltas dos alunos no dia de apresentação da PAA e a marcação de uma segunda data para o efeito.
+
+3 - A classificação da PAA não pode ser objeto de pedido de reapreciação.
+
+#### Subsecção III — Transição, aprovação e progressão
+
+##### Artigo 36.º — Condições de transição e aprovação
+
+1 - A aprovação do aluno em cada disciplina, na FCT e na PAA, depende da obtenção de uma classificação final igual ou superior a 10 valores.
+
+2 - A progressão nas disciplinas das componentes de formação científica e técnica artística faz-se independentemente da progressão nas disciplinas da componente de formação geral.
+
+3 - A obtenção de classificação inferior a 10, em qualquer das disciplinas das componentes de formação científica e técnica artística, impede a progressão ou a aprovação na respetiva disciplina, sem prejuízo da progressão ou da aprovação nas restantes disciplinas.
+
+4 - Para os efeitos do disposto no n.º 1 a classificação de frequência no ano terminal das disciplinas da componente de formação geral não pode ser inferior a 8 valores.
+
+5 - A transição do aluno em todas as disciplinas da componente de formação geral para o ano de escolaridade seguinte verifica-se sempre que a classificação anual de frequência ou final de disciplina, consoante os casos, não seja inferior a 10 valores a mais que duas disciplinas, sem prejuízo do disposto nos números seguintes.
+
+6 - Para os efeitos previstos no número anterior, são consideradas as disciplinas constantes da componente de formação geral a que o aluno tenha obtido classificação inferior a 10 valores, em que tenha sido excluído por faltas, ou em que tenha anulado a matrícula.
+
+7 - Para a transição do 11.º para o 12.º ano, nas disciplinas da componente de formação geral, são consideradas, igualmente, as disciplinas em que o aluno não progrediu na transição do 10.º ano para o 11.º ano, nesta componente.
+
+8 - Os alunos que, na componente de formação geral, transitam para o ano seguinte com classificações inferiores a 10 valores em uma ou em duas disciplinas progridem nessa ou nessas disciplinas, desde que a classificação ou classificações obtidas não sejam inferiores a 8 valores, sem prejuízo do disposto no número seguinte.
+
+9 - Os alunos não progridem em disciplinas da componente de formação geral em que tenham obtido classificação inferior a 10 valores em dois anos curriculares consecutivos.
+
+10 - Os alunos que não transitam para o ano de escolaridade seguinte nas disciplinas da componente de formação geral não progridem nas disciplinas em que obtiveram classificações inferiores a 10 valores.
+
+11 - A disciplina de Educação Moral e Religiosa, quando frequentada com assiduidade, não é considerada para os efeitos de transição de ano.
+
+12 - Os alunos excluídos por faltas na disciplina de Educação Moral e Religiosa realizam, no final do 10.º, 11.º ou 12.º ano de escolaridade, consoante o ano em que se verificou a exclusão, uma prova especial de avaliação elaborada ao nível de escola.
+
+13 - A aprovação na disciplina, na situação considerada no número anterior, verifica-se quando o aluno obtém naquela prova uma classificação igual ou superior a 10 valores.
+
+14 - Nas situações em que o aluno tenha procedido a substituição de disciplinas no plano de estudos, nos termos legalmente previstos, as novas disciplinas passam a integrar o plano de estudos do aluno, sendo consideradas para efeitos de transição de ano, de acordo com as condições estabelecidas no presente artigo.
+
+15 - Aos alunos retidos, além da renovação da matrícula nas disciplinas em que não progrediram ou não obtiveram aprovação, é ainda facultada a matrícula, nesse ano, em disciplinas do mesmo ano de escolaridade em que tenham progredido ou sido aprovados, para efeitos de melhoria de classificação, a qual só será considerada quando for superior à já obtida, desde que haja disponibilidade da escola e não implique acréscimo de encargos para o erário público.
+
+##### Artigo 37.º — Situações especiais de classificação
+
+1 - Sempre que, em qualquer disciplina anual, o número de aulas ministradas durante todo o ano letivo não tenha atingido o número previsto para oito semanas completas, considera-se o aluno aprovado, sem atribuição de classificação nessa disciplina.
+
+2 - Para obtenção de classificação, no caso referido no número anterior, o aluno pode repetir a frequência da disciplina, de acordo com as concretas possibilidades da escola, ou requerer prova de equivalência à frequência.
+
+3 - Caso a situação prevista no número anterior ocorra em disciplinas plurianuais, considera-se o mesmo aprovado ou em condições de progredir na disciplina, conforme se trate, ou não, de ano terminal da mesma, sem atribuição de classificação nesse ano curricular, sem prejuízo do disposto no número seguinte.
+
+4 - Para efeitos de atribuição de classificação final de disciplina, considera-se a classificação obtida ou a média aritmética simples, arredondada às unidades, das classificações obtidas no(s) ano(s) em que foi atribuída classificação, exceto se a classificação final for inferior a 10 valores, caso em que o aluno deve realizar prova de equivalência à frequência.
+
+5 - Nos casos referidos no n.º 3, para obtenção de classificação anual de frequência, o aluno pode repetir a frequência da disciplina, de acordo com as concretas possibilidades da escola, ou ainda, requerer prova de equivalência à frequência, nos casos em que a situação ocorra no ano terminal da mesma.
+
+6 - Para obtenção de classificação anual de frequência nos casos referidos nos números anteriores, o aluno pode repetir a frequência da disciplina, de acordo com as possibilidades da escola, exceto quando se tratar de ano terminal da mesma.
+
+7 - Nas situações referidas nos n.os 2, 5 e 6, apenas é considerada a classificação obtida se o aluno beneficiar da mesma.
+
+8 - Se, por motivo da exclusiva responsabilidade da escola ou por falta de assiduidade decorrente de doença prolongada ou impedimento legal devidamente comprovado, não existirem, em qualquer disciplina, elementos de avaliação sumativa respeitantes ao 3.º período letivo, a classificação anual de frequência é atribuída pelo conselho de turma, tomando por referência as classificações obtidas no 2.º período letivo.
+
+9 - Sempre que, por falta de assiduidade motivada por doença prolongada ou por impedimento legal devidamente comprovado, o aluno frequentar as aulas durante um único período letivo, fica sujeito à realização de uma prova extraordinária de avaliação (PEA) em cada disciplina.
+
+10 - Aos alunos titulares de habilitações estrangeiras a quem, por ingresso tardio no sistema de ensino português, apenas tenha sido possível a atribuição de classificação num só período letivo, aplica-se o disposto no número anterior.
+
+11 - Para efeitos do n.º 9 a classificação anual de frequência a atribuir a cada disciplina é a seguinte:
+
+CAF = (CF + PEA)/2
+
+em que:
+
+CAF = classificação anual de frequência;
+
+CF = classificação de frequência do período frequentado;
+
+PEA = classificação da prova extraordinária de avaliação.
+
+12 - A PEA deve abranger as Aprendizagens Essenciais, quando aplicável, ou a totalidade do programa, do ano curricular em causa, obedecendo aos procedimentos específicos constantes do anexo ix à presente portaria, da qual faz parte integrante.
+
+13 - Se, por motivo da exclusiva responsabilidade da escola, apenas existirem em qualquer disciplina elementos de avaliação respeitantes a um dos três períodos letivos, os alunos podem optar entre:
+
+a) Ser-lhes considerada como classificação anual de frequência a obtida nesse período;
+
+b) Não lhes ser atribuída classificação anual de frequência nessa disciplina.
+
+14 - Na situação prevista na alínea b) do número anterior, observa-se o seguinte:
+
+a) No caso de disciplinas anuais considera-se o aluno aprovado, sem atribuição de classificação;
+
+b) No caso de disciplinas plurianuais, considera-se o aluno aprovado ou em condições de progredir na disciplina, conforme se trate ou não do ano terminal da mesma, sem atribuição de classificação nesse ano curricular, sem prejuízo do disposto na alínea seguinte;
+
+c) Para efeitos de atribuição de classificação final de disciplina, no caso referido na alínea anterior, considera-se a classificação obtida ou a média aritmética simples, arredondada às unidades, das classificações obtidas no(s) ano(s) em que foi atribuída classificação, exceto se a classificação final for inferior a 10 valores, caso em que o aluno realiza prova de equivalência à frequência.
+
+15 - A classificação anual de frequência, calculada nos termos do n.º 11, é considerada para efeitos de classificação final da disciplina.
+
+- *Retificado pelo/a [Declaração de Retificação n.º 29/2018 - Diário da República n.º 170/2018, Série I de 2018-09-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-2018-116320539), em vigor a partir de 2018-08-15*
+
+##### Artigo 38.º — Classificação final das disciplinas
+
+1 - A classificação final das disciplinas é obtida da seguinte forma:
+
+a) Nas disciplinas anuais, pela atribuição da classificação de frequência;
+
+b) Nas disciplinas plurianuais, pela média aritmética simples das classificações anuais de frequência dos anos em que foram ministradas, com arredondamento às unidades.
+
+2 - A classificação final em qualquer disciplina pode também obter-se pelo recurso à realização exclusiva, na qualidade de aluno autoproposto, de provas de equivalência à frequência ou de exames finais nacionais, sendo a classificação final, em caso de aprovação, a obtida na prova.
+
+##### Artigo 39.º — Classificação final de curso
+
+1 - A classificação final de curso é o resultado da aplicação da seguinte fórmula.
+
+CFC = (8MCD + 2PAA)/10
+
+em que:
+
+CFC = classificação final de curso (com arredondamento às unidades);
+
+MCD = média aritmética simples, com arredondamento às unidades, da classificação final obtida pelo aluno em todas as disciplinas e, no Curso Secundário de Dança, na formação em contexto de trabalho;
+
+PAA = classificação obtida na prova de aptidão artística.
+
+2 - A disciplina de Educação Moral e Religiosa não é considerada para efeitos de apuramento de classificação final do curso.
+
+##### Artigo 40.º — Conselho de turma de avaliação
+
+1 - O conselho de turma, para efeitos de avaliação dos alunos, é constituído pelos professores da turma.
+
+2 - Quando as componentes de formação são ministradas em mais do que uma escola cabe a estas estabelecerem os mecanismos necessários para efeitos de articulação pedagógica e de procedimentos de avaliação.
+
+3 - Compete aos conselhos de turma:
+
+a) Apreciar a proposta de classificação apresentada por cada professor, tendo em conta as informações que a suportam e a situação global do aluno;
+
+b) Deliberar sobre a classificação final a atribuir em cada disciplina.
+
+4 - O funcionamento dos conselhos de turma obedece ao previsto no Código do Procedimento Administrativo.
+
+5 - Quando a reunião não se puder realizar, por falta de quórum ou por indisponibilidade de elementos de avaliação, deve ser convocada nova reunião, no prazo máximo de 48 horas, para a qual cada um dos docentes deve previamente disponibilizar, ao diretor da escola, os elementos de avaliação de cada aluno.
+
+6 - Nas situações previstas no número anterior, o diretor de turma, ou quem o substitua, apresenta ao conselho de turma os elementos de avaliação de cada aluno previamente disponibilizados.
+
+7 - As deliberações dos conselhos de turma de avaliação devem resultar do consenso dos professores que os integram.
+
+8 - No conselho de turma podem intervir, sem direito a voto, outros professores ou técnicos que participem no processo de ensino e aprendizagem, bem como outros elementos cuja participação o conselho pedagógico considere conveniente.
+
+##### Artigo 41.º — Registo das classificações
+
+1 - As classificações atribuídas no final de cada período letivo são registadas em pauta, bem como nos restantes documentos previstos para esse efeito.
+
+2 - O aproveitamento final de cada disciplina é expresso pela classificação atribuída pelo conselho de turma na reunião de avaliação do 3.º período.
+
+3 - As deliberações do conselho de turma são ratificadas pelo diretor da escola.
+
+4 - O diretor da escola deve garantir a verificação das pautas e da restante documentação relativa às reuniões dos conselhos de turma, assegurando-se da conformidade das mesmas com as disposições em vigor, competindo-lhe desencadear os mecanismos necessários à correção de eventuais irregularidades.
+
+5 - As pautas, após a ratificação prevista no n.º 3, são afixadas em local apropriado no interior da escola, nelas devendo constar a data da respetiva afixação.
+
+6 - O diretor da escola, sempre que o considere justificado, pode determinar a repetição da reunião do conselho de turma, informando sobre os motivos que fundamentam tal determinação.
+
+7 - Se após a repetição da reunião, subsistirem factos que, no entender do diretor da escola, impeçam a ratificação da deliberação do conselho de turma, deve a situação ser apreciada em reunião do conselho pedagógico.
+
+##### Artigo 42.º — Revisão das decisões
+
+1 - As decisões relativas à avaliação das aprendizagens no 3.º período podem ser objeto de pedido de revisão subscrito pelo encarregado de educação, ou pelo aluno quando maior de idade.
+
+2 - Os pedidos de revisão são dirigidos ao diretor da escola, mediante requerimento devidamente fundamentado em razões de ordem técnica, pedagógica ou legal, no prazo de três dias úteis, a contar da data da afixação da pauta, acompanhado dos documentos considerados pertinentes.
+
+3 - Os requerimentos recebidos depois de expirado o prazo fixado no número anterior, bem como os que não apresentem qualquer fundamentação são liminarmente indeferidos.
+
+4 - O diretor convoca, nos cinco dias úteis após a aceitação do requerimento, uma reunião extraordinária do conselho de turma para apreciação do pedido.
+
+5 - O conselho de turma, reunido extraordinariamente, aprecia o pedido e delibera sobre o mesmo, elaborando um relatório pormenorizado, que deve integrar a ata da reunião.
+
+6 - Nos casos em que o conselho de turma mantenha a sua deliberação, o processo aberto pelo pedido de revisão é enviado pelo diretor ao conselho pedagógico para parecer prévio à decisão final.
+
+7 - Da decisão do diretor e respetiva fundamentação é dado conhecimento ao interessado, através de carta registada, no prazo máximo de 30 dias úteis, contados a partir do dia útil seguinte ao da data da receção do requerimento, a que se refere o n.º 2.
+
+8 - Da decisão que recaiu sobre o pedido de revisão pode ser interposto, no prazo de cinco dias úteis após a data da receção da resposta, recurso hierárquico para o Diretor-Geral dos Estabelecimentos Escolares, quando o mesmo for baseado em vício de forma existente no processo.
+
+9 - Da decisão do recurso hierárquico não cabe qualquer outra forma de impugnação administrativa.
+
+##### Artigo 43.º — Impugnação das classificações das provas e exames finais nacionais
+
+As classificações referentes às provas de equivalência à frequência e aos exames finais nacionais são passíveis de impugnação administrativa, nos termos do regulamento de provas e exames aprovado por despacho do membro do Governo responsável pela área da educação.
+
+#### Subsecção IV — Conclusão e certificação
+
+##### Artigo 44.º — Certificação
+
+1 - Concluem o Curso Secundário de Dança os alunos aprovados em todas as disciplinas da matriz curricular do curso, na FCT e na PAA, obtendo o nível 4 de qualificação do Quadro Nacional de Qualificações (QNQ) e correspondente nível do Quadro Europeu de Qualificações (QEQ).
+
+2 - Concluem os Cursos Secundários de Música, de Canto ou de Canto Gregoriano os alunos aprovados em todas as disciplinas da matriz curricular do respetivo curso e na PAA, obtendo o nível 3 de qualificação do QNQ e correspondente nível do QEQ.
+
+3 - Aos alunos em regime supletivo que obtenham aprovação em todas as disciplinas do respetivo curso e na PAA é conferido o direito à emissão dos diploma e certificado previstos no número seguinte, após comprovarem ter concluído noutra modalidade de ensino as disciplinas relativas à componente de formação geral.
+
+4 - A conclusão de um curso é certificada através da emissão, em regra, em formato eletrónico de:
+
+a) Um diploma que ateste a conclusão do nível secundário de educação e indique o curso concluído e a respetiva classificação final, bem como o nível de qualificação obtido, de acordo com o QNQ e correspondente nível do QEQ e, no caso do Curso Secundário de Dança, ainda, a obtenção de certificação profissional;
+
+b) Um certificado que ateste o nível de qualificação de acordo com o QNQ e correspondente nível do QEQ, discrimine as disciplinas da matriz curricular, o projeto apresentado na PAA, a FCT, no caso do Curso Secundário de Dança, e as respetivas classificações finais.
+
+5 - Os certificados a que se refere a alínea b) do número anterior devem ainda atestar a participação do aluno em representação dos pares em órgãos do estabelecimento de ensino e em atividades e projetos, designadamente, culturais, artísticos, desportivos, científicos e no âmbito do suporte básico de vida, de Cidadania e Desenvolvimento, entre outros de relevante interesse social desenvolvidos no âmbito da escola.
+
+6 - Para os alunos abrangidos por medidas adicionais, designadamente adaptações curriculares significativas, aplicadas no âmbito do Decreto-Lei n.º 54/2018, de 6 de julho, a certificação obedece ao disposto no respetivo artigo 30.º
+
+7 - A requerimento dos interessados, podem ainda ser emitidas, em qualquer momento do percurso escolar, certidões das habilitações adquiridas, as quais devem discriminar as disciplinas concluídas e as respetivas classificações.
+
+8 - Sempre que o aluno, após conclusão de qualquer curso do ensino secundário, concluir uma ou mais disciplinas, cuja frequência seja iniciada no ano seguinte ao da conclusão do curso, a classificação obtida nessa(s) disciplina(s) pode contar, por opção do aluno, para efeitos de cálculo da média final de curso, desde que as disciplinas integrem o plano de estudos do curso concluído e sejam concluídas no período correspondente ao ciclo de estudos das mesmas, devendo nestes casos ser emitidos novos diplomas e certificados.
+
+9 - A emissão do diploma, do certificado e das certidões referidos nos números anteriores é da competência da escola responsável pelas componentes de formação científica e técnica artística.
+
+10 - Para efeitos do disposto no número anterior, deve a escola ser detentora de toda a informação relativa ao percurso escolar do aluno.

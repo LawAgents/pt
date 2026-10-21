@@ -1,0 +1,52 @@
+# id | tema (um id pode ter vários temas)
+decreto-aprovacao-constituicao-1976-dre-502635 | Direito constitucional
+decreto-lei-47344-1966 | Direito civil
+lei-6-2006 | Direito civil
+decreto-lei-446-1985 | Direito civil
+lei-37-1981 | Direito civil
+decreto-lei-48-1995 | Direito penal
+lei-115-2009 | Direito penal
+lei-83-2017 | Direito penal
+lei-41-2013 | Direito processual civil e administrativo
+lei-15-2002 | Direito processual civil e administrativo
+lei-62-2013 | Direito processual civil e administrativo
+decreto-lei-78-1987 | Direito processual penal
+lei-115-2009 | Direito processual penal
+lei-7-2009 | Direito do trabalho
+lei-99-2003 | Direito do trabalho
+decreto-lei-480-1999 | Direito do trabalho
+lei-110-2009 | Segurança social
+lei-4-2007 | Segurança social
+decreto-lei-262-1986 | Direito comercial e societário
+decreto-lei-486-1999 | Direito comercial e societário
+decreto-lei-53-2004 | Direito comercial e societário
+decreto-lei-403-1986 | Direito comercial e societário
+lei-119-2015 | Direito comercial e societário
+lei-19-2012 | Direito comercial e societário
+decreto-lei-4-2015 | Direito administrativo
+lei-15-2002 | Direito administrativo
+lei-168-1999 | Direito administrativo
+decreto-lei-18-2008 | Contratação pública
+lei-2-2014 | Direito fiscal
+lei-82-e-2014 | Direito fiscal
+decreto-lei-102-2008 | Direito fiscal
+lei-150-1999 | Direito fiscal
+decreto-lei-433-1999 | Direito fiscal
+decreto-lei-287-2003 | Direito fiscal
+decreto-lei-398-1998 | Direito fiscal
+decreto-lei-73-2010 | Direito fiscal
+decreto-lei-555-1999 | Urbanismo e habitação
+lei-6-2006 | Urbanismo e habitação
+lei-24-1996 | Consumo e publicidade
+decreto-lei-330-1990 | Consumo e publicidade
+decreto-lei-446-1985 | Consumo e publicidade
+decreto-lei-224-1984 | Registos e notariado
+decreto-lei-403-1986 | Registos e notariado
+decreto-lei-131-1995 | Registos e notariado
+decreto-lei-207-1995 | Registos e notariado
+decreto-lei-110-2018 | Propriedade intelectual
+decreto-lei-63-1985 | Propriedade intelectual
+lei-72-2013 | Trânsito e estrada
+lei-23-2007 | Estrangeiros e nacionalidade
+lei-37-1981 | Estrangeiros e nacionalidade
+decreto-lei-72-2008 | Seguros

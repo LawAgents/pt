@@ -1,0 +1,162 @@
+---
+id: "portaria-29-2021-anexo-regulamento-do-conselho-nacional-de-habitacao"
+dre_id: "156848062"
+title: "Portaria n.º 29/2021, de 9 de fevereiro — ANEXO — REGULAMENTO DO CONSELHO NACIONAL DE HABITAÇÃO"
+type: "Portaria"
+number: "29/2021"
+year: 2021
+date: 2021-02-09
+issuer: "Infraestruturas e Habitação"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2022-11-23
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-203802295"
+original_pdf: "https://files.diariodarepublica.pt/1s/2021/02/02700/0001800021.pdf"
+retrieved: 2026-10-21
+summary: "Procede à criação do Conselho Nacional de Habitação, enquanto órgão de consulta do Governo no domínio da política nacional de habitação"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "portaria-29-2021"
+part: "ANEXO — REGULAMENTO DO CONSELHO NACIONAL DE HABITAÇÃO"
+---
+
+# Portaria n.º 29/2021, de 9 de fevereiro — ANEXO — REGULAMENTO DO CONSELHO NACIONAL DE HABITAÇÃO
+
+## ANEXO — REGULAMENTO DO CONSELHO NACIONAL DE HABITAÇÃO
+
+### Capítulo I — Disposições gerais
+
+#### Artigo 1.º — Âmbito
+
+O Conselho Nacional de Habitação, doravante designado por Conselho, é o órgão de consulta do Governo no domínio da política nacional de habitação e funciona junto do membro do Governo responsável pela área da habitação.
+
+#### Artigo 2.º — Competências
+
+1 - Cabe ao Conselho:
+
+a) Aprovar o seu regimento;
+
+b) Emitir parecer sobre a proposta de Programa Nacional de Habitação e sobre o Relatório Anual da Habitação;
+
+c) Emitir parecer sobre os relatórios anuais do Observatório da Habitação, do Arrendamento e da Reabilitação Urbana;
+
+d) Emitir pareceres e propor medidas ao Governo, em matérias de política nacional de habitação.
+
+2 - Sem prejuízo do disposto no número anterior, o Conselho deve emitir parecer sempre que tal lhe seja solicitado pelo membro do Governo responsável pela área da habitação.
+
+3 - Os pareceres e propostas do Conselho não são vinculativos.
+
+#### Artigo 3.º — Composição
+
+1 - O Conselho é presidido, sem direito a voto, pelo ministro responsável pela área da habitação, com faculdade de delegação.
+
+2 - O Conselho é composto pelos seguintes membros:
+
+a) Um representante do Instituto da Habitação e da Reabilitação Urbana, I. P.;
+
+b) Um representante da Região Autónoma dos Açores;
+
+c) Um representante da Região Autónoma da Madeira;
+
+d) Um representante das associações ou estruturas federativas das cooperativas de habitação ou, na sua ausência, um representante das cooperativas de habitação e construção;
+
+e) Um representante das associações ou estruturas federativas de habitação colaborativa ou, na sua ausência, um representante das associações de habitação colaborativa;
+
+f) Um representante das associações ou estruturas federativas das organizações de moradores ou, não existindo, um representante das organizações de moradores;
+
+g) Um representante da Direção-Geral do Tesouro e Finanças;
+
+h) Um representante da Direção-Geral do Património Cultural;
+
+i) Um representante da Direção-Geral de Administração Interna;
+
+j) Um representante do Instituto dos Mercados Públicos do Imobiliário e da Construção, I. P.;
+
+k) Um representante do Laboratório Nacional de Engenharia Civil, I. P.;
+
+l) Um representante do Instituto da Segurança Social, I. P.;
+
+m) Um representante da Associação Nacional de Municípios Portugueses;
+
+n) Um representante da Associação Nacional de Freguesias;
+
+o) Um representante da Associação Portuguesa de Habitação Municipal;
+
+p) Um representante da União das Misericórdias Portuguesas;
+
+q) Um representante da Ordem dos Engenheiros;
+
+r) Um representante da Ordem dos Arquitetos;
+
+s) Um representante de associações empresariais e profissionais do setor da construção civil e obras públicas;
+
+t) Um representante de associações de proprietários;
+
+u) Um representante de associações de inquilinos;
+
+v) Um representante do Conselho Nacional de Juventude.
+
+w) Um representante da Ordem dos Engenheiros Técnicos;
+
+x) Um representante da Ordem dos Economistas;
+
+y) Um representante da Associação Portuguesa para a Defesa do Consumidor;
+
+z) Um representante da Associação Portuguesa de Promotores e Investidores Imobiliários;
+
+aa) Um representante de associações de mediação imobiliária;
+
+bb) Um representante do Instituto de Gestão Financeira da Segurança Social, I. P.
+
+3 - Em função da natureza das matérias a abordar, o presidente, por sua iniciativa ou mediante solicitação de um ou mais membros do Conselho, pode convocar para participar nas reuniões do Conselho, sem direito a voto, outras individualidades ou entidades e ainda atribuir o estatuto de observador permanente, sem direito de voto, a outras individualidades ou entidades.
+
+4 - Compete ao presidente do Conselho proceder à notificação das entidades referidas no n.º 2 para que estas indiquem, no prazo de 30 dias, o seu representante.
+
+5 - No caso das alíneas d), e), f), s), t), u) e aa), existindo mais do que uma associação representativa, a notificação é remetida para todas para que, de forma conjunta, indiquem um único representante da respetiva atividade.
+
+6 - Deve ser designado um suplente, que substitui os representantes nas suas ausências e impedimentos.
+
+7 - A designação dos representantes prevista nos números anteriores incorpora a delegação ou subdelegação dos poderes necessários à vinculação daqueles serviços e entidades.
+
+8 - Caso o representante, apesar de regularmente convocado, não compareça à reunião, nem o mesmo ou a entidade que representa manifeste a sua posição até à data da reunião, considera-se que nada tem a opor aos pareceres emanados.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2022 - Diário da República n.º 226/2022, Série I de 2022-11-23](https://diariodarepublica.pt/dr/detalhe/portaria/282-2022-203802286), em vigor a partir de 2022-11-24*
+
+#### Artigo 4.º — Mandato dos membros do Conselho
+
+1 - Os membros do Conselho exercem o seu mandato por um período de três anos, sem direito a remuneração e sem prejuízo de poderem ser a todo o tempo substituídos pelas entidades que os designarem, por iniciativa destas ou a pedido do presidente.
+
+2 - As designações para as vagas que ocorram no decurso do triénio consideram-se feitas até ao termo deste.
+
+3 - Findo o período previsto nos números anteriores, considera-se o mandato prorrogado até à designação dos novos membros.
+
+#### Artigo 5.º — Direitos e competências dos membros do Conselho
+
+Os membros do Conselho, identificados no n.º 2 do artigo 3.º, têm, entre outros, os seguintes direitos e competências:
+
+a) Apresentar propostas para o regimento do Conselho e para alterações ao mesmo, sem prejuízo do disposto no artigo seguinte;
+
+b) Participar nas votações de todas as matérias submetidas à apreciação do Conselho;
+
+c) Propor ao plenário do Conselho deliberar matérias a serem consideradas em pareceres e propostas de medidas a apresentar ao Governo.
+
+#### Artigo 6.º — Funcionamento do Conselho
+
+1 - O Conselho reúne ordinariamente duas vezes por ano ou, extraordinariamente, por iniciativa do presidente.
+
+2 - As reuniões são convocadas, preferencialmente por meios telemáticos, pelo presidente, com a antecedência de 15 dias, salvo motivo de força maior.
+
+3 - As convocatórias indicam o dia, a hora e o local da reunião e a ordem de trabalhos e contêm a documentação de suporte sobre cada assunto dela constante.
+
+4 - As faltas às reuniões devem ser comunicadas e justificadas ao presidente e, quando previsíveis, ser acompanhadas da indicação de substituição pelo suplente.
+
+5 - As reuniões podem realizar-se de forma presencial ou através de meios telemáticos.
+
+#### Artigo 7.º — Publicidade
+
+Os pareceres e as propostas de medidas do Conselho, bem como as correspondentes declarações de voto, se as houver, devem ser publicitados no Portal da Habitação.
+
+#### Artigo 8.º — Apoio
+
+1 - Os membros do Conselho não têm, pelo exercício dessas funções, direito a receber qualquer tipo de remuneração ou abono.
+
+2 - O apoio administrativo ao Conselho é prestado pelo gabinete do membro do Governo responsável pela área da habitação, com o apoio da competente Secretaria-Geral.

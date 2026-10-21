@@ -1,0 +1,4 @@
+# TEST FIXTURE ONLY. Not the real list of common names (the owner writes config/nomes-comuns.txt, 30 to 50 entries).
+# Format: id | common name | acronym1, acronym2
+lei-24-1996 | Lei de Defesa do Consumidor | LDC, Lei 24/96
+decreto-lei-330-1990 | Código da Publicidade | CPub

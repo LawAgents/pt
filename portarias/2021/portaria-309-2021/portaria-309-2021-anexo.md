@@ -1,0 +1,322 @@
+---
+id: "portaria-309-2021-anexo"
+dre_id: "176075695"
+title: "Portaria n.º 309/2021, de 17 de dezembro — Anexo"
+type: "Portaria"
+number: "309/2021"
+year: 2021
+date: 2021-12-17
+issuer: "Mar"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2025-03-06
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-909884296"
+original_pdf: "https://files.diariodarepublica.pt/1s/2021/12/24300/0022900236.pdf"
+retrieved: 2026-10-21
+summary: "Cria o Comité de Cogestão para a Apanha de Percebe (Pollicipes pollicipes) na Reserva Natural das Berlengas (RNB), cuja área faz parte da Reserva da Biosfera das Berlengas, classificada pela UNESCO"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "portaria-309-2021"
+part: "Anexo"
+---
+
+# Portaria n.º 309/2021, de 17 de dezembro — Anexo
+
+## Anexo
+
+### Capítulo I — Disposições gerais
+
+#### Artigo 1.º — Missão
+
+O Comité de Cogestão para a Apanha de Percebe (Pollicipes pollicipes) na Reserva Natural das Berlengas (RNB), cuja área faz parte da Reserva da Biosfera das Berlengas classificada pela UNESCO, abreviadamente designado por Comité, tem por missão gerir e monitorizar de forma sustentável a apanha do percebe (Pollicipes pollicipes) na RNB, de acordo com o conhecimento científico, avaliando os dados científicos disponíveis e coordenando as várias atividades envolvidas, nos termos do presente estatuto.
+
+#### Artigo 2.º — Competências do Comité
+
+Compete ao Comité:
+
+a) Garantir e desenvolver ações para promover o bom estado do percebe (Pollicipes pollicipes) na RNB;
+
+b) Assegurar a sustentabilidade da atividade de apanha de percebe (Pollicipes pollicipes) na RNB, considerando as características socioeconómicas da atividade, as características ecológicas do percebe (Pollicipes pollicipes) e a área de pesca abrangida;
+
+c) Aprovar as propostas de planos de gestão a submeter à aprovação do membro do Governo responsável pela área do mar;
+
+d) Acompanhar a execução dos planos de gestão, elaborando, até 30 de março de cada ano, os correspondentes relatórios, que devem ser aprovados pelo membro do Governo responsável pela área do mar;
+
+e) Elaborar e propor alterações ao regulamento da apanha de percebe (Pollicipes pollicipes) na área da RNB, aprovado pela Portaria n.º 378/2000, de 27 de junho, na redação em vigor, a submeter ao membro do Governo responsável pela área do mar;
+
+f) Comunicar às autoridades competentes quaisquer factos suscetíveis de constituir incumprimento de regras relativas ao regime jurídico do exercício da atividade profissional da pesca comercial marítima;
+
+g) Zelar pelo cumprimento das regras da Política Comum das Pescas.
+
+### Capítulo II — Composição
+
+#### Artigo 3.º — Membros permanentes
+
+1 - O Comité é composto pelos seguintes membros permanentes:
+
+a) Todos os mariscadores devidamente licenciados para a apanha do percebe (Pollicipes pollicipes) na RNB;
+
+b) Um representante do membro do Governo responsável pela área do mar;
+
+c) Um representante da Arméria - Movimento Ambientalista de Peniche;
+
+d) Um representante da Autoridade Marítima Nacional - Capitania do Porto de Peniche e Comando Local da Polícia Marítima de Peniche;
+
+e) Um representante da Câmara Municipal de Peniche;
+
+f) Um representante da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;
+
+g) Um representante da Docapesca - Portos e Lotas, S. A.;
+
+h) Um representante da Guarda Nacional Republicana - Unidade de Controlo Costeiro Local;
+
+i) Um representante do Instituto da Conservação da Natureza e das Florestas - RNB;
+
+j) Um representante do Instituto Português do Mar e da Atmosfera, I. P. (IPMA);
+
+k) Um representante do Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar;
+
+l) Um representante da Universidade de Évora;
+
+m) Um representante da Plataforma de Organizações não Governamentais Portuguesas sobre a Pesca (PONG-Pesca);
+
+n) Um representante da Associação Natureza Portugal associada à World Wide Fund for Nature (ANP-WWF).
+
+2 - Os representantes a que se refere o número anterior são designados no prazo de 10 dias após a publicação dos presentes estatutos.
+
+3 - Sem prejuízo do disposto no n.º 1, qualquer membro do Comité que seja designado como facilitador perde a qualidade de membro permanente.
+
+4 - Sem prejuízo do disposto no artigo 14.º do Decreto-Lei n.º 73/2020, de 23 de setembro, o Comité poderá integrar membros permanentes, por decisão da assembleia geral, nos termos previstos nos presentes estatutos.
+
+#### Artigo 4.º — Direitos dos membros permanentes do Comité
+
+1 - Constituem direitos dos membros permanentes do Comité:
+
+a) Participar na eleição dos titulares dos órgãos do Comité;
+
+b) Ser informados, no prazo de cinco dias úteis, das atividades do Comité;
+
+c) Examinar as atas e informações relativas aos objetivos e atividades do Comité;
+
+d) Participar nas reuniões da assembleia geral e exercer o respetivo direito de voto;
+
+e) Fazer parte dos coletivos e grupos de trabalho nas áreas de interesse do Comité;
+
+f) Apresentar ao facilitador do Comité propostas em matérias que sejam do interesse e se insiram nas competências do Comité.
+
+2 - A participação nos comités não confere aos respetivos membros direito a qualquer remuneração pelas funções desempenhadas nem ao pagamento das despesas em que por esse efeito incorram.
+
+#### Artigo 5.º — Deveres dos membros permanentes do Comité
+
+Constituem deveres dos membros permanentes do Comité:
+
+a) Cumprir os estatutos e acordos validamente celebrados pelos órgãos do Comité;
+
+b) Apoiar direta ou indiretamente as atividades do Comité;
+
+c) Manter a colaboração necessária ao bom funcionamento do Comité;
+
+d) Participar nas atividades do Comité, nomeadamente, nas reuniões da assembleia geral e nas eleições dos seus membros para os respetivos cargos.
+
+#### Artigo 6.º — Membros não permanentes
+
+Nos termos do n.º 2 do artigo 3.º dos presentes estatutos, podem integrar o Comité membros não permanentes, com o estatuto de observadores, não lhes sendo aplicável o disposto nos artigos 4.º e 5.º dos presentes estatutos com exceção das alíneas a) e c) do artigo 5.º
+
+### Capítulo III — Organização e estrutura
+
+#### Secção I — Disposições gerais
+
+##### Artigo 7.º — Órgãos do Comité
+
+O Comité é composto pelos seguintes órgãos:
+
+a) Assembleia geral;
+
+b) Comissão executiva.
+
+##### Artigo 8.º — Estruturas de apoio ao Comité
+
+1 - No exercício das suas funções, o Comité é coadjuvado por um facilitador, ao qual compete apoiar administrativamente a assembleia geral e a comissão executiva.
+
+2 - No exercício das suas funções, o Comité pode ainda ser coadjuvado por uma estrutura de apoio constituída por técnicos designados e coordenados para o efeito pela comissão executiva.
+
+#### Secção II — Assembleia geral e facilitador
+
+##### Artigo 9.º — Assembleia geral
+
+A assembleia geral é o órgão máximo do Comité.
+
+##### Artigo 10.º — Constituição
+
+1 - A assembleia geral é constituída por todos os membros permanentes do Comité que estejam no pleno gozo dos seus direitos.
+
+2 - Cada membro permanente tem direito a um voto nas reuniões da assembleia geral.
+
+3 - O direito de voto dos representantes dos titulares de licenças de pesca que incumpram as regras de cogestão é suspenso temporariamente, por decisão da comissão executiva, até ao limite máximo de um ano.
+
+4 - Os membros permanentes do Comité podem fazer-se representar na assembleia geral por outro membro, o qual, no entanto, não poderá representar mais do que um membro.
+
+5 - Para efeitos do disposto no número anterior, é suficiente, como instrumento de representação voluntária, a apresentação de uma declaração escrita dirigida ao facilitador, assinada pelo representado, sendo a sua qualidade certificada nos termos que forem definidos na primeira reunião da assembleia geral.
+
+6 - As declarações a que se refere o número anterior devem ser integradas nas atas da assembleia e o original arquivado no Comité durante cinco anos.
+
+7 - Nas reuniões da assembleia geral destinadas a eleger os membros da comissão executiva não é permitida a representação voluntária.
+
+##### Artigo 11.º — Competências da assembleia geral
+
+Compete à assembleia geral:
+
+a) Dar cumprimento às atribuições do Comité previstas nos artigos 1.º e 2.º dos presentes estatutos;
+
+b) Eleger e destituir os membros da comissão executiva;
+
+c) Deliberar sobre quaisquer propostas de alteração aos estatutos do Comité, a submeter à aprovação do membro do Governo responsável pela área do mar;
+
+d) Efetuar recomendações à comissão executiva;
+
+e) Pronunciar-se sobre qualquer assunto que lhe seja proposto nos termos dos presentes estatutos;
+
+f) Analisar e aprovar propostas relacionadas com a gestão da apanha do percebe;
+
+g) Aprovar a entrada de novos membros ou coletivos no Comité, nos termos do n.º 4 do artigo 3.º;
+
+h) Aprovar o relatório de atividades da comissão executiva;
+
+i) Analisar e aprovar os relatórios financeiros;
+
+j) Aprovar as atas das reuniões da assembleia geral.
+
+##### Artigo 12.º — Facilitador
+
+1 - Ao facilitador compete:
+
+a) Convocar as reuniões e dirigir os trabalhos das reuniões da assembleia geral e da comissão executiva;
+
+b) Elaborar as atas das reuniões;
+
+c) Assegurar o apoio administrativo necessário às reuniões.
+
+d) Assegurar a representação externa do Comité;
+
+e) Promover a realização de candidaturas a financiamento externo, bem como assegurar a gestão económico-financeira do Comité.
+
+2 - O facilitador é designado de uma das seguintes formas:
+
+a) Contratação de uma entidade para o efeito, por iniciativa da comissão executiva, através de deliberação por consenso da assembleia geral;
+
+b) Por nomeação de um dos membros do Comité através de deliberação por consenso da assembleia geral.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 89/2025/1 - Diário da República n.º 46/2025, Série I de 2025-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/89-2025-909816066), em vigor a partir de 2025-03-07*
+
+##### Subsecção I — Regulamento interno da assembleia geral
+
+###### Artigo 13.º — Reuniões ordinárias e extraordinárias
+
+1 - A assembleia geral reúne em sessão ordinária, uma vez por ano, em setembro ou outubro, presencialmente ou de forma telemática.
+
+2 - A assembleia geral reúne extraordinariamente, por iniciativa do facilitador, sempre que tal lhe for solicitado pela comissão executiva ou por um mínimo de um terço dos membros do Comité no pleno gozo dos seus direitos, indicando o assunto que pretendem ver tratado.
+
+###### Artigo 14.º — Convocação
+
+1 - A assembleia geral é convocada pelo facilitador, o qual envia para o efeito uma comunicação eletrónica aos membros do Comité, para o endereço eletrónico que estes indicarem.
+
+2 - A convocação para as reuniões em sessão ordinária da assembleia geral é efetuada com um mínimo de 15 dias de antecedência e nela consta a indicação do local, dia e hora da assembleia, assim como a ordem dos trabalhos.
+
+3 - A convocação para as reuniões extraordinárias é efetuada com a antecedência mínima de 48 horas, aplicando-se o disposto nos números anteriores.
+
+###### Artigo 15.º — Deliberações
+
+1 - A assembleia geral delibera validamente desde que esteja presente a maioria dos seus membros com direito de voto.
+
+2 - As deliberações da assembleia são tomadas por consenso, salvo se o facilitador verificar a sua impossibilidade, devendo nesse caso optar por sujeitar a deliberação a votação por maioria de três quartos dos membros presentes, desde que a votação dos titulares de licenças represente metade do total da votação.
+
+#### Secção III — Comissão executiva
+
+##### Artigo 16.º — Composição da comissão executiva
+
+1 - A comissão executiva é composta pelos membros do Comité definidos no artigo 3.º dos presentes estatutos, distribuídos por coletivos, da seguinte forma:
+
+a) Coletivo da pesca - constituído por representantes dos titulares de licenças identificados na alínea a) do n.º 1 do artigo 3.º, em número de três efetivos e respetivos suplentes, e dois rotativos com mandato único por reunião;
+
+b) Coletivo da administração - integra as entidades identificadas nas alíneas b) e d) a i) do n.º 1 do artigo 3.º;
+
+c) Coletivo científico - integra as entidades identificadas nas alíneas j) a l) do n.º 1 do artigo 3.º;
+
+d) Coletivo ambiental - integra as entidades identificadas nas alíneas c), m) e n) do n.º 1 do artigo 3.º
+
+2 - Os representantes referidos na alínea a) do n.º 1 são designados da seguinte forma:
+
+a) Os representantes fixos e respetivos suplentes são eleitos pelos seus pares para um mandato de um ano;
+
+b) Os representantes rotativos exercem o cargo por ordem do número de apanhador de animais marinhos (ANI)/pescador apeado (APE).
+
+3 - A comissão executiva pode propor e submeter a aprovação da assembleia geral a criação de outros coletivos que sejam identificados como essenciais para o desenvolvimento dos trabalhos do Comité ou a integração de novos membros nos coletivos, que considere essenciais para o desenvolvimento dos trabalhos do Comité.
+
+##### Artigo 17.º — Competências da comissão executiva
+
+Compete à comissão executiva:
+
+a) Dirigir os trabalhos do Comité, coadjuvada pelo facilitador;
+
+b) Elaborar os planos de gestão anuais ou plurianuais da apanha do percebe, bem como os correspondentes relatórios, nos termos do n.º 4 do artigo 14.º e dos artigos 7.º e 17.º do Decreto-Lei n.º 73/2020, de 23 de setembro, e submetê-los a aprovação da assembleia geral;
+
+c) Elaborar e propor alterações ao regulamento da apanha do percebe da RNB a submeter ao membro do Governo responsável pela área do mar, para aprovação da assembleia geral;
+
+d) Elaborar ou propor a entidades terceiras a elaboração de estudos científicos para avaliação e monitorização do estado do percebe e do impacto da sua exploração, após aprovação pela assembleia geral;
+
+e) Propor alterações aos estatutos do Comité a submeter a aprovação da assembleia geral após discussão em sede desta comissão;
+
+f) Elaborar propostas relacionadas com a gestão e promoção do percebe da RNB, sempre que se justifique;
+
+g) Identificar e analisar problemas relativos ao cumprimento do plano de gestão do percebe em vigor e promover soluções para os ultrapassar;
+
+h) Elaborar o relatório anual de atividades da comissão executiva e submetê-lo a aprovação da assembleia geral;
+
+i) Elaborar e aprovar as atas das suas reuniões.
+
+##### Subsecção I — Regulamento de funcionamento da comissão executiva
+
+###### Artigo 18.º — Reuniões
+
+1 - A comissão executiva reúne presencialmente ou de forma telemática:
+
+a) Ordinariamente, de dois em dois meses durante o período de apanha permitido pelo regulamento da apanha do percebe na área da RNB;
+
+b) Extraordinariamente, sempre que convocada por um mínimo de dois coletivos da comissão executiva.
+
+2 - É aplicável o disposto no artigo 14.º
+
+###### Artigo 19.º — Deliberações
+
+1 - A comissão executiva delibera validamente desde que esteja presente pelo menos um membro de cada coletivo com direito de voto.
+
+2 - As deliberações da comissão executiva são tomadas por consenso, salvo se o facilitador verificar a sua impossibilidade, devendo nesse caso optar por sujeitar a deliberação a votação por maioria de três quartos dos votos dos coletivos presentes.
+
+3 - Cada coletivo tem direito a dois votos.
+
+### Capítulo IV — Disposições finais
+
+#### Artigo 20.º — Financiamento
+
+1 - Ao financiamento das medidas e das ações que constarem no plano de cogestão e das despesas com a estrutura de apoio ao Comité, aplicam-se os princípios da responsabilização, racionalidade, eficiência, transparência e proporcionalidade.
+
+2 - O financiamento deve, ainda, obedecer a princípios de sustentabilidade económica num horizonte de médio prazo.
+
+3 - O financiamento das medidas e das ações constantes no plano de cogestão processa-se de acordo com metas objetivas a alcançar.
+
+4 - Para efeitos do disposto no n.º 1 do presente artigo, as medidas e ações podem ser financiadas por:
+
+a) Receitas próprias das entidades representadas no Comité, dependente de disponibilidade orçamental para o efeito;
+
+b) Receitas obtidas por via de mecenato ambiental;
+
+c) Contribuições de fundos de direito privado, nacionais ou estrangeiros;
+
+d) Planos de investimento que tenham por objetivo a valorização do património cultural e natural;
+
+e) Contribuições da União Europeia sujeitas a orientações fixadas pelas autoridades de gestão dos respetivos planos operacionais e aos regulamentos nacionais e da União Europeia, nomeadamente provenientes de fundos europeus estruturais e de investimento.
+
+#### Artigo 21.º — Aplicação supletiva
+
+A tudo o que não esteja especialmente previsto nos presentes estatutos aplica-se, subsidiariamente, o disposto no Decreto-Lei n.º 73/2020, de 23 de setembro, e no Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual.
+
+114797968

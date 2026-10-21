@@ -1,0 +1,320 @@
+---
+id: "portaria-142-1-2025-diploma-de-aprovacao"
+dre_id: "913048494"
+title: "Portaria n.º 142/2025/1, de 31 de março — Diploma de aprovação"
+type: "Portaria"
+number: "142/2025/1"
+year: 2025
+date: 2025-03-31
+issuer: "Agricultura e Pescas"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2026-02-19
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-914711131"
+original_pdf: "https://files.diariodarepublica.pt/1s/2025/03/06300/0013900149.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece o regime de aplicação do apoio às atividades e ações desenvolvidas no âmbito do eixo transversal «Assistência técnica» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal)."
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "portaria-142-1-2025"
+part: "Diploma de aprovação"
+---
+
+# Portaria n.º 142/2025/1, de 31 de março — Diploma de aprovação
+
+Portaria n.º 142/2025/1
+
+de 31 de março
+
+A reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).
+
+O PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.
+
+Nos termos do n.º 3 do artigo 52.º do Decreto-Lei n.º 5/2023, de 24 de fevereiro, as despesas decorrentes da instalação e do funcionamento dos órgãos de governação do PEPAC Portugal, designadamente o financiamento dos recursos e das atividades necessárias à prossecução da missão e ao correspondente exercício de competências, são asseguradas pelo eixo transversal «Assistência técnica», de acordo com o artigo 125.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, exceto quando o financiamento é expressamente abrangido por intervenções.
+
+O eixo transversal «Assistência técnica» visa, assim, financiar atividades relacionadas com a gestão e implementação de intervenções no âmbito do primeiro e segundo pilares da PAC, bem como o estabelecimento e funcionamento da Rede Nacional da PAC.
+
+Este eixo integra as atividades elegíveis das entidades que desempenham funções necessárias à gestão e execução do PEPAC, no âmbito do primeiro e segundo pilares da PAC, e visa o reforço da capacidade administrativa e técnica das entidades responsáveis pela execução do programa, por forma a garantir condições para uma eficaz e competente gestão e operacionalização do mesmo.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura e Pescas, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:
+
+## Capítulo I — DISPOSIÇÕES GERAIS
+
+### Artigo 1.º — Objeto
+
+A presente portaria estabelece o regime de aplicação do apoio às atividades e ações desenvolvidas no âmbito do eixo transversal «Assistência técnica» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal).
+
+### Artigo 2.º — Objetivos
+
+O eixo transversal «Assistência técnica» visa apoiar as atividades e ações que se revelem necessárias para garantir a eficácia da gestão e da execução do apoio no âmbito do PEPAC Portugal, incluindo o funcionamento da Rede Nacional da Política Agrícola Comum (RNPAC).
+
+### Artigo 3.º — Atividades e ações
+
+1 - O regime de aplicação dos apoios previstos na presente portaria para o funcionamento das entidades constantes no n.º 1 do artigo 4.º inclui as seguintes atividades:
+
+a) Preparação, gestão, execução, coordenação, monitorização, avaliação, controlo e supervisão no âmbito de implementação do PEPAC Portugal, que inclui as ações relativas:
+
+i) Ao funcionamento de sistemas e estruturas destinadas à preparação, administração, gestão, coordenação, execução, monitorização, acompanhamento, pagamento, avaliação, controlo e supervisão;
+
+ii) A estudos e à avaliação baseada no plano de avaliação do PEPAC Portugal;
+
+b) Informatização do processo de candidatura, pagamento, monitorização no âmbito das intervenções do PEPAC Portugal, garantindo a criação e a manutenção de sistemas de informação, bem como o reforço da formação e capacitação das entidades intervenientes na respetiva governação;
+
+c) Comunicação, divulgação e informação baseadas no plano de divulgação e comunicação do PEPAC Portugal;
+
+d) Comunicação, divulgação, informação e transferência de conhecimento baseadas nos planos de ação da RNPAC e do Sistema de Conhecimento e Inovação da Agricultura (AKIS).
+
+2 - O regime de aplicação dos apoios previstos na presente portaria destina-se, igualmente, ao financiamento das atividades e ações relativas à RNPAC e ao AKIS, desenvolvidas por membros da mesma, com enquadramento nos respetivos planos de ação.
+
+### Artigo 4.º — Beneficiários
+
+1 - Podem beneficiar das atividades e ações previstas na presente portaria as seguintes entidades públicas ou privadas associadas ao modelo de governação do PEPAC Portugal, previsto no Decreto-Lei n.º 5/2023, de 25 de janeiro:
+
+a) O Gabinete de Planeamento, Políticas e Administração Geral (GPP);
+
+b) As Autoridades de Gestão do PEPAC no continente, na Região Autónoma dos Açores (RAA) e na Região Autónoma da Madeira (RAM) ou as entidades em que estas deleguem competências;
+
+c) O Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), ou as entidades em que este delegue competências;
+
+d) As Comissões de Coordenação e Desenvolvimento Regional (CCDR, I. P.);
+
+e) Os organismos intermédios, nos termos do artigo 67.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, ou as entidades em que estes deleguem competências;
+
+f) A DGADR, enquanto organismo de coordenação técnica (OCT) da RNPAC e do AKIS.
+
+2 - Podem beneficiar das atividades e ações previstas no n.º 2 do artigo 3.º as entidades de natureza pública ou privada, sem fins lucrativos, que sejam membros da RNPAC e que realizem atividades ou ações, individualmente ou em parceria, com enquadramento no respetivo plano de ação.
+
+### Artigo 5.º — Critérios de elegibilidade dos beneficiários
+
+1 - Os candidatos ao apoio previsto na presente portaria devem cumprir os critérios gerais de elegibilidade dos beneficiários previstos no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro.
+
+2 - Os candidatos aos apoios previstos no n.º 2 do artigo 3.º da presente portaria devem ainda, quando aplicável, apresentar um acordo de parceria, nos termos referidos no n.º 2 do artigo anterior.
+
+3 - Entende-se por «acordo de parceria» o ato de constituição de uma parceria com ou sem personalidade jurídica, por via do qual membros da RNPAC se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria e as obrigações dos seus membros, bem como a designação da entidade gestora da parceria.
+
+4 - No caso de candidaturas em parceria, todos os parceiros devem reunir as condições estabelecidas no n.º 1, bem como apresentar o respetivo acordo de parceria.
+
+5 - Os candidatos ao apoio previsto no n.º 2 do artigo 3.º devem cumprir a condição prevista na alínea b) do no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, até à data de apresentação do primeiro pedido de pagamento.
+
+6 - Os candidatos ao apoio previsto no n.º 2 do artigo 3.º não podem ter sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito dos Fundos Europeus.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+### Artigo 6.º — Critérios de elegibilidade das operações
+
+1 - São elegíveis ao apoio previsto na presente portaria as operações que apresentem um plano de ação, do qual conste a descrição e a caraterização técnica das operações, designadamente a justificação da sua realização e a fundamentação dos custos e a calendarização da execução física e financeira das operações.
+
+2 - São, ainda, elegíveis ao apoio previsto na presente portaria as atividades e ações previstas no plano de ação da RNPAC e do AKIS no âmbito do n.º 2 do artigo 3.º
+
+3 - As condições específicas exigidas para cada operação constam dos respetivos avisos para apresentação de candidaturas.
+
+### Artigo 7.º — Critérios de seleção
+
+1 - No âmbito do financiamento das atividades e ações relativas à RNPAC e ao AKIS, previstas no n.º 2 do artigo 3.º, são estabelecidos, nos respetivos avisos para apresentação de candidaturas, os critérios de hierarquização, bem como os respetivos fatores, fórmulas e ponderação de critérios de desempate para efeitos de seleção de candidaturas.
+
+2 - Os avisos são divulgados no portal do GPP, em www.gpp.pt e no portal da RNPAC em www.rederural.gov.pt/.
+
+### Artigo 8.º — Despesas
+
+1 - As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo i à presente portaria, da qual faz parte integrante.
+
+2 - São elegíveis ao apoio previsto na presente portaria as despesas pagas pelo beneficiário entre 1 de janeiro de 2023 e 31 de dezembro de 2029.
+
+3 - A elegibilidade temporal é comprovada pelas datas constantes nas faturas ou em outros documentos de valor probatório equivalente das despesas apresentadas, quanto ao seu início, ou pela data do movimento bancário relativo ao modo de pagamento da última despesa, quanto à data final.
+
+4 - O disposto no número anterior não é aplicável às operações ou componentes de operações com a forma de custos unitários e financiamento à taxa fixa.
+
+5 - A elegibilidade temporal é definida no aviso para apresentação de candidaturas, e no que respeita às ações previstas no n.º 2 do artigo 3.º, desde que a operação não se encontre materialmente concluída ou totalmente executada, sendo apenas elegíveis as despesas realizadas em data anterior à submissão da candidatura, apresentadas no primeiro pedido de pagamento, no prazo máximo de 60 dias a contar da data de assinatura do termo de aceitação.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+### Artigo 9.º — Obrigações dos beneficiários
+
+1 - Os beneficiários do apoio previsto na presente portaria devem cumprir, além das obrigações enunciadas no n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, as seguintes obrigações:
+
+a) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;
+
+b) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social;
+
+c) Garantir o Registo Central de Beneficiário Efetivo (RCBE), nos casos legalmente previstos.
+
+2 - Além das obrigações referidas no número anterior, os beneficiários previstos no n.º 2 do artigo 4.º da presente portaria devem, ainda, comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, excluindo o pedido de pagamento a título de adiantamentos, podendo esse prazo ser prorrogado por decisão da entidade que procedeu à aprovação da candidatura, em casos excecionais e devidamente justificados.
+
+3 - Os beneficiários previstos no n.º 2 do artigo 4.º da presente portaria devem, ainda:
+
+a) Divulgar todas as atividades promovidas e produtos desenvolvidos, no âmbito da operação, no portal da RNPAC, em www.rederural.gov.pt e na plataforma do AKIS, em https://akisportugal.pt/;
+
+b) Apresentar ao OCT da RNPAC e AKIS relatório intercalar, no fim de cada ano e até 31 de março do ano seguinte, no caso de operações que incluam planos com duração superior a 18 meses;
+
+c) Apresentar ao OCT da RNPAC e AKIS, com o último pedido de pagamento, dois exemplares de todos os produtos resultantes das operações juntamente com o relatório final de execução da operação, nos termos definidos em Orientação Técnica Específica (OTE);
+
+d) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento;
+
+e) Garantir a execução das operações de acordo com o previsto no respetivo plano de ação, podendo, excecionalmente, a AGN ou as entidades com competências delegadas para o efeito, prorrogar o prazo de conclusão do plano.
+
+4 - O incumprimento das obrigações do beneficiário, bem como a inexistência ou a perda de qualquer dos requisitos de concessão do apoio, pode determinar a suspensão ou a redução ou revogação dos pagamentos, nos termos dos artigos 14.º e 17.º do Decreto-Lei n.º 12/2023.
+
+5 - Os relatórios previstos nas alíneas b) e c) do n.º 3 estão sujeitos a aprovação pela AGN ou entidades com competências delegadas para o efeito.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+### Artigo 10.º — Forma e limite do apoio
+
+1 - Os apoios no âmbito da presente portaria, concedidos através de subvenção não reembolsável, podem assumir as seguintes formas:
+
+a) Reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário;
+
+b) Montantes fixos;
+
+c) Custos unitários;
+
+d) Financiamento à taxa fixa.
+
+2 - A forma de apoio a conceder é definida no aviso para apresentação de candidaturas.
+
+3 - A forma de taxa fixa prevista na alínea d) do n.º 1 do presente artigo pode assumir uma das seguintes formas:
+
+a) Taxa fixa para custos elegíveis que não sejam custos diretos com pessoal, fixada em 40 % dos custos diretos elegíveis com pessoal, de acordo com o previsto no n.º 1 do artigo 56.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho;
+
+b) Taxa fixa para custos indiretos, fixada em 15 % dos custos diretos elegíveis com pessoal, de acordo com o previsto na alínea b) do artigo 54.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho.
+
+4 - Caso os apoios assumam a forma de custos unitários, as respetivas tabelas são publicitadas em anexo ao respetivo aviso para apresentação de candidaturas.
+
+5 - O nível dos apoios é de 100 % das despesas elegíveis, para os beneficiários previstos no n.º 1 do artigo 4.º
+
+6 - Para os beneficiários previstos no n.º 2 do artigo 4.º, o nível dos apoios é definido no aviso de abertura, podendo ir até 85 % das despesas elegíveis.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+## Capítulo II — PROCEDIMENTO
+
+### Artigo 11.º — Avisos para apresentação de candidaturas
+
+1 - O GPP, enquanto AGN, elabora e aprova os avisos para apresentação de candidaturas no âmbito das atividades e ações referidas no n.º 1 do artigo 3.º
+
+2 - O GPP, enquanto AGN, aprova os avisos para apresentação de candidaturas no que respeita às atividades e ações referidas no n.º 2 do artigo 3.º, mediante proposta do OCT da RNPAC.
+
+3 - Os avisos para apresentação de candidaturas são divulgados, no portal da Agricultura, em https://agricultura.gov.pt/, no portal do GPP, em www.gpp.pt, no portal da RNPAC, em www.rederural.gov.pt/, na plataforma AKIS, em https://akisportugal.pt/ e nos portais das autoridades de gestão do PEPAC no continente, em www.pepacc.pt, do PEPAC na Região Autónoma da Madeira, em https://pepac.madeira.gov.pt/, e do PEPAC na Região Autónoma dos Açores, em https://portal.azores.gov.pt/web/sraa/pepac.
+
+4 - Os avisos devem conter os elementos enunciados no n.º 3 do artigo 9.º do Decreto-Lei n.º 12/2023, bem como os objetivos e prioridades visadas, as obrigações específicas dos beneficiários, as despesas elegíveis, a forma e o nível do apoio, podendo prever dotações específicas para determinadas tipologias de operações a apoiar.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+### Artigo 12.º — Periodicidade das candidaturas
+
+As candidaturas ao apoio previsto na presente portaria podem ser plurianuais e são apresentadas nos termos do artigo 9.º do Decreto-Lei n.º 12/2023 e dos respetivos avisos.
+
+### Artigo 13.º — Análise e decisão das candidaturas
+
+1 - A análise e a decisão das candidaturas competem ao GPP, enquanto Autoridade de Gestão Nacional (AGN).
+
+2 - A AGN pode delegar no OCT da RNPAC, com faculdade de subdelegação, a análise e decisão das candidaturas aos apoios das atividades referidas no n.º 2 do artigo 3.º, salvo nos casos em que este seja beneficiário ou membro da parceria candidata.
+
+3 - O GPP, enquanto AGN, notifica o beneficiário, no prazo de cinco dias úteis, a contar da data da sua emissão, e comunica a decisão de aprovação ao IFAP, I. P.
+
+4 - No caso em que o GPP seja beneficiário, a decisão a que se refere o n.º 1 é sujeita a homologação da Comissão Nacional dos Fundos Agrícolas 2030.
+
+### Artigo 14.º — Termo de aceitação
+
+1 - A aceitação da decisão de aprovação da candidatura é efetuada mediante a submissão eletrónica e a assinatura do termo de aceitação, de acordo com o artigo 12.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, segundo os procedimentos aprovados pelo IFAP, I. P.
+
+2 - O beneficiário dispõe de 30 dias úteis para efetuar a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 12/2023, salvo por motivo justificado não imputável ao beneficiário e aceite pela AGN ou pelo OCT da RNPAC, no caso das atividades e ações referidas no n.º 2 do artigo 3.º
+
+### Artigo 15.º — Pedidos de alteração
+
+1 - Após a data de submissão autenticada do termo de aceitação, caso se verifique qualquer ocorrência excecional e impossível de prever aquando da apresentação da candidatura, que justifique a necessidade de proceder a alterações ao projeto aprovado, nomeadamente no que diz respeito à sua titularidade, localização, componentes de investimento e prazos de execução, os beneficiários podem apresentar pedido de alteração nos termos previstos em orientação técnica geral (OTG) divulgada no Portal da Agricultura, em https://agricultura.gov.pt, e no portal do GPP em www.gpp.pt. no portal da RNPAC em www.rederural.gov.pt/ na plataforma do AKIS, em https://akisportugal.pt/, e no portal das entidades em quem sejam delegadas competências.
+
+2 - A alteração proposta não pode alterar substancialmente a natureza do projeto aprovado, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais.
+
+3 - As alterações previstas no n.º 1 são objeto de decisão da entidade responsável pela decisão das candidaturas e consideram-se aditadas ao termo de aceitação.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+### Artigo 16.º — Apresentação dos pedidos de pagamento
+
+1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no Portal da Agricultura, em https://agricultura.gov.pt/, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento, nos termos previstos em Orientação Técnica Transversal (OTT) a emitir pelo IFAP, I. P.
+
+2 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor aprovado, no máximo até 20 %, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.
+
+3 - A regularização do adiantamento previsto no número anterior é efetuada:
+
+a) Para as entidades previstas do n.º 1 do artigo 4.º, no último pedido de pagamento;
+
+b) Para as restantes entidades, de forma proporcional nos pedidos de pagamento apresentados no decurso da operação.
+
+4 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias seguidos a contar da data de conclusão da operação, sob pena de indeferimento.
+
+5 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
+
+6 - Os beneficiários identificados no n.º 1 do artigo 4.º devem submeter trimestralmente um pedido de pagamento, que no caso da forma de apoio por montante fixo está condicionado à realização de obrigações específicas temporais ou, para os casos previstos na subalínea i) da alínea a) do n.º de 1 do artigo 3.º, às mensalidades respetivas associadas.
+
+7 - No ano do encerramento do PEPAC, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal da Agricultura, em https://agricultura.gov.pt, no portal do GPP em www.gpp.pt, e nos portais das autoridades de gestão do PEPAC no continente, em www.pepacc.pt, do PEPAC na Região Autónoma da Madeira, em https://pepac.madeira.gov.pt/, e do PEPAC na Região Autónoma dos Açores, em https://portal.azores.gov.pt/web/sraa/pepac.
+
+8 - No caso das ações previstas no n.º 2 do artigo 3.º, cada pedido de pagamento deve representar, no mínimo, 10 % do montante de despesa pública aprovada, com exceção do primeiro pedido, relativo às despesas realizadas em data anterior à submissão da candidatura.
+
+9 - O disposto no número anterior não é aplicável aos projetos exclusivamente aprovados com custos unitários, sendo o número máximo de pedidos de pagamento definidos no respetivo aviso.
+
+10 - A concessão e o montante dos adiantamentos assim como dos pagamentos ficam limitados às disponibilidades orçamentais do PEPAC Portugal.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+### Artigo 17.º — Análise e decisão dos pedidos de pagamento
+
+1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito analisam os pedidos de pagamento e emitem parecer no prazo máximo de 45 dias úteis contados a partir da data de submissão dos pedidos.
+
+2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.
+
+3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.
+
+4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores, adota os procedimentos necessários ao respetivo pagamento.
+
+5 - Nos casos em que o IFAP, I. P., é o beneficiário, a análise e a decisão dos pedidos de pagamento devem respeitar o princípio da segregação das funções de gestão e de prevenção de conflitos de interesse.
+
+### Artigo 18.º — Pagamentos
+
+1 - Os pagamentos dos apoios são efetuados por transferência bancária, pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.
+
+2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida no termo de aceitação.
+
+### Artigo 19.º — Controlo
+
+As operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitos a controlos administrativos e in loco, nos termos do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho.
+
+### Artigo 20.º — Reduções e exclusões
+
+1 - O incumprimento de qualquer obrigação por parte dos beneficiários previstos no n.º 2 do artigo 4.º da presente portaria determina o não pagamento do apoio correspondente à respetiva intervenção, sem prejuízo da aplicação do disposto no Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho.
+
+2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, em matéria de recuperação de apoios indevidamente recebidos, são aplicáveis as reduções e exclusões dos apoios concedidos ou a conceder de acordo com o previsto no anexo ii à presente portaria, da qual faz parte integrante.
+
+3 - Quando o grau de execução financeira de uma intervenção for inferior a 50 %, o valor total do apoio é reduzido em 20 %.
+
+4 - O grau de execução financeira de cada intervenção corresponde à percentagem entre o montante do apoio apurado e o montante do apoio aprovado em candidatura ou em pedido modificado, se aplicável.
+
+5 - A soma das reduções referidas nos números anteriores não pode ser superior à recuperação total do apoio.
+
+6 - [Revogado.]
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+### Artigo 21.º — Recuperação de pagamentos
+
+1 - O beneficiário fica obrigado a devolver os montantes considerados como indevidamente recebidos, na sequência do incumprimento das suas obrigações legais.
+
+2 - Os montantes referidos no número anterior são restituídos e pagos ao IFAP, I. P., no prazo de 30 dias contados da notificação para o efeito, findo o qual são devidos juros de mora sobre os montantes em dívida.
+
+### Artigo 21.º-A — Contributo para o desempenho do PEPAC Portugal
+
+As presentes tipologias de atividades contribuem para os objetivos específicos estabelecidos no n.º 2 do artigo 6.º e para os objetivos definidos para as Redes Nacionais da PAC no n.º 4 do artigo 126.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho.
+
+- *Aditado pelo/a Artigo 3.º do/a [Portaria n.º 83/2026/1 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-2026-1053378384), em vigor a partir de 2026-02-20, produz efeitos a partir de 2025-04-01*
+
+## Capítulo III — DISPOSIÇÕES FINAIS
+
+### Artigo 22.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 21 de março de 2025.

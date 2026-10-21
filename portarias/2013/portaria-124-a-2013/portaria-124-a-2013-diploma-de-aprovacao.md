@@ -1,0 +1,94 @@
+---
+id: "portaria-124-a-2013-diploma-de-aprovacao"
+dre_id: "479273"
+title: "Portaria n.º 124-A/2013, de 27 de março — Diploma de aprovação"
+type: "Portaria"
+number: "124-A/2013"
+year: 2013
+date: 2013-03-27
+issuer: "Ministério da Saúde"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2026-02-16
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-169775395"
+original_pdf: "https://files.diariodarepublica.pt/1s/2013/03/06101/0000200004.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece as normas aplicáveis à atribuição do cartão nacional de dador de sangue, bem como ao reconhecimento público pela dádiva regular de sangue"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "portaria-124-a-2013"
+part: "Diploma de aprovação"
+---
+
+# Portaria n.º 124-A/2013, de 27 de março — Diploma de aprovação
+
+Portaria n.º 124-A/2013
+
+de 27 de março
+
+A Lei n.º 37/2012, de 27 de agosto, que aprova o Estatuto do Dador de Sangue, estabelece no n.º 4 do artigo 3.º que ao dador de sangue é atribuído um cartão nacional de dador, nos termos a regulamentar por Portaria do Ministério da Saúde.
+
+Por outro lado o dador de sangue tem direito ao reconhecimento público de acordo com a alínea e) do n.º 1 do artigo 6.º da Lei nº 37/2012, de 27 de agosto.
+
+Ao Instituto Português do Sangue e da Transplantação, I.P., compete, na área da medicina transfusional, garantir e regular, a nível nacional, esta atividade, assegurando a disponibilidade e acessibilidade de sangue e componentes sanguíneos, de qualidade, seguros e eficazes, para efeitos terapêuticos.
+
+Reconhece-se neste domínio que a disponibilidade de sangue e componentes sanguíneos para fins terapêuticos depende exclusivamente da generosidade dos cidadãos para a dádiva altruísta, com o contributo das organizações de dadores de sangue no incremento da dádiva.
+
+Sublinha-se ainda o valor que esta dádiva representa para a comunidade e o mérito social dos dadores voluntários e não remunerados que, dedicada, regular e continuamente, contribuem de forma generosa com um bem indispensável à vida, pelo que devem ser fortemente enaltecidos, justificando-se assim que estes atos sejam publicamente reconhecidos.
+
+Neste âmbito, exigindo-se elevados níveis de segurança e qualidade na produção do cartão nacional do dador, tem plena justificação a utilização da experiência da Imprensa Nacional - Casa da Moeda, SA (INCM), pelo que se confere a esta entidade o direito exclusivo do modelo do cartão nacional de dador de sangue, garantindo-se a confidencialidade e fiabilidade que a INCM assegura.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 3.º, da alínea e) do n.º 1 do artigo 6.º e do artigo 10.º todos da Lei n.º 37/2012, de 27 de agosto, manda o Governo, pelo Ministro da Saúde, o seguinte:
+
+## Artigo 1.º — Objeto
+
+A presente portaria estabelece as normas aplicáveis à atribuição de um cartão nacional de dador de sangue, bem como ao reconhecimento público pela dádiva regular de sangue.
+
+## Artigo 2.º — Cartão nacional de dador de sangue
+
+1 - Ao dador de sangue é atribuído um cartão nacional de dador, após a realização da primeira dádiva de sangue.
+
+2 - Do cartão constará informação relativa à identificação completa do dador de sangue, grupo sanguíneo, número de dádivas realizadas, respetivas datas e locais.
+
+3 - Compete ao Instituto Português do Sangue e da Transplantação, I.P. (IPST, I.P.), o processamento do cartão nacional de dador, cabendo aos serviços de sangue o fornecimento dos dados constantes do número anterior.
+
+4 - O cartão nacional de dador de sangue é considerado documento idóneo e bastante para fazer prova da condição de dador de sangue, nomeadamente, para efeitos de isenção das taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (SNS), nos termos da legislação em vigor.
+
+5 - O modelo do cartão referido nos números anteriores consta do Anexo I à presente Portaria, da qual faz parte integrante.
+
+6 - O modelo de cartão nacional de dador de sangue definido na presente portaria é exclusivo da Imprensa Nacional - Casa da Moeda, S.A..
+
+## Artigo 3.º — Reconhecimento público
+
+1 - Para efeitos de reconhecimento público do dador de sangue, são criados a medalha e o diploma de dador de sangue para galardoar a dedicação inerente à dádiva de sangue.
+
+2 - A medalha de dador de sangue, acompanhada do respetivo certificado, é concedida pelo Ministro da Saúde, compreendendo os seguintes graus:
+
+a) Medalha dourada - a conceder aos dadores que tenham completado 60 dádivas de sangue;
+
+b) Medalha prateada - a conceder aos dadores que tenham completado 40 dádivas;
+
+c) Medalha cobreada - a conceder aos dadores que tenham completado 20 dádivas.
+
+3 - O diploma de dador de sangue é concedido pelo Presidente do Conselho Diretivo do IPST, I.P. aos dadores que tenham completado 10 dádivas de sangue.
+
+4 - Para galardoar os dadores que tenham completado as 100 dádivas de sangue é criada uma medalha, igualmente dourada, que será concedida pelo Ministro da Saúde, acompanhada do respetivo certificado.
+
+5 - Compete ao IPST, I.P. a emissão dos galardões previstos nos números anteriores, cabendo aos serviços de sangue, responsáveis pelo registo dos dadores e às organizações de dadores de sangue, o fornecimento dos dados relativos ao n.º de dádivas e identificação do dador.
+
+6 - Os modelos dos galardões referidos nos números anteriores, constam do Anexo II à presente Portaria, da qual faz parte integrante.
+
+7 - Os encargos resultantes da atribuição dos galardões são suportados pelo orçamento do IPST, I.P..
+
+## Artigo 4.º — Norma revogatória
+
+São revogadas a Portaria n.º 255/2011, de 1 de julho e a Portaria n.º 1075/91, de 23 de outubro.
+
+## Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 22 de março de 2013.

@@ -1,0 +1,800 @@
+---
+id: "lei-17-2012-diploma-de-aprovacao"
+dre_id: "553038"
+title: "Lei n.º 17/2012, de 26 de abril — Diploma de aprovação"
+type: "Lei"
+number: "17/2012"
+year: 2012
+date: 2012-04-26
+issuer: "Assembleia da República"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2026-01-14
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-73896467"
+original_pdf: "https://files.diariodarepublica.pt/1s/2012/04/08200/0228002295.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional e transpõe para a ordem jurídica interna a Diretiva n.º 2008/6/CE , do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "lei-17-2012"
+part: "Diploma de aprovação"
+---
+
+# Lei n.º 17/2012, de 26 de abril — Diploma de aprovação
+
+Lei n.º 17/2012
+
+de 26 de abril
+
+Estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional e transpõe para a ordem jurídica interna a Diretiva n.º 2008/6/CE, do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008.
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objeto
+
+1 - A presente lei estabelece o regime jurídico aplicável à prestação de serviços postais no território nacional, bem como de serviços internacionais com origem ou destino no território nacional, transpondo a Diretiva n.º 2008/6/CE, do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008, que altera a Diretiva n.º 97/67/CE, do Parlamento Europeu e do Conselho, de 15 de dezembro de 1997, no respeitante à plena realização do mercado interno dos serviços postais da Comunidade.
+
+2 - A presente lei conforma o regime de acesso e exercício da prestação dos serviços postais com o Decreto-Lei n.º 92/2010, de 26 de julho, que transpõe a Diretiva n.º 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.
+
+3 - O regime de exploração e utilização dos serviços postais no território nacional, bem como dos serviços postais internacionais com origem ou destino no território nacional, consta de diploma de desenvolvimento da presente lei.
+
+### Artigo 2.º — Objetivos
+
+1 - A presente lei tem como objetivos:
+
+a) Definir as condições de prestação de serviços postais em plena concorrência;
+
+b) Assegurar a prestação eficiente e sustentável de um serviço postal universal; e
+
+c) Estabelecer os direitos e interesses dos utilizadores, em especial dos consumidores.
+
+2 - Na prossecução dos objetivos estabelecidos na presente lei devem ser observados os seguintes princípios:
+
+a) Assegurar a existência, disponibilidade, acessibilidade e a qualidade da prestação do serviço universal;
+
+b) Assegurar a sustentabilidade e viabilidade económico-financeira da prestação do serviço universal;
+
+c) Garantir a aplicação e respeito dos requisitos essenciais previstos no artigo 7.º;
+
+d) Assegurar a proteção dos utilizadores no seu relacionamento com os prestadores de serviços postais, designadamente no tratamento e resolução de reclamações;
+
+e) Assegurar igualdade de acesso ao mercado.
+
+### Artigo 3.º — Liberdade de prestação de serviços postais
+
+1 - Nos termos da presente lei, é garantida a liberdade de prestação de serviços postais.
+
+2 - O disposto no número anterior não prejudica:
+
+a) O regime específico a que obedece a prestação do serviço universal; e
+
+b) As atividades e serviços que, por razões de ordem e segurança pública ou de interesse geral, podem ficar reservados a determinados prestadores de serviços postais, tais como a colocação de marcos e caixas de correio na via pública destinados à aceitação de envios postais, a emissão e venda de selos postais com a menção Portugal e o serviço de correio registado utilizado em procedimentos judiciais ou administrativos.
+
+3 - A atribuição, a um prestador de serviços postais, dos serviços e das atividades referidos na alínea b) do número anterior deve ser feita de acordo com procedimentos e critérios de seleção, nos termos do Código dos Contratos Públicos.
+
+4 - Para efeitos do disposto na presente lei, considera-se prestador de serviços postais a pessoa singular ou coletiva que presta serviços postais, nos termos aqui previstos, sendo o utilizador a pessoa singular ou coletiva beneficiária de uma prestação de serviço postal, enquanto remetente ou destinatária.
+
+### Artigo 4.º — Atividade de prestação de serviços postais
+
+1 - Integram a atividade de serviço postal as operações de:
+
+a) Aceitação, entendendo-se como tal o conjunto de operações relativas à admissão dos envios postais numa rede postal, nomeadamente a sua recolha pelos prestadores de serviços postais;
+
+b) Tratamento, que consiste na triagem dos envios postais para o seu transporte até ao centro de distribuição da área a que se destinam;
+
+c) Transporte, que consiste na deslocação dos envios postais, por meios técnicos adequados, desde o ponto de acesso à rede postal até ao centro de distribuição da área a que se destinam; e
+
+d) Distribuição, a qual consiste no conjunto de operações realizadas desde a divisão dos envios postais, no centro de distribuição da área a que se destinam, até à entrega aos seus destinatários, pessoas singulares ou coletivas a quem é dirigido um envio postal.
+
+2 - Para assegurar as operações de aceitação, tratamento, transporte e distribuição de envios postais, o prestador de serviços postais utiliza um conjunto de meios humanos e materiais que constituem a rede postal.
+
+3 - Os serviços postais internacionais abrangem os envios postais recebidos em Portugal com origem noutro país ou com origem em Portugal e destino noutro país.
+
+4 - Para efeitos, nomeadamente do disposto na alínea c) do n.º 1, entende-se por pontos de acesso os locais físicos, incluindo marcos e caixas de correio, à disposição do público, quer na via pública, quer noutros locais públicos ou privados, nomeadamente nas instalações dos prestadores de serviços postais, onde os remetentes, pessoas singulares ou coletivas que estão na origem do envio postal, podem depositar os envios postais na rede postal.
+
+### Artigo 5.º — Tipos de envios postais
+
+1 - Constitui um envio postal o objeto, endereçado na forma definitiva, obedecendo às especificações físicas e técnicas que permitam o seu tratamento numa rede postal, bem como a respetiva entrega no endereço indicado no próprio objeto ou no seu invólucro, designadamente:
+
+a) Envio de correspondência, que consiste na comunicação escrita num suporte físico de qualquer natureza, incluindo a publicidade endereçada;
+
+b) Livros, catálogos, jornais e outras publicações periódicas;
+
+c) Encomenda postal, a qual constitui um volume contendo mercadorias ou objetos com ou sem valor comercial.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, entende-se por publicidade endereçada o envio de correspondência com mensagem idêntica que se remete a um número significativo de destinatários exclusivamente com fins publicitários, de marketing ou de divulgação.
+
+3 - O envio postal designa-se por envio registado quando o mesmo possui garantia de valor monetário fixo contra os riscos de extravio, furto, roubo ou deterioração, fornecendo ao remetente, a seu pedido, uma prova do depósito ou da sua entrega ao destinatário.
+
+4 - O envio postal pode ainda ser classificado como envio com valor declarado, sempre que se trate de um envio postal com garantia do valor monetário do conteúdo até ao montante declarado pelo remetente, em caso de extravio, furto, roubo ou deterioração.
+
+### Artigo 6.º — Coordenação em situações de emergência
+
+Compete ao Estado assegurar, nos termos da lei, a adequada coordenação dos serviços postais em situação de emergência, de crise ou de guerra.
+
+### Artigo 7.º — Requisitos essenciais na prestação de serviços postais
+
+1 - Na prestação de serviços postais devem ser salvaguardados os seguintes requisitos essenciais:
+
+a) A inviolabilidade e o sigilo dos envios postais, com os limites e exceções previstos na lei penal e demais legislação aplicável;
+
+b) A segurança da rede postal, nomeadamente em matéria de transporte de substâncias perigosas;
+
+c) A confidencialidade das informações transmitidas ou armazenadas;
+
+d) A proteção de dados pessoais e da vida privada;
+
+e) A proteção do ordenamento do território e do ambiente;
+
+f) O respeito pelos termos e pelas condições laborais e pelos regimes de segurança social estabelecidos por lei, por regulamentação, por disposições administrativas e por instrumentos de regulamentação coletiva de trabalho.
+
+2 - A inviolabilidade e o sigilo dos envios postais e a proteção de dados a que alude o número anterior abrangem, nomeadamente:
+
+a) A proibição de leitura de quaisquer envios postais, mesmo que não encerrados em invólucros fechados, bem como a mera abertura de envios postais fechados;
+
+b) A proibição de revelação a terceiros do conteúdo de qualquer mensagem ou informação de que se tenha tomado conhecimento, devida ou indevidamente, bem como da revelação de identidades e das relações entre remetentes e destinatários e dos endereços de ambos.
+
+## Capítulo II — Autoridade reguladora nacional
+
+### Artigo 8.º — Autoridade reguladora nacional
+
+1 - A Autoridade Nacional de Comunicações (ANACOM) é a autoridade competente, nos termos da presente lei e dos seus estatutos, aprovados pelo Decreto-Lei n.º 39/2015, de 16 de março, para desempenhar as funções de regulação, supervisão e fiscalização no setor dos serviços postais.
+
+2 - Compete à ANACOM, nomeadamente:
+
+a) A elaboração e aprovação dos regulamentos necessários à aplicação do regime estabelecido pela presente lei;
+
+b) A representação em organizações internacionais, no âmbito de serviços postais, nos termos dos seus Estatutos;
+
+c) A emissão de licenças individuais para a prestação de serviços postais;
+
+d) A emissão das declarações comprovativas da inscrição no registo dos prestadores de serviços postais;
+
+e) A fiscalização da prestação do serviço universal e, relativamente às atividades compreendidas nos contratos de concessão a que se refere o n.º 6 do artigo 17.º, a faculdade de, diretamente ou através de terceiros, proceder à correção de situações resultantes do não cumprimento de determinações por esta emitidas, correndo os correspondentes custos por conta da concessionária, sem prejuízo das sanções aplicáveis;
+
+f) A fiscalização do cumprimento das disposições legais e regulamentares relativas à atividade de prestação de serviços postais, bem como a aplicação das respetivas sanções.
+
+3 - É garantida pela presente lei e pelos Estatutos da ANACOM:
+
+a) A independência como entidade orgânica, financeira e funcionalmente separada do Governo, dotada dos meios necessários ao desempenho das suas atribuições;
+
+b) A independência como entidade orgânica, financeira e funcionalmente separada dos prestadores de serviços postais;
+
+c) A separação efetiva entre as funções de regulação e as competências ligadas à propriedade ou à direção das empresas do setor sobre as quais o Estado detenha a propriedade ou o controlo.
+
+4 - A ANACOM e as autoridades e serviços responsáveis, nomeadamente pela aplicação do regime da concorrência e da legislação de defesa dos consumidores, devem cooperar entre si em matérias de interesse comum.
+
+5 - A ANACOM deve cooperar com a Comissão Europeia e com as outras autoridades reguladoras nacionais em matérias relativas à aplicação da presente lei.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2022 - Diário da República n.º 26/2022, 1º Suplemento, Série I de 2022-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215), em vigor a partir de 2022-02-08*
+
+### Artigo 9.º — Consultas públicas
+
+1 - Sempre que, no exercício das competências previstas na presente lei, a ANACOM pretenda adotar alguma medida que tenha impacto significativo no mercado, deve publicitar o respetivo projeto de decisão e conceder a qualquer entidade a possibilidade de se pronunciar sobre o mesmo num prazo não inferior a 20 dias.
+
+2 - Quando existam razões de urgência devidamente fundamentadas, a ANACOM pode decidir não realizar a consulta pública prevista no número anterior ou realizá-la num prazo mais curto.
+
+## Capítulo III — Serviço postal universal
+
+### Secção I — Âmbito do serviço universal
+
+#### Artigo 10.º — Serviço universal
+
+1 - É assegurada a existência e a prestação do serviço universal, o qual consiste na oferta de serviços postais definida na presente lei, com qualidade especificada, disponível de forma permanente em todo o território nacional, a preços acessíveis a todos os utilizadores, visando as necessidades de comunicação da população e das atividades económicas e sociais.
+
+2 - Para efeitos do disposto no número anterior, compete ao Estado providenciar para que a densidade dos pontos de acesso corresponda às necessidades dos utilizadores.
+
+3 - A entidade pública ou privada prestadora de serviços postais que, nos termos da presente lei, presta o serviço universal ou elementos deste em parte ou em todo o território nacional designa-se prestador de serviço universal.
+
+#### Artigo 11.º — Características do serviço universal
+
+1 - A prestação do serviço universal deve assegurar a satisfação das seguintes necessidades:
+
+a) A prestação do serviço postal a preços acessíveis a todos os utilizadores;
+
+b) A satisfação de padrões adequados de qualidade, nomeadamente no que se refere a prazos de entrega, densidade dos pontos de acesso, regularidade e fiabilidade do serviço;
+
+c) A prestação do serviço em condições de igualdade e de não discriminação;
+
+d) A continuidade da prestação do serviço, salvo em casos de força maior;
+
+e) A evolução na prestação do serviço em função do ambiente técnico, económico e social e das necessidades dos utilizadores;
+
+f) O cumprimento de obrigações inerentes à prestação do serviço universal que resultem de vinculação internacional do Estado português.
+
+2 - Os prestadores de serviço universal devem publicitar de forma adequada e fornecer regularmente aos utilizadores e aos prestadores de serviços postais informações precisas e atualizadas sobre as características do serviço universal oferecido, designadamente sobre as condições gerais de acesso e utilização do serviço, preços e níveis de qualidade.
+
+#### Artigo 12.º — Âmbito do serviço universal
+
+1 - O serviço universal compreende um serviço postal, no âmbito nacional e internacional, de envios de correspondência, excluindo a publicidade endereçada, e ainda de envio de catálogos, livros, jornais e outras publicações periódicas até 2 kg de peso e de encomendas postais até 10 kg de peso, bem como um serviço de envios registados e um serviço de envios com valor declarado.
+
+2 - Não estão abrangidos pelo serviço universal os serviços de correio expresso, entendendo-se como tais os serviços de valor acrescentado, caracterizados pela aceitação, tratamento, transporte e distribuição, com celeridade acrescida, de envios postais, diferenciando-se dos respetivos serviços postais de base por um conjunto de características suplementares, tais como:
+
+a) Prazos de entrega predefinidos;
+
+b) Registo de envios;
+
+c) Garantia de responsabilidade do prestador, mediante seguro pelo qual o remetente conheça previamente a fórmula de ressarcimento dos prejuízos causados;
+
+d) Controlo do percurso dos envios pelo circuito operacional do prestador, permitindo a identificação do estado dos envios e informação ao cliente.
+
+3 - O serviço universal abrange igualmente a entrega no território nacional de encomendas postais recebidas de outros Estados membros da União Europeia com peso até 20 kg.
+
+4 - Os prestadores de serviço universal devem assegurar uma recolha e uma distribuição dos envios postais abrangidos no âmbito do serviço universal pelo menos uma vez por dia, em todos os dias úteis, salvo em circunstâncias ou condições geográficas excecionais previamente definidas pela ANACOM.
+
+5 - A distribuição a que se refere o número anterior é feita no domicílio do destinatário ou, nos casos e condições previamente definidas pela ANACOM, em instalações apropriadas.
+
+### Secção II — Obrigações da prestação de serviço universal
+
+#### Artigo 13.º — Qualidade do serviço universal
+
+1 - Os parâmetros de qualidade de serviço e os objetivos de desempenho associados à prestação do serviço universal, nomeadamente os respeitantes aos prazos de encaminhamento, à regularidade e à fiabilidade dos serviços, bem como as regras relativas à sua medição, monitorização e divulgação, são fixados por portaria do membro do Governo responsável pela área das comunicações para um período plurianual mínimo de três anos, mediante proposta da ANACOM, que deve ouvir os prestadores do serviço postal universal e as organizações representativas dos consumidores, nos termos do artigo 43.º
+
+2 - Os parâmetros de qualidade de serviço e os objetivos de desempenho referidos no número anterior devem ser compatíveis com os níveis de qualidade de serviço fixados para os serviços intracomunitários e para os restantes serviços internacionais e garantir elevados níveis de qualidade de serviço alinhados com as melhores práticas vigentes na União Europeia, bem como a importância relativa dos serviços postais que integram o serviço universal.
+
+3 - Os prestadores de serviço universal devem:
+
+a) Dispor de um sistema de medição dos níveis de qualidade de serviço efetivamente oferecidos, que respeite as normas aplicáveis à medição dos níveis de qualidade do serviço universal, nomeadamente dos serviços intracomunitários; e
+
+b) Efetuar a medição dos níveis de qualidade do serviço, pelo menos uma vez por ano, através do recurso a uma entidade externa independente, à qual devem prestar toda a informação e colaboração necessárias para a referida medição.
+
+4 - Os resultados da medição referida na alínea b) do número anterior são objeto de relatório publicado, pelo menos uma vez por ano, pelos prestadores de serviço universal e pela ANACOM nos respetivos sítios na Internet.
+
+5 - A ANACOM assegura a realização de auditorias ou outros mecanismos de controlo dos níveis de qualidade de serviço oferecidos pelos prestadores de serviço universal, de forma independente, a fim de garantir a exatidão e a comparabilidade dos dados disponibilizados pelos prestadores de serviço universal.
+
+6 - Os resultados das auditorias ou dos outros mecanismos de controlo referidos no número anterior devem ser objeto de relatório, o qual é publicado no sítio na Internet da ANACOM.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2022 - Diário da República n.º 26/2022, 1º Suplemento, Série I de 2022-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215), em vigor a partir de 2022-02-08*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24*
+
+#### Artigo 14.º — Regime de preços
+
+1 - A fixação dos preços dos serviços postais que integram a oferta do serviço universal obedece aos seguintes princípios:
+
+a) Acessibilidade a todos os utilizadores;
+
+b) Orientação para os custos, devendo os preços incentivar uma prestação eficiente do serviço universal;
+
+c) Transparência e não discriminação.
+
+2 - [Revogado].
+
+3 - Sem prejuízo da observância dos princípios previstos no n.º 1, a formação dos preços dos serviços que integram o serviço postal universal deve ter em conta a sustentabilidade e viabilidade económico-financeira da respetiva prestação, devendo ainda ser considerados, designadamente, a variação do tráfego, a variação real dos custos relevantes, a qualidade do serviço prestado e o incentivo à prestação eficiente do serviço universal.
+
+4 - Os critérios a que deve obedecer a formação dos preços dos serviços postais que compõem o serviço universal são estabelecidos, por um período de três anos, por convénio a celebrar entre os prestadores do serviço universal, a ANACOM e a Direção-Geral do Consumidor (Convénio).
+
+5 - Para efeitos do disposto no número anterior, a ANACOM coordena os trabalhos do Convénio, sendo responsável pela articulação das partes no contexto da negociação, bem como pela promoção das audições referidas no artigo 43.º
+
+6 - Quando haja lugar à celebração do Convénio, este deve ser concluído, assinado pelas partes e notificado ao membro do Governo responsável pela área das comunicações até ao dia 30 de julho do ano anterior àquele a que os critérios visam aplicar-se.
+
+7 - Em caso de impossibilidade de obtenção de um acordo no âmbito do Convénio, no prazo estabelecido no número anterior, cabe ao membro do Governo responsável pela área das comunicações, no prazo máximo de 20 dias, a definição dos critérios a que deve obedecer a formação dos preços dos serviços postais que compõem o serviço universal, a vigorar por um período de três anos.
+
+8 - Estabelecidos os critérios para a formação dos preços, os prestadores do serviço universal devem notificar a ANACOM dos preços a praticar em relação aos serviços postais que integram a oferta do serviço universal, incluindo qualquer alteração aos mesmos, fundamentando a proposta quanto ao cumprimento dos princípios estabelecidos no n.º 1 e quanto aos critérios de formação dos preços estabelecidos ao abrigo dos n.os 4 ou 7, com a antecedência mínima de 70 dias em relação à data da sua entrada em vigor.
+
+9 - Após a notificação a que se refere o número anterior, a ANACOM deve:
+
+a) No prazo máximo de 20 dias, remeter ao membro do Governo responsável pela área das comunicações e aos prestadores do serviço universal um relatório relativo à conformidade dos preços apresentados com os princípios estabelecidos no n.º 1 e com os critérios de formação dos preços estabelecidos ao abrigo dos n.os 4 ou 7; e
+
+b) Submeter ao membro do Governo responsável pela área das comunicações uma proposta de decisão sobre os preços.
+
+10 - Sem prejuízo do disposto nos n.os 9 e 14, a ANACOM pode solicitar esclarecimentos ou elementos adicionais aos prestadores do serviço universal, fixando um prazo razoável para o efeito, o qual não deve ser inferior a cinco dias nem superior a 10 dias.
+
+11 - A solicitação prevista no número anterior suspende a contagem dos prazos na data de receção pelos prestadores do serviço universal do pedido de esclarecimentos ou da solicitação de elementos adicionais.
+
+12 - O membro do Governo responsável pela área das comunicações deve, no prazo máximo de 10 dias, decidir sobre a proposta de preços apresentada.
+
+13 - Caso considere que os preços não respeitam os princípios estabelecidos no n.º 1 ou não cumprem os critérios de formação dos preços estabelecidos ao abrigo dos n.os 4 ou 7, o membro do Governo responsável pela área das comunicações deve notificar os prestadores do serviço universal para que estes procedam à submissão de nova proposta, com revisão de preços, no prazo de 10 dias.
+
+14 - Havendo lugar, nos termos do número anterior, à submissão pelos prestadores de serviço universal de uma nova proposta de preços, a ANACOM analisa essa nova proposta, devendo submeter, no prazo de 10 dias, um novo relatório e proposta de decisão ao membro do Governo responsável pela área das comunicações, o qual decide sobre a mesma no prazo de 10 dias.
+
+15 - No caso de os critérios de formação dos preços não serem definidos nos termos dos n.os 4 ou 7, os prestadores do serviço universal notificam o membro do Governo responsável pela área das comunicações dos preços que entendem dever praticar, juntamente com uma proposta de critérios devidamente fundamentada quanto ao cumprimento dos princípios estabelecidos no n.º 1, aplicando-se com as devidas adaptações o disposto nos n.os 9 a 14.
+
+16 - Caso o membro do Governo responsável pela área das comunicações não se pronuncie até ao final dos prazos referidos nos n.os 12 e 14, consoante aplicável, os prestadores do serviço universal podem praticar os preços notificados.
+
+17 - No âmbito dos serviços postais que integram a oferta do serviço universal, o membro do Governo responsável pela área das comunicações pode, sob proposta da ANACOM e após audição das demais entidades que integram o Convénio:
+
+a) Determinar, por motivos de interesse público devidamente fundamentados, que o preço do serviço postal de envios de correspondência cujo peso seja inferior a 50 g obedeça ao princípio da uniformidade tarifária, com a aplicação de um preço único em todo o território, sem prejuízo do direito de os prestadores de serviço universal celebrarem com os utilizadores acordos individuais em matéria de preços especiais;
+
+b) Impor mecanismos de controlo de preços, incluindo limites máximos de preços, na medida em que tal seja necessário para promover a concorrência ou defender os direitos e interesses dos utilizadores;
+
+c) Determinar que alguns serviços postais destinados a serem utilizados por cegos e amblíopes sejam prestados gratuitamente;
+
+d) Determinar a alteração dos preços dos serviços postais que integram a oferta do serviço universal, bem como a alteração ou eliminação das condições associadas aos preços, devidamente fundamentada em vista do cumprimento dos princípios previstos no n.º 1, tendo em conta a qualidade do serviço prestado, na medida em que tal seja necessário para promover a concorrência ou defender os direitos e interesses dos utilizadores.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2022 - Diário da República n.º 26/2022, 1º Suplemento, Série I de 2022-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215), em vigor a partir de 2022-02-08*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24*
+
+#### Artigo 14.º-A — Regime de preços especiais
+
+1 - Os preços especiais e condições associadas dos serviços postais que integram a oferta do serviço universal, aplicados pelos prestadores de serviço universal, nomeadamente para serviços às empresas, a remetentes de envios em quantidade ou a intermediários responsáveis pelo agrupamento de envios de vários utilizadores, devem obedecer aos princípios da transparência e não discriminação, tendo também em conta os custos evitados em relação ao serviço normalizado que oferece as quatro operações integradas no serviço postal.
+
+2 - Os preços especiais e condições referidas no número anterior devem ainda ser aplicados de igual modo, independentemente do tipo de beneficiário e ser aplicados a utilizadores que efetuem envios em condições similares, em especial os utilizadores individuais e as pequenas e médias empresas.
+
+3 - Os prestadores do serviço universal devem notificar a ANACOM dos preços especiais que pratiquem em relação aos serviços postais que integram a oferta do serviço universal, antes da sua entrada em vigor.
+
+4 - No âmbito dos preços especiais, e após a sua entrada em vigor, pode o membro do Governo responsável pela área das comunicações, sob proposta da ANACOM, determinar a alteração dos mesmos, bem como a alteração ou eliminação das condições associadas aos preços, devidamente fundamentadas quanto ao cumprimento dos princípios previstos nos n.os 1 e 2, tendo em conta a qualidade do serviço prestado, na medida em que tal seja necessário para promover a concorrência ou defender os direitos e interesses dos utilizadores.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2022 - Diário da República n.º 26/2022, 1º Suplemento, Série I de 2022-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215), em vigor a partir de 2022-02-08*
+- *Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24*
+
+### Secção III — Sistema de contabilidade analítica
+
+#### Artigo 15.º — Regras gerais relativas ao sistema de contabilidade analítica
+
+1 - Os prestadores de serviço universal devem dispor de um sistema de contabilidade analítica que permita a separação de contas entre cada um dos serviços e produtos que integram o serviço universal e os que não o integram, de forma a permitir, nomeadamente, o cálculo do custo líquido do serviço universal.
+
+2 - O sistema de contabilidade analítica deve, adicionalmente, permitir a separação entre os custos associados às diversas operações integrantes do serviço postal, tal como definidas no artigo 4.º
+
+3 - A aplicação do sistema contabilístico deve basear-se nos princípios da contabilidade analítica, coerentemente aplicados e objetivamente justificáveis.
+
+#### Artigo 16.º — Repartição de custos
+
+1 - Sem prejuízo do disposto no número seguinte, o sistema de contabilidade analítica referido no artigo anterior deve permitir que os custos sejam imputados a um determinado serviço ou produto que lhe sejam diretamente atribuíveis.
+
+2 - O sistema de contabilidade analítica referido no artigo anterior deve permitir que os custos comuns, que não possam ser diretamente atribuídos a um serviço ou produto, sejam imputados da seguinte forma:
+
+a) Sempre que possível, os custos comuns devem ser imputados com base na análise direta da origem dos próprios custos;
+
+b) Quando a análise direta não for possível, as categorias de custos comuns devem ser imputadas com base numa ligação indireta a outra categoria ou grupo de categorias de custos relativamente aos quais seja possível efetuar uma imputação ou atribuição direta;
+
+c) A ligação indireta referida na alínea anterior deve basear-se em estruturas de custos comparáveis;
+
+d) Quando não for possível estabelecer medidas diretas ou indiretas de repartição dos custos, a categoria de custos deve ser imputada com base numa chave de repartição geral, calculada em função da relação entre todas as despesas direta ou indiretamente imputadas ou atribuídas, por um lado, a cada um dos serviços que compõem o serviço universal e, por outro, aos outros serviços;
+
+e) Os custos comuns necessários para prestar os serviços que compõem o serviço universal e os outros serviços devem ser corretamente atribuídos, devendo ser aplicados os mesmos fatores de custo a ambos os serviços.
+
+3 - Os prestadores de serviço universal podem aplicar outros sistemas de contabilidade analítica desde que sejam compatíveis com o disposto nos n.os 1 a 3 do artigo anterior e tenham sido previamente aprovados pela ANACOM, passando tais sistemas a ser utilizados para os efeitos previstos na presente lei.
+
+4 - Compete à ANACOM:
+
+a) Aprovar os sistemas de contabilidade analítica no prazo máximo de 200 dias a contar da data da respetiva apresentação por parte dos prestadores de serviço universal;
+
+b) Assegurar que a correta aplicação dos sistemas de contabilidade analítica, em conformidade com a presente secção, seja fiscalizada por uma entidade competente, independente dos prestadores de serviço universal;
+
+c) Publicar anualmente uma declaração de conformidade dos sistemas de contabilidade analítica dos prestadores de serviços postais e dos resultados obtidos.
+
+### Secção IV — Mecanismos de prestação do serviço universal
+
+#### Artigo 17.º — Prestação do serviço universal
+
+1 - A prestação do serviço universal pode ser assegurada através dos seguintes mecanismos:
+
+a) Funcionamento eficiente do mercado, sob o regime de licença individual;
+
+b) Designação de um ou mais prestadores de serviços postais para a prestação de diferentes elementos do serviço universal ou para a cobertura de diferentes partes do território nacional.
+
+2 - Os mecanismos adotados devem ser os mais adequados e eficientes para assegurar a disponibilidade do serviço universal em todo o território nacional.
+
+3 - Os mecanismos adotados devem, igualmente, respeitar os princípios da transparência, da não discriminação e da proporcionalidade, garantindo a continuidade da prestação do serviço universal como fator de coesão social e territorial.
+
+4 - No caso previsto na alínea b) do n.º 1, a designação dos prestadores de serviço universal deve ter uma duração suficiente para assegurar a rentabilização dos investimentos necessários, sendo revista periodicamente e analisada à luz das condições e dos princípios referidos nos n.os 2 e 3.
+
+5 - Caso seja designado mais do que um prestador de serviço universal, deve ser garantido que não há sobreposição de obrigações de serviço universal.
+
+6 - A designação a que alude a alínea b) do n.º 1 reveste a forma de contrato de concessão, aplicando-se os procedimentos previstos no Código dos Contratos Públicos.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2022 - Diário da República n.º 26/2022, 1º Suplemento, Série I de 2022-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215), em vigor a partir de 2022-02-08*
+
+### Secção V — Financiamento do serviço universal
+
+#### Artigo 18.º — Compensação do custo líquido do serviço universal
+
+1 - Os prestadores de serviço universal têm direito à compensação do custo líquido do serviço universal quando este constitua um encargo financeiro não razoável para os mesmos.
+
+2 - Para efeitos do disposto no número anterior, a ANACOM deve definir o conceito de encargo financeiro não razoável, bem como os termos que regem a sua determinação, nomeadamente os critérios utilizados, no prazo de 180 dias a contar da entrada em vigor da presente lei.
+
+3 - Os prestadores de serviço universal, quando considerem que a prestação do serviço universal gerou, num determinado ano, um custo líquido que representou um encargo financeiro não razoável, devem, até seis meses após o final do ano civil em causa, submeter à ANACOM um pedido de compensação dos mesmos, acompanhado do cálculo efetuado nos termos do artigo 19.º e de toda a informação que considerem relevante.
+
+4 - Os prestadores de serviço universal devem disponibilizar as contas e as informações pertinentes para o cálculo referido no presente artigo, as quais são objeto de auditoria efetuada pela ANACOM ou por outra entidade independente e posteriormente aprovada pela ANACOM.
+
+5 - Quando os prestadores de serviço universal estimem que num determinado ano incorrem em custos líquidos do serviço universal, devem informar a ANACOM até ao final do ano em curso e com uma antecedência mínima de quatro meses em relação à apresentação do pedido de compensação previsto no n.º 3, acompanhado de uma estimativa do valor dos custos líquidos.
+
+6 - A ANACOM deve pronunciar-se, no prazo máximo de 120 dias a contar da data em que for submetido o pedido de compensação a que se refere o n.º 3, sobre a existência de um custo líquido do serviço universal e sobre se tal custo constitui ou não um encargo financeiro não razoável.
+
+7 - A decisão da ANACOM referida no número anterior deve ser comunicada ao membro do Governo responsável pela área das comunicações e aos prestadores do serviço universal.
+
+#### Artigo 19.º — Cálculo do custo líquido
+
+1 - O custo líquido do serviço universal consiste na diferença entre o custo líquido em que incorrem os prestadores de serviço universal, operando com as obrigações de serviço universal, e o custo líquido dos mesmos prestadores, operando sem essas obrigações.
+
+2 - Compete à ANACOM definir a metodologia de cálculo do custo líquido do serviço universal, de acordo com os princípios e regras consagrados nesta secção, no prazo de 180 dias, a contar da entrada em vigor da presente lei.
+
+3 - No cálculo do custo líquido devem ser tidos em conta os seguintes elementos:
+
+a) Os benefícios, materiais e não materiais, que revertam para o respetivo prestador de serviço universal;
+
+b) O direito do prestador de serviço universal a obter um lucro razoável, representado pelo custo de capital relativo aos investimentos necessários à prestação do serviço universal, o qual deve refletir o risco incorrido;
+
+c) Os incentivos adequados a que o respetivo prestador de serviço universal cumpra as obrigações de serviço universal de forma economicamente eficiente.
+
+4 - O cálculo do custo líquido baseia-se nos custos imputáveis:
+
+a) Aos elementos do serviço universal necessariamente oferecidos com prejuízo ou em condições de custo que não se enquadrem nas práticas comerciais normais, podendo incluir, nomeadamente, a oferta de serviços postais em toda uma área geográfica específica, incluindo preços únicos nessa área geográfica, e a oferta de determinados serviços gratuitos a cegos e amblíopes;
+
+b) Aos utilizadores finais ou grupos de utilizadores finais específicos que, atendendo ao custo da oferta do serviço especificado, às receitas geradas e aos eventuais preços uniformes a nível geográfico impostos pela ANACOM, só podem ser servidos com prejuízo ou em condições de custo que não se enquadram nas práticas comerciais normais.
+
+5 - Consideram-se incluídos na alínea b) do número anterior os utilizadores ou grupos de utilizadores que não seriam servidos por uma empresa que não tivesse a obrigação de prestar o serviço universal.
+
+6 - O cálculo do custo líquido de aspetos específicos das obrigações de serviço universal é efetuado separadamente e de forma a evitar a dupla contabilização de quaisquer benefícios ou custos diretos ou indiretos.
+
+7 - O custo líquido geral das obrigações de serviço universal é calculado como a soma dos custos líquidos das componentes específicas das obrigações de serviço universal, tendo em conta todos os benefícios não materiais.
+
+#### Artigo 20.º — Financiamento
+
+1 - O custo líquido do serviço universal, quando represente um encargo financeiro não razoável para o respetivo prestador, é compensado através de um mecanismo de repartição pelos prestadores de serviços postais, devendo para o efeito ser estabelecido, por decreto-lei, um fundo de compensação, de acordo com os princípios da transparência, não discriminação e proporcionalidade.
+
+2 - O fundo referido no número anterior será constituído no prazo de 120 dias a contar da data de fecho do primeiro exercício completo decorrido após a aprovação do sistema de contabilidade analítica, nos termos do artigo 16.º
+
+#### Artigo 21.º — Fundo de compensação
+
+1 - O fundo de compensação previsto no artigo anterior é financiado, alternativa ou cumulativamente, pelos seguintes meios:
+
+a) Comparticipação de todos os prestadores de serviços postais que ofereçam um ou mais serviços abrangidos pelo âmbito do serviço universal definido nos termos do artigo 12.º, incluindo os prestadores de serviço universal designados;
+
+b) As doações ou legados realizados por qualquer pessoa singular ou coletiva que deseje contribuir para o financiamento do serviço postal universal;
+
+c) Os rendimentos provenientes da administração do fundo de compensação, nomeadamente os rendimentos das contas de depósito bancário onde se mantêm as disponibilidades do fundo;
+
+d) O produto das coimas e da aplicação de sanções pecuniárias compulsórias, nos termos previstos na alínea c) do n.º 4 do artigo 51.º e no n.º 5 do artigo 52.º
+
+2 - Devem ser definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e das comunicações a forma e os critérios de comparticipação para o fundo de compensação, de acordo com os princípios da transparência, não discriminação e proporcionalidade.
+
+3 - A ANACOM deve ser ouvido na determinação dos critérios de comparticipação para o fundo de compensação.
+
+4 - O Governo pode optar por dispensar de contribuir para o fundo de compensação os prestadores que não atinjam o volume de negócios fixado pela portaria a que faz referência o n.º 2.
+
+5 - Para efeitos do disposto na alínea a) do n.º 1, consideram-se abrangidos pelo âmbito do serviço universal os serviços que sejam qualificados pela ANACOM como permutáveis com os serviços definidos no artigo 12.º
+
+6 - Para efeitos do disposto no número anterior, entendem-se como permutáveis com os serviços definidos no artigo 12.º os serviços que, do ponto de vista do utilizador, demonstrem permutabilidade em grau suficiente com esses serviços, tendo em conta a utilização a que se destinam, as tarifas aplicáveis e as respetivas características, designadamente o seu valor acrescentado, ainda que tais serviços não contenham todas as características do serviço postal universal, em particular no que respeita à frequência de entrega ou à cobertura de todo o território nacional.
+
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2014 - Diário da República n.º 67/2014, Série I de 2014-04-04](https://diariodarepublica.pt/dr/detalhe/lei/16-2014-25344738), em vigor a partir de 2014-04-09*
+
+#### Artigo 22.º — Administração do fundo de compensação
+
+1 - O fundo de compensação é administrado pela ANACOM ou por outra entidade independente dos prestadores de serviço universal designada pelo Governo, neste caso, sob a supervisão da ANACOM.
+
+2 - A entidade que administra o fundo deve:
+
+a) Receber as respetivas contribuições, utilizando um meio transparente e neutro para a cobrança, de forma a evitar uma dupla imposição de contribuições;
+
+b) Supervisionar as transferências e os pagamentos a efetuar aos prestadores de serviço universal;
+
+c) Desagregar e identificar separadamente para cada prestador os encargos relativos à repartição do custo das obrigações de serviço universal.
+
+3 - A ANACOM deve garantir que os critérios de repartição dos custos e os elementos constituintes do mecanismo utilizado estejam acessíveis ao público.
+
+### Secção VI — Serviços obrigatórios adicionais
+
+#### Artigo 23.º — Disponibilização de serviços obrigatórios adicionais
+
+Mediante decreto-lei, podem ser fixados outros serviços a disponibilizar, para além dos serviços postais que compõem o serviço universal, os quais devem ser compensados por outros meios que não através do fundo de compensação referido nos artigos anteriores.
+
+## Capítulo IV — Regime de prestação de serviços postais
+
+### Secção I — Disposições gerais
+
+#### Artigo 24.º — Disposições gerais relativas ao serviço postal em mercado livre
+
+1 - A prestação de serviços postais está sujeita:
+
+a) Ao regime de licença individual, no caso de serviços abrangidos pelo âmbito do serviço universal definido nos termos do artigo 12.º e o respetivo acesso à atividade não seja feito por designação, nos termos da alínea b) do n.º 1 do artigo 17.º; ou
+
+b) Ao regime de autorização geral, nos restantes casos.
+
+2 - A atividade de prestação de serviços postais sujeita a licença individual ou ao regime de autorização geral pode ser exercida por pessoas singulares, com atividade aberta nos serviços de finanças e por pessoas coletivas regularmente constituídas, com estabelecimento principal ou secundário em território nacional, e cujo objeto social inclua o exercício da atividade de prestação de serviços postais, ficando obrigados a cumprir as condições de exercício da atividade que lhes sejam aplicáveis, nomeadamente o disposto no artigo 37.º
+
+3 - A atividade de prestação de serviços postais sujeita a licença individual ou ao regime de autorização geral pode ainda ser exercida por prestadores de serviços postais legalmente estabelecidos num Estado membro da União Europeia ou do Espaço Económico Europeu que pretendam prestar esses mesmos serviços em território nacional, ficando obrigados a cumprir as condições de exercício da atividade que lhes sejam aplicáveis, nomeadamente o disposto no artigo 37.º
+
+4 - Para efeitos do número anterior, ao analisar as condições exigíveis para o exercício da atividade de prestador de serviços postais, a ANACOM deve ter em conta os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em território nacional ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
+
+5 - Para efeitos do disposto na alínea a) do n.º 1, consideram-se abrangidos pelo âmbito do serviço universal os serviços que sejam qualificados pela ANACOM como permutáveis com os serviços definidos no artigo 12.º, nos termos dos n.os 5 e 6 do artigo 21.º.
+
+6 - Compete à ANACOM aprovar as regras procedimentais, os modelos e os formulários necessários para o exercício da atividade de prestador de serviços postais.
+
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2014 - Diário da República n.º 67/2014, Série I de 2014-04-04](https://diariodarepublica.pt/dr/detalhe/lei/16-2014-25344738), em vigor a partir de 2014-04-09*
+
+#### Artigo 25.º — Balcão único
+
+Sem prejuízo da possibilidade de recurso a outras formas de comunicação, todas as comunicações e notificações previstas no presente capítulo, bem como o envio de documentos, de requerimentos ou de informações, são realizados por via eletrónica, através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+#### Artigo 26.º — Registo de prestadores de serviços postais
+
+1 - Compete à ANACOM manter, atualizar de forma regular e divulgar, nomeadamente, no seu sítio na Internet, um registo dos prestadores de serviços postais, o qual deve conter a seguinte informação:
+
+a) Identificação completa do prestador, incluindo o domicílio ou sede social e, sempre que aplicável, a localização do estabelecimento secundário em Portugal;
+
+b) Indicação da rede postal na qual o prestador se suporta em território nacional;
+
+c) Serviços prestados em território nacional;
+
+d) Zona geográfica de atuação em território nacional;
+
+e) Data de início de atividade em território nacional;
+
+f) Indicação da prestação de serviços postais em território nacional sob o regime da livre prestação de serviços, quando aplicável.
+
+2 - Em caso de impossibilidade de notificação dos prestadores de serviços postais por prazo superior a 90 dias por causa a estes imputável, a ANACOM pode promover a suspensão da inscrição do prestador no registo, sem prejuízo da liquidação e cobrança imediata das taxas e da contribuição financeira que forem devidas, bem como da aplicação da coima a que houver lugar.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2026 - Diário da República n.º 9/2026, Série I de 2026-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2026-1006464118), em vigor a partir de 2026-01-15*
+
+### Secção II — Regime de licença individual
+
+#### Artigo 27.º — Instrução do requerimento
+
+1 - A licença individual é uma permissão administrativa, a emitir através de ato da ANACOM, previamente ao início da atividade, que submete as atividades desse prestador a obrigações específicas.
+
+2 - As entidades que pretendam obter uma licença individual para a prestação de serviços postais devem apresentar à ANACOM um requerimento instruído com os elementos exigidos por esta entidade, de acordo com o modelo aprovado, nomeadamente:
+
+a) Os elementos que permitam a sua identificação completa, no caso de pessoas singulares, através de cópia simples do documento de identificação e comprovativo de que é pessoa singular com atividade aberta nos serviços de finanças ou, no caso das pessoas coletivas, código de acesso à certidão permanente ou extrato em forma simples do teor das inscrições em vigor no registo comercial e indicação do número de identificação de pessoa coletiva, ou ainda, tratando-se de entidade legalmente estabelecida fora do território nacional, cópia da documentação emitida pelas autoridades competentes do país de origem;
+
+b) Descrição das atividades já exercidas no âmbito dos serviços postais, sempre que aplicável;
+
+c) Informação sobre os acordos concluídos ou a concluir com terceiros tendo em vista o exercício da atividade de serviços postais que pretende exercer;
+
+d) Descrição do projeto que se propõe implementar, nomeadamente a natureza, as características do serviço e zonas de cobertura, a rede postal na qual se suporta, os níveis de qualidade de serviço a assegurar e as medidas previstas para garantir a execução, fiabilidade e qualidade do serviço postal;
+
+e) Data prevista para o início da atividade;
+
+f) Informações sobre a capacidade técnica e humana necessária para assegurar o cumprimento dos requisitos essenciais previstos no artigo 7.º
+
+#### Artigo 28.º — Atribuição de licenças
+
+1 - Após a apresentação do requerimento, compete à ANACOM:
+
+a) Notificar o requerente da receção do pedido, informando-o do prazo definido na lei para a decisão final, dos efeitos resultantes da falta de decisão final nesse prazo e das vias de reação administrativa aplicáveis;
+
+b) Verificar se o requerimento está devidamente instruído e, em caso contrário, solicitar os documentos adicionais que sejam necessários;
+
+c) Requerer, de modo fundamentado, os esclarecimentos necessários sobre os aspetos mencionados no n.º 2 do artigo anterior.
+
+2 - O requerimento deve ser indeferido quando:
+
+a) Não respeitar os requisitos exigidos nos artigos 24.º e 27.º;
+
+b) A entidade requerente se encontre suspensa ou interdita de exercer a respetiva atividade nos termos do artigo 48.º;
+
+c) A entidade requerente seja uma sociedade que direta ou indiretamente participe, domine, seja participada ou dominada por pessoa singular ou coletiva que se encontre na situação referida na alínea anterior.
+
+3 - O pedido de licenciamento deve ser decidido no prazo máximo de 40 dias.
+
+4 - Findo o prazo previsto no número anterior, é automaticamente emitido comprovativo que determine o deferimento tácito do requerimento.
+
+5 - O prazo referido no n.º 3 suspende-se nos casos previstos nas alíneas b) e c) do n.º 1, até à receção dos elementos solicitados.
+
+#### Artigo 29.º — Elementos das licenças
+
+Da licença devem constar, designadamente, os seguintes elementos:
+
+a) Identificação dos serviços abrangidos;
+
+b) Zona geográfica de atuação;
+
+c) Prazo para início de atividade;
+
+d) Direitos e obrigações do prestador;
+
+e) Prazo e termo da licença.
+
+#### Artigo 30.º — Prazo e renovação das licenças
+
+As licenças são atribuídas pelo prazo de 10 anos, renováveis automaticamente por iguais períodos, sem prejuízo da sua alteração, revogação ou caducidade.
+
+#### Artigo 31.º — Alteração
+
+1 - As licenças podem ser alteradas nos seguintes casos:
+
+a) Por iniciativa da ANACOM, na decorrência da publicação de normas que venham a ser aprovadas e que consagrem exigências e condições não previstas à data da sua atribuição, de acordo com os princípios da prossecução do interesse público e da proporcionalidade;
+
+b) A pedido da entidade licenciada, o qual deve ser devidamente fundamentado e sujeito a autorização da ANACOM.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, deve a ANACOM notificar a entidade da alteração que pretende introduzir ao respetivo título, concedendo-lhe um prazo mínimo de 10 dias para que esta se pronuncie.
+
+#### Artigo 32.º — Transmissibilidade das licenças
+
+As licenças são transmissíveis mediante autorização prévia da ANACOM, concedida nos termos dos artigos 27.º e 28.º da presente lei, com as necessárias adaptações, devendo a entidade à qual for transmitida a licença obedecer aos requisitos constantes da presente lei, assumindo todos os direitos e obrigações inerentes ao respetivo título.
+
+#### Artigo 33.º — Extinção das licenças
+
+1 - As licenças extinguem-se por caducidade ou por revogação.
+
+2 - São motivos de caducidade das licenças:
+
+a) A cessação da atividade por parte do respetivo titular;
+
+b) Extinção da pessoa coletiva titular da licença; ou
+
+c) A ocorrência de facto que cause a impossibilidade definitiva do desenvolvimento da atividade em causa.
+
+3 - Em caso de incumprimento, por parte da entidade licenciada, da presente lei, dos respetivos diplomas de desenvolvimento ou das condições indicadas na licença, as licenças podem ser revogadas por decisão da ANACOM, nos termos do artigo 48.º
+
+### Secção III — Autorização geral
+
+#### Artigo 34.º — Procedimento
+
+1 - As entidades que pretendam iniciar a prestação de serviços postais não sujeitos a licença individual estão obrigadas a comunicar previamente ao ICP-ANACOM, de acordo com o modelo aprovado:
+
+a) Os elementos que permitam a sua identificação completa, através dos meios previstos na alínea a) do n.º 2 do artigo 27.º;
+
+b) A descrição do serviço que se propõem prestar;
+
+c) A zona geográfica de atuação;
+
+d) A rede postal na qual se suportam;
+
+e) A data prevista para o início da atividade;
+
+f) A sua intenção de se estabelecerem em Portugal, caso aqui não pretendam exercer a sua atividade em regime de livre prestação de serviços.
+
+2 - As entidades devem obter prova do envio realizado nos termos do número anterior, mediante aviso de receção legalmente reconhecido, nomeadamente postal ou eletrónico.
+
+3 - Não podem exercer a atividade de prestação de serviços postais ao abrigo do regime de autorização geral as entidades notificantes que:
+
+a) Se encontrem suspensas ou interditas de exercer a respetiva atividade nos termos do artigo 48.º;
+
+b) Sejam sociedades que, direta ou indiretamente, participem, dominem, sejam participadas ou dominadas por pessoa singular ou coletiva que se encontre na situação referida na alínea anterior.
+
+4 - Sem prejuízo do disposto no número anterior, após a apresentação da comunicação devidamente instruída nos termos do n.º 1, as entidades notificantes podem iniciar de imediato a sua atividade.
+
+#### Artigo 35.º — Inscrição no registo de prestadores
+
+1- Compete à ANACOM, no prazo de 10 dias seguidos a contar da receção da comunicação prevista no artigo anterior, emitir declaração comprovativa da inscrição da entidade notificante no registo dos prestadores de serviços postais.
+
+2 - A inscrição no registo é cancelada pela ANACOM sempre que os prestadores cessem a sua atividade.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24*
+
+### Secção IV — Direitos e obrigações dos prestadores de serviços postais
+
+#### Artigo 36.º — Direitos dos prestadores de serviços postais
+
+Constituem direitos dos prestadores de serviços postais:
+
+a) Desenvolver a atividade de prestação de serviços postais;
+
+b) Estabelecer, gerir e explorar uma rede postal;
+
+c) Negociar com outros prestadores de serviços postais o acesso e aceder às respetivas redes, nos termos da presente lei;
+
+d) Negociar com outros prestadores de serviços postais o acesso e aceder aos respetivos elementos da infraestrutura postal ou a serviços por estes prestados, nos termos da presente lei;
+
+e) Celebrar contratos com terceiros para efetuar operações que integrem os serviços postais que prestam;
+
+f) Fixar livremente os preços dos serviços prestados, incluindo os preços do acesso às redes postais e aos elementos da infraestrutura postal, sem prejuízo das regras previstas na presente lei quanto à fixação de preços.
+
+#### Artigo 37.º — Obrigações dos prestadores de serviços postais
+
+1 - Sem prejuízo de outras obrigações indicadas na presente lei, constituem obrigações dos prestadores de serviços postais:
+
+a) Cumprir os requisitos essenciais previstos no artigo 7.º;
+
+b) Cumprir as normas legais e regulamentares aplicáveis à atividade, bem como as determinações da ANACOM;
+
+c) Publicitar de forma adequada, nomeadamente no seu sítio na Internet, e fornecer regularmente aos utilizadores informações atualizadas e precisas sobre as características dos serviços prestados, designadamente sobre as condições gerais de acesso e utilização dos serviços, preços e níveis de qualidade praticados;
+
+d) Publicitar, de forma adequada, nomeadamente no seu sítio na Internet, e com a antecedência mínima de 30 dias, a extinção, total ou parcial, dos serviços prestados em território nacional;
+
+e) Anunciar, de forma adequada, nomeadamente no seu sítio na Internet, e com a antecedência mínima de 10 dias, a suspensão, total ou parcial, dos serviços prestados em território nacional, salvo caso fortuito ou de força maior;
+
+f) Assegurar o tratamento das reclamações dos utilizadores nos termos previstos na presente lei;
+
+g) Disponibilizar aos outros prestadores de serviços postais o acesso à rede e a elementos da sua infraestrutura postal ou a serviços por si prestados, nos termos previstos na presente lei;
+
+h) Comunicar à ANACOM quaisquer alterações relativas aos elementos constantes do seu registo referido no artigo 26.º, no prazo máximo de 30 dias a contar da sua verificação;
+
+i) Prestar à ANACOM todas as informações que lhes sejam solicitadas, nos termos do artigo 45.º;
+
+j) Facultar o acesso à ANACOM às respetivas instalações, equipamentos e documentação para verificação e fiscalização das obrigações a que estão sujeitos, no quadro das competências desta entidade, tal como estabelecidas nos respetivos Estatutos, e nos termos da legislação aplicável ao tipo de procedimento ou processo em causa;
+
+k) Proceder ao pagamento das taxas e da contribuição financeira, nos termos dos artigos 44.º e 44.º-A;
+
+l) Exercer a atividade em conformidade com a respetiva licença ou com a comunicação enviada à ANACOM nos termos do artigo 34.º, conforme aplicável;
+
+m) Identificar em cada envio postal a respetiva denominação, enquanto prestador de serviços postais.
+
+2 - Constituem ainda obrigações específicas dos prestadores de serviços postais licenciados:
+
+a) Comparticipar financeiramente para o fundo de compensação do serviço universal, nos termos do artigo 21.º;
+
+b) Dispor de um sistema de contabilidade que permita a separação de contas entre os serviços abrangidos pelo âmbito do serviço universal definido nos termos do artigo 12.º, incluindo os serviços que, do ponto de vista do utilizador, sejam considerados serviços permutáveis com os serviços definidos no artigo 12.º, e os demais serviços compreendidos na sua atividade, quando comparticipem financeiramente para o fundo de compensação dos custos do serviço universal;
+
+c) Proceder, sem prejuízo do disposto na alínea c) do número anterior, à medição e publicitação dos níveis de qualidade de serviço efetivamente oferecidos, de acordo com os parâmetros e regras a definir pela ANACOM, incluindo sobre a publicitação da qualidade de serviço praticada, e respeitando a periodicidade definida, quando esta obrigação lhes for imposta pela ANACOM.
+
+3 - As obrigações impostas nos termos da alínea c) do número anterior deverão ser transparentes, acessíveis, não discriminatórias, proporcionais, precisas e claras, publicitadas com a devida antecedência, baseadas em critérios objetivos e devidamente justificadas pela ANACOM, para assegurar a proteção dos utilizadores.
+
+4 - Os prestadores de serviços postais são responsáveis pelo cumprimento integral e pontual das obrigações previstas na presente lei, ainda que, para o exercício da sua atividade, recorram a serviços de outras entidades.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2026 - Diário da República n.º 9/2026, Série I de 2026-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2026-1006464118), em vigor a partir de 2026-01-15*
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2014 - Diário da República n.º 67/2014, Série I de 2014-04-04](https://diariodarepublica.pt/dr/detalhe/lei/16-2014-25344738), em vigor a partir de 2014-04-09*
+
+## Capítulo V — Acesso às redes e a elementos da infraestrutura postal
+
+### Artigo 38.º — Acesso às redes postais
+
+1 - Os prestadores de serviço universal devem assegurar o acesso às suas redes em condições transparentes e não discriminatórias, mediante acordos a estabelecer com os prestadores de serviços postais que o solicitem, considerando-se rede do serviço universal a rede postal afeta à prestação do serviço universal.
+
+2 - Os acordos celebrados nos termos do número anterior devem ser remetidos pelos prestadores de serviço universal à ANACOM no prazo de 10 dias a contar da sua celebração.
+
+3 - Caso os prestadores de serviços postais não cheguem a acordo quanto às condições do acesso garantido nos termos do n.º 1, pode qualquer uma das partes recorrer à ANACOM, de acordo com o procedimento previsto no artigo 54.º
+
+4 - Nos casos referidos no número anterior, a ANACOM pode determinar os termos e condições do acesso, incluindo os preços, quando tal se revele necessário para garantir uma concorrência efetiva ou os interesses dos utilizadores e estejam preenchidos os seguintes requisitos:
+
+a) Quando estejam em causa elementos da rede postal sem o acesso aos quais um prestador de serviços postais encontre dificuldades para aceder ao mercado;
+
+b) Quando o acesso não prejudique a segurança, a eficiência e a integridade da mesma nem a prestação do serviço universal.
+
+5 - A decisão a que se refere o número anterior deve ser devidamente fundamentada e os termos e condições impostos, incluindo preços, devem assegurar o respeito pelo princípio da transparência e não discriminação a que estão obrigados os prestadores de serviço universal.
+
+6 - Quando tal se revele necessário para garantir uma concorrência efetiva ou os interesses dos utilizadores, a ANACOM deve:
+
+a) Determinar que os prestadores de serviço universal publicitem, de forma adequada, os termos e condições de acesso à rede, incluindo preços;
+
+b) Definir os termos e condições de acesso às redes do serviço universal, as informações a publicitar nos termos da alínea anterior, bem como a forma e o modo da sua publicitação;
+
+c) Determinar alterações aos termos e condições de acesso publicitados, a qualquer tempo e, se necessário, com efeito retroativo.
+
+7 - Os prestadores de serviços postais, ainda que não tenham obrigações de serviço universal, podem negociar e acordar entre si as modalidades técnicas e comerciais de acesso às respetivas redes, podendo a ANACOM intervir, nos termos dos n.os 3 a 5, sempre que tal seja necessário para garantir uma concorrência efetiva, proteger os interesses dos utilizadores ou assegurar a prestação do serviço universal.
+
+8 - A ANACOM pode, quando o considere necessário para assegurar a prestação do serviço universal em todo ou parte do território nacional pelo prestador ou prestadores a designar na sequência do mecanismo de designação a que se refere a alínea b) do n.º 1 do artigo 17.º:
+
+a) Estabelecer que os prestadores de serviços postais publicitem, de forma adequada, os termos e condições de acesso a determinados elementos da sua rede, sem o acesso aos quais a prestação do serviço universal pode ficar prejudicada, incluindo preços;
+
+b) Definir os termos e condições de acesso a determinados elementos das redes postais dos prestadores de serviços postais, sem o acesso aos quais a prestação do serviço universal pode ficar prejudicada, e as informações a publicitar nos termos da alínea anterior, bem como a forma e o modo da sua publicitação;
+
+c) Determinar alterações aos termos e condições de acesso publicitados, a qualquer tempo e, se necessário, com efeito retroativo.
+
+9 - A imposição das medidas a que alude o número anterior deve ser precedida de uma análise destinada a avaliar a sua necessidade e o impacto de tais medidas no mercado, e obedece ao princípio da proporcionalidade.
+
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2014 - Diário da República n.º 67/2014, Série I de 2014-04-04](https://diariodarepublica.pt/dr/detalhe/lei/16-2014-25344738), em vigor a partir de 2014-04-09*
+
+### Artigo 39.º — Acesso a elementos da infraestrutura postal
+
+1 - Sem prejuízo do disposto no artigo anterior, todos os prestadores de serviços postais podem negociar e acordar entre si o acesso a elementos da sua infraestrutura postal ou a serviços por si prestados, nomeadamente o sistema de código postal, a base de dados de endereços, os apartados, as informações sobre a mudança de endereço, o serviço de reencaminhamento e o serviço de devolução ao remetente.
+
+2 - Caso as partes não cheguem a acordo quanto ao acesso aos elementos ou aos serviços referidos no número anterior, e sem prejuízo do disposto no artigo 54.º, pode qualquer uma das partes recorrer à ANACOM, o qual pode impor aos prestadores de serviços postais o acesso aos elementos e serviços referidos no número anterior em condições transparentes e não discriminatórias, sempre que tal se revele necessário para proteger os interesses dos utilizadores ou promover uma concorrência efetiva.
+
+3 - A ANACOM pode ainda impor aos prestadores de serviços postais o acesso aos elementos e serviços referidos no n.º 1, definindo os termos e condições do acesso, sempre que tal se revele necessário para assegurar a prestação do serviço universal.
+
+4 - A imposição de acesso nos termos do número anterior obedece ao disposto no n.º 9 do artigo 38.º
+
+5 - Quando existam vários prestadores de serviço universal com redes postais que, isoladamente, não cubram a totalidade do território nacional, a ANACOM pode impor condições que assegurem a interoperabilidade das várias redes, de forma a assegurar a universalidade do serviço.
+
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 16/2014 - Diário da República n.º 67/2014, Série I de 2014-04-04](https://diariodarepublica.pt/dr/detalhe/lei/16-2014-25344738), em vigor a partir de 2014-04-09*
+
+## Capítulo VI — Utilizadores de serviços postais
+
+### Artigo 40.º — Direito de utilização dos serviços
+
+Todos têm o direito de utilizar os serviços postais, mediante o pagamento dos preços correspondentes e o cumprimento das regras aplicáveis.
+
+### Artigo 41.º — Reclamações
+
+1 - Sem prejuízo do disposto no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelo Decreto-Lei n.º 371/2007, de 6 de novembro, pelo Decreto-Lei n.º 118/2009, de 19 de maio, e pelo Decreto-Lei n.º 317/2009, de 30 de outubro, todos os prestadores de serviços postais devem assegurar o tratamento das reclamações dos utilizadores:
+
+a) Mediante procedimentos transparentes, simples e gratuitos que garantam resposta atempada e fundamentada às mesmas e que permitam apurar a imputação de responsabilidade nos casos em que esteja envolvido mais de um prestador;
+
+b) Estabelecendo sistemas adequados de reembolso e compensação.
+
+2 - A ANACOM pode definir requisitos a observar nos procedimentos referidos no número anterior.
+
+3 - O estabelecimento e funcionamento dos procedimentos e sistemas referidos no n.º 1 devem ter em conta as normas internacionais aplicáveis relativas ao tratamento de reclamações, nomeadamente as definidas no âmbito da União Europeia.
+
+4 - De modo a assegurar a transparência referida na alínea a) do n.º 1, todos os prestadores de serviços postais devem disponibilizar aos utilizadores, através de publicitação nos seus sítios na Internet e nos respetivos estabelecimentos, informações atualizadas sobre os procedimentos de tratamento de reclamações e os sistemas de reembolso e compensação estabelecidos nos termos dos números anteriores, bem como sobre os mecanismos de resolução extrajudicial de litígios com os utilizadores de que disponham.
+
+5 - Os prestadores de serviço universal devem medir, pelo menos uma vez por ano, indicadores sobre as reclamações recebidas, podendo a ANACOM, em termos proporcionais, não discriminatórios e transparentes, fixar esses indicadores, regras e métodos de medição.
+
+6 - Os prestadores de serviço universal devem publicitar informações relativas ao número de reclamações e à respetiva resolução, nos termos que vierem a ser definidos pela ANACOM, sem prejuízo de outras informações que esta entidade venha a determinar.
+
+7 - A ANACOM pode determinar que, para além do prestador de serviço universal, os restantes prestadores de serviços postais recolham, publicitem e remetam à ANACOM informações relativas às reclamações recebidas, bem como fixar, nos termos previstos no n.º 4, indicadores, regras e métodos para a sua medição e divulgação.
+
+### Artigo 42.º — Apresentação de queixas
+
+1 - Os utilizadores de serviços postais, individualmente ou em conjunto com as organizações representativas de consumidores, podem apresentar queixa à ANACOM nos casos de reclamações previamente apresentadas aos prestadores de serviços postais, relativamente às quais aqueles não tenham respondido atempada e fundamentadamente ou que não tenham sido satisfatoriamente resolvidas.
+
+2 - Compete à ANACOM analisar e responder às queixas apresentadas nos termos do número anterior.
+
+### Artigo 43.º — Direito à audição
+
+A definição pelo membro do Governo responsável pela área das comunicações dos parâmetros de qualidade de serviço e dos objetivos de desempenho, bem como das regras para a formação de preços dos serviços postais que compõem o serviço universal, de acordo com o previsto nos artigos 13.º e 14.º, é precedida de audição, pela ANACOM, das organizações representativas dos consumidores.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2022 - Diário da República n.º 26/2022, 1º Suplemento, Série I de 2022-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215), em vigor a partir de 2022-02-08*

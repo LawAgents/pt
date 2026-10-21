@@ -1,0 +1,47 @@
+# id | nome comum | siglas separadas por virgula
+# Lista escrita a mao (30 a 50 entradas). Propostas de alteracao: pull request a este ficheiro.
+decreto-aprovacao-constituicao-1976-dre-502635 | Constituição da República Portuguesa | CRP, Constituição
+decreto-lei-47344-1966 | Código Civil | CC
+decreto-lei-48-1995 | Código Penal | CP
+lei-41-2013 | Código de Processo Civil | CPC
+decreto-lei-78-1987 | Código de Processo Penal | CPP
+lei-7-2009 | Código do Trabalho | CT
+lei-99-2003 | Código do Trabalho de 2003 | CT 2003
+decreto-lei-480-1999 | Código de Processo do Trabalho | CPT
+decreto-lei-262-1986 | Código das Sociedades Comerciais | CSC
+decreto-lei-4-2015 | Código do Procedimento Administrativo | CPA
+lei-15-2002 | Código de Processo nos Tribunais Administrativos | CPTA
+decreto-lei-18-2008 | Código dos Contratos Públicos | CCP
+decreto-lei-53-2004 | Código da Insolvência e da Recuperação de Empresas | CIRE
+decreto-lei-486-1999 | Código dos Valores Mobiliários | CVM
+lei-72-2013 | Código da Estrada | CE
+lei-2-2014 | Código do Imposto sobre o Rendimento das Pessoas Coletivas | CIRC, IRC
+lei-82-e-2014 | Código do Imposto sobre o Rendimento das Pessoas Singulares | CIRS, IRS
+decreto-lei-102-2008 | Código do Imposto sobre o Valor Acrescentado | CIVA, IVA
+lei-150-1999 | Código do Imposto do Selo | CIS
+decreto-lei-433-1999 | Código de Procedimento e de Processo Tributário | CPPT
+decreto-lei-287-2003 | Códigos do IMI e do IMT | CIMI, CIMT, IMI, IMT
+decreto-lei-398-1998 | Lei Geral Tributária | LGT
+decreto-lei-110-2018 | Código da Propriedade Industrial | CPI
+decreto-lei-63-1985 | Código do Direito de Autor e dos Direitos Conexos | CDADC
+decreto-lei-224-1984 | Código do Registo Predial | CRPredial
+decreto-lei-403-1986 | Código do Registo Comercial | CRComercial
+decreto-lei-131-1995 | Código do Registo Civil | CRCivil
+decreto-lei-207-1995 | Código do Notariado | CN
+lei-168-1999 | Código das Expropriações | CExp
+lei-115-2009 | Código da Execução das Penas e Medidas Privativas da Liberdade | CEPMPL
+decreto-lei-330-1990 | Código da Publicidade | CPub
+lei-119-2015 | Código Cooperativo | CCoop
+lei-110-2009 | Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social | CRCSPSS
+decreto-lei-73-2010 | Código dos Impostos Especiais de Consumo | CIEC
+lei-6-2006 | Novo Regime do Arrendamento Urbano | NRAU
+lei-24-1996 | Lei de Defesa do Consumidor | LDC, Lei 24/96
+decreto-lei-446-1985 | Regime das Cláusulas Contratuais Gerais | LCCG
+decreto-lei-555-1999 | Regime Jurídico da Urbanização e Edificação | RJUE
+lei-37-1981 | Lei da Nacionalidade | LN
+lei-23-2007 | Lei de Estrangeiros | Lei 23/2007
+lei-62-2013 | Lei da Organização do Sistema Judiciário | LOSJ
+lei-19-2012 | Lei da Concorrência | Lei 19/2012
+lei-83-2017 | Lei do Branqueamento de Capitais | Lei 83/2017
+lei-4-2007 | Lei de Bases da Segurança Social | LBSS
+decreto-lei-72-2008 | Regime Jurídico do Contrato de Seguro | RJCS

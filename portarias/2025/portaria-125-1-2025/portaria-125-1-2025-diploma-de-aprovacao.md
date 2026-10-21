@@ -1,0 +1,579 @@
+---
+id: "portaria-125-1-2025-diploma-de-aprovacao"
+dre_id: "911850389"
+title: "Portaria n.º 125/2025/1, de 21 de março — Diploma de aprovação"
+type: "Portaria"
+number: "125/2025/1"
+year: 2025
+date: 2025-03-21
+issuer: "Agricultura e Pescas"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2026-07-31
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-935357700"
+original_pdf: "https://files.diariodarepublica.pt/1s/2025/03/05700/0004100061.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece o regime específico dos apoios a conceder ao abrigo do artigo 73.º do Regulamento (UE) 2021/2115 , do Parlamento Europeu e do Conselho, no que se refere à tipologia C.3.2.4, «Restabelecimento do potencial silvícola na sequência de catástrofes naturais, de fenómenos climatéricos adversos ou de acontecimentos catastróficos», do domínio C.3, «Sustentabilidade das zonas rurais», do eixo C, «Desenvolvimento rural», do Plano Estratégico da Política Agrícola Comum para ­Portugal (PEPAC Portugal)."
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "portaria-125-1-2025"
+part: "Diploma de aprovação"
+---
+
+# Portaria n.º 125/2025/1, de 21 de março — Diploma de aprovação
+
+A reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).
+
+O PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.
+
+O Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, relativo ao apoio ao desenvolvimento rural pelo FEADER, estabelece como objetivo, entre outros, contribuir para a sustentabilidade ambiental, para a atenuação das alterações climáticas e para a adaptação às mesmas, com vista a travar e inverter a perda de biodiversidade, melhorar os serviços ecossistémicos e preservar os habitats e as paisagens.
+
+O Regulamento (UE) 2021/2115, nos termos do disposto no artigo 73.º, estabelece que, em prossecução do seu PEPAC e nas condições neste estabelecidas, os Estados-Membros podem conceder apoio ao investimento no restabelecimento do potencial silvícola na sequência de catástrofes naturais, de fenómenos climatéricos adversos ou de acontecimentos catastróficos.
+
+O PEPAC Portugal foi aprovado pela Comissão Europeia, através da Decisão C (2022) 6019, de 31 de agosto de 2022, tendo as respetivas reprogramações sido aprovadas pelas Decisões de Execução da Comissão C (2024) 577, de 2 de fevereiro de 2024, C (2024) 4271, de 25 de junho de 2024, e C (2025) 667, de 4 de fevereiro de 2025.
+
+O Decreto-Lei n.º 5/2023, de 25 de janeiro, que estabeleceu o modelo de governação dos fundos europeus para o período de programação 2021-2027, entre os quais se inclui o FEADER, determinou a estruturação operacional deste Fundo no continente através dos eixos C e D.
+
+Por seu lado, o Decreto-Lei n.º 12/2023, de 24 de fevereiro, estabeleceu as normas gerais do PEPAC Portugal, tendo determinado, no artigo 3.º, que a regulamentação específica dos referidos Eixos é adotada por portaria do membro do Governo responsável pela área da agricultura.
+
+Nestes termos, cumpre estabelecer o regime específico dos apoios a conceder ao abrigo do artigo 73.º do Regulamento (UE) 2021/2115, no que se refere à tipologia C.3.2.4, «Restabelecimento do potencial silvícola na sequência de catástrofes naturais, de fenómenos climatéricos adversos ou de acontecimentos catastróficos», do domínio C.3, «Sustentabilidade das zonas rurais», do eixo C, «Desenvolvimento rural».
+
+Os apoios previstos na presente portaria serão ainda alvo de apoio adicional, a atribuir no ano seguinte à conclusão dos investimentos e a regulamentar em legislação específica referente à tipologia C.3.2.8, «Prémio à perda de rendimento e à manutenção de investimentos florestais», nomeadamente um apoio complementar, no primeiro ano, de 600 euros para os casos em que se reconverter áreas de eucaliptos em outras espécies, e, ainda, através da atribuição de prémios à manutenção, por um período de vinte anos, para povoamentos constituídos por folhosas a privilegiar nos programas regionais de ordenamento florestal, e por um período de quinze anos para povoamentos constituídos pelas restantes espécies, após autorização da Comissão Europeia, ou pelos períodos autorizados por esta.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura e Pescas, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, conjugada com o n.º 1 do artigo 27.º do Decreto-Lei n.º 32/2024, de 10 de maio, alterado pelo Decreto-Lei n.º 103/2024, de 6 de dezembro, o seguinte:
+
+## Capítulo I — DISPOSIÇÕES GERAIS
+
+### Artigo 1.º — Objeto
+
+A presente portaria estabelece o regime específico dos apoios a conceder ao abrigo do artigo 73.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à tipologia C.3.2.4, «Restabelecimento do potencial silvícola na sequência de catástrofes naturais, de fenómenos climatéricos adversos ou de acontecimentos catastróficos», do domínio C.3, «Sustentabilidade das zonas rurais», do eixo C, «Desenvolvimento rural», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal).
+
+### Artigo 2.º — Objetivos específicos
+
+1 - Os apoios previstos na presente portaria, no âmbito do eixo C, «Desenvolvimento rural», do PEPAC Portugal, destinam-se a prosseguir os seguintes objetivos:
+
+a) Contribuir para a atenuação das alterações climáticas e a adaptação às mesmas, nomeadamente através da redução das emissões de gases com efeito de estufa e do reforço do sequestro de carbono, bem como promover a energia sustentável;
+
+b) Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais, como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas;
+
+c) Contribuir para travar e inverter a perda de biodiversidade, melhorar os serviços ecossistémicos preservar os habitats e as paisagens;
+
+d) Promover o emprego, o crescimento, a igualdade de género, nomeadamente a participação das mulheres no setor da agricultura, a inclusão social e o desenvolvimento local nas zonas rurais, incluindo a bioeconomia circular e uma silvicultura sustentável.
+
+2 - Os apoios previstos na presente portaria prosseguem, ainda, o objetivo transversal de modernização das áreas agrícolas e rurais, através da promoção e da partilha de conhecimentos, da inovação e da digitalização na agricultura e nas zonas rurais, e incentivo à sua utilização pelos agricultores.
+
+### Artigo 3.º — Definições
+
+1 - Para efeitos de aplicação da presente portaria entende-se por:
+
+a) «Acontecimento catastrófico», o acontecimento imprevisto, biótico ou abiótico, que perturbe gravemente as estruturas florestais, provocando, a prazo, prejuízos económicos importantes para o setor florestal;
+
+b) ‘Agentes abióticos’, fatores que induzem perturbações significativas nos ecossistemas florestais, comprometendo a sua integridade estrutural, funcional e fitossanitária, nomeadamente fenómenos climáticos extremos, ocorrências geológicas, distúrbios hidrológicos, fatores químicos e incêndios florestais;
+
+c) ‘Agentes bióticos’, os microrganismos ou invertebrados que têm impactos cuja importância é reconhecida pelas entidades competentes;
+
+d) «Áreas contíguas», áreas confinantes ou que se encontrem separadas por elementos no terreno com largura igual ou inferior a 20 metros, quer naturais quer artificiais, como sejam caminhos, estradas ou linhas de água;
+
+e) «Áreas integradas de gestão da paisagem (AIGP)», as áreas constituídas ao abrigo do Decreto-Lei n.º 28-A/2020, de 26 de junho, na sua redação atual;
+
+f) «Calamidade natural», o acontecimento natural abiótico que perturbe as estruturas florestais, provocando, a prazo, prejuízos económicos importantes para o setor florestal, nomeadamente os tremores de terra, as avalanches, os deslizamentos de terras, as inundações, os tornados, os ciclones, as erupções vulcânicas e os fogos violentos de origem natural;
+
+g) ‘Detentor de espaços florestais’, o proprietário, usufrutuário, arrendatário ou quem, a qualquer título, detenha a posse ou a administração dos terrenos que integrem os espaços florestais;
+
+h) ‘Empresa em dificuldade’, a empresa relativamente à qual se verifica, pelo menos, uma das circunstâncias previstas no ponto 18) do artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, na sua redação atual, na aceção do ponto 59) do artigo 2.º do Regulamento (UE) n.º 2022/2472, da Comissão;
+
+i) ‘Entidade de gestão florestal (EGF)’, a pessoa coletiva de direito privado, reconhecida nos termos do Decreto-Lei n.º 66/2017, de 12 de junho, na sua redação atual;
+
+j) ‘Entidade gestora de AIGP’, as entidades reconhecidas nos termos do Decreto-Lei n.º 28-A/2020, de 26 de junho, na sua redação atual;
+
+k) ‘Entidade gestora de baldio’, a entidade que administra um baldio, nos termos definidos na Lei n.º 75/2017, de 17 de agosto, na sua redação atual;
+
+l) ‘Entidade gestora de zona de intervenção florestal’, nos termos do Decreto-Lei n.º 127/2005, de 5 de agosto, na sua redação atual;
+
+m) ‘Espaço florestal’, os terrenos ocupados com floresta, matos e pastagens ou outras formações vegetais espontâneas, segundo os critérios definidos no Inventário Florestal Nacional, independentemente de daqueles resultarem produtos enumerados no anexo i do Tratado de Funcionamento da União Europeia;
+
+n) «Espécies invasoras lenhosas», as espécies vegetais capazes de produzir madeira como tecido de suporte dos seus caules e cuja introdução na natureza ou propagação, num dado território, ameaça ou tem um impacto adverso na diversidade biológica e nos serviços dos ecossistemas a ela associados, ou outros impactos adversos, cuja listagem se encontra publicada no anexo II do Decreto-Lei n.º 92/2019, de 10 de julho, na redação atual;
+
+o) ‘Exploração florestal e agroflorestal’, a definição constante do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
+
+p) «Grupos ou agrupamentos de baldios», as entidades constituídas ao abrigo da Lei n.º 75/2017, de 17 de agosto, na sua redação atual;
+
+q) [Revogada.]
+
+r) «Operações não concluídas materialmente nem totalmente executadas», todas as operações que apresentem uma execução física e financeira igual ou inferior a 50 %;
+
+s) ‘Organização de produtores florestais (OPF)’, a pessoa coletiva reconhecida pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.);
+
+t) «Plano de gestão florestal (PGF)», o instrumento de administração de espaços florestais nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
+
+u) «Povoamento florestal», a superfície ocupada com árvores florestais, com uma percentagem de coberto de, pelo menos, 10 % e uma altura superior a 5 metros, na maturidade, que ocupem uma área no mínimo de 0,50 hectares e largura média não inferior a 20 metros, incluindo os povoamentos jovens, bem como os quebra-ventos e cortinas de abrigo, conforme definido no Inventário Florestal Nacional;
+
+v) «Praga», qualquer espécie, estirpe ou biótipo de agentes patogénicos, parasitas nocivos para os vegetais ou produtos vegetais;
+
+w) «Programa regional de ordenamento florestal (PROF)», o instrumento de política setorial regulamentado pelo Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
+
+x) «Rede primária de faixas de gestão de combustível», a rede regulada nos termos do Decreto-Lei n.º 82/2021, de 13 de outubro, na sua redação atual;
+
+y) «Rede secundária de faixas de gestão de combustível», a rede regulada nos termos do Decreto-Lei n.º 82/2021, de 13 de outubro, na sua redação atual;
+
+z) «Rede viária florestal», a rede regulada nos termos do Despacho n.º 5712/2014, de 30 de abril;
+
+aa) ‘Unidade de gestão florestal (UGF)’, a pessoa coletiva de direito privado, reconhecida nos termos do artigo 2.º do Decreto-Lei n.º 66/2017, de 12 de junho, na sua redação atual;
+
+bb) «Zona de intervenção florestal (ZIF)», a área territorial constituída, conforme estabelecido no Decreto-Lei n.º 127/2005, de 5 de agosto, na sua redação atual;
+
+cc) ‘Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI)’, estudo integrado dos elementos que regulam as ações de intervenção no âmbito da defesa da floresta contra incêndios num dado território, regulamentado pelo Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual;
+
+dd) ‘Programas municipais de execução de gestão integrada de fogos rurais (PME)’, definidos no Decreto-Lei n.º 82/2021, de 13 de outubro, na sua redação atual.
+
+2 - [Revogado.]
+
+3 - [Revogado.]
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2025-03-22.*
+
+### Artigo 3.º-A — Operações com escala territorial relevante
+
+1 - Consideram-se operações com escala territorial relevante as operações que abranjam áreas mínimas de 750 hectares, sem prejuízo do disposto no número seguinte.
+
+2 - Consideram-se, ainda, operações com escala territorial relevante, para efeitos de estabilização de emergência, aquelas que incidam em áreas ardidas, no caso de incêndios florestais, ou afetadas, nos restantes casos, iguais ou superiores a 500 hectares, identificadas pelo ICNF, I. P.
+
+- *Aditado pelo/a Artigo 6.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+
+### Artigo 4.º — Auxílios de Estado
+
+Os apoios no âmbito da presente portaria são concedidos nas condições previstas no artigo 43.º do Regulamento (UE) n.º 2022/2472, da Comissão, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do Tratado de Funcionamento da União Europeia.
+
+## Capítulo II — TIPOLOGIA C.3.2.4, «RESTABELECIMENTO DO POTENCIAL SILVÍCOLA NA SEQUÊNCIA DE CATÁSTROFES NATURAIS, DE FENÓMENOS CLIMATÉRICOS ADVERSOS OU DE ACONTECIMENTOS CATASTRÓFICOS»
+
+### Artigo 5.º — Beneficiários
+
+1 - Podem beneficiar do apoio na presente portaria as pessoas singulares ou coletivas, de natureza pública ou privada, que sejam detentoras de espaços florestais.
+
+2 - Podem, ainda, beneficiar do apoio no âmbito na presente portaria as entidades gestoras de baldios e grupos ou agrupamentos de baldios que sejam detentores de espaços florestais.
+
+### Artigo 6.º — Tipos de investimento para operações ao nível das explorações florestais e agroflorestais
+
+Para investimentos em operações ao nível das explorações florestais e agroflorestais, pode ser concedido apoio aos seguintes tipos de investimento:
+
+a) Restabelecimento de povoamentos florestais afetados por agentes bióticos:
+
+i) Reabilitação de povoamentos florestais;
+
+ii) Reflorestação de áreas afetadas;
+
+b) Restabelecimento de povoamentos florestais afetados por agentes abióticos:
+
+i) Reabilitação de povoamentos florestais;
+
+ii) Reflorestação de áreas afetadas;
+
+iii) Recuperação de infraestruturas afetadas, enquanto complementar aos anteriores;
+
+c) Imateriais.
+
+### Artigo 7.º — Tipos de investimento para operações com escala territorial relevante
+
+Para investimentos em operações com escala territorial relevante pode ser concedido apoio, no âmbito de agentes abióticos, aos seguintes tipos de investimento:
+
+a) Recuperação de infraestruturas afetadas;
+
+b) Controlo da erosão, tratamento e proteção de encostas;
+
+c) Prevenção da contaminação, assoreamento e recuperação de linhas de água;
+
+d) Diminuição da perda de biodiversidade.
+
+e) Imateriais.
+
+### Artigo 8.º — Critérios de elegibilidade dos beneficiários
+
+1 - Nos termos do disposto no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os candidatos aos apoios previstos na presente portaria devem reunir as seguintes condições:
+
+a) Encontrarem-se legalmente constituídos, no caso de pessoas coletivas;
+
+b) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;
+
+c) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza da operação;
+
+d) Terem a situação regularizada em matéria de reposições, no âmbito do financiamento do FEADER e do FEAGA ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).
+
+2 - Sem prejuízo dos critérios de elegibilidade referidos no número anterior, os candidatos aos apoios previstos na presente portaria devem ainda cumprir o seguinte:
+
+a) Serem detentores de espaços florestais e, com exceção dos casos definidos em sede de Orientação Técnica (OT), efetuarem o respetivo registo no Sistema de Identificação Parcelar (SIP), bem como assegurar a identificação dos polígonos de investimento e respetivas infraestruturas;
+
+b) Não terem sido condenados em processos-crime por factos que envolvam disponibilidades financeiras no âmbito dos fundos europeus;
+
+c) Possuírem registo e declaração do beneficiário efetivo devidamente atualizada, sempre que se trate de beneficiários sujeitos ao Regime Jurídico do Registo Central do Beneficiário Efetivo (RCBE).
+
+3 - Os candidatos aos apoios previstos na presente portaria, não podem ser empresas em dificuldade, na aceção da alínea h) do artigo 3.º da presente portaria, nem sobre estes impender um processo de recuperação de auxílios de Estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia.
+
+4 - As condições previstas nas alíneas a), c) e d) do n.º 1, na última parte da alínea a) e na alínea b) do n.º 2 e no n.º 3 do presente artigo devem encontrar-se cumpridas à data da submissão da candidatura.
+
+5 - A condição prevista na alínea b) do n.º 1 pode ser aferida até ao momento da apresentação do primeiro pedido de pagamento e a condição prevista na alínea c) do n.º 2 pode ser aferida até à data da decisão da candidatura.
+
+6 - A condição de os beneficiários serem detentores de espaços florestais e efetuarem o respetivo registo no Sistema de Identificação Parcelar (SIP) prevista na primeira parte da alínea a) do n.º 2 do presente artigo deve encontrar-se cumprida até à data de submissão autenticada do termo de aceitação.
+
+7 - O disposto na primeira parte do n.º 3 não é aplicável às entidades que se tenham tornado uma empresa em dificuldade devido às perdas e danos causados por agentes bióticos ou abióticos, calamidades naturais ou acontecimentos catastróficos.
+
+- *Alterado pelo/a Artigo 8.º do/a [Portaria n.º 320-C/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652), em vigor a partir de 2026-08-01, com efeitos a partir de 2025-03-22.*
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2025-03-22.*
+- *Alterado pelo/a Artigo 4.º do/a [Portaria n.º 313/2025/1 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/313-2025-935257201), em vigor a partir de 2025-09-16, produz efeitos a partir de 2025-03-22*
+
+### Artigo 9.º — Critérios de elegibilidade das operações ao nível das explorações florestais e agroflorestais
+
+1 - Podem beneficiar dos apoios na presente portaria as operações que incluam os tipos de investimento definidos no artigo 6.º, que se enquadrem nos objetivos do artigo 2.º, e que reúnam ainda as seguintes condições:
+
+a) No caso de agentes bióticos:
+
+i) Incidam em espaços florestais contíguos com dimensão mínima de 0,50 hectares;
+
+ii) Tenham um investimento igual ou superior a 5000 euros;
+
+iii) Apresentem coerência técnica;
+
+iv) Detenham reconhecimento formal por parte do ICNF, I. P., de que pelo menos 20 % da capacidade produtiva da floresta que constitui a área proposta foi destruída em virtude de pragas ou da aplicação de medidas adotadas para erradicação ou contenção dos parasitas das plantas, em conformidade com o Decreto-Lei n.º 154/2005, de 6 de setembro, sua redação atual;
+
+v) Abranjam as espécies florestais constantes nos PROF, ou outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
+
+vi) Detenham autorização ou comunicação prévia válida para as ações de arborização ou rearborização, nos termos do regime jurídico das ações de arborização e rearborização (RJAAR), aprovado pelo Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual;
+
+vii) Tenham PGF aprovado, em conformidade com os PROF em vigor, quando obrigatório nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
+
+viii) Não contemplem investimentos cuja decisão ainda se encontre pendente, ou que já tenham sido aprovados ou financiados ao abrigo do FEADER, bem como ao abrigo de outros fundos europeus, exceto nas situações em que tenha sido apresentada desistência;
+
+b) No caso de agentes abióticos:
+
+i) Incidam em espaços florestais contíguos com dimensão mínima de 0,50 hectares;
+
+ii) Tenham um investimento igual ou superior a 5000 euros;
+
+iii) Apresentem coerência técnica;
+
+iv) Detenham reconhecimento formal por parte do ICNF, I. P., de que pelo menos 20 % da capacidade produtiva da floresta que constitui a área proposta foi destruída por incêndio ou outro agente abiótico;
+
+v) Abranjam as espécies florestais constantes nos PROF, ou outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
+
+vi) Detenham autorização ou comunicação prévia válida para as ações de arborização ou rearborização, nos termos do regime jurídico das ações de arborização e rearborização (RJAAR), aprovado pelo Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual;
+
+vii) Tenham PGF aprovado, em conformidade com os PROF em vigor, quando obrigatório nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
+
+viii) Não contemplem investimentos cuja decisão ainda se encontre pendente, ou que já tenham sido aprovados ou financiados ao abrigo do FEADER, bem como ao abrigo de outros fundos europeus, exceto nas situações em que tenha sido apresentada desistência.
+
+2 - As áreas correspondentes aos investimentos que respeitem exclusivamente a infraestruturas não são consideradas no âmbito do apuramento dos critérios de elegibilidade da subalínea i) das alíneas a) e b) do número anterior.
+
+3 - Sem prejuízo dos números seguintes, as condições previstas nas subalíneas vi) e vii) das alíneas a) e b) do n.º 1 do presente artigo devem encontrar-se cumpridas à data de submissão da candidatura.
+
+4 - Quando à data da submissão da candidatura o parecer referido na subalínea iv) das alíneas a) e b) do n.º 1 não tenha sido emitido, tendo sido apresentado o respetivo pedido à entidade competente, considera-se o critério como cumprido desde que o parecer solicitado seja emitido dentro do prazo de análise da candidatura, nos termos do n.º 3 do artigo 17.º
+
+5 - Quando à data da submissão da candidatura a autorização para as ações de arborização ou rearborização referida na subalínea vi) das alíneas a) e b) do n.º 1 não tenha sido emitida, tendo sido apresentado o respetivo pedido à entidade competente, considera-se o critério como cumprido desde que a autorização solicitada seja emitida dentro do prazo de análise da candidatura, nos termos do n.º 3 do artigo 17.º
+
+6 - Quando à data da submissão da candidatura o PGF referido na subalínea vii) das alíneas a) e b) do n.º 1 não se encontre aprovado, mas tenha sido apresentado o respetivo pedido de aprovação no ICNF, I. P., considera-se o critério como cumprido desde que a sua aprovação pelo ICNF, I. P., decorra dentro do prazo de análise da candidatura, nos termos do n.º 3 do artigo 17.º
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+- *Alterado pelo/a Artigo 4.º do/a [Portaria n.º 313/2025/1 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/313-2025-935257201), em vigor a partir de 2025-09-16, produz efeitos a partir de 2025-03-22*
+
+### Artigo 10.º — Critérios de elegibilidade das operações com escala territorial relevante
+
+1 - Podem beneficiar dos apoios previstos na presente portaria as operações que incluam os tipos de investimento definidos no artigo 7.º, que se enquadrem nos objetivos do artigo 2.º e que reúnam ainda, para agentes abióticos, as seguintes condições:
+
+a) Incidam em áreas ardidas, no caso de incêndios florestais, ou afetadas, nos restantes casos, iguais ou superiores a 500 hectares identificadas pelo ICNF, I. P., para efeitos de estabilização da emergência;
+
+b) Constituam operações com escala territorial relevante, nos termos do disposto no artigo 3.º-A;
+
+c) [Revogada.]
+
+d) Correspondam a operações que estejam identificadas em relatório de estabilização de emergência, no caso dos incêndios florestais, ou em relatórios de avaliação elaborados pelo ICNF, I. P., nos restantes casos;
+
+e) Apresentem coerência técnica;
+
+f) Não contemplem investimentos cuja decisão ainda se encontre pendente, ou que já tenham sido aprovados ou financiados ao abrigo do FEADER, bem como ao abrigo de outros fundos europeus, exceto nas situações em que tenha sido apresentada desistência.
+
+2 - [Revogado.]
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+
+### Artigo 11.º — Despesas elegíveis e não elegíveis
+
+1 - As despesas elegíveis e não elegíveis são as constantes do anexo i à presente portaria, da qual faz parte integrante.
+
+2 - No âmbito das despesas elegíveis, são despesas complementares as que têm obrigatoriamente de ser realizadas em conjunto com, pelo menos, outra despesa elegível nos termos indicados no anexo referido no número anterior, sendo a complementaridade verificada por local de investimento.
+
+3 - Os limites ao investimento elegível validado em sede de análise definidos no anexo I à presente portaria são verificados por candidatura, podendo resultar na redução proporcional do investimento elegível, sem constituir uma alteração à operação, devendo a execução da mesma ser assegurada nos termos e condições aprovados.
+
+4 - As despesas são elegíveis após a data de submissão da candidatura, com exceção das referidas nos pontos 39, 40 e 54 do anexo I à presente portaria, que podem ser realizadas até seis meses antes da referida data.
+
+5 - No caso de operações após incêndio, apenas são elegíveis áreas nas quais este tenha ocorrido há mais de dois anos e menos de cinco anos.
+
+6 - Não são elegíveis os investimentos que sejam incompatíveis com os compromissos existentes, anuais ou plurianuais, do PEPAC Portugal.
+
+7 - Não são elegíveis os investimentos propostos para uma determinada área em relação à qual tenha sido aprovada uma operação similar ou cujos compromissos ou obrigações estejam em vigor, no âmbito de programas de desenvolvimento rural, com exceção das operações com escala territorial relevante.
+
+8 - As despesas no âmbito das operações com escala territorial relevante, constantes do anexo I da presente portaria são elegíveis após a data de ocorrência do incêndio, acontecimento catastrófico ou calamidade natural, desde que as operações não se encontrem materialmente concluídas nem totalmente executadas antes da submissão da candidatura, nos termos do disposto na alínea r) do artigo 3.º
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+
+### Artigo 12.º — Critérios de seleção das candidaturas
+
+1 - Para efeitos de seleção aos apoios previstos na presente portaria são consideradas as candidaturas que preencham, designadamente, os seguintes critérios:
+
+a) Apresentem investimentos em áreas inseridas em ZIF, AIGP, EGF, UGF ou baldios;
+
+b) Apresentem investimentos em áreas de ou sob gestão de OPF e seus associados;
+
+c) Apresentem investimentos inseridos em áreas classificadas, áreas submetidas ao regime florestal, áreas suscetíveis à desertificação e perigosidade de incêndio florestal;
+
+d) [Revogada.]
+
+e) Apresentem investimentos que contemplem determinadas espécies florestais a definir em sede de aviso;
+
+f) Apresentem investimentos inseridos em áreas ardidas ou catástrofes naturais, fenómenos climatéricos adversos ou acontecimentos catastróficos de determinada dimensão, a definir em sede de aviso.
+
+2 - A hierarquização dos critérios constantes do número anterior bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão do PEPAC no continente e constam no aviso para apresentação de candidaturas.
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+
+### Artigo 13.º — Forma, nível e limites do apoio
+
+1 - Os apoios previstos no presente capítulo são concedidos sob a forma de subvenção não reembolsável.
+
+2 - Os apoios a conceder podem assumir as seguintes formas:
+
+a) Reembolso de custos elegíveis efetivamente incorridos e pagos pelo beneficiário;
+
+b) Custos unitários.
+
+3 - A forma do apoio a conceder é definida nos avisos para apresentação de candidaturas.
+
+4 - Caso os apoios assumam a forma de custos unitários, os mesmos são publicitados em anexo ao respetivo aviso para apresentação de candidaturas ou à orientação técnica da respetiva intervenção ou tipologia.
+
+5 - Os níveis dos apoios a conceder constam no anexo II à presente portaria, da qual faz parte integrante.
+
+6 - Para os beneficiários que sejam pessoas singulares ou coletivas privadas, exceto entidades gestoras de ZIF, AIGP e baldio e grupo ou agrupamento de baldios, EGF, UGF e OPF, quando o valor do investimento elegível por candidatura apurado em sede de análise exceder os 250 mil euros, aplicam-se as seguintes reduções:
+
+a) 10 pontos percentuais (p.p.) nos níveis de apoio previstos, se o valor do investimento elegível for superior a 250 mil euros e igual ou inferior a 500 mil euros;
+
+b) 20 p.p. nos níveis de apoio previstos, se o valor do investimento elegível for superior a 500 mil euros.
+
+7 - A redução dos níveis de apoio prevista no número anterior aplica-se de forma progressiva aos valores correspondentes a cada escalão, sendo aplicado, a todos os investimentos elegíveis, o nível de apoio médio ponderado resultante, que vigora durante toda a execução do projeto.
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+
+### Artigo 14.º — Prémio e apoio complementar
+
+Aos beneficiários dos apoios previstos na presente portaria é atribuído prémio à manutenção bem como apoio complementar, nos termos definidos em legislação específica.
+
+## Capítulo III — PROCEDIMENTO
+
+### Artigo 15.º — Apresentação das candidaturas
+
+A apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal da agricultura, em https://agricultura.gov.pt/ e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt, e está sujeita a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.
+
+### Artigo 16.º — Avisos
+
+1 - Os avisos para apresentação de candidaturas são aprovados pelo presidente da comissão diretiva da autoridade de gestão do PEPAC no continente, após parecer vinculativo prévio da autoridade de gestão nacional, e indicam, nomeadamente, o seguinte:
+
+a) A intervenção e tipologia;
+
+b) A natureza dos beneficiários;
+
+c) O âmbito geográfico da intervenção a apoiar;
+
+d) A dotação orçamental indicativa;
+
+e) O número limite de candidaturas a apresentar por beneficiário;
+
+f) As orientações técnicas a observar;
+
+g) Os critérios de seleção e respetiva metodologia de avaliação;
+
+h) O processo de divulgação dos resultados;
+
+i) O prazo para apresentação de candidaturas;
+
+j) A forma do apoio a conceder;
+
+k) Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações, quando sejam mais restritivos do que os previstos no artigo 20.º
+
+2 - Os avisos para apresentação de candidaturas podem prever dotações, tipos de investimento e despesas elegíveis específicas para determinadas operações a apoiar.
+
+3 - Os avisos para apresentação de candidaturas são divulgados no portal da agricultura, em https://agricultura.gov.pt/, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt.
+
+### Artigo 17.º — Análise e decisão das candidaturas
+
+1 - A autoridade de gestão do PEPAC no continente, ou as entidades com competências delegadas para o efeito, emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade dos beneficiários e das operações, bem como dos critérios de seleção, do apuramento do montante do custo total elegível e do nível de apoio previsional.
+
+2 - Sem prejuízo do disposto no n.º 4 do artigo 11.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, são solicitados aos candidatos, quando se justifique, documentos, esclarecimentos ou informações complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação da candidatura.
+
+3 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis contados a partir da data-limite de apresentação das candidaturas.
+
+4 - O secretariado técnico da autoridade de gestão do PEPAC no continente aplica os critérios de seleção em função da dotação orçamental referida no respetivo aviso e submete à decisão do presidente da comissão diretiva.
+
+5 - Antes de ser adotada a decisão final, os candidatos são ouvidos, nos termos do Código do Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.
+
+6 - As candidaturas são objeto de decisão pelo presidente da comissão diretiva da autoridade de gestão do PEPAC no continente no prazo de 60 dias úteis contados a partir da data-limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão do PEPAC no continente, no prazo máximo de cinco dias úteis a contar da data da decisão.
+
+### Artigo 18.º — Termo de aceitação
+
+1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 12.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica e autenticação do termo de aceitação, a contar da data da notificação da disponibilização do mesmo, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, salvo motivo justificado, não imputável ao beneficiário e aceite pela autoridade de gestão do PEPAC no continente.
+
+### Artigo 19.º — Obrigações dos beneficiários
+
+1 - Nos termos do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os beneficiários do apoio previsto na presente portaria são obrigados a:
+
+a) Executar as operações nos termos, condições e resultados aprovados;
+
+b) Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução;
+
+c) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;
+
+d) Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas estabelecerem prazo superior;
+
+e) Manter as condições legais necessárias ao exercício da atividade;
+
+f) Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido;
+
+g) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;
+
+h) Fornecer à autoridade de gestão do PEPAC no continente, ou às entidades com competências delegadas para o efeito, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal;
+
+i) Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;
+
+j) Repor os montantes indevidamente recebidos e cumprir as sanções administrativas aplicadas.
+
+2 - Além do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, referido no número anterior, os beneficiários dos apoios previstos na presente portaria são, ainda, obrigados a:
+
+a) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação de pedido de pagamento no mesmo prazo, não relevando para o efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 6 do presente artigo;
+
+b) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;
+
+c) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento;
+
+d) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;
+
+e) Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos, a contar da liquidação do último pagamento, sem prévia autorização da autoridade de gestão do PEPAC no continente;
+
+f) Comprovar a não interrupção da execução da operação, por período superior a 90 dias seguidos através da apresentação de pedido de pagamento no mesmo prazo, não relevando para este efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 6 do presente artigo;
+
+g) Manter, durante um período de cinco anos a contar da liquidação do último pedido de pagamento, a detenção das áreas a intervencionar correspondentes ao polígono de investimento ou a titularidade das parcelas que o intersetam e, neste último, o respetivo registo atualizado no SIP;
+
+h) Comunicar à entidade responsável pela monitorização da execução da operação, conforme identificada na OT, com uma antecedência mínima de três dias úteis, a data de execução dos investimentos com: abertura de covas com broca, fertilização, correção de pH do solo e rega, devendo o beneficiário assegurar a submissão, no SIP, das fotografias digitais georreferenciadas daqueles investimentos, aquando da sua execução.
+
+3 - Os beneficiários dos apoios, para além do disposto nos números anteriores, devem manter os critérios de seleção que tenham contribuído para a pontuação da Valia Global da Operação (VGO), previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados.
+
+4 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação dos prazos estabelecidos nas alíneas a) e f) do n.º 2 do presente artigo.
+
+5 - O incumprimento das obrigações previstas nas alíneas a) e f) do n.º 2 do presente artigo constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+6 - No caso de operação inteiramente sujeita a custos unitários, as obrigações previstas nas alíneas a) e f) do n.º 2 são comprovadas através da submissão de pedido de pagamento ou da apresentação de fotografia digital georreferenciada e datada, recolhida dentro do prazo definido ou através da apresentação de documento comprovativo a definir em normativo específico.
+
+7 - O incumprimento dos prazos de execução previstos no artigo seguinte constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+
+### Artigo 20.º — Execução das operações
+
+1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações são, respetivamente, de 6 e 24 meses contados a partir da data da submissão autenticada do termo de aceitação, sem prejuízo do previsto nos avisos de abertura do período de apresentação de candidaturas.
+
+2 - Em derrogação do número anterior, os investimentos no âmbito de operações com escala territorial relevante têm um prazo máximo de conclusão da execução física e financeira de 12 meses contados a partir da data da submissão autenticada do termo de aceitação.
+
+3 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação dos prazos previstos nos números anteriores.
+
+### Artigo 21.º — Pedidos de alteração
+
+1 - Após a data da submissão autenticada do termo de aceitação, caso se verifique qualquer ocorrência excecional e impossível de prever aquando da apresentação da candidatura, que justifique a necessidade de proceder a alterações ao projeto aprovado, nomeadamente no que diz respeito à sua titularidade, componentes de investimento e prazos de execução, os beneficiários podem apresentar pedido de alteração, nos termos previstos em Orientação Técnica Transversal (OTT) divulgada no portal da Agricultura, em https://agricultura.gov.pt/, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt.
+
+2 - A alteração proposta não pode alterar substancialmente a natureza do projeto aprovado, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais.
+
+### Artigo 22.º — Apresentação dos pedidos de pagamento
+
+1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal da Agricultura, em https://agricultura.gov.pt/, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento, nos termos previstos em OTT a emitir pelo IFAP, I. P.
+
+2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato da conta bancária específica afeta à operação, nos termos previstos no termo de aceitação e nos números seguintes do presente artigo.
+
+4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.
+
+5 - A regularização do adiantamento previsto no número anterior é efetuada de forma proporcional nos pedidos de pagamento apresentados no decurso da operação.
+
+6 - Cada pedido de pagamento deve representar no mínimo 10 % do montante da despesa pública aprovada.
+
+7 - Devem ser apresentados pedidos de pagamento intercalares no prazo máximo de 90 dias seguidos, a contar da data de liquidação do anterior pedido.
+
+8 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias seguidos a contar da data de conclusão da operação, sob pena de indeferimento.
+
+9 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
+
+10 - Em cada pedido de pagamento é obrigatória a apresentação da cartografia que evidencie as áreas intervencionadas que estão a ser objeto de pedido de apoio, de acordo com as orientações emitidas pelo IFAP, I. P.
+
+11 - O disposto nos n.os 2 e 3 não é aplicável aos projetos exclusivamente aprovados com custos unitários, sendo o número máximo de pedidos de pagamento definido no respetivo aviso para apresentação de candidaturas.
+
+12 - [Revogado.]
+
+13 - [Revogado.]
+
+14 - [Revogado.]
+
+15 - No ano do encerramento do PEPAC, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt.
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2026-06-30.*
+
+### Artigo 23.º — Análise e decisão dos pedidos de pagamento
+
+1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito analisam os pedidos de pagamento e emitem parecer no prazo máximo de 45 dias úteis, contados a partir da data de submissão dos pedidos.
+
+2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
+
+3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.
+
+4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.
+
+5 - Os critérios de realização das visitas ao local da operação, durante o seu período de execução, são definidos de acordo com o disposto no Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho.
+
+### Artigo 24.º — Pagamentos
+
+1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.
+
+2 - Os pagamentos dos apoios referidos no número anterior são efetuados por transferência bancária para a conta referida na alínea c) do n.º 2 do artigo 19.º
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 281-B/2026/1 - Diário da República n.º 123/2026, Suplemento, Série I de 2026-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/281-b-2026-1140260281), em vigor a partir de 2026-06-30, com efeitos a partir de 2025-03-22.*
+
+### Artigo 25.º — Controlo
+
+As operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitos a controlos administrativos, in loco ou por teledeteção, nos termos do Regulamento (UE) 2021/2116.
+
+### Artigo 26.º — Reduções e exclusões
+
+1 - Em caso de incumprimento ou qualquer irregularidade detetada, são aplicáveis as disposições nacionais em conjugação com o previsto no título IV do Regulamento (UE) 2021/2116, bem como o disposto no artigo 5.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, relativo à perenidade.
+
+2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, na sua redação atual, em matéria de recuperação de apoios indevidamente recebidos, são aplicáveis as reduções e exclusões dos apoios concedidos ou a conceder de acordo com o previsto no anexo III à presente portaria, da qual faz parte integrante.
+
+3 - Caso se verifique uma diferença entre o montante declarado e o montante validado superior a 10 %, o apoio é reduzido na mesma proporção, sendo ainda aplicada uma redução adicional no montante correspondente à diferença apurada.
+
+4 - A soma das reduções referidas nos números anteriores não pode ser superior à recuperação total do apoio.
+
+## Capítulo IV — DISPOSIÇÕES FINAIS
+
+### Artigo 27.º — Contributo para o desempenho do PEPAC Portugal
+
+1 - A tipologia prevista na presente portaria contribui para os objetivos específicos estabelecidos no n.º 1 do artigo 6.º do Regulamento (UE) 2021/2115, nomeadamente os constantes do artigo 2.º da presente portaria.
+
+2 - Para efeitos do cumprimento das metas dos indicadores de resultados do PEPAC Portugal, relevam os seguintes indicadores estabelecidos no anexo I do Regulamento (UE) 2021/2115:
+
+a) R.17 - Zonas apoiadas para fins de florestação, agrossilvicultura e restauração, com respetiva repartição;
+
+b) R.18 - Investimento total para melhorar o desempenho do setor florestal;
+
+c) R.27 - Número de operações que contribuam para a sustentabilidade ambiental e para concretizar a atenuação e a adaptação às alterações climáticas nas zonas rurais.
+
+### Artigo 28.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 19 de março de 2025.

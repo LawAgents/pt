@@ -1,0 +1,403 @@
+---
+id: "decreto-lei-84-1997-diploma-de-aprovacao"
+dre_id: "468635"
+title: "Decreto-Lei n.º 84/97, de 16 de abril — Diploma de aprovação"
+type: "Decreto-Lei"
+number: "84/97"
+year: 1997
+date: 1997-04-16
+issuer: "Ministério para a Qualificação e o Emprego"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2024-12-31
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-150731524"
+original_pdf: "https://files.diariodarepublica.pt/1s/1997/04/089a00/17021709.pdf"
+retrieved: 2026-10-21
+summary: "Transpõe para a ordem jurídica interna as Directivas do Conselho n.º 90/679/CEE , de 26 de Novembro, e 93/88/CEE , de 12 de Outubro, e a Directiva n.º 95/30/CE , da Comissão, de 30 de Junho, relativas à protecção da segurança e saúde dos trabalhadores contra os riscos resultantes da exposição a agentes biológicos durante o trabalho"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-84-1997"
+part: "Diploma de aprovação"
+---
+
+# Decreto-Lei n.º 84/97, de 16 de abril — Diploma de aprovação
+
+Decreto-Lei n.º 84/97
+
+de 16 de Abril
+
+1. Os princípios gerais de promoção da segurança, higiene e saúde no trabalho, adoptados pelo Decreto-Lei n.º 441/91, de 14 de Novembro, são desenvolvidos através de legislação complementar aplicável em diversos sectores de actividade económica e resultante, designadamente, da transposição para o direito interno de directivas comunitárias.
+
+De acordo com esta orientação, o presente diploma estabelece as regras de protecção dos trabalhadores contra os riscos de exposição a agentes biológicos durante o trabalho, que procedem à transposição para o direito interno das Directivas n.os 90/679/CEE, do Conselho, de 26 de Novembro, e 93/88/CEE, do Conselho, de 12 de Outubro, e da Directiva n.º 95/30/CE, da Comissão, de 30 de Junho de 1995.
+
+2. Os agentes biológicos com efeitos nocivos para a saúde das pessoas podem formar-se por diversos processos, designadamente em resultado do desenvolvimento das biotecnologias através das quais se procede à sua produção e utilização.
+
+Os trabalhadores podem estar expostos a agentes biológicos com riscos para a sua saúde em muitas actividades, nomeadamente em laboratórios de investigação, serviços hospitalares, laboratórios clínicos e de diagnóstico, matadouros, na recolha e tratamento de lixos e em diversos ramos da indústria. O desenvolvimento das actividades económicas em que há riscos de exposição a agentes biológicos torna imperioso regulamentar as obrigações dos empregadores destinadas a proteger os trabalhadores.
+
+O presente diploma baseia a protecção dos trabalhadores, em primeiro lugar, na avaliação dos riscos da exposição a agentes biológicos, para identificar os agentes causadores de risco, a possibilidade da sua propagação na colectividade e o tempo de exposição efectiva ou potencial dos trabalhadores.
+
+Ao mesmo tempo, a avaliação dos riscos permite formular orientações para a aplicação de medidas de protecção dos trabalhadores de agentes biológicos perigosos, bem como de agentes cuja perigosidade ainda não esteja definida.
+
+Assim, uma vez identificados os agentes biológicos causadores de risco, o empregador deve evitar a utilização desses agentes, sempre que a natureza do trabalho o permita. Se esse procedimento não for tecnicamente viável, o empregador deve reduzir o risco de exposição até ao nível que for tecnicamente possível para proteger adequadamente os trabalhadores.
+
+A avaliação dos riscos permitirá, ainda, ao empregador submeter os trabalhadores a exames de saúde, de modo a acompanhar a evolução do seu estado de saúde e, se necessário, adoptar as medidas preventivas adequadas.
+
+Nos estabelecimentos e nos processos industriais em que é maior o risco de exposição dos trabalhadores a agentes biológicos perigosos, designadamente quando são utilizados agentes com maior grau de risco, devem ser aplicadas medidas especiais de protecção que diminuam o risco de infecção.
+
+A prevenção dos riscos profissionais também depende, em elevado grau, de os trabalhadores realizarem o respectivo trabalho com comportamentos adequados às exigências de segurança impostas pelos agentes biológicos em presença. A formação e a informação dos trabalhadores sobre os cuidados a tomar nas actividades em que são utilizados agentes biológicos têm, por isso, uma importância assinalável.
+
+3. O projecto correspondente ao presente diploma foi publicado, para apreciação pública, na separata do Boletim do Trabalho e Emprego, n.º 5, de 29 de Junho de 1995. Os comentários de algumas organizações de trabalhadores não foram acolhidos porque, quanto a uns, deixaram de ter actualidade com a recente aplicação dos princípios gerais de promoção da segurança, higiene e saúde no trabalho do Decreto-Lei n.º 441/91, de 14 de Novembro, à administração central, regional e local e, outros, não eram justificados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece prescrições mínimas de protecção da segurança e da saúde dos trabalhadores contra os riscos da exposição a agentes biológicos durante o trabalho.
+
+2 - O presente diploma é aplicável sem prejuízo do disposto no Decreto-Lei n.º 72/2003, de 10 de abril, na sua redação atual, e no Decreto-Lei n.º 55/2015, de 17 de abril, na sua redação atual.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 2.º — Âmbito
+
+O presente diploma abrange, no âmbito definido no artigo 3.º da Lei n.º 102/2009, de 10 de setembro, na sua atual redação, as atividades em que os trabalhadores estão ou podem estar expostos a agentes biológicos durante o trabalho, nomeadamente as constantes do anexo i.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 3.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) Agentes biológicos - os microrganismos, incluindo os geneticamente modificados, as culturas de células e os endoparasitas humanos susceptíveis de provocar infecções, alergias ou intoxicações;
+
+b) Microrganismo - qualquer entidade microbiológica, celular ou não celular, dotada de capacidade de reprodução ou de transferência do material genético;
+
+c) Cultura celular - a multiplicação in vitro de células, a partir de organismos multicelulares;
+
+d) Nível de confinamento - o conjunto das medidas que, no local ou área de trabalho, garantem as condições de segurança e saúde adequadas à realização do trabalho ou manipulação de agentes patogénicos, de acordo com a classificação dos agentes biológicos prevista no n.º 3 do artigo 4.º
+
+## Artigo 4.º — Classificação dos agentes biológicos
+
+1 - Os agentes biológicos são classificados, conforme o seu nível de risco infeccioso, nos seguintes grupos:
+
+a) Agente biológico do grupo 1 - o agente biológico cuja probabilidade de causar doenças no ser humano é baixa;
+
+b) Agente biológico do grupo 2 - o agente biológico que pode causar doenças no ser humano e constituir um perigo para os trabalhadores, sendo escassa a probabilidade de se propagar na colectividade e para o qual existem, em regra, meios eficazes de profilaxia ou tratamento;
+
+c) Agente biológico do grupo 3 - o agente biológico que pode causar doenças graves no ser humano e constituir um risco grave para os trabalhadores, sendo susceptível de se propagar na colectividade, mesmo que existam meios eficazes de profilaxia ou de tratamento;
+
+d) Agente biológico do grupo 4 - o agente biológico que causa doenças graves no ser humano e constitui um risco grave para os trabalhadores, sendo susceptível de apresentar um elevado nível de propagação na colectividade e para o qual não existem, em regra, meios eficazes de profilaxia ou de tratamento.
+
+2 - O agente biológico que não puder ser rigorosamente classificado num dos grupos definidos no número anterior deve ser classificado no grupo mais elevado em que pode ser incluído.
+
+3 - A lista de agentes biológicos classificados dos grupos 2, 3 e 4 consta do anexo v.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 5.º — Notificação do início de actividade
+
+1 - O empregador deve notificar a Autoridade para as Condições do Trabalho (ACT) e a Direção-Geral da Saúde (DGS) com, pelo menos, 30 dias de antecedência, do início de atividades em que sejam utilizados, pela primeira vez, agentes biológicos dos grupos 2, 3 ou 4.
+
+2 - (Revogado.)
+
+3 - Sem prejuízo do disposto no número seguinte, o empregador deve proceder à notificação da ACT e da DGS, nos termos do n.º 1, sempre que haja utilização de qualquer outro agente biológico do grupo 4, pela primeira vez, bem como de qualquer novo agente biológico classificado provisoriamente pelo próprio empregador no grupo 3.
+
+4 - Os laboratórios que prestem serviços de diagnóstico relacionados com agentes biológicos do grupo 4 ficam apenas sujeitos à notificação inicial prevista no n.º 1.
+
+5 - A notificação deve conter os seguintes elementos:
+
+a) O nome e o endereço da empresa ou do estabelecimento;
+
+b) O nome e as competências dos profissionais responsáveis pelo serviço de segurança e saúde no trabalho;
+
+c) O resultado da avaliação dos riscos, a espécie e a classificação do agente biológico;
+
+d) As medidas preventivas e de protecção previstas.
+
+6 - A notificação é feita em modelo apropriado ao tratamento informático dos dados, disponibilizado pela ACT e pela DGS.
+
+7 - Se houver modificações substanciais nos processos ou nos procedimentos com possibilidade de repercussão na segurança ou saúde dos trabalhadores, deve ser feita uma nova notificação.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 6.º — Avaliação dos riscos
+
+1 - Nas atividades suscetíveis de apresentar um risco de exposição a agentes biológicos, o empregador deve proceder à avaliação dos riscos, mediante:
+
+a) A determinação da natureza, do grau e do grupo do agente biológico, bem como do tempo de exposição dos trabalhadores a esse agente;
+
+b) A quantificação do agente presente no local de trabalho sempre que existirem valores de referência aplicáveis.
+
+2 - Nas actividades que impliquem a exposição a várias categorias de agentes biológicos, a avaliação dos riscos deve ser feita com base no perigo resultante da presença de todos esses agentes.
+
+3 - A avaliação dos riscos deve ter em conta todas as informações disponíveis, nomeadamente:
+
+a) A classificação dos agentes biológicos que apresentam ou podem apresentar riscos para a saúde humana;
+
+b) O risco suplementar que os agentes biológicos podem constituir para trabalhadores cuja sensibilidade possa ser afectada, nomeadamente por doença anterior, medicação, deficiência imunitária, gravidez ou aleitamento;
+
+c) As recomendações da DGS e da ACT sobre as medidas de controlo de agentes biológicos nocivos à saúde dos trabalhadores;
+
+d) As informações técnicas existentes sobre doenças relacionadas com a natureza do trabalho;
+
+e) Os potenciais efeitos alérgicos ou tóxicos resultantes do trabalho;
+
+f) O conhecimento de doença verificada num trabalhador que esteja directamente relacionada com o seu trabalho.
+
+4 - Sem prejuízo do disposto na Lei n.º 102/2009, de 10 de setembro, na sua redação atual, no que se refere à proteção do património genético, a avaliação dos riscos deve ser renovada sempre que haja alteração das condições de trabalho suscetível de afetar a exposição dos trabalhadores a agentes biológicos, se verifique a ultrapassagem de valores de referência aplicáveis, os resultados da vigilância da saúde o justifiquem ou se verifique desenvolvimento da investigação científica nesta matéria.
+
+5 - A avaliação dos riscos deve ter em conta as condições reais de exposição profissional, incluindo a interação com outros agentes ou fatores de risco profissional.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 7.º — Resultados da avaliação dos riscos
+
+1 - Se a avaliação revelar a existência de um risco para a segurança ou saúde dos trabalhadores, o empregador deve tomar as medidas de prevenção adequadas para evitar a exposição dos trabalhadores a esse risco.
+
+2 - A avaliação dos riscos deve identificar os trabalhadores que podem necessitar de medidas de protecção especiais.
+
+## Artigo 8.º — Substituição de agentes biológicos perigosos
+
+O empregador deve evitar a utilização de agentes biológicos perigosos sempre que a natureza do trabalho o permita, substituindo-os por outros agentes que, em função das condições de utilização e no estado actual dos conhecimentos, não sejam perigosos ou causem menos perigo para a segurança ou saúde dos trabalhadores.
+
+## Artigo 9.º — Redução dos riscos de exposição
+
+Se não for tecnicamente viável o procedimento referido no artigo 8.º, o risco de exposição deve ser reduzido a um nível tão baixo quanto for tecnicamente possível para proteger adequadamente a segurança e a saúde dos trabalhadores, designadamente através das seguintes medidas:
+
+a) Limitação ao mínimo do número de trabalhadores expostos ou com possibilidade de o serem;
+
+b) Modificação dos processos de trabalho e das medidas técnicas de controlo para evitar ou minimizar a disseminação dos agentes biológicos no local de trabalho;
+
+c) Aplicação de medidas de protecção colectiva e individual, se a exposição não puder ser evitada por outros meios;
+
+d) Aplicação de medidas de higiene compatíveis com os objectivos da prevenção ou redução da transferência ou disseminação acidental de um agente biológico para fora do local de trabalho;
+
+e) Utilização do sinal indicativo de perigo biológico, constante do anexo II, e de outra sinalização apropriada, de acordo com a sinalização de segurança em vigor;
+
+f) Elaboração de planos de acção em casos de acidentes que envolvam agentes biológicos;
+
+g) Verificação da presença de agentes biológicos utilizados no trabalho fora do confinamento físico primário, sempre que for necessário e tecnicamente possível;
+
+h) Utilização de meios de recolha, armazenagem e evacuação dos resíduos, após tratamento adequado, incluindo o uso de recipientes seguros e identificáveis sempre que necessário;
+
+i) Utilização de processos de trabalhos que permitam manipular e transportar, sem risco, os agentes biológicos.
+
+## Artigo 10.º — Informação das autoridades responsáveis
+
+1 - Se o resultado da avaliação revelar a existência de riscos para a segurança ou saúde dos trabalhadores, o empregador deve elaborar um relatório com as seguintes informações:
+
+a) Os elementos utilizados para efectuar a avaliação e o seu resultado;
+
+b) As actividades em que os trabalhadores estiveram ou podem ter estado expostos a agentes biológicos;
+
+c) O número de trabalhadores eventualmente expostos;
+
+d) As medidas preventivas e de protecção adoptadas, incluindo os processos e métodos de trabalho;
+
+e) O plano de emergência relativo à protecção dos trabalhadores contra a exposição a agentes biológicos dos grupos 3 ou 4, em caso de falha no confinamento físico;
+
+f) O nome e as competências dos profissionais responsáveis pelo serviço de segurança e saúde no trabalho.
+
+2 - A ACT e as autoridades de saúde podem consultar o relatório referido no número anterior.
+
+3 - O empregador deve informar imediatamente a ACT e a DGS de qualquer acidente ou incidente que possa ter provocado a disseminação de um agente biológico suscetível de causar infeção ou outra doença grave no ser humano.
+
+4 - O empregador deve garantir que o médico do trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores notifique às autoridades competentes os casos de doença ou morte de trabalhadores identificados como resultantes da exposição a agentes biológicos.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 11.º — Vigilância da saúde
+
+1 - O empregador deve assegurar a vigilância adequada dos trabalhadores em relação aos quais os resultados da avaliação referida no artigo 6.º revelem a existência de riscos para a sua segurança ou saúde, designadamente através de exames de saúde e outras intervenções necessárias.
+
+2 - Os trabalhadores devem ser submetidos a exame de saúde antes da exposição a agentes biológicos, competindo ao médico do trabalho determinar a periodicidade dos exames subsequentes, tendo em consideração a avaliação dos riscos e o disposto nos n.os 1 a 5 do artigo 108.º da Lei n.º 102/2009, de 10 de setembro, na sua redação atual.
+
+3 - A vigilância da saúde dos trabalhadores deve permitir a aplicação de medidas de saúde individuais e dos princípios e práticas da medicina do trabalho, de acordo com os conhecimentos mais recentes, e incluir os seguintes procedimentos:
+
+a) Registo da história clínica e profissional do trabalhador;
+
+b) Avaliação individual do estado de saúde do trabalhador;
+
+c) Vigilância biológica, sempre que necessária;
+
+d) Rastreio de efeitos precoces e reversíveis.
+
+4 - O médico do trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores deve conhecer as condições de trabalho e as circunstâncias de exposição de cada trabalhador e propor ao empregador as medidas preventivas ou de proteção a tomar em relação a cada trabalhador.
+
+5 - Se um trabalhador sofrer uma infeção ou outra doença que possa ter sido provocada pela exposição a agentes biológicos no local de trabalho, o médico do trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores proporá a todos os trabalhadores sujeitos a exposição idêntica a avaliação do seu estado de saúde, devendo, neste caso, ser repetida a avaliação dos riscos em conformidade com o disposto no artigo 6.º
+
+6 - O trabalhador tem acesso aos resultados da vigilância da saúde que lhe diga directamente respeito, podendo ele próprio ou o seu empregador solicitar a revisão desses resultados.
+
+7 - O empregador deve garantir que sejam dados aos trabalhadores informações e conselhos sobre a vigilância da saúde a que podem ser submetidos depois de terminada a exposição de risco.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 12.º — Medidas de higiene e de protecção individual
+
+1 - Nas actividades em que são utilizados agentes biológicos com riscos para a segurança ou saúde dos trabalhadores, o empregador deve:
+
+a) Impedir que o trabalhador fume, coma ou beba nas zonas de trabalho com risco de contaminação por agentes biológicos;
+
+b) Fornecer ao trabalhador vestuário de proteção adequado ou qualquer outro vestuário especial adequado;
+
+c) Assegurar que todos os equipamentos de protecção são guardados em local apropriado, verificados e limpos, se possível antes e, obrigatoriamente, após cada utilização, bem como reparados ou substituídos se tiverem defeitos ou estiverem danificados;
+
+d) Definir processos para a recolha, manipulação e tratamento de amostras de origem humana ou animal;
+
+e) Pôr à disposição dos trabalhadores instalações sanitárias e de vestiário adequadas para a sua higiene pessoal;
+
+f) Assegurar a existência de colírios e anti-sépticos cutâneos em locais apropriados, quando se justificarem.
+
+2 - Antes de abandonar o local de trabalho, o trabalhador deve retirar o vestuário de trabalho e os equipamentos de protecção individual que possam estar contaminados por agentes biológicos e guardá-los em locais separados, previstos para o efeito.
+
+3 - O empregador deve assegurar a descontaminação, a limpeza e, se necessário, a destruição do vestuário e dos equipamentos de protecção individual referidos no n.º 2.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 13.º — Vacinação dos trabalhadores
+
+1 - Se existirem vacinas eficazes contra os agentes biológicos a que os trabalhadores estão ou podem estar expostos, a vigilância da saúde deve prever a vacinação gratuita dos trabalhadores não imunizados.
+
+2 - O empregador deve assegurar que os trabalhadores sejam informados das vantagens e dos inconvenientes da vacinação e da falta de vacinação.
+
+3 - A vacinação deve obedecer às recomendações da DGS, ser anotada na ficha clínica do trabalhador e registada no seu boletim individual de saúde e na respetiva plataforma eletrónica.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 14.º — Medidas especiais para os estabelecimentos médicos e veterinários
+
+1 - Os estabelecimentos médicos de saúde e veterinários devem tomar medidas apropriadas para proteger a segurança e a saúde dos trabalhadores.
+
+2 - Nos estabelecimentos referidos no n.º 1, a avaliação dos riscos deve ter em conta:
+
+a) A probabilidade da presença de agentes biológicos em pacientes humanos ou animais e nas amostras e materiais residuais deles provenientes;
+
+b) O perigo que constituem os agentes biológicos presentes ou que podem estar presentes em pacientes humanos ou animais e nas amostras e materiais residuais deles provenientes;
+
+c) O risco inerente à natureza das actividades profissionais.
+
+3 - As medidas referidas no n.º 1 devem incluir, nomeadamente:
+
+a) A especificação de processos adequados de descontaminação e desinfecção;
+
+b) A aplicação de processos que garantam a segurança dos trabalhadores na manipulação, transporte e eliminação de resíduos contaminados.
+
+4 - As unidades de isolamento onde se encontrem pessoas doentes ou animais infectados ou com suspeita de estarem infectados por agentes biológicos dos grupos 3 ou 4 devem aplicar medidas de confinamento, de acordo com a coluna A do anexo III.
+
+## Artigo 15.º — Medidas especiais para os laboratórios e biotérios
+
+1 - Os laboratórios, incluindo os de investigação, desenvolvimento, ensino ou diagnóstico, e as instalações onde existam animais de laboratório que sejam ou se suspeita que sejam portadores de agentes biológicos dos grupos 2, 3 ou 4, depois da avaliação dos riscos, devem aplicar medidas de confinamento físico nos termos do anexo iii.
+
+2 - As actividades que impliquem a manipulação de um agente biológico do grupo 2, 3 ou 4 devem ser sempre efectuadas em locais correspondentes, no mínimo, ao nível de confinamento 2, 3 ou 4, respectivamente.
+
+3 - Os laboratórios onde se manipulem materiais suspeitos de conter agentes biológicos susceptíveis de causar doenças no ser humano, mas cujo objectivo não seja trabalhar com esses agentes enquanto tais, devem adoptar, no mínimo, o nível de confinamento 2.
+
+4 - Os laboratórios referidos no número anterior devem adoptar os níveis de confinamento 3 ou 4 sempre que se revele ou se presuma a sua necessidade, excepto se as autoridades competentes considerarem adequado um nível de confinamento inferior.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 16.º — Medidas especiais para os processos industriais
+
+1 - Os processos industriais que utilizem agentes biológicos dos grupos 2, 3 ou 4 devem adoptar, no mínimo, níveis de confinamento 2, 3 ou 4, respectivamente, com base nas medidas práticas e nos processos previstos no anexo IV.
+
+2 - As autoridades competentes podem determinar outras medidas para a utilização industrial dos agentes biológicos do grupo 2, 3 ou 4, em função da avaliação dos riscos da sua utilização.
+
+3 - As actividades industriais em que não seja possível proceder à avaliação concludente de um agente biológico cuja utilização pareça implicar um grave risco para a saúde dos trabalhadores devem ser desenvolvidas em locais de trabalho com um nível de confinamento 3 ou 4.
+
+## Artigo 17.º — Formação dos trabalhadores
+
+1 - O empregador deve assegurar formação adequada aos trabalhadores e aos seus representantes para a segurança e saúde no trabalho, no início de uma atividade profissional que implique contactos com agentes biológicos.
+
+2 - A formação referida no número anterior deve ser adaptada à evolução dos riscos existentes e ao aparecimento de novos riscos, periodicamente actualizada e incluir todos os dados disponíveis sobre:
+
+a) Riscos potenciais para a saúde;
+
+b) Precauções a tomar para evitar a exposição aos riscos existentes;
+
+c) Normas de higiene;
+
+d) Utilização dos equipamentos e do vestuário de protecção;
+
+e) Medidas a tomar pelos trabalhadores em caso de incidentes e para a sua prevenção.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 18.º — Informação dos trabalhadores
+
+1 - O empregador deve fornecer aos trabalhadores instruções escritas nos locais de trabalho e, se necessário, afixar cartazes sobre os procedimentos a seguir em caso de acidente ou incidente grave resultante da manipulação de agentes biológicos ou da manipulação de um agente biológico do grupo 4.
+
+2 - Os trabalhadores devem comunicar imediatamente qualquer acidente ou incidente que envolva a manipulação de agentes biológicos ao responsável pelo trabalho ou ao responsável pela segurança e saúde no local de trabalho.
+
+3 - O empregador deve informar imediatamente os trabalhadores e os seus representantes sobre qualquer acidente ou incidente grave ou que possa provocar a disseminação de um agente biológico susceptível de causal graves infecções ou doenças no ser humano, as suas causas e as medidas tomadas ou a tomar para corrigir a situação.
+
+4 - Os trabalhadores e os seus representantes para a segurança e saúde no trabalho têm o direito a conhecer dados coletivos, não individualizados, incluindo as informações previstas no n.º 1 do artigo 10.º, assim como a ter acesso às informações técnicas provenientes de serviços de inspeção e outros organismos competentes no domínio da segurança e saúde no trabalho.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 19.º — Registo, arquivo e conservação de documentos
+
+1 - O empregador deve organizar os registos de dados e manter arquivos actualizados sobre:
+
+a) Os resultados da avaliação dos riscos;
+
+b) A lista dos trabalhadores expostos a agentes biológicos do grupo 3 ou 4, com indicação do tipo de trabalho executado e, se possível, a identificação dos agentes a que os trabalhadores estiveram expostos, bem como os registos das exposições, acidentes e incidentes;
+
+c) Os registos relativos à vigilância da saúde dos trabalhadores, com respeito pelo segredo profissional do médico do trabalho.
+
+2 - Os registos a que se refere a alínea c) do n.º 1 devem constar de ficha médica individual de cada trabalhador, colocada sob a responsabilidade do médico do trabalho ou da entidade responsável pela vigilância da saúde dos trabalhadores.
+
+3 - Os registos referidos nos números anteriores devem ser conservados durante 10 anos após a cessação da exposição.
+
+4 - O prazo de conservação dos registos é de 40 anos nos casos de exposições de que possam resultar infecções causadas por agentes biológicos susceptíveis de produzir infecções persistentes ou latentes, ou que, de acordo com os conhecimentos actuais, só sejam diagnosticáveis muitos anos depois com o aparecimento da doença, ou que tenham períodos de incubação muito longos, ou que provoquem doenças com crises de recrudescências, apesar do tratamento, ou com graves sequelas a longo prazo.
+
+5 - Se a empresa cessar a atividade, os registos devem ser transferidos para o Instituto da Segurança Social, I. P., com exceção das fichas clínicas, que devem ser enviadas para o organismo competente da área governativa da saúde, sendo em qualquer caso assegurada a sua confidencialidade.
+
+6 - Ao cessar o contrato de trabalho, o empregador deve entregar ao trabalhador, a pedido deste, cópia da sua ficha médica.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 20.º — Contra-ordenações
+
+1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 4 do artigo 6.º, dos artigos 7.º, 8.º e 9.º, do n.º 1 do artigo 13.º, do artigo 14.º, dos n.os 1, 2 e 4 do artigo 15.º, se forem exigíveis medidas de nível de confinamento 3 ou 4, e do artigo 16.º se forem exigíveis medidas de nível de confinamento 3 ou 4.
+
+2 - Constitui contra-ordenação grave a violação dos n.os 1, 3, 5 e 7 do artigo 5.º, do n.º 3 do artigo 6.º, do artigo 10.º, dos n.os 1 a 3 e 5 a 7 do artigo 11.º, dos n.os 1 e 3 do artigo 12.º, dos n.os 2 e 3 do artigo 13.º, dos n.os 1 a 3 do artigo 15.º, se forem exigíveis medidas de nível de confinamento 2, dos n.os 1 e 2 do artigo 16.º, se forem exigíveis medidas de nível de confinamento 2, do artigo 17.º, dos n.os 1 e 3 do artigo 18.º e dos n.os 1 a 5 do artigo 19.º
+
+3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 18.º e do n.º 6 do artigo 19.º
+
+4 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, aplica-se às infrações por violação do disposto no presente diploma.
+
+5 - O processamento das contraordenações previstas no presente diploma segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, na sua redação atual.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+- *Alterado pelo/a Artigo 16.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01*
+
+## Artigo 21.º — Fiscalização
+
+A fiscalização do cumprimento do presente diploma compete à ACT e aos serviços inspetivos do Ministério da Saúde, no âmbito das respetivas atribuições.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 22.º — Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, as referências à ACT e à DGS entendem-se feitas aos órgãos e serviços próprios das respetivas administrações regionais.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
+
+## Artigo 23.º — Entrada em vigor
+
+O presente diploma entra em vigor 180 dias após a sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 24 de Março de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 31 de Março de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

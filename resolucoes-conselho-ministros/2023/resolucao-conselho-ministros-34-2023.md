@@ -1,0 +1,62 @@
+---
+id: "resolucao-conselho-ministros-34-2023"
+dre_id: "211996390"
+title: "Resolução do Conselho de Ministros n.º 34/2023, de 19 de abril"
+type: "Resolução do Conselho de Ministros"
+number: "34/2023"
+year: 2023
+date: 2023-04-19
+issuer: "Presidência do Conselho de Ministros"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2025-03-07
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2023-835809008"
+original_pdf: "https://files.diariodarepublica.pt/1s/2023/04/07700/0000200004.pdf"
+retrieved: 2026-10-21
+summary: "Visa estabelecer um sistema de incentivos financeiros a grandes projetos de investimento"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Resolução do Conselho de Ministros n.º 34/2023, de 19 de abril
+
+1 - Alocar ao Regime Contratual de Investimento (RCI):
+
+a) Até ao final do período de vigência do atual Quadro Financeiro Plurianual 2021-2027, uma verba anual máxima de € 150 000 000, em termos de compromisso, a qual, não sendo comprometida em cada ano, transita para o ano seguinte, com vista ao financiamento de projetos de grandes empresas ao abrigo dos sistemas de incentivos às empresas que, não sendo passíveis de enquadramento no âmbito do Regulamento (UE) 2021/1058, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, relativo ao Fundo Europeu de Desenvolvimento Regional e ao Fundo de Coesão, têm enquadramento no RCI;
+
+b) Até 31 de dezembro de 2025, uma verba até € 1 000 000 000, em termos de compromisso, com vista ao financiamento de projetos ao abrigo do sistema de incentivos ‘Investimentos em Setores Estratégicos’ aprovado pela Portaria n.º 306-A/2024/1, de 27 de novembro, no âmbito do RCI, alocando verbas, a título de incentivos financeiros, de natureza reembolsável ou não reembolsável, em função da tipologia de projetos e do resultado da análise dos indicadores de avaliação e desempenho dos promotores que a Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), realize, sem prejuízo da possibilidade de recurso a garantias sobre empréstimos ou benefícios fiscais dependendo do quadro legal aplicável.
+
+2 - Determinar que os encargos decorrentes da presente resolução são suportados por fontes de financiamento com origem:
+
+a) Relativamente à verba prevista na alínea a) do número anterior:
+
+i) No Orçamento do Estado;
+
+ii) Em reembolsos e recuperações de períodos de programação anteriores, já encerrados, após salvaguardados os compromissos previstos no âmbito dos períodos de programação anteriores, bem como os necessários para garantir o encerramento do PT 2020;
+
+iii) Em reembolsos e recuperações provenientes de operações financiadas ao abrigo da presente resolução, os quais serão exclusivamente afetos ao reforço da sua dotação;
+
+b) Relativamente à verba prevista na alínea b) do número anterior:
+
+i) No Orçamento do Estado;
+
+ii) Em receitas próprias da AICEP, E. P. E., e/ou saldos de receitas próprias dos organismos da área governativa da economia, exceto os provenientes de saldos de reembolsos de beneficiários de fundos europeus, bem como em fundos europeus, em função da sua elegibilidade e da natureza dos investimentos.
+
+3 - Delimitar que as verbas já alocadas e a alocar ao RCI em qualquer das suas modalidades não podem ser afetas a nenhum outro objetivo de política pública.
+
+4 - Instituir que o perfil plurianual e o seu financiamento são determinados em função dos indicadores de resultado e desempenho dos projetos, consoante a sua maturidade, e sob proposta daquela Agência, a submeter aos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da economia.
+
+5 - Autorizar a AICEP, E. P. E., atendendo às suas competências exclusivas em matéria de promoção das condições propícias à captação, realização, análise e acompanhamento de projetos de investimento de origem nacional ou estrangeira, bem como às competências de representação do Estado Português, que lhe estão cometidas ao abrigo do RCI, a inscrever no seu orçamento, sob proposta fundamentada, nos termos do número anterior, as verbas referidas no n.º 1 para reforço do financiamento dos projetos enquadráveis no RCI, que resultem da sua melhor avaliação quanto ao efeito de incentivo e custo de oportunidade inerentes, e alinhamento com as prioridades setoriais definidas.
+
+6 - Determinar que a atribuição de incentivos financeiros ao abrigo da presente resolução segue o disposto no RCI, no respeito pelos enquadramentos europeus e nacionais dos sistemas de incentivos às empresas aplicáveis.
+
+7 - Determinar que compete à autoridade de gestão do Programa Temático Inovação e Transição Digital, criada pela Resolução do Conselho de Ministros n.º 14/2023, de 10 de fevereiro, a gestão, o acompanhamento e a execução dos apoios financeiros atribuídos no âmbito e nos termos do RCI, bem como a remessa, até 31 de março de cada ano, aos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da economia, da síntese de execução anual dos projetos, apoiados ao abrigo da presente resolução, dos relevantes indicadores de resultado, sem prejuízo do exercício das demais competências que lhe sejam atribuídas ao abrigo da regulamentação aplicável.
+
+8 - Determinar que compete à AICEP, E. P. E., para além da análise e do acompanhamento dos projetos de investimento, a respetiva contratualização e a realização dos pagamentos dos incentivos atribuídos aos projetos a financiar.
+
+9 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+Presidência do Conselho de Ministros, 30 de março de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116374583

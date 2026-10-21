@@ -1,0 +1,290 @@
+---
+id: "decreto-lei-89-1996-anexo"
+dre_id: "424342"
+title: "Decreto-Lei n.º 89/96, de 3 de julho — Anexo"
+type: "Decreto-Lei"
+number: "89/96"
+year: 1996
+date: 1996-07-03
+issuer: "Ministério do Ambiente"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2014-07-02
+source: "https://diariodarepublica.pt/dr/detalhe/decreto-lei/1996-424342"
+original_pdf: "https://files.diariodarepublica.pt/1s/1996/07/152a00/17091714.pdf"
+retrieved: 2026-10-21
+summary: "Cria o sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos de Vila Nova de Gaia e Santa Maria da Feira e aprova os estatutos da sociedade a quem será atribuída a respectiva concessão"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-89-1996"
+part: "Anexo"
+---
+
+# Decreto-Lei n.º 89/96, de 3 de julho — Anexo
+
+## Anexo
+
+### Capítulo I — Disposições gerais
+
+#### Artigo 1.º
+
+A sociedade adopta a denominação de SULDOURO - Valorização e Tratamento de Resíduos Sólidos Urbanos, S. A., e durará por tempo indeterminado.
+
+#### Artigo 2.º
+
+1 - A sede social é no Aterro Sanitário de Vila Nova de Gaia e Santa Maria da Feira, Rua Conde Barão, Sermonde, 4415-103 Vila Nova de Gaia.
+
+2 - Por deliberação do conselho de administração, a sede da sociedade pode ser deslocada para qualquer outro local dentro do mesmo concelho.
+
+3 - Por deliberação do conselho de administração, poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+### Capítulo II — Objecto
+
+#### Artigo 3.º
+
+1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Sul do Douro.
+
+2 - A exploração e a gestão referidas no número anterior compreendem:
+
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Artigo 4.º
+
+No exercício da sua atividade a sociedade pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objeto similar ou complementar do seu, desde que devidamente autorizada pela concedente.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Artigo 5.º
+
+1 - O capital social é de (euro) 3 400 000,00 encontrando-se integralmente realizado.
+
+2 - O capital social é representado por 680 000 ações com o valor nominal de (euro)5,00 cada uma.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Artigo 6.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02, em vigor a partir de 2014-07-03.*
+
+#### Artigo 7.º
+
+1 - As ações são nominativas e assumem a forma escritural ou titulada.
+
+2 - Por deliberação dos accionistas, as acções preferenciais poderão ser sujeitas a remissão, devendo esta ser feita pelo valor nominal das acções, eventualmente acrescido de um prémio determinado pela mesma deliberação.
+
+3 - [Revogado].
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Artigo 8.º
+
+1 - As ações são nominativas e assumem a forma escritural ou titulada.
+
+2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000, 10000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
+
+3 - [Revogado].
+
+4 - Os títulos serão assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
+
+5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Artigo 9.º
+
+1 - [Revogado].
+
+2 - [Revogado].
+
+3 - A transmissão de ações fica subordinada ao consentimento da sociedade.
+
+4 - Existe direito de preferência dos acionistas na transmissão de ações, devendo o alienante informar cada um dos demais acionistas, por escrito desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
+
+5 - Querendo o acionista transmitir ações, deve pedir o consentimento, por escrito, à sociedade, mediante carta registada com aviso de receção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e a respetiva valoração, bem como as demais condições da projetada transmissão.
+
+6 - A sociedade, deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de receção da carta mencionada no número anterior.
+
+7 - Se a sociedade, não se pronunciar dentro do prazo referido no número anterior, e sempre sem prejuízo do direito de preferência dos outros acionistas regulado no presente artigo, é livre a transmissão das ações.
+
+8 - É lícito recusar o pedido de consentimento com fundamento em qualquer interesse relevante da sociedade, devendo indicar-se sempre na deliberação o motivo da recusa.
+
+9 - No caso de recusar licitamente o consentimento, a sociedade, fica obrigada a adquirir as ações por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento.
+
+10 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a sociedade, que naquele negócio houve simulação de preço, a aquisição faz-se pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.
+
+11 - A sociedade, caso aceite o pedido de consentimento ou caso não se pronuncie sobre o mesmo dentro do prazo referido no n.º 6, comunica a todos os acionistas titulares do direito de preferência na transmissão das ações em causa, a informação recebida, tendo estes um prazo de 30 dias a contar da sua receção para declararem se exercem o direito de preferência na aquisição de ações.
+
+12 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Artigo 10.º
+
+1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
+
+2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
+
+3 - A assembleia geral que deliberar a amortização no termos dos números anteriores deliberará também o aumento do capital social por emissão de acções da classe A, de modo a restabelecer a percentagem para esta classe de acções prevista no n.º 2 do artigo 6.º
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Artigo 11.º
+
+1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei, mediante deliberação dos accionistas ou deliberação do conselho de administração.
+
+2 - Às obrigações emitidas pela sociedade aplica-se o disposto no n.º 4 do artigo 8.º
+
+### Capítulo III — Órgãos sociais
+
+#### Secção I — Disposições gerais
+
+##### Artigo 12.º
+
+1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único que pode ser substituído por um fiscal único suplente.
+
+2 - Os membros da mesa da assembleia geral e do conselho de administração, o fiscal único e o fiscal único suplente são eleitos em assembleia geral, por períodos de três anos, e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+##### Artigo 13.º
+
+Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente, pelo menos, 10% do capital social.
+
+#### Secção II — Assembleia geral
+
+##### Artigo 14.º
+
+1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deve reunir em primeira convocatória.
+
+2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+##### Artigo 15.º
+
+1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
+
+2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes estatutos ou em deliberação dos accionistas.
+
+3 - O presidente é substituído nas suas faltas e impedimentos pelo vice-presidente.
+
+##### Artigo 16.º
+
+1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.
+
+2 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o fiscal único ou os acionistas que representem, pelo menos, 5 % do capital social.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+##### Artigo 17.º
+
+1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória enquanto forem nominativas todas as acções da sociedade.
+
+2 - A assembleia geral pode deliberar, em primeira convocação, desde que estejam presentes ou representadas accionistas que detenham mais de dois terços do capital social.
+
+3 - No aviso convocatório poderá logo fixar-se uma data alternativa para a reunião da assembleia geral, para o caso de a mesma não poder reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
+
+##### Artigo 18.º
+
+1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
+
+2 - Compete em especial à assembleia:
+
+a) Deliberar sobre o relatório de gestão e as contas de exercício;
+
+b) Deliberar sobre a proposta de aplicação dos resultados;
+
+c) Apreciar a administração e a fiscalização da sociedade;
+
+d) Eleger os membros dos órgãos sociais.
+
+3 - Salvo quando a lei ou os presentes estatutos exigirem maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a acções que representem mais de 50% do capital social.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+#### Secção III — Administração da sociedade
+
+##### Artigo 19.º
+
+1 - A administração da sociedade será exercida por um conselho de administração composto por cinco membros.
+
+2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.
+
+3 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral.
+
+4 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de vencimentos por aquela nomeada.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+##### Artigo 20.º
+
+O conselho de administração terá os poderes de gestão e representação da sociedade que lhe foram cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
+
+##### Artigo 21.º
+
+O conselho de administração poderá delegar num administrador executivo a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
+
+##### Artigo 22.º
+
+A sociedade obriga-se perante terceiros pela assinatura conjunta de dois administradores ou pelo administrador executivo.
+
+##### Artigo 23.º
+
+1 - O conselho de administração reúne-se sempre que for convocado pelo presidente ou por dois administradores.
+
+2 - Independentemente do disposto no número anterior, o conselho de administração reunirá, pelo menos, uma vez por mês.
+
+3 - Os membros do conselho de administração serão convocados, por escrito, com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada ou se se tratar de reuniões com periodicidade fixa estabelecida em acta anterior e devidamente aprovada, casos em que é dispensada a convocatória.
+
+##### Artigo 24.º
+
+1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
+
+2 - As deliberações são tomadas pela maioria dos votos emitidos.
+
+3 - Qualquer administrador poderá fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, válida apenas para uma reunião.
+
+4 - Qualquer administrador poderá votar por correspondência.
+
+#### Secção IV — Fiscalização da sociedade
+
+##### Artigo 25.º
+
+A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos revisores oficiais de contas ou sociedade de revisores oficiais de contas, eleitos em assembleia geral.
+
+- *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+##### Artigo 25.º-A
+
+1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.
+
+2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.
+
+3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e o fiscal único.
+
+4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
+
+5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
+
+- *Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2014-25345601), em vigor a partir de 2014-07-03.*
+
+### Capítulo IV — Disposições finais
+
+#### Artigo 26.º
+
+1 - O ano social coincide com o ano civil.
+
+2 - Os resultados apurados em cada exercício, exceptuada a parte destinada à constituição ou reintegração das reservas legal e de renovação e conservação, terão a aplicação que a assembleia geral deliberar.
+
+#### Artigo 27.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 99/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02, em vigor a partir de 2014-07-03.*

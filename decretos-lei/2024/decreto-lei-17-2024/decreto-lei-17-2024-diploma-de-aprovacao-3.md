@@ -1,0 +1,560 @@
+---
+id: "decreto-lei-17-2024-diploma-de-aprovacao-3"
+dre_id: "839477381"
+title: "Decreto-Lei n.º 17/2024, de 29 de janeiro — Diploma de aprovação (3)"
+type: "Decreto-Lei"
+number: "17/2024"
+year: 2024
+date: 2024-01-29
+issuer: "Presidência do Conselho de Ministros"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2024-12-18
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-839477460"
+original_pdf: "https://files.diariodarepublica.pt/1s/2024/01/02000/0001000093.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece as normas de execução do Orçamento do Estado para 2024"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-17-2024"
+part: "Diploma de aprovação (3)"
+---
+
+# Decreto-Lei n.º 17/2024, de 29 de janeiro — Diploma de aprovação (3)
+
+### Secção II — Disposições específicas
+
+#### Subsecção I — Programa da Representação Externa
+
+##### Artigo 52.º — Gestão financeira do Programa de Representação Externa
+
+1 - As receitas provenientes de reembolsos de bolsas da União Europeia ficam consignadas às despesas de cooperação com encargos com bolseiros.
+
+2 - Os serviços externos temporários do MNE continuam a reger-se pelo regime jurídico definido no Decreto Regulamentar n.º 5/94, de 24 de fevereiro, que estabelece o regime jurídico e financeiro dos serviços externos permanentes do MNE.
+
+3 - Mantêm-se em vigor as disposições que permitam assegurar o regime jurídico de autonomia administrativa atribuído aos serviços periféricos externos do MNE, conjugado com as disposições previstas na alínea b) do n.º 2 do artigo 30.º, relativas à consolidação orçamental da entidade contabilística «Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros».
+
+4 - Ficam abrangidas pela autonomia administrativa dos serviços periféricos externos do MNE as despesas liquidadas no estrangeiro relacionadas com a gestão corrente, designadamente despesas com pessoal contratado, com a aquisição de bens e serviços e com a realização de missões no estrangeiro, com exceção das seguintes:
+
+a) Aquisições de bens, serviços e investimentos que, embora com destino ou provenientes dos serviços periféricos externos, sejam liquidáveis em Portugal;
+
+b) Vencimentos e outras remunerações e abonos do pessoal diplomático especializado e administrativo colocado no estrangeiro;
+
+c) As despesas decorrentes do movimento diplomático e administrativo e de missões no estrangeiro e em Portugal.
+
+##### Artigo 53.º — Regras respeitantes a despesas
+
+1 - As despesas a satisfazer por conta das dotações inscritas no orçamento de despesa do MNE relativas a «visitas de Estado e equiparadas» realizam-se com dispensa das formalidades legais e são reguladas por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças.
+
+2 - Cabe à Secretaria-Geral do MNE a autorização, o processamento e o pagamento das despesas com o pessoal dos serviços externos a que se refere o Decreto-Lei n.º 47/2013, de 5 de abril, na sua redação atual.
+
+3 - São fixadas, por despacho dos membros do Governo responsáveis pelas áreas das finanças e, consoante os casos, dos negócios estrangeiros ou do turismo, as regras para a autorização de despesas com alojamento, deslocações e ações de promoção:
+
+a) De delegações estrangeiras no âmbito do Projeto do Centro Comum de Vistos em Cabo Verde e do Projeto do Centro Comum de Vistos em São Tomé e Príncipe;
+
+b) A realizar no âmbito da estratégia e desenvolvimento das ações de promoção da Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), e do Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.)
+
+4 - As despesas a efetuar com o transporte de pessoas e bens, no âmbito do movimento diplomático, por conta das dotações inscritas em subdivisão própria do orçamento da entidade contabilística «Gestão Administrativa e Financeira do Orçamento do Ministério dos Negócios Estrangeiros» do MNE e do Fundo para as Relações Internacionais, I. P. (FRI, I. P.), bem como as no âmbito do movimento da rede externa da AICEP, E. P. E., e da rede externa do Camões, I. P., ficam isentas das formalidades legais aplicáveis, no início e no fim de cada comissão de serviço, ou no caso de deslocação urgente por indicação do membro do Governo responsável pela área dos negócios estrangeiros.
+
+5 - As dotações resultantes de despesas a efetuar por conta de ações extraordinárias de política externa, conforme previstas na alínea f) do n.º 2 do artigo 3.º do Decreto-Lei n.º 10/2012, de 19 de janeiro, na sua redação atual, e devidamente aprovadas pelo membro do Governo responsável pela área dos negócios estrangeiros, podem ser objeto de transferência direta pelo FRI, I. P., a favor do organismo ou entidade beneficiária das mesmas.
+
+##### Artigo 54.º — Regras respeitantes a receitas
+
+1 - As receitas provenientes do subarrendamento, cedência ou ónus sobre espaços e de patrocínios no âmbito de eventos organizados pelos serviços periféricos externos do MNE ficam consignadas às suas despesas de funcionamento e de conservação de imóveis do Estado Português no exterior.
+
+2 - As receitas provenientes de devoluções de taxas e impostos indiretos pagos na aquisição de bens e serviços correntes e na aquisição de bens de capital nos mercados locais, pelos serviços externos do MNE, financiadas por verbas do orçamento do FRI, I. P., constituem receita deste organismo.
+
+3 - As receitas provenientes de cofinanciamentos de programas, projetos e ações de cooperação, através de instituições especializadas da União Europeia, outras organizações ou agências internacionais, ou por outros Estados, ficam consignadas às respetivas despesas.
+
+4 - As receitas provenientes da atividade consular, quando se confirme a impossibilidade da sua repatriação com regularidade, por motivos alheios ao MNE, podem ser utilizadas no financiamento da atividade de funcionamento, investimento e apoio social dos postos no país onde as mesmas têm origem, incluindo a aplicação de saldos do ano anterior nos termos da alínea c) do n.º 2 do artigo 20.º, em que carece de aprovação do membro do Governo responsável pela área setorial.
+
+5 - Quando da aplicação de taxas de câmbio por entidades externas não subsumíveis nas regras cambiais definidas pelo Banco de Portugal resulte para o MNE, por motivos que lhe são alheios, uma perda substancial superior a 50 % da receita arrecadada, as receitas provenientes da atividade consular podem ser utilizadas no financiamento da atividade de funcionamento, investimento e apoio social dos postos no país onde as mesmas têm origem, sendo em tal situação aplicável, com as necessárias adaptações, o disposto na alínea c) do n.º 2 do artigo 20.º
+
+6 - A título excecional, quando da aplicação de taxas de câmbio fixadas pelo Banco de Portugal resulte para o MNE, por motivos que lhe são alheios, uma perda substancial superior a 50 % da receita que seria arrecadada, podem os postos aplicar, na atividade de atendimento consular, a taxa de câmbio praticada localmente que seja mais ajustada a evitar as perdas referidas.
+
+7 - A receita resultante das operações sobre os imóveis geridos pelo MNE, a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 5/2021, de 11 de janeiro, é afeta integralmente à entidade contabilística «Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros», não se aplicando as regras previstas nos n.os 1 e 3 do artigo 5.º da Lei do Orçamento do Estado, e é consignada à aquisição, reabilitação, adaptação, conservação e/ou restauro dos imóveis que lhe estão afetos no estrangeiro, mediante plano apresentado por aquela entidade ao membro do Governo responsável pela área das finanças.
+
+8 - O plano de aquisição, reabilitação, adaptação, conservação e/ou restauro dos imóveis, elaborado nos termos do número anterior, é remetido pela entidade competente à Direção-Geral do Tesouro e Finanças (DGTF), para conhecimento.
+
+9 - Constituem receitas da AICEP, E. P. E., exclusivamente no âmbito do financiamento do Programa de Estágios Internacionais INOV Contacto, montantes provenientes de entidades privadas.
+
+##### Artigo 55.º — Regras respeitantes a saldos
+
+1 - Os saldos das receitas referidas no n.º 1 do artigo 52.º, apurados no ano económico anterior, transitam para o ano em curso e ficam consignados às respetivas despesas.
+
+2 - Os saldos das transferências efetuadas pelo FRI, I. P., transitam para o ano em curso.
+
+3 - Os saldos das transferências efetuadas no âmbito de projetos plurianuais para o desenvolvimento, investigação e cooperação desenvolvidos pelo Camões, I. P., transitam para o ano em curso.
+
+##### Artigo 56.º — Regras respeitantes a projetos de cooperação
+
+1 - As dotações orçamentais destinadas a projetos e ações de cooperação para o desenvolvimento passíveis de contabilização em ajuda pública ao desenvolvimento só podem ser executadas após a emissão de parecer prévio vinculativo do Camões, I. P.
+
+2 - O Camões, I. P., promove, em articulação com a DGO, a obtenção dos dados necessários para o acompanhamento da execução das verbas afetas aos projetos e ações de cooperação para o desenvolvimento.
+
+3 - As ajudas de custo em projetos de cooperação são fixadas por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças.
+
+4 - As dotações orçamentais do Camões, I. P., financiadas por receita superior ao orçamentado com origem em transferências de entidades externas, nomeadamente do setor privado, tendo em vista a criação de uma linha de financiamento para projetos de apoio à reconstrução de Moçambique e ao abrigo da iniciativa de auxílio à população de Cabo Delgado, fazem parte do respetivo orçamento disponível, transitando o saldo para o ano seguinte.
+
+##### Artigo 57.º — Regras respeitantes à Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas
+
+1 - Fica a DGACCP autorizada a cobrar receita pelo ato de reconhecimento da assinatura de funcionários consulares portugueses e por atestar a assinatura de funcionário das missões diplomáticas e consulares acreditadas em Portugal.
+
+2 - A receita prevista no número anterior fica consignada às despesas de funcionamento da DGACCP.
+
+#### Subsecção II — Programa da Defesa
+
+##### Artigo 58.º — Gestão financeira do Programa da Defesa
+
+1 - As dotações para missões humanitárias e de paz, bem como dos observadores militares não enquadráveis nestas missões, inscritas no orçamento do Ministério da Defesa Nacional (MDN), são movimentadas por despacho do membro do Governo responsável pela área da defesa nacional, prevendo transferências entre capítulos daquele orçamento, com vista a afetar ao Estado-Maior-General das Forças Armadas e aos ramos das Forças Armadas os montantes necessários à cobertura dos encargos a incorrer no âmbito das citadas missões.
+
+2 - A dotação inscrita para a Lei do Serviço Militar, aprovada pela Lei n.º 174/99, de 21 de dezembro, na sua redação atual, no orçamento do MDN é movimentada por despacho do membro do Governo responsável pela área da defesa nacional, prevendo as transferências entre capítulos daquele orçamento, com vista a afetar aos ramos das Forças Armadas os montantes necessários à cobertura dos encargos decorrentes das atividades a desenvolver naquele âmbito.
+
+3 - As alterações orçamentais entre capítulos do orçamento do MDN decorrentes da reorganização da defesa nacional e das Forças Armadas, das alienações e reafetações dos imóveis afetos às Forças Armadas são realizadas por despacho do membro do Governo responsável pela área da defesa nacional.
+
+4 - A assunção de encargos decorrentes de operações de locação financeira durante o ano em curso, nos termos do artigo 103.º da Lei do Orçamento do Estado, depende de autorização do membro do Governo responsável pela área da defesa nacional.
+
+5 - A transferência de verbas para a CGA, I. P., prevista na alínea d) do n.º 8 do artigo 8.º da Lei do Orçamento do Estado, depende de despacho do membro do Governo responsável pela área da defesa nacional.
+
+#### Subsecção III — Programa da Saúde
+
+##### Artigo 59.º — Gestão financeira do Programa da Saúde
+
+1 - Sem prejuízo de regimes especiais em vigor, no âmbito da execução do orçamento de investimento do MS, e para execução de projetos considerados estratégicos para a política de saúde, fica a ACSS, I. P., autorizada a efetuar, mediante a celebração de protocolo, transferências para as entidades públicas empresariais do SNS.
+
+2 - O requisito previsto na alínea d) do n.º 1 do artigo 47.º não se aplica às entidades que integram o SNS.
+
+3 - A ACSS, I. P., enquanto entidade coordenadora do programa orçamental da saúde, pode assumir-se como entidade pagadora, por conta dos estabelecimentos e serviços integrados no SNS, de forma a assegurar a tempestividade e a eficácia do processo de pagamento a fornecedores externos.
+
+4 - O disposto no número anterior não prejudica a imputação da responsabilidade financeira à correspondente entidade geradora da despesa.
+
+##### Artigo 60.º — Regime remuneratório específico de trabalho extraordinário ou suplementar no setor da saúde
+
+1 - O somatório do número de horas extraordinárias e de prestação de serviços médicos contratados pelos estabelecimentos que integram o SNS e os serviços regionais de saúde não pode ser superior ao registado no trimestre homólogo, em cada um desses serviços, exceto em casos autorizados pelo membro do Governo responsável pela área da saúde e com conhecimento do membro do Governo responsável pela área das finanças.
+
+2 - As entidades a que se refere o número anterior são obrigadas a reportar informação mensal sobre o número de horas extraordinárias e de prestações de serviços médicos, e sobre a despesa que lhes está associada, para a DGO e para a ACSS, I. P.
+
+3 - Os atos praticados em violação dos números anteriores são nulos e determinam responsabilidade civil, financeira e disciplinar por parte dos gestores das entidades abrangidas pelo regime estabelecido no presente decreto-lei.
+
+##### Artigo 61.º — Suplemento remuneratório por exercício de funções de autoridade de saúde
+
+O suplemento remuneratório por exercício efetivo de funções de autoridade de saúde que impliquem a obrigatoriedade de apresentação ao serviço sempre que solicitado, previsto no artigo 10.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual, é fixado em (euro) 200.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2024 - Diário da República n.º 245/2024, Série I de 2024-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2024-900516791), produz efeitos a partir de 2024-10-01*
+
+##### Artigo 62.º — Aquisição de serviços médicos e celebração de contratos-programa
+
+1 - A celebração de contratos de aquisição de serviços com pessoal médico apenas é admissível nos casos em que comprovadamente o serviço não possa ser assegurado por médicos do respetivo mapa de pessoal.
+
+2 - Sem prejuízo de regimes especiais em vigor, o valor máximo por hora de trabalho a pagar pela aquisição de serviços médicos não pode, em caso algum, ser superior ao valor hora mais elevado previsto na tabela remuneratória aplicável aos trabalhadores integrados na carreira médica ou especial médica.
+
+3 - Sem prejuízo de regimes especiais em vigor, em casos excecionais devidamente fundamentados, precedidos de parecer prévio favorável da Direção Executiva do Serviço Nacional de Saúde, I. P., e previamente autorizados pelo membro do Governo responsável pela área da saúde, pode o preço hora a pagar pela aquisição de serviços médicos ser superior ao referido no número anterior.
+
+4 - A ACSS, I. P., pode celebrar contratos-programa com as entidades pertencentes à rede nacional de prestação de cuidados de saúde, desde que previamente autorizados pelos membros do Governo responsáveis pelas áreas das finanças e da saúde, sendo-lhes aplicável as disposições do artigo 147.º da Lei do Orçamento do Estado.
+
+##### Artigo 63.º — Cuidados paliativos
+
+1 - Os estabelecimentos de saúde integrados no SNS estão dispensados do cumprimento do disposto no artigo 42.º da Lei do Orçamento do Estado relativamente à celebração de contratos de aquisição de serviços no âmbito dos cuidados paliativos, quando financiados integralmente por entidades privadas e do setor social e titulados por protocolos celebrados com entidades públicas para cumprimento das políticas de saúde constantes do Programa do Governo.
+
+2 - Os contratos de trabalho celebrados a termo resolutivo incerto nas condições previstas no número anterior estão dispensados de autorização prévia do membro do Governo responsável pela área das finanças.
+
+3 - As entidades referidas nos números anteriores devem comunicar ao membro do Governo responsável pelas áreas da Administração Pública e das finanças, até ao final do mês seguinte àquele em que foram adjudicados, os contratos celebrados ou renovados nos termos do presente artigo.
+
+##### Artigo 64.º — Contratação de médicos aposentados
+
+Nos termos do n.º 1 do artigo 24.º da Lei do Orçamento do Estado, as autorizações para o exercício de funções públicas ou de prestação de trabalho remunerado por parte de médicos aposentados em serviços ou estabelecimentos do SNS, independentemente da sua natureza jurídica, são conferidas mediante despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, das finanças e da saúde, que fixa o contingente anual de médicos aposentados que podem ser contratados, considerando as especiais carências dos serviços ou estabelecimentos e das áreas de especialidade.
+
+##### Artigo 65.º — Preços a praticar junto do Serviço Nacional de Saúde pelo setor convencionado e pelos responsáveis pela colocação no mercado de dispositivos médicos
+
+1 - Por razões de interesse público ou de regulação do mercado, e em condições a regulamentar por portaria, o membro do Governo responsável pela área da saúde pode determinar, relativamente ao setor convencionado e aos responsáveis pela colocação no mercado de dispositivos médicos, consoante o mais adequado a cada área, a prática de:
+
+a) Deduções sobre os preços contratualizados com as entidades do SNS;
+
+b) Descontos a refletir em cada fatura, líquida do imposto sobre o valor acrescentado, emitida às entidades do SNS;
+
+c) Reduções dos preços contratualizados com as entidades do SNS.
+
+2 - Podem ser celebrados acordos entre o Estado, representado pelo MS, e as associações representativas do setor convencionado e dos responsáveis pela colocação no mercado de dispositivos médicos referidos no número anterior, visando a sustentabilidade do SNS através da fixação de mecanismos aptos a garantir a redução da despesa pública, nas mesmas áreas, em termos que não impliquem para o Estado encargos superiores aos resultantes do número anterior.
+
+3 - Ficam isentas das medidas previstas no n.º 1 as entidades que venham a aderir, individualmente e sem reservas, aos acordos a que se refere o número anterior, nos termos do número seguinte.
+
+4 - A isenção prevista no número anterior produz efeitos a partir da data em que as entidades subscrevam a adesão ao acordo acima referido e durante o período em que este se aplicar em função do seu cumprimento, nos termos e condições nele previstos, e cessa os seus efeitos imediatamente após a cessação da vigência desses acordos.
+
+5 - Os textos dos acordos previstos no n.º 2 devem ser publicitados no sítio da Internet da ACSS, I. P.
+
+##### Artigo 66.º — Responsabilidade financeira pelas prestações de saúde a beneficiários de subsistemas públicos de saúde
+
+1 - O SNS, no âmbito das suas competências e atribuições territoriais, é financeiramente responsável pelas prestações de saúde realizadas aos beneficiários de subsistemas públicos, desde que os mesmos tenham direito a essas prestações pela sua condição de beneficiários do SNS.
+
+2 - Os subsistemas públicos de saúde são financeiramente responsáveis pelas restantes prestações de saúde realizadas aos seus beneficiários nos termos dos respetivos estatutos.
+
+#### Subsecção IV — Programa do Ensino Básico e Secundário e Administração Escolar
+
+##### Artigo 67.º — Gestão financeira do Programa do Ensino Básico e Secundário e Administração Escolar
+
+1 - As dotações comuns destinadas a vencimentos do pessoal dos estabelecimentos de ensino não superior, inscritas no orçamento dos estabelecimentos de educação e ensino básico e secundário, asseguradas pelo IGEFE, I. P., no âmbito do capítulo 03 do orçamento do Ministério da Educação, são utilizadas por cada agrupamento de escolas ou por cada estabelecimento de ensino, de harmonia com as necessidades resultantes da satisfação de encargos com o pessoal que esteja em exercício, sendo as correspondentes informações de cabimento prestadas pelo IGEFE, I. P., desde que previstas no orçamento inicialmente aprovado.
+
+2 - Os agrupamentos de escolas e as escolas não agrupadas abrangidos pelo artigo 2.º do Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual, continuam a beneficiar de autonomia administrativa para movimentar as verbas inscritas no capítulo 03 do orçamento do Ministério da Educação.
+
+3 - O processamento de todos os abonos ao pessoal a exercer funções em regime de mobilidade interna, em que, por acordo, a remuneração seja suportada pelo serviço de origem, ou deslocado em estabelecimento público dos ensinos básico e secundário, é efetuado pelo serviço em que exerce funções, desde que o serviço de origem seja igualmente um estabelecimento público dos ensinos básico e secundário.
+
+4 - A Direção-Geral da Administração Escolar pode autorizar as escolas profissionais agrícolas que integram a rede pública do Estado a celebrar contratos de trabalho em funções públicas a termo resolutivo, a tempo parcial, para colmatar as necessidades transitórias de trabalhadores para assegurarem os serviços de limpeza, nos termos da LTFP, até ao limite dos montantes inscritos para este efeito no capítulo 03 do orçamento do Ministério da Educação.
+
+5 - Os encargos relativos ao acolhimento dos docentes chineses, bem como ao pagamento dos transportes, nos termos fixados no Protocolo de Cooperação Bilateral celebrado entre o Ministério da Educação e o Instituto Confúcio, da República Popular da China, são suportados pelo IGEFE, I. P.
+
+6 - Por despacho do membro do Governo responsável pela área da educação, pode ser total ou parcialmente delegada no conselho de administração da Construção Pública, E. P. E., a competência prevista no n.º 15 do artigo 3.º da Lei do Orçamento do Estado.
+
+##### Artigo 68.º — Receitas dos agrupamentos de escolas e escolas não agrupadas
+
+1 - Para além das verbas previstas na Lei do Orçamento do Estado, constituem receitas dos agrupamentos de escolas e escolas não agrupadas:
+
+a) As propinas, emolumentos e multas, pagos em numerário e relativos à prática de atos administrativos;
+
+b) As provenientes da prestação de serviços e de venda de publicações ou de rendimentos de bens próprios;
+
+c) O rendimento proveniente de juros de depósitos bancários;
+
+d) As doações, subsídios, subvenções, comparticipações, heranças e legados;
+
+e) As provenientes da cobrança de refeições escolares e da venda de bens em bufetes e papelarias escolares, cuja aplicação deve privilegiar despesas inerentes àquelas modalidades da ação social escolar e a serviços auxiliares de ensino;
+
+f) Outras receitas que lhe sejam atribuídas por lei.
+
+2 - As receitas provenientes da cobrança de refeições escolares e da cedência onerosa da utilização de espaços não agregados a equipamentos educativos que integram o património próprio da Construção Pública, E. P. E., fora do período das atividades escolares constituem receitas do município em que o agrupamento de escolas ou a escola não agrupada está sediado, de acordo com o previsto no Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual.
+
+3 - Excetuam-se do disposto no número anterior as receitas provenientes da cobrança de refeições escolares quando, no uso da faculdade prevista no artigo 64.º do Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual, os municípios não assumam a posição contratual do Estado em contrato de fornecimento de refeições confecionadas para refeitórios escolares localizados na respetiva área territorial, até à sua execução integral.
+
+##### Artigo 69.º — Gratuitidade de manuais escolares
+
+1 - No início do ano letivo é garantido a todos os alunos que frequentam a escolaridade obrigatória na rede pública do Ministério da Educação o acesso gratuito a manuais escolares em suporte digital ou suporte físico, no último caso complementados por licenças digitais.
+
+2 - Os manuais escolares em suporte físico são disponibilizados aos alunos, através de vales emitidos em plataforma digital do Ministério da Educação para o efeito, nos casos em que os deveres de devolução e reutilização sejam cumpridos.
+
+3 - Os encarregados de educação responsabilizam-se pelo eventual extravio ou deterioração do manual em suporte físico recebido, ressalvado o desgaste proveniente do seu uso normal, prudente e adequado, face ao tipo de uso e disciplina para que foram concebidos, estado em que foi recebido pelo aluno, idade do aluno e outras circunstâncias subjetivas e objetivas que tornem inexigível esta mesma responsabilidade.
+
+4 - Cada aluno tem direito a um único exemplar dos manuais adotados, por disciplina e por ano letivo, sempre que possível a partir da reutilização de manuais escolares recolhidos no ano anterior na mesma escola ou em qualquer outra escola ou agrupamento que o tenha adotado.
+
+5 - Em cada agrupamento de escolas ou escola não agrupada é constituída uma bolsa de manuais escolares, composta pelos manuais utilizados pelos alunos no ano letivo anterior que se encontrem em estado de conservação adequado à sua reutilização, bem como por aqueles que sejam doados ou adquiridos pela escola ou agrupamentos de escolas para suprir necessidades do ano seguinte.
+
+6 - O membro do Governo responsável pela área da educação define os procedimentos e condições de disponibilização gratuita e de aquisição através de vale, uso, devolução e reutilização dos manuais escolares.
+
+7 - O membro do Governo responsável pela área da educação define ainda, nos termos da legislação aplicável, as condições de adoção e certificação de manuais escolares que potenciem a reutilização de manuais em todos os graus de ensino.
+
+#### Subsecção V — Programa da Ciência e Ensino Superior
+
+##### Artigo 70.º — Gestão financeira do Programa Ciência, Tecnologia e Ensino Superior
+
+1 - Aos professores auxiliares a quem seja distribuído serviço correspondente à categoria de professor associado não cabe a perceção de qualquer acréscimo remuneratório ou suplemento.
+
+2 - As dotações inscritas no capítulo 02, divisão 01, subdivisão 99 «Dotações comuns», para o apoio ao ensino superior, só podem ser utilizadas mediante despacho do membro do Governo responsável pela área do ensino superior.
+
+##### Artigo 71.º — Contratação de seguros
+
+Para efeitos do n.º 2 do artigo 19.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, os seguros contratados por instituições de ensino superior, suportados por receitas próprias, não carecem de autorização dos membros do Governo responsáveis pela área das finanças e pela área setorial.
+
+#### Subsecção VI — Programa da Justiça
+
+##### Artigo 72.º — Disposições específicas respeitantes aos tribunais superiores e ao Programa da Justiça
+
+Os tribunais superiores ficam excluídos do âmbito de aplicação do artigo 3.º da Lei do Orçamento do Estado, não sendo ainda aplicável às respetivas aquisições de serviços o disposto nos artigos 42.º a 44.º da Lei do Orçamento do Estado.
+
+## Capítulo III — Administração regional e local
+
+### Artigo 73.º — Pagamento dos serviços municipalizados e empresas locais ao Serviço Nacional de Saúde
+
+1 - Os municípios são a entidade responsável por receber dos serviços municipalizados os montantes que lhes compete entregar ao SNS.
+
+2 - As empresas locais entregam diretamente ao SNS os montantes que lhes compete.
+
+### Artigo 74.º — Pagamento dos serviços municipalizados e empresas locais aos serviços regionais de saúde
+
+1 - Os municípios das Regiões Autónomas da Madeira e dos Açores são as entidades responsáveis por receber dos serviços municipalizados os montantes que lhes compete entregar aos respetivos serviços regionais de saúde.
+
+2 - As empresas locais entregam diretamente aos serviços regionais de saúde os montantes que lhes compete.
+
+### Artigo 75.º — Registo das transferências financeiras e encargos resultantes do processo de descentralização
+
+1 - As transferências financeiras, as receitas arrecadadas e as despesas diretamente relacionadas com a descentralização de competências estabelecida pela Lei n.º 50/2018, de 16 de agosto, e pelos respetivos diplomas setoriais, são reportados pelos municípios, mensalmente, através da plataforma eletrónica da DGAL.
+
+2 - O registo referido no número anterior deve permitir identificar e relacionar, para cada área da descentralização, as receitas arrecadadas e as despesas realizadas com as transferências recebidas da administração central do Estado para o exercício das competências transferidas.
+
+### Artigo 76.º — Auxílios financeiros e cooperação técnica e financeira
+
+1 - Com vista ao cumprimento do n.º 7 do artigo 22.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, as entidades de cada área governativa prestam à DGAL, nos moldes por esta definidos, informação sobre os instrumentos de cooperação técnica e financeira e de auxílio financeiro celebrados com autarquias locais, bem como os respetivos montantes e prazos.
+
+2 - A verba prevista no n.º 1 do artigo 62.º da Lei do Orçamento do Estado pode ser utilizada para projetos de apoio aos territórios do interior, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais.
+
+### Artigo 77.º — Lojas de cidadão
+
+1 - Nos termos da alínea a) do n.º 2 do artigo 62.º da Lei do Orçamento do Estado, considera-se autorizada a celebração de contratos ou protocolos no âmbito da rede de Lojas de Cidadão e Espaços Cidadão previstos na Resolução do Conselho de Ministros n.º 1/2017, de 2 de janeiro.
+
+2 - As transferências efetuadas pelos serviços e organismos da administração central para os municípios e freguesias, no âmbito da gestão de Lojas de Cidadão e Espaços Cidadão, são efetuadas enquanto transferências correntes dos respetivos serviços ou organismos.
+
+3 - A instrução dos processos para a aprovação da portaria prevista no artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, com vista à celebração de protocolos para a instalação de Lojas de Cidadão, é centralizada pela AMA, I. P., sendo a autorização conferida através de uma única portaria com a identificação de cada um dos serviços e entidades envolvidos e do escalonamento plurianual das respetivas despesas.
+
+4 - Para a celebração de protocolos no âmbito da rede de Lojas de Cidadão e Espaços Cidadão previstos na Resolução do Conselho de Ministros n.º 1/2017, de 2 de janeiro, o limite temporal estabelecido na alínea b) do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, é alargado para 15 anos, não podendo o valor anual da despesa exceder (euro) 12 000, por entidade, excluindo-se deste montante o valor correspondente à ocupação do espaço.
+
+5 - Os protocolos celebrados nos termos do n.º 7 do artigo 9.º do Decreto-Lei n.º 74/2014, de 13 de maio, na sua redação atual, que incluam uma componente do preço correspondente à utilização do espaço, encontram-se dispensados do parecer da ESTAMO, S. A., se a referida componente do preço for determinada nos termos do número seguinte.
+
+6 - O parecer da ESTAMO, S. A., a que se refere o n.º 3 do artigo 123.º da Lei do Orçamento do Estado fica dispensado, sendo os protocolos objeto de mera comunicação, sempre que o valor unitário por m2, consoante a localização do imóvel, não exceda os limites previstos na alínea a) do n.º 3 do artigo 115.º
+
+### Artigo 78.º — Obrigações de serviço público na Região Autónoma dos Açores
+
+1 - A transferência da dotação orçamental prevista no n.º 1 do artigo 48.º da Lei do Orçamento do Estado é efetuada trimestralmente pela DGTF, com recurso a verbas inscritas no capítulo 60 do orçamento do MF, sendo transferido, no final de cada trimestre, o montante de (euro) 2 513 111,25.
+
+2 - A Inspeção-Geral das Finanças (IGF) procede à validação dos custos incorridos e decorrentes da prestação de serviço público no transporte interilhas face à compensação prevista no n.º 1 do artigo 48.º da Lei do Orçamento do Estado, procedendo-se aos eventuais acertos e compensações a que haja lugar no prazo de seis meses a contar da homologação do relatório da IGF.
+
+## Capítulo IV — Execução do orçamento da segurança social
+
+### Artigo 79.º — Execução do orçamento da segurança social
+
+1 - Compete ao IGFSS, I. P., efetuar a gestão global do orçamento da segurança social, assegurar o acompanhamento da execução orçamental e propor eventuais alterações orçamentais, nos termos do artigo 56.º da Lei de Enquadramento Orçamental.
+
+2 - Considerando a variação dos consumos através da alteração de frequências dos utentes, no âmbito do n.º 2 do artigo 8.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, a assunção dos compromissos relativos a acordos de cooperação vigentes entre o Instituto da Segurança Social, I. P. (ISS, I. P.), e as Instituições Particulares de Solidariedade Social é efetuada pelo valor estimado de encargos relativos ao período temporal de apuramento dos fundos disponíveis.
+
+### Artigo 80.º — Prazos para autorização de pagamentos e cobrança de receita
+
+1 - Não é permitido contrair encargos que não possam ser pagos até 5 de janeiro do ano seguinte.
+
+2 - A data-limite para a emissão de meios de pagamento é 31 de dezembro do ano em curso, podendo ser efetuadas reemissões de ficheiros de pagamentos, reportadas a 31 de dezembro do ano em curso, desde que a data-valor efetiva não ultrapasse a data-limite definida no número anterior.
+
+3 - Nos termos do n.º 3 do artigo 7.º do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, a cobrança de receitas, originadas ou autorizadas até 31 de dezembro do ano em curso, pode ser realizada até 5 de janeiro do ano seguinte, relevando para efeitos da execução orçamental do ano em curso.
+
+### Artigo 81.º — Requisição de fundos
+
+1 - O financiamento das instituições de segurança social e dos demais organismos com dotações integradas no orçamento da segurança social é efetuado pelo IGFSS, I. P., com base em planos de tesouraria aprovados por este.
+
+2 - As instituições da segurança social e os demais organismos financiados pelo orçamento da segurança social apenas devem receber as importâncias indispensáveis aos pagamentos a efetuar.
+
+3 - As requisições de fundos devem efetuar-se de acordo com as especificações definidas pelo IGFSS, I. P., pormenorizando os pagamentos previstos.
+
+4 - Tratando-se de investimentos inscritos no orçamento de investimento, a requisição das verbas deve ser formalizada com referência a medidas e projetos, no respeito pelas especificações definidas pelo IGFSS, I. P.
+
+5 - Nos casos em que não se verifique a necessidade de utilização integral dos fundos requisitados, o IGFSS, I. P., pode não satisfazer os pedidos de financiamento apresentados.
+
+6 - O valor a transferir para os organismos financiados pelo orçamento da segurança social deve ser líquido das cativações definidas na Lei do Orçamento do Estado e no presente decreto-lei.
+
+### Artigo 82.º — Alterações orçamentais
+
+1 - As alterações orçamentais só podem ter seguimento quando sejam devidamente justificadas e apresentem a adequada contrapartida.
+
+2 - Sem prejuízo do disposto no n.º 2 do artigo 10.º da Lei de Enquadramento Orçamental, é autorizada, pelo membro do Governo responsável pela área da segurança social, a utilização de saldos de gerência resultantes de:
+
+a) Receitas de jogos sociais consignados ao orçamento da segurança social;
+
+b) Fundos europeus desde que aplicados nas mesmas atividades ou projetos;
+
+c) Saldos do sistema previdencial;
+
+d) Receitas obtidas na gestão do Fundo de Estabilização Financeira da Segurança Social (FEFSS).
+
+3 - Nos termos dos artigos 89.º e 90.º da Lei n.º 4/2007, de 16 de janeiro, na sua redação atual, são autorizadas, por despacho do membro do Governo responsável pela área da segurança social, as transferências de verbas entre as dotações para despesas, no âmbito dos subsistemas de solidariedade, proteção familiar e ação social e do sistema previdencial.
+
+4 - Nos termos da alínea f) do n.º 1 do artigo 59.º da Lei de Enquadramento Orçamental, são autorizadas, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da segurança social, as alterações orçamentais traduzidas em aumento do montante total da despesa decorrente do aumento da despesa com as prestações sociais que constituam direitos dos beneficiários do sistema de segurança social.
+
+5 - Os acréscimos de encargos relacionados com o aumento do volume de fundos sob gestão do IGFCSS, I. P., inscritos no orçamento da segurança social para o ano em curso, e que superem, por esse facto, o valor dos encargos de administração previstos no referido orçamento, são autorizados por despacho do membro do Governo responsável pela área da segurança social.
+
+6 - Se, na execução do orçamento da segurança social para o ano em curso, as verbas a transferir do FSE para apoio de projetos de formação profissional excederem a dotação inscrita em orçamento, as alterações orçamentais decorrentes do correspondente acréscimo de despesas são autorizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.
+
+7 - As alterações orçamentais entre as dotações das rubricas de comparticipação portuguesa nos projetos apoiados pelo FSE e as rubricas de transferências correntes para «emprego e formação profissional», «higiene, saúde e segurança no trabalho» e «inovação na formação», são autorizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.
+
+8 - O acréscimo de despesas de capital decorrentes do aumento do volume de regularizações de dívidas de contribuições a instituições da segurança social, satisfeitas mediante dação em pagamento de bens móveis ou imóveis, e que superem, por esse facto, o valor inscrito no orçamento da segurança social para o ano em curso, é autorizado por despacho do membro do Governo responsável pela área da segurança social.
+
+9 - O imóvel sito na Quinta da Tapada, distrito e concelho de Évora, inscrito na matriz predial sob o artigo 7733 da União das Freguesias de Malagueira e Horta das Figueiras, descrito na Conservatória do Registo Predial de Évora sob o n.º 1315/20100713, integrado no património do IGFSS, I. P., por força do Decreto-Lei n.º 112/2004, de 13 de maio, é transferido para o Instituto de Segurança Social, I. P., sem qualquer contrapartida.
+
+10 - A transferência referida no número anterior constitui título bastante para todos os efeitos legais, incluindo os de registo.
+
+11 - As alterações orçamentais referidas na alínea c) do artigo 60.º da Lei de Enquadramento Orçamental, são autorizadas pelo membro do Governo responsável pela área da segurança social.
+
+### Artigo 83.º — Transferências orçamentais
+
+1 - O orçamento da segurança social apoia financeiramente os centros de cultura e desporto da segurança social (CCD) no desenvolvimento das suas atividades, não se integrando estas na prossecução de fins de ação social complementar, para os efeitos previstos no Decreto-Lei n.º 122/2007, de 27 de abril, na sua redação atual.
+
+2 - Os apoios financeiros são estabelecidos tendo em consideração o quadro de atividades programadas pelos CCD, o número de trabalhadores da segurança social a quem se destinem as atividades e as respetivas despesas de administração.
+
+3 - As transferências para os CCD são definidas, regulamentadas e autorizadas por despacho do membro do Governo responsável pela área da segurança social, com base em critérios transparentes e objetivos.
+
+### Artigo 84.º — Relacionamento com o sistema bancário ou financeiro
+
+1 - O IGFSS, I. P., fica autorizado a estabelecer relações com as instituições do sistema bancário ou financeiro, podendo, para o efeito, negociar aplicações de capital, constituir depósitos e contrair empréstimos de curto prazo que se mostrem necessários à execução do orçamento da segurança social para o ano em curso, nos termos do n.º 6 do artigo 56.º da Lei de Enquadramento Orçamental.
+
+2 - Para a realização de operações ativas, recurso a financiamentos e para efeitos do disposto no número anterior deve o IGFSS, I. P., recorrer aos serviços do IGCP, E. P. E.
+
+3 - Sem prejuízo do disposto no número anterior, fica o IGFSS, I. P., autorizado a constituir depósitos bancários exclusivamente necessários à atividade dos serviços da segurança social.
+
+## Capítulo V — Operações do tesouro
+
+### Secção I — Operações ativas e passivas
+
+#### Artigo 85.º — Parecer sobre operações de financiamento
+
+1 - Ficam sujeitas a apreciação prévia do IGCP, E. P. E., as operações de financiamento de montante superior a (euro) 500 000, nomeadamente empréstimos, realizadas pelos serviços e fundos dotados de autonomia administrativa e financeira, incluindo EPR.
+
+2 - Ficam igualmente sujeitas à apreciação prévia do IGCP, E. P. E., as operações de financiamento, nomeadamente empréstimos, realizadas pelos serviços e fundos referidos no número anterior que ultrapassem em cada ano o montante acumulado de endividamento de (euro) 1 250 000.
+
+3 - Ficam excecionadas do disposto nos números anteriores as operações de financiamento concedidas pela DGTF que estejam sujeitas a cotação do IGCP, E. P. E.
+
+#### Artigo 86.º — Controlo do limite para as garantias a conceder por pessoas coletivas de direito público
+
+Para efeitos de controlo do cumprimento do limite máximo para a concessão de garantias, previsto no n.º 4 do artigo 106.º da Lei do Orçamento do Estado, as pessoas coletivas de direito público devem:
+
+a) Solicitar à DGTF informação prévia sobre o cabimento das garantias a conceder, para efeitos de parecer prévio vinculativo;
+
+b) Informar a DGTF, trimestralmente, até ao dia 10 do mês seguinte ao do trimestre a que respeitam, de todos os movimentos relativos às operações financeiras por si garantidas.
+
+#### Artigo 87.º — Concessão de garantias às operações de crédito à exportação
+
+À concessão de garantias às operações mencionadas no n.º 2 do artigo 106.º da Lei do Orçamento do Estado, que não revistam a natureza de seguro, aplica-se, com as necessárias adaptações, atenta a respetiva finalidade, a Lei n.º 112/97, de 16 de setembro, na sua redação atual, sendo os demais termos e condições dessas garantias objeto de despacho do membro do Governo responsável pela área das finanças.
+
+#### Artigo 88.º — Controlo do limite para a concessão de empréstimos e outras operações ativas
+
+1 - Para efeitos de controlo do cumprimento do limite máximo para a concessão de empréstimos e outras operações ativas, previsto no n.º 2 do artigo 99.º da Lei do Orçamento do Estado, as pessoas coletivas de direito público devem:
+
+a) Solicitar à DGO informação prévia sobre o cabimento dos empréstimos e outras operações ativas a conceder;
+
+b) Registar mensalmente nos serviços online da DGO, até ao dia 10 do mês seguinte àquele a que respeitam, os movimentos relativos a empréstimos e operações ativas por si concedidas.
+
+2 - A concessão de financiamentos no âmbito do empréstimo-quadro contratado entre a República Portuguesa e o Banco Europeu de Investimento é objeto de despacho dos membros do Governo responsáveis pelas áreas das finanças e pela coordenação do Portugal 2020 e 2030, fixando as condições de acesso e de utilização dos financiamentos, a conceder pelo Estado através da Agência, I. P., ou de instituições financeiras aderentes à utilização de financiamentos às entidades beneficiárias do empréstimo-quadro.
+
+3 - A concessão de financiamentos de natureza reembolsável, com financiamento nacional, suscetível de atribuição de prémio de realização, ainda que atribuído posteriormente ao reembolso, carece de autorização prévia dos membros do Governo responsáveis pela área das finanças e pela respetiva área setorial.
+
+#### Artigo 89.º — Procedimento aplicável aos empréstimos externos
+
+O regime previsto no artigo 32.º-B do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, na sua redação atual, é aplicável aos juros de capitais provenientes do estrangeiro representativos de contratos de empréstimo ali previstos celebrados pelo IGCP, E. P. E., em nome e representação do Estado português, desde que seja reconhecido pelo membro do Governo responsável pela área das finanças o interesse público subjacente à operação e o credor seja um não residente em território nacional sem estabelecimento estável ao qual o empréstimo seja imputável.
+
+### Secção II — Gestão da tesouraria do Estado
+
+#### Artigo 90.º — Modelo de gestão de tesouraria
+
+1 - É estabelecido um modelo de gestão de tesouraria que garanta os seguintes objetivos:
+
+a) Assegurar que existem disponibilidades financeiras suficientes para liquidar as obrigações à medida que as mesmas se vão vencendo;
+
+b) Garantir que o recurso ao financiamento só ocorre quando é necessário;
+
+c) Maximizar o retorno da tesouraria disponível;
+
+d) Permitir a gestão eficiente dos riscos financeiros;
+
+e) Permitir a reconciliação diária entre a informação bancária e a contabilidade por fonte de financiamento.
+
+2 - As entidades sujeitas ao cumprimento do princípio da unidade da tesouraria e as entidades da segurança social comunicam ao IGCP, E. P. E., até ao dia 15 de setembro, o montante das aplicações em certificados especiais de dívida de curto prazo (CEDIC) que projetam concretizar até ao último dia útil do ano.
+
+3 - As entidades referidas no número anterior comunicam ao IGCP, E. P. E., até ao dia 2 de dezembro, os montantes totais de disponibilidades e aplicações de tesouraria disponíveis a essa data e os respetivos montantes estimados para o último dia útil do ano, ficando sujeitos a autorização prévia do IGCP, E. P. E., os montantes depositados, ou aplicados, em contas fora do IGCP, E. P. E.
+
+4 - Após avaliação da informação prevista nos números anteriores, o IGCP, E. P. E., em articulação com as entidades referidas no n.º 2, pode solicitar a aplicação de disponibilidades adicionais em CEDIC.
+
+5 - O IGCP, E. P. E., até ao último dia útil do ano determina e executa a aplicação em CEDIC de disponibilidades de tesouraria das entidades referidas no n.º 2, com maturidade no primeiro dia útil do ano seguinte, até ao limite do montante necessário para cobrir as necessidades de financiamento do ano.
+
+6 - Para efeitos do disposto no número anterior, o IGCP, E. P. E., determina os montantes das disponibilidades de tesouraria a aplicar em CEDIC por cada entidade.
+
+7 - Sem prejuízo pelo disposto nos números anteriores, as entidades referidas no n.º 2 podem efetuar aplicações em CEDIC.
+
+8 - Fica autorizada a transição e a utilização de saldos de gerência, bem como a respetiva aplicação em despesa pelas entidades para a concretização da aplicação em CEDIC referida nos n.os 5 e 7.
+
+9 - As alterações orçamentais que visam permitir as aplicações em CEDIC a que se referem os n.os 5 a 7, são da competência do dirigente máximo da entidade quando envolvam o aumento de despesa compensado pela cobrança de receita própria ou consignada.
+
+10 - Ficam autorizadas, até ao último dia útil do ano, as alterações orçamentais a realizar aos orçamentos das entidades, exclusivamente para efeitos de constituição de CEDIC nos termos e limites previstos nos n.os 5 e 6, com exceção daquelas que sejam financiadas por receitas gerais de impostos.
+
+11 - As entidades procedem ao registo das alterações orçamentais referidas no número anterior, após comunicação do IGCP, E. P. E., relativa aos CEDIC constituídos nos termos do disposto no n.º 5.
+
+12 - Sem prejuízo das normas previstas no presente decreto-lei, em matéria de aplicação de saldos de gerência, o reembolso de aplicações financeiras enquadradas nos números anteriores, assumindo a forma de saldo de gerência anterior no momento do seu reembolso, pode vir a ser utilizado no orçamento de despesa efetiva das entidades.
+
+#### Artigo 91.º — Unidade de tesouraria
+
+1 - As entidades referidas no artigo 105.º da Lei do Orçamento do Estado, com exceção das entidades públicas não reclassificadas, são obrigadas a fazer prova do cumprimento do princípio da unidade de tesouraria através do registo trimestral, nos serviços online da DGO, do saldo bancário registado no final de cada um dos três meses anteriores, da totalidade das suas disponibilidades e aplicações financeiras, seja qual for a origem ou natureza das mesmas, incluindo receitas próprias, junto do IGCP, E. P. E., e das instituições bancárias, bem como das disponibilidades e aplicações mantidas na banca comercial e respetivos rendimentos.
+
+2 - As empresas públicas não financeiras dispensadas do cumprimento do princípio da unidade de tesouraria devem prestar informação à DGTF sobre os montantes e as entidades em que se encontram aplicadas a totalidade das suas disponibilidades e aplicações financeiras, seja qual for a origem ou natureza das mesmas, incluindo receitas próprias, em conformidade com o disposto no n.º 3 do artigo 28.º do Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, e na alínea b) do n.º 4 do artigo 105.º da Lei do Orçamento do Estado.
+
+3 - Sem prejuízo do disposto no artigo 3.º, o incumprimento do disposto nos números anteriores ou a prestação de informação incorreta são equiparados, para todos os efeitos, ao incumprimento do princípio de unidade de tesouraria, dando lugar à aplicação das sanções previstas no n.º 8 do artigo 105.º da Lei do Orçamento do Estado.
+
+4 - São dispensados do cumprimento do princípio da unidade de tesouraria:
+
+a) As escolas portuguesas no estrangeiro;
+
+b) Os serviços periféricos externos do MNE, as estruturas das redes externas do Camões, I. P., da AICEP, E. P. E., e do Turismo de Portugal, I. P., bem como o FRI I. P., quanto a receitas obtidas e em contas no exterior;
+
+c) Os serviços externos do MDN, no âmbito da cooperação técnico-militar e missões humanitárias e de paz;
+
+d) As entidades a que se refere o n.º 3 do artigo 29.º do Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual;
+
+e) A SCML;
+
+f) A CGA, I. P., na parte relativa às matérias contidas nos artigos 6.º e 12.º do protocolo em vigor celebrado com o IGCP, E. P. E.;
+
+g) A Fundação Luso-Americana para o Desenvolvimento;
+
+h) A CPL, I. P., e as instituições de ensino superior, no que respeita a heranças, legados e doações consignadas ao cumprimento de disposições testamentárias;
+
+i) As instituições de crédito integradas no setor empresarial do Estado e qualificadas como «entidades supervisionadas significativas», na aceção do ponto 16) do artigo 2.º do Regulamento (UE) 468/2014, do Banco Central Europeu, de 16 de abril de 2014, e respetivas participadas que integrem o setor empresarial do Estado.
+
+5 - Estão sujeitas ao cumprimento do princípio da unidade de tesouraria, relativamente aos saldos à ordem ou saldos resultantes de aplicações financeiras que atinjam a maturidade, incluindo renovações, as seguintes entidades:
+
+a) Fundo de Acidentes de Trabalho;
+
+b) Fundo de Garantia Automóvel;
+
+c) Fundo de Garantia de Depósitos;
+
+d) Fundo de Resolução;
+
+e) Sistema de Indemnização aos Investidores.
+
+6 - As entidades referidas no número anterior podem ser dispensadas do cumprimento do disposto no número anterior, mediante despacho do membro do Governo responsável pela área das finanças, ouvido o IGCP, E. P. E.
+
+7 - Em situações excecionais devidamente fundamentadas, a pedido do serviço ou organismo, o IGCP, E. P. E., pode autorizar a dispensa do cumprimento do princípio da unidade de tesouraria, pelo prazo máximo de dois anos, dando conhecimento à DGO e, no caso das empresas públicas não financeiras, à IGF e à DGTF.
+
+8 - Em situações excecionais, devidamente fundamentadas, a pedido do serviço ou organismo, o membro do Governo responsável pela área das finanças pode autorizar a dispensa do cumprimento do princípio da unidade de tesouraria em exercícios anteriores.
+
+9 - A dispensa do cumprimento do princípio da unidade de tesouraria não isenta as entidades do reporte de informação a que se referem os n.os 1 e 2.
+
+10 - Os rendimentos de todas as disponibilidades e aplicações financeiras auferidos em virtude do incumprimento do princípio da unidade de tesouraria e respetivas regras, ou dispensados do cumprimento deste princípio, devem ser entregues na tesouraria central do Estado até ao final do mês seguinte ao da sua obtenção e remetido o respetivo comprovativo à DGO.
+
+11 - Em situações excecionais, no que respeita a sistemas de proteção de depositantes e investidores, ou relativamente a entidades que estejam dispensadas do cumprimento do princípio da unidade de tesouraria, o membro do Governo responsável pela área das finanças pode autorizar a dispensa da entrega de rendimentos em 2023 prevista no número anterior, bem como a entrega de rendimentos obtidos em anos anteriores.
+
+12 - Compete à IGF, no âmbito das respetivas atribuições de autoridade de auditoria, verificar o cumprimento do princípio da unidade de tesouraria pelas entidades obrigadas, em especial quanto aos fundos que se encontrem fora da tesouraria do Estado.
+
+13 - A informação prestada pelo Banco de Portugal à IGF e à DGO, nos termos do n.º 10 do artigo 105.º da Lei do Orçamento do Estado, deve estar atualizada pelas instituições de crédito e conter, para além dos elementos de informação referidos no n.º 2 do artigo 81.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual, a indicação do saldo bancário.
+
+14 - O incumprimento do princípio da unidade de tesouraria faz incorrer os titulares do órgão de direção ou gestão das entidades em causa em responsabilidade financeira.
+
+15 - São ainda dispensadas do cumprimento do princípio da unidade de tesouraria as escolas do ensino não superior em território nacional, salvo no que diz respeito a receitas de impostos e a fundos europeus, sendo a receita própria das escolas entregue ao IGEFE, I. P., na qualidade de entidade cobradora do Estado, em conta titulada no IGCP, E. P. E., nos termos do n.º 2 do artigo 31.º
+
+16 - Sem prejuízo do disposto no número anterior, o pagamento de vencimentos nas escolas do ensino não superior é assegurado centralmente pelo o IGEFE, I. P., através de conta no IGCP, E. P. E.
+
+#### Artigo 92.º — Carteira do Fundo de Estabilização Financeira da Segurança Social
+
+1 - Até 31 de março de 2024, o FEFSS mantém o valor nominal de dívida pública portuguesa constante na sua carteira a 31 de dezembro de 2023.
+
+2 - O IGCP, E. P. E., aplica a estes instrumentos de dívida pública ou depósitos a melhor remuneração a que tenha acesso.
+
+#### Artigo 93.º — Cartão «Tesouro Português»
+
+1 - Os pagamentos que sejam efetuados através de cartão de crédito, pelas entidades sujeitas ao princípio da unidade de tesouraria, só podem ser realizados mediante a utilização do cartão «Tesouro Português».
+
+2 - O cartão «Tesouro Português» deve ser o meio de pagamento utilizado sempre que tal utilização resulte na aquisição de bens ou serviços em condições mais favoráveis.
+
+3 - Para a aquisição de serviços de viagens e alojamento, no âmbito da Portaria n.º 194/2018, de 4 de julho, os organismos públicos devem utilizar a versão Base Viagens do cartão «Tesouro Português».
+
+4 - O cartão «Tesouro Português» pode ser emitido em nome dos titulares dos cargos de direção superior, ou equiparados, bem como dos dirigentes e funcionários que tenham competência, própria ou delegada, para efetuar aquisições de bens e serviços.
+
+5 - O IGCP, E. P. E., mediante solicitação e no prazo máximo de um mês, assegura que todas as entidades sujeitas à unidade de tesouraria possuem o cartão «Tesouro Português», disponibilizando igualmente a informação necessária à sua utilização.
+
+6 - O IGCP, E. P. E., assegura que o cartão «Tesouro Português» é aceite como meio de pagamento junto dos prestadores de bens ou serviços, incluindo os disponibilizados através da Internet.
+
+7 - O disposto no presente artigo aplica-se, com as devidas adaptações, aos municípios que mantenham contas bancárias junto do IGCP, E. P. E., e possuam o cartão «Tesouro Português».
+
+#### Artigo 94.º — Gestão das disponibilidades de tesouraria
+
+1 - As disponibilidades residentes na tesouraria central do Estado podem ser aplicadas na aquisição de valores mobiliários representativos de dívida pública, entendendo-se por esta quer a dívida contraída pelo IGCP, E. P. E., atuando em nome e em representação do Estado, quer a dívida de entidades que, independentemente da sua natureza e forma, estejam reclassificadas no perímetro das administrações públicas no âmbito do Sistema Europeu de Contas Nacionais e Regionais.
+
+2 - As disponibilidades residentes na tesouraria central do Estado podem ser também aplicadas na aquisição de valores mobiliários representativos de dívida de entidades do setor público empresarial quando essa dívida esteja reconhecida como dívida pública em cumprimento das regras de compilação de dívida na ótica de Maastricht.
+
+3 - Compete ao IGCP, E. P. E., definir os termos e as condições das operações de compra de dívida a realizar ao abrigo do disposto nos números anteriores, em obediência ao princípio da máxima eficiência de gestão da tesouraria do Estado.
+
+### Secção III — Recuperação de créditos e regularização de responsabilidades
+
+#### Artigo 95.º — Recuperação de créditos
+
+1 - A cobrança dos créditos detidos pela DGTF decorrentes de empréstimos e comparticipações financeiras reembolsáveis, concedidas pelo Estado ou por outras entidades públicas, designadamente empresas públicas, que lhe tenham transmitido os respetivos direitos, bem como da execução da garantia do Estado prestada no quadro do Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de setembro, na sua redação atual, pode ter lugar por recurso ao processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário.
+
+2 - Sempre que a cobrança de créditos detidos pela DGTF seja realizada por recurso ao processo de execução fiscal, a certidão de dívida emitida pela DGTF constitui título executivo para o efeito.

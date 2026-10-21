@@ -1,0 +1,733 @@
+---
+id: "decreto-lei-14-2016-diploma-de-aprovacao"
+dre_id: "73807561"
+title: "Decreto-Lei n.º 14/2016, de 9 de março — Diploma de aprovação"
+type: "Decreto-Lei"
+number: "14/2016"
+year: 2016
+date: 2016-03-09
+issuer: "Agricultura, Florestas e Desenvolvimento Rural"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2021-01-29
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-144136393"
+original_pdf: "https://files.diariodarepublica.pt/1s/2016/03/04800/0075200768.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece o regime jurídico da batata para consumo humano e da batata-semente, transpondo a Diretiva n.º 2002/56/CE , do Conselho, de 13 de junho de 2002, e as Diretivas de Execução n.os 2013/63/UE , da Comissão, de 17 de dezembro de 2013, 2014/20/UE , da Comissão, de 6 de fevereiro de 2014, e 2014/21/UE , da Comissão, de 6 de fevereiro de 2014"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+part_of: "decreto-lei-14-2016"
+part: "Diploma de aprovação"
+---
+
+# Decreto-Lei n.º 14/2016, de 9 de março — Diploma de aprovação
+
+Decreto-Lei n.º 14/2016
+
+de 9 de março
+
+O presente decreto-lei visa promover a simplificação e a atualização da legislação nacional no que respeita às regras aplicáveis à comercialização de batata para consumo humano e à produção, controlo, certificação e comercialização de batata-semente.
+
+Sendo necessário proceder à transposição de diversas diretivas de execução da Comissão da União Europeia, relativas à batata semente, aproveita-se a oportunidade para proceder a uma consolidação da legislação em matéria de produção e comercialização de batata. Deste modo, prosseguem-se os desígnios do XXI Governo Constitucional de modernização administrativa e simplificação legislativa, aliando soluções que promovem a redução de encargos administrativos para o cidadão e facilitam a imediata do regime jurídico que lhe é aplicável.
+
+Assim, no que diz respeito à batata para consumo humano, promove-se a revogação do Decreto-Lei n.º 175/2015, de 25 de agosto, que estabelece as definições, as denominações, os requisitos de qualidade, as regras de rotulagem e as formas de acondicionamento a que deve obedecer a batata para consumo humano da espécie Solanum tuberosum L., e dos seus híbridos, destinada a ser comercializada e consumida no estado fresco, com exclusão das batatas de conservação destinadas à transformação industrial, assim como o respetivo regime sancionatório.
+
+Por outro lado, no que se refere à comercialização de batata-semente, importa sublinhar que o regime jurídico no plano europeu foi objeto de regulamentação em 1966 e, desde então, sofreu inúmeras alterações, incluindo um processo de codificação através da Diretiva n.º 2002/56/CE, do Conselho, de 13 de junho, também já alterada. Com efeito, o rápido e contínuo processo de desenvolvimento técnico e científico no sistema de produção de batata de semente não só determinou o aumento do comércio desta batata no mercado interno, como impôs a fixação de requisitos de produção mais rigorosos, o que foi promovido através de diversas diretivas europeias.
+
+Assim, em 2013, foi adotada a Diretiva de Execução n.º 2013/63/UE, da Comissão, de 17 de dezembro de 2013, que altera os anexos I e II da Diretiva n.º 2002/56/CE, do Conselho de 13 de junho de 2002, no que diz respeito às condições mínimas a que devem obedecer as batatas de semente e os lotes de batatas de semente. Complementarmente, foram adotadas as Diretivas de Execução n.os 2014/20/UE, da Comissão, de 6 de fevereiro de 2014, que determina as classes da União de batatas de semente de base e de semente certificada e as condições e designações aplicáveis a essas classes, e 2014/21/UE, da Comissão, de 6 de fevereiro de 2014, que determina as condições mínimas e as classes da União de batatas de semente de pré-base.
+
+No ordenamento jurídico português, foi sendo promovida a devida transposição dos atos europeus, a saber, e mais recentemente, pelo Decreto-Lei n.º 216/2001, de 3 de agosto, alterado pelo Decreto-Lei n.º 21/2004, de 22 de janeiro. Todavia, importa dar corpo às mais recentes alterações introduzidas no plano europeu, em particular as decorrentes da Diretiva n.º 2002/56/CE, do Conselho, de 13 de junho de 2002, com a última redação dada pela Diretiva de Execução n.º 2013/63/UE, da Comissão, de 17 de dezembro de 2013, e das Diretivas de Execução n.os 2014/20/UE e 2014/21/UE, ambas da Comissão, de 6 de fevereiro de 2014, relativas à comercialização de batatas de semente.
+
+Considerando o propósito do XXI Governo Constitucional em matéria legislativa, a regulação necessária no ordenamento interno não pode traduzir-se na manutenção ou no aumento dos custos administrativos para os agricultores. Para tanto, o Governo realizou um estudo de impacto económico relativamente ao procedimento de início de atividade de produção de batata-semente em Portugal. Na decorrência deste estudo, promove-se, pelo presente decreto-lei, uma maior desconcentração das competências das entidades administrativas, por forma a aproximar a Administração do cidadão, aumentando-se a esfera de atuação das Direções Regionais da Agricultura e Pescas (DRAP) e evitando-se a duplicação de ação entre a Direção-Geral de Agricultura e Veterinária (DGAV) e as DRAP territorialmente competentes.
+
+Constituiu, ainda, preocupação do Governo garantir que as comunicações estabelecidas entre os agricultores e as autoridades competentes têm lugar uma única vez, evitando-se, por um lado, a necessidade de apresentação de documentos que já se encontram na posse da Administração Pública e, por outro lado, a obrigação de efetuar a mesma comunicação a diversas entidades da Administração Pública. Assim, prevê-se através do presente decreto-lei que os agricultores comunicarão o facto relevante perante uma única entidade pública, que, por sua vez, transmitirá às demais entidades públicas com competência na matéria todos os factos que lhe sejam comunicados.
+
+Foi, ainda, estabelecido um regime de mera comunicação prévia, em substituição do sistema de licenciamento atualmente em vigor. De acordo com o regime fixado no presente decreto-lei, basta que o agricultor comunique a sua intenção de início da atividade para que possa, efetivamente, iniciar a atividade de imediato, eliminando-se, assim, o complexo sistema de licenciamento, que impunha o controlo prévio do cumprimento dos requisitos estabelecidos para o início de atividade. O regime aprovado pelo presente decreto-lei traduzir-se-á numa poupança estimada de 188.280 horas em termos de produtividade, assim se promovendo o dinamismo, a simplificação e a modernização do setor agrícola da produção e comercialização de batata-semente.
+
+Procura-se do mesmo modo privilegiar o uso dos meios eletrónicos de relacionamento com a Administração Pública, prosseguindo os objetivos de desmaterialização da atividade administrativa, embora se tenha em conta as especificidades próprias do meio e, por essa razão, se permita o recurso alternativo a outras formas de comunicação e cooperação com a Administração.
+
+Foram ouvidos os órgãos de governo próprios das Regiões Autónomas.
+
+Foi promovida a audição ao Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece as:
+
+a) Denominações, os requisitos de qualidade, as regras de rotulagem e as formas de acondicionamento a que deve obedecer a batata para consumo humano da espécie Solanum tuberosum L. e dos seus híbridos, destinada a ser comercializada e consumida no estado fresco, assim como o respetivo regime sancionatório;
+
+b) Normas relativas à produção, controlo, certificação e comercialização da batata-semente.
+
+2 - O presente decreto-lei transpõe:
+
+a) A Diretiva n.º 2002/56/CE, do Conselho, de 13 de junho de 2002, relativa à comercialização de batatas de semente;
+
+b) A Diretiva de Execução n.º 2013/63/UE, da Comissão, de 17 de dezembro de 2013, que altera os anexos I e II da Diretiva 2002/56/CE do Conselho no que diz respeito às condições mínimas a que devem obedecer as batatas de semente e os lotes de batatas de semente;
+
+c) A Diretiva de Execução n.º 2014/20/UE, da Comissão, de 6 de fevereiro de 2014, que determina as classes da União de batatas de semente de base e de semente certificada, assim como as condições e designações aplicáveis a essas classes;
+
+d) A Diretiva de Execução n.º 2014/21/UE, da Comissão, de 6 de fevereiro de 2014, que determina as classes da União de batatas de semente de pré-base, bem como as suas condições mínimas.
+
+### Artigo 2.º — Âmbito
+
+1 - O presente decreto-lei aplica-se a todas as fases da comercialização da batata para consumo humano, assim como à produção, controlo, certificação e comercialização da batata-semente.
+
+2 - Salvo nos casos especialmente previstos, o presente decreto-lei não se aplica à produção e comercialização no território nacional de material de propagação destinado a:
+
+a) Estudos de natureza científica ou trabalhos de seleção;
+
+b) Outras finalidades, a coberto das situações excecionais previstas no regime geral do Catálogo Nacional de Variedades de Espécies Agrícolas e de Espécies Hortícolas (CNV) aprovado pelo Decreto-Lei n.º 42/2017, de 6 de abril, na sua redação atual.
+
+3 - O disposto no n.º 1 não prejudica o previsto no Decreto-Lei n.º 257/2009, de 24 de setembro, alterado pelos Decretos-Leis n.os 54/2011, de 14 de abril, e 34/2014, de 5 de março, que estabelece o regime de derrogações aplicáveis à inscrição, produção, certificação e comercialização de variedades de conservação de espécies agrícolas, transpondo para a ordem jurídica interna a Diretiva n.º 2008/62/CE, da Comissão, de 20 de junho, que prevê determinadas derrogações aplicáveis à admissão de variedades autóctones e variedades agrícolas naturalmente adaptadas às condições regionais e locais e ameaçadas pela erosão genética, bem como à comercialização de sementes e batata-semente dessas variedades.
+
+4 - O disposto no presente decreto-lei não se aplica, no caso da batata para consumo, à venda direta pelo produtor ao consumidor final, ao comércio a retalho local que abastece diretamente o consumidor final ou à restauração, quando efetuada no próprio concelho ou nos concelhos limítrofes ao local de produção primária.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+## Capítulo II — Batata para consumo
+
+### Artigo 3.º — Requisitos de qualidade
+
+1 - O detentor só pode expor, colocar à venda, entregar ou comercializar a batata para consumo humano, desde que esta se apresente em conformidade com as normas do presente decreto-lei.
+
+2 - Nas fases posteriores à expedição, os produtos podem apresentar, em relação às características estabelecidas nas normas de qualidade, uma ligeira diminuição do estado de frescura e de turgescência e ligeiras alterações, devido à sua evolução e à sua tendência para se deteriorarem.
+
+3 - Os requisitos de qualidade bem como os limites de defeitos admitidos nas tolerâncias de qualidade da batata são estabelecidos por portaria do membro do Governo responsável pela área da agricultura.
+
+4 - (Revogado.)
+
+5 - As tolerâncias de qualidade referidas no n.º 3 aplicam-se sem prejuízo do cumprimento das medidas previstas no Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e legislação de execução complementar.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 4.º — Registos
+
+1 - Sem prejuízo do disposto no Decreto-Lei n.º 256/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 37/2013, de 13 de março, os produtores de batata nova devem proceder ao registo dos dados de colheita, em suporte de papel ou informático, os quais devem ser mantidos pelo período de um ano.
+
+2 - Os documentos de acompanhamento da batata nova devem conter a indicação da data de colheita.
+
+### Artigo 5.º — Denominações comerciais
+
+Para além da variedade, e de acordo com o grau de maturação e o tempo de armazenamento, as batatas são comercializadas com as seguintes denominações:
+
+a) Batata primor, quando esta é colhida antes da sua completa maturação fisiológica, comercializada imediatamente após o seu arranque e cuja pele se retira por simples fricção, excluindo-se a batata primor destinada à transformação industrial;
+
+b) Batata nova, quando esta é colhida após a sua completa maturação fisiológica e colocada no mercado, no primeiro ponto de venda, até 15 dias após a sua colheita e mantém as suas características até 30 dias após a sua colheita;
+
+c) Batata de conservação, quando esta é colhida após a sua plena maturação fisiológica, apta para ser comercializada depois de um período mais ou menos prolongado de armazenamento e/ou conservação, sem perda das suas qualidades organoléticas;
+
+d) A batata referida na alínea b), após 30 dias de colheita, está apta a ser comercializada com a denominação de batata de conservação.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 6.º — Rotulagem
+
+1 - Sem prejuízo do disposto no Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, na rotulagem da batata para consumo é obrigatória a indicação:
+
+a) Da identificação do embalador e/ou expedidor, nome e morada ou identificação simbólica emitida ou reconhecida pelo serviço competente, assim como o respetivo número de registo oficial de operador profissional conforme previsto no Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016;
+
+b) Da identificação da natureza do produto, de acordo com as denominações comerciais previstas no artigo anterior;
+
+c) Da data da colheita;
+
+d) Do nome da variedade;
+
+e) Da categoria;
+
+f) Da denominação específica ou nome comercial para as batatas que não respeitam o calibre máximo, se for esse o caso;
+
+g) Da designação «miúda» ou um nome comercial equivalente, se for esse o caso;
+
+h) Do país de origem do produto e, facultativamente, a zona de produção ou denominação nacional, regional ou local;
+
+i) Do calibre, com exceção das variedades longas de forma irregular, nos seguintes termos:
+
+h) Do calibre, com exceção das variedades longas de forma irregular, nos seguintes termos:
+
+i) Para as batatas não submetidas às regras de homogeneidade, o calibre mínimo seguido de «+»;
+
+ii) Para as batatas sujeitas às regras de homogeneidade, o calibre mínimo e calibre máximo;
+
+iii) Peso líquido.
+
+2 - Cada embalagem deve ter inscritas as menções obrigatórias em caracteres agrupados do mesmo lado, legíveis, indeléveis e visíveis do exterior, por impressão direta ou por etiqueta afixada de forma permanente à embalagem ou no sistema de fecho.
+
+3 - Para as batatas expedidas, a granel, em contentor ou em veículo, as menções obrigatórias constam no documento de acompanhamento da mercadoria, afixado de forma visível no interior do veículo de transporte.
+
+4 - Na fase de venda a retalho, para que um produto possa ser apresentado para venda, o retalhista deve exibir, na proximidade imediata do produto e de forma destacada e legível, de um modo que não induza o consumidor em erro, as menções relativas ao país de origem, à variedade e à denominação de venda e «miúda» ou equivalente, se for esse o caso.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 7.º — Indicações facultativas
+
+Para além das indicações obrigatórias, a rotulagem do produto pode conter indicações facultativas, tais como a cor da polpa (por exemplo, amarela ou branca), a cor da pele, a forma do tubérculo (redondo ou alongado), o tipo de polpa (por exemplo, farinhenta ou firme), e a marca comercial de controlo.
+
+### Artigo 8.º — Acondicionamento
+
+1 - As batatas são acondicionadas de forma a assegurar a sua conveniente proteção e o seu arejamento adequado.
+
+2 - Os materiais utilizados no interior da embalagem devem ser limpos e de material que não cause alterações externas ou internas ao produto.
+
+3 - O uso de materiais como papéis ou timbres contendo as indicações comerciais é autorizado desde que a impressão ou etiquetagem seja feita com tinta ou cola não tóxica.
+
+4 - No caso da batata primor, o uso de materiais especiais, como a turfa, pode ser autorizado para assegurar uma melhor conservação dos tubérculos durante o transporte para longa distância.
+
+5 - A utilização de etiquetas colocadas individualmente no produto deve ser de características tais que, ao serem retiradas, não deixem rasto visível de cola nem ocasionem defeitos na epiderme.
+
+### Artigo 9.º — Apresentação
+
+1 - O conteúdo de cada embalagem ou do lote, no caso de apresentação a granel, em contentor ou em veículo, deve ser homogéneo, correspondendo só a batata da mesma origem, variedade, qualidade e, em caso de exigência de calibragem, do mesmo calibre.
+
+2 - No caso de apresentação a granel, em contentor ou em veículo, a parte visível do conteúdo ou do lote deve ser representativa do lote.
+
+3 - Sem prejuízo do disposto nos números anteriores, os produtos regulados por este decreto-lei podem ser comercializados, em embalagens de peso líquido igual ou inferior a 5 quilogramas (kg), misturados com frutas e produtos hortícolas de espécies diferentes, nas condições estabelecidas no Regulamento de Execução (UE) n.º 543/2011, da Comissão, de 7 de junho de 2011, que estabelece regras de execução do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de outubro de 2007, nos setores das frutas e produtos hortícolas e das frutas e produtos hortícolas transformados.
+
+### Artigo 10.º — Reconhecimento mútuo
+
+1 - O disposto no presente decreto-lei não prejudica a livre circulação dos produtos legalmente produzidos ou comercializados nos outros Estados-Membros da União Europeia, ou originários dos países da Associação Europeia de Comércio Livre (EFTA) que são partes contratantes do Acordo sobre o Espaço Económico Europeu (Acordo EEE), bem como dos legalmente produzidos ou comercializados na Turquia, na medida em que tais produtos não acarretem um risco para a saúde ou a vida das pessoas conforme o disposto no artigo 36.º do Tratado sobre o Funcionamento da União Europeia e no artigo 13.º do Acordo EEE.
+
+2 - O disposto no presente decreto-lei não se aplica aos produtos legalmente produzidos ou comercializados nos outros Estados-Membros da União Europeia, ou aos originários dos países da EFTA que são partes contratantes do Acordo EEE, bem como aos legalmente produzidos ou comercializados na Turquia.
+
+## Capítulo III — Batata-semente
+
+### Artigo 11.º — Entidades competentes
+
+1 - A Direção-Geral de Alimentação e Veterinária (DGAV) é a autoridade nacional responsável pelo controlo da produção e certificação de batata-semente.
+
+2 - Às Direções Regionais de Agricultura e Pescas (DRAP) e aos correspondentes serviços das Regiões Autónomas dos Açores e da Madeira compete, na sua área geográfica, proceder à emissão de pareceres sobre o controlo e inscrição de campos, e executar as ações de controlo previstas nos termos do presente decreto-lei.
+
+3 - Os serviços referidos nos números anteriores dispõem de inspetores fitossanitários e de qualidade de materiais de propagação vegetativa, nomeados pelo diretor-geral de Alimentação e Veterinária, adiante designados por inspetores oficiais.
+
+4 - A DGAV pode autorizar que entidades coletivas, públicas ou privadas, executem, mediante controlo apropriado e regular, competências e funções que lhe estão atribuídas, designadamente entre outras, em matéria de controlo de campo e de pós-controlo, desde que nem essas pessoas coletivas, nem os seus membros, tenham qualquer interesse pessoal direto ou indireto no resultado das medidas que tomem.
+
+5 - A DGAV reconhece os laboratórios oficiais ou privados, para o efeito da realização de análises e testes laboratoriais, nos termos do disposto no presente decreto-lei.
+
+6 - A concessão e os termos das autorizações e reconhecimentos previstos nos números anteriores são definidos por despacho do diretor-geral de Alimentação e Veterinária, mediante garantia do cumprimento das regras próprias correspondentes às funções a exercer.
+
+7 - À Autoridade de Segurança Alimentar e Económica (ASAE) compete proceder à fiscalização da comercialização de batata-semente, quando necessário em colaboração técnica com a DGAV, excetuando-se as competências exclusivamente cometidas pelo presente decreto-lei a esta última.
+
+### Artigo 12.º — Requisitos para a produção de batata-semente
+
+1 - Para efeitos do presente decreto-lei, batata-semente é o tubérculo da espécie de Solanum tuberosum L. (batata) produzido, certificado, em comercialização ou utilizado para multiplicação e que seja:
+
+a) Proveniente do território nacional e que tenha sido obtido e certificado de acordo com as disposições do presente decreto-lei;
+
+b) Originário dos países da União Europeia, e que tenha sido obtido e certificado de acordo com a Diretiva n.º 2002/56/CE, do Conselho, de 13 de junho de 2002;
+
+c) Originário de países exteriores à União Europeia e que beneficiem de decisão de equivalência atribuída por aquela organização;
+
+d) Originário de países que, embora não dispondo de equivalência por parte da União Europeia, tenham obtido derrogação da União Europeia, e em que seja devidamente autorizada a sua comercialização em Portugal através de portaria do membro do Governo responsável pela área da agricultura, publicada para o efeito.
+
+2 - Só podem intervir no processo de produção de batata-semente as pessoas singulares ou coletivas, públicas ou privadas, que se encontrem registadas pela DGAV.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 13.º — Variedades admitidas à certificação
+
+1 - Só podem ser multiplicadas e certificadas as variedades de batata constantes do Catálogo Nacional de Variedades (CNV) ou do Catálogo Comum de Variedades de Espécies Agrícolas (Catálogo Comum).
+
+2 - As variedades que não satisfaçam as condições referidas no número anterior só podem ser admitidas à certificação mediante prévia autorização da DGAV nas situações excecionais previstas na legislação do CNV.
+
+3 - A certificação de uma variedade geneticamente modificada, para além do previsto nos números anteriores, depende do cumprimento do estabelecido no n.º 5 do artigo 26.º e no n.º 3 do anexo v do presente decreto-lei, do qual faz parte integrante.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 14.º — Categorias e classes da União admitidas à certificação
+
+1 - São admitidas à certificação as categorias de batata-semente pré-base, base e certificada, de acordo com as condições previstas no presente decreto-lei.
+
+2 - Para a categoria pré-base de batata-semente admitem-se as seguintes classes da União, nas condições definidas no artigo seguinte:
+
+a) Classe PBTC;
+
+b) Classe PB.
+
+3 - Para a categoria base de batata-semente são admitidas as seguintes classes da União, nas condições definidas no artigo 16.º:
+
+a) Classe S;
+
+b) Classe SE;
+
+c) Classe E.
+
+4 - Na categoria de batata-semente certificada são admitidas as seguintes classes da União, nas condições definidas no artigo 17.º
+
+a) Classe A;
+
+b) Classe B.
+
+5 - Um campo ou lote que não esteja em condições de ser aprovado na categoria e classe a que se propõe pode ser certificado em qualquer outra categoria e classe inferior, desde que preencha as exigências estabelecidas para essa categoria e classe, com exceção do regime previsto para a Região Autónoma dos Açores, em que se aplica o definido no n.º 2 do artigo 16.º para esta região.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 15.º — Requisitos para as classes da União de batata-semente da categoria pré-base
+
+1 - As classes da União de batata-semente da categoria pré-base devem satisfazer os seguintes requisitos:
+
+a) Classe PBTC:
+
+i) Derivar diretamente, por métodos de micropropagação, da planta-mãe ou do tubérculo-mãe que cumpriu os requisitos estabelecidos no n.º 1 do anexo IV ao presente decreto-lei, do qual faz parte integrante;
+
+ii) As plantas, incluindo os tubérculos, serem produzidas em instalações protegidas e num meio de cultura que esteja isento de pragas e doenças;
+
+iii) Cumprir o estabelecido nos n.os 2 e 3 do anexo IV ao presente decreto-lei para esta classe e destinar-se obrigatoriamente à produção de batata-semente da classe PB ou batata-semente de categorias inferiores;
+
+b) Classe PB:
+
+i) Derivar de batata-semente da classe PBTC, quando forem utilizados métodos de micropropagação ou, em caso de utilização de métodos de seleção clonal, diretamente da planta-mãe ou tubérculo-mãe que cumpriu os requisitos estabelecidos no n.º 1 do anexo IV ao presente decreto-lei;
+
+ii) Cumprir o estabelecido nos n.os 2 e 3 do anexo IV ao presente decreto-lei para esta classe e destinar-se a produção de batata-semente da categoria base.
+
+2 - O número máximo de gerações em campo está limitado a quatro.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 16.º — Requisitos para as classes da União de batata-semente da categoria base
+
+1 - As classes da União de batata-semente da categoria base devem satisfazer os seguintes requisitos:
+
+a) Classe S:
+
+i) Derivar diretamente de batata-semente da categoria pré-base ou de gerações anteriores a pré-base;
+
+ii) Cumprir as exigências definidas na alínea a) do n.º 4 e as dos n.os 2 e 3 do anexo IV ao presente decreto-lei para esta classe desde que se destinem essencialmente à produção de batata-semente da classe SE;
+
+b) Classe SE:
+
+i) Derivar diretamente de batata-semente da classe S ou da categoria pré-base ou de gerações anteriores a pré-base;
+
+ii) Cumprir as exigências definidas na alínea b) do n.º 4 e as dos n.os 2 e 3 do anexo IV ao presente decreto-lei para esta classe desde que se destine essencialmente à produção de batata-semente da classe E ou, conforme definido no número seguinte, à produção de batata consumo na Região Autónoma dos Açores;
+
+c) Classe E:
+
+i) Derivar diretamente de batata-semente das classes S ou SE ou da categoria pré-base ou de gerações anteriores a pré-base;
+
+ii) Cumprir as exigências definidas na alínea c) do n.º 4 e as dos n.os 2 e 3 do anexo IV ao presente decreto-lei para esta classe e destinar-se exclusivamente à produção de batata-semente certificada ou, conforme definido no número seguinte, para a produção de batata consumo na Região Autónoma dos Açores.
+
+2 - Para efeitos do número anterior, a Região Autónoma dos Açores está autorizada, na sua zona de produção de batata-semente, a restringir a comercialização de batata-semente às classes S e SE de batata-semente base, no que se refere aos requisitos fitossanitários e de genealogia das referidas classes, de acordo com o disposto na Decisão n.º 2004/3/CE, da Comissão, de 19 de dezembro de 2003, alterada pela Decisão de Execução n.º 2014/105/UE, da Comissão, de 24 de fevereiro de 2014, que autoriza medidas mais restritivas do que as previstas nos anexos I e II da Diretiva n.º 2002/56/CE, do Conselho, de 13 de junho de 2002, a adotar relativamente a certas doenças, no que se refere à comercialização de batata-semente em todo o território de determinados Estados-Membros ou em partes destes.
+
+3 - O número total de gerações combinadas da categoria pré-base e base não pode ser superior a sete, não podendo ser produzidas mais de quatro gerações na categoria base.
+
+4 - Para cada classe o número total de gerações, incluindo as gerações de batata-semente pré-base no campo e as gerações de batata-semente base, é limitado a:
+
+a) Cinco para a classe S;
+
+b) Seis para a classe SE;
+
+c) Sete para a classe E.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 17.º — Requisitos para as classes da União de batata-semente da categoria certificada
+
+As classes da União Europeia de batata-semente da categoria certificada devem satisfazer os seguintes requisitos:
+
+a) Classe A:
+
+i) Derivar diretamente de batata-semente da classe E ou de classes anteriores;
+
+ii) Cumprir as exigências definidas nos n.os 2 e 3 do anexo IV ao presente decreto-lei para esta classe e destinar-se exclusivamente à produção de batata consumo.
+
+b) Classe B:
+
+i) Derivar diretamente de batata-semente da classe E ou de classes anteriores;
+
+ii) Cumprir as exigências definidas nos n.os 2 e 3 do anexo iv do presente decreto-lei para esta classe e destinar-se exclusivamente à produção de batata de consumo.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 18.º — Material a utilizar na multiplicação
+
+1 - Na produção de batata-semente de qualquer das categorias referidas no artigo 14.º pode ser utilizada batata-semente que cumpra as seguintes condições:
+
+a) Seja proveniente do território nacional, e tenha sido obtida e certificada de acordo com as disposições do presente decreto-lei, ou que seja a descendência direta de material de partida, e tenha em conta os requisitos estabelecidos nos artigos 15.º a 17.º;
+
+b) Cumpra o estabelecido no n.º 1 do anexo IV ao presente decreto-lei; e
+
+c) Cumpra as condições previstas na legislação fitossanitária a que se refere o artigo 35.º
+
+2 - Na produção de batata-semente base das classes S e SE pode ser utilizado material de gerações anteriores a batata-semente base ou batata-semente base devendo, em ambos os casos, e para a Região Autónoma dos Açores, o material:
+
+a) Ser proveniente exclusivamente de regiões da União Europeia às quais se aplique igualmente o regime europeu de restrição a que se refere o n.º 2 do artigo 16.º; e
+
+b) Cumprir as condições previstas na legislação fitossanitária a que se refere o artigo 35.º
+
+3 - A utilização, para a produção de batata-semente, do material que seja originário dos países da União Europeia, e que tenha sido obtido e certificado de acordo com a Diretiva n.º 2002/556/CE, do Conselho, de 13 de junho de 2002, fica restringida à batata-semente das categorias pré-base e base, devendo cumprir os requisitos estabelecidos no n.º 3 do anexo IV ao presente decreto-lei e o previsto na legislação fitossanitária a que se refere o artigo 35.º
+
+4 - É proibida a utilização de batata-semente originária de países terceiros na produção de batata-semente nacional.
+
+5 - A batata-semente que não contenha na respetiva etiqueta oficial o número da geração de multiplicação considera-se que pertence à última geração permitida na respetiva categoria.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 19.º — Dever de inscrição dos campos
+
+Os produtores devem fazer a inscrição dos campos destinados à produção de batata-semente nas DRAP territorialmente competentes, nos termos previstos na parte B do anexo III ao presente decreto-lei.
+
+### Artigo 20.º — Registo de produtores
+
+1 - O pedido de registo como produtor de batata-semente, bem como dos atos subsequentes, incluindo alterações, renovações, encerramento da atividade e outros, é dirigido à DRAP territorialmente competente, a qual, com base na avaliação sobre o cumprimento das exigências estabelecidas no presente decreto-lei, emite uma proposta de decisão final.
+
+2 - Para efeitos do número anterior, os interessados na produção da batata semente devem comunicar a existência de:
+
+a) Um esquema de produção e conservação da batata semente;
+
+b) Material adequado para a sua multiplicação;
+
+c) Terrenos, que cumpram os requisitos fitossanitários;
+
+d) Uma pessoa singular responsável pela sua produção, incluindo a instalação e gestão dos campos, assim como pela sua colheita e armazenamento;
+
+e) Equipamentos a utilizar para a produção de batata-semente e infraestruturas, próprias ou contratadas, para a receção, escolha e acondicionamento do material produzido, devidamente isolado de outras batatas.
+
+3 - Para efeitos do disposto no artigo anterior, o interessado deve proceder à inscrição dos campos destinados à produção de batata-semente aquando do pedido de registo como produtor previsto no presente artigo ou, no caso de posteriores inscrições de campos, por subsequente comunicação prévia.
+
+4 - O pedido de registo é efetuado através da plataforma CERTIGES (CERTIGES) de acesso disponibilizado no sítio na Internet da DGAV, sendo a notificação do produtor sobre a decisão que recai sobre o seu pedido de registo realizada através daquela plataforma.
+
+5 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada por qualquer outro meio previsto na lei, nomeadamente através de e-mail para o endereço eletrónico a indicar no sítio na Internet das DRAP.
+
+6 - Com base na proposta da DRAP, o diretor-geral de Alimentação e Veterinária decide sobre a concessão do registo e, sendo o caso, é atribuído o respetivo número de registo ao interessado.
+
+7 - No caso de uma entidade a registar pretender produzir batata-semente de acordo com o modo de produção biológico, é necessário que esta tenha realizado a respetiva notificação à Direção-Geral de Agricultura e Desenvolvimento Rural.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 20.º-A — Renovações, cancelamento, alterações e cessação da atividade de produtor
+
+1 - Os registos são válidos até 31 de dezembro do ano da sua atribuição, sendo renovados automaticamente, por cada ano civil subsequente, mediante o cumprimento das condições previstas no número seguinte.
+
+2 - Os registos são renovados mediante a verificação, prévia e cumulativa, do cumprimento pelos produtores das condições seguintes:
+
+a) Cumprimento das obrigações previstas no n.º 2 do artigo anterior e inscrição dos campos para produção de batata-semente;
+
+b) Pagamento das taxas a que se refere o artigo 36.º
+
+3 - O cancelamento do registo, em resultado do não cumprimento do definido na alínea a) do número anterior, não obsta a que os interessados possam proceder à certificação da batata-semente produzida em data anterior ao cancelamento desde que se demonstre que a referida batata-semente preenche todos os requisitos exigidos no presente decreto-lei.
+
+4 - Ao produtor a quem foi cancelado o registo em razão do não cumprimento do disposto na alínea b) do n.º 2, só pode realizar novo pedido de registo após o pagamento das taxas devidas em falta pelos serviços prestados.
+
+5 - Os produtores devem comunicar a cessação ou alterações no exercício da sua atividade ou, ainda, quaisquer alterações aos dados registados à DRAP territorialmente competente ou à DGAV, no prazo de 30 dias contados a partir da respetiva ocorrência.
+
+6 - Os pedidos de alteração de locais de atividade são sujeitos a decisão do diretor-geral de Alimentação e Veterinária, mediante parecer prévio da DRAP territorialmente competente, sendo essa decisão notificada ao produtor pela DRAP referida.
+
+- *Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 21.º — Controlo dos campos inscritos
+
+1 - Os campos cuja inscrição tiver sido comunicada são sujeitos a ações de controlo que, para além da sua componente administrativa, compreendem normalmente a realização de inspeções de campo.
+
+2 - O controlo do cumprimento das condições previstas no presente decreto-lei compete às DRAP territorialmente competentes, mediante orientações da DGAV.
+
+3 - As inspeções referidas no n.º 1 são efetuadas por inspetores oficiais durante o ciclo da cultura, nos termos referidos na parte C do anexo III ao presente decreto-lei, para verificação das condições da cultura e do seu estado sanitário e pureza varietal.
+
+4 - Os campos, consoante a sua categoria e classe, devem respeitar as condições expressas no n.º 2, A) e B), do anexo IV ao presente decreto-lei.
+
+5 - Conforme os resultados do controlo de campo, assim a cultura é reprovada ou aprovada e classificada provisoriamente.
+
+6 - Na colheita, constituição e armazenamento dos lotes referentes aos campos cuja cultura é aprovada, devem ser cumpridas as normas estabelecidas na parte D do anexo iii do presente decreto-lei.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 22.º — Cooperação interadministrativa
+
+1 - As DRAP territorialmente competentes têm o dever de articulação das suas ações com a DGAV, para efeitos de centralização da informação comunicada.
+
+2 - Em cumprimento do disposto no número anterior, e após conclusão das ações de controlo, as DRAP territorialmente competentes enviam um relatório à DGAV, para efeitos do exercício das respetivas competências.
+
+3 - No relatório referido no número anterior constam todas as comunicações realizadas pelos produtores em conformidade com o disposto no artigo 20.º
+
+4 - A DGAV assegura a existência de um sistema de suporte documental que reúna as inscrições dos campos destinados à produção de batata-semente que tenham sido previamente comunicadas.
+
+### Artigo 23.º — Pós-controlo
+
+1 - A classificação definitiva dos materiais provenientes dos campos cuja cultura foi aprovada só é atribuída depois de comprovado o seu estado sanitário, através do controlo efetuado, sob responsabilidade da DGAV, em tubérculos provenientes dos respetivos campos de produção, colhidos oficialmente, para verificação das condições estabelecidas no n.º 2, C), do anexo iv do presente decreto-lei ou outras que se encontrem previstas na legislação fitossanitária a que se refere o artigo 35.º
+
+2 - A DGAV comunica, anualmente e em tempo oportuno, às DRAP territorialmente competentes a relação dos campos e dos lotes em que devem ser colhidas amostras de tubérculos destinados a ser objeto de provas de pós-controlo, assim como as normas a observar na colheita das mesmas.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 24.º — Escolha, calibragem e armazenamento dos lotes
+
+1 - As operações de escolha e calibragem dos tubérculos devem, preferencialmente, realizar-se utilizando equipamentos destinados exclusivamente ao manuseamento de batata-semente, os quais devem obrigatoriamente ser limpos após utilização em caso de manipulação de batata consumo.
+
+2 - Não é permitido conservar ou manter, no mesmo armazém ou local de conservação, batata-semente conjuntamente com batata de consumo, salvo se a batata-semente se encontrar embalada e certificada, devendo, mesmo nestas circunstâncias, os lotes encontrar-se devidamente separados.
+
+3 - As operações de escolha, calibragem e embalagem dos tubérculos destinados a comercialização só podem ter início após prévia autorização dos serviços oficiais.
+
+### Artigo 25.º — Controlo e certificação dos lotes
+
+1 - Durante o período de armazenamento, todos os lotes aprovados no pós-controlo são obrigatoriamente inspecionados pelos inspetores, pelo menos uma vez, antes da sua certificação, para verificação do cumprimento dos requisitos do presente decreto-lei, nomeadamente os constantes do n.º 3 do anexo IV ao presente decreto-lei.
+
+2 - Se, dos controlos previstos no artigo 23.º e no número anterior, resultar a constatação de que os lotes preenchem, àquela data, todas as condições exigidas pelo presente decreto-lei, os mesmos são certificados.
+
+3 - Um lote de batata-semente certificada que deixou de cumprir as condições de qualidade previstas no n.º 3, A) e B), do anexo IV ao presente decreto-lei pode, em casos devidamente justificados, ser submetido a escolha e nova certificação.
+
+4 - Os tubérculos aprovados nessa escolha podem ser novamente certificados, devendo ser indicado na etiqueta oficial respetiva a data do novo fecho e certificação e, ainda, o nome do serviço oficial responsável, nos termos do anexo v do presente decreto-lei, do qual faz parte integrante.
+
+5 - Os tubérculos rejeitados durante as operações referidas no n.º 3 não podem ser comercializados como batata-semente.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 26.º — Embalagens
+
+1 - Os lotes de batata-semente a certificar podem ser embalados em sacos contendo 50 quilogramas (kg), 25 kg, 10 kg ou 5 kg no momento do fecho, podendo ser utilizados sacos de juta de boa linhagem ou sacos de polietileno, neste último caso cumprindo o definido no número seguinte.
+
+2 - No caso da utilização de sacos de polietileno, as suas características devem ser tais que não permitam confusão com batata de consumo, mas que proporcionem adequadas condições de ventilação e, simultaneamente, proteção do material em armazenamento e operações de carga e descarga.
+
+3 - Em casos devidamente justificados, a DGAV pode autorizar a utilização no território nacional de recipientes apropriados com diferentes características ou com capacidades distintas das definidas no n.º 1.
+
+4 - Os sacos referidos nos números anteriores devem ser novos, e os recipientes limpos e apropriados, fechados oficialmente ou sob controlo oficial, de forma a não poderem ser abertos sem deterioração do sistema de fecho e de certificação ou selagem referidos no artigo seguinte.
+
+5 - O produtor pode efetuar inscrições ou marcações nas embalagens, desde que referentes à sua denominação e eventual logótipo, endereço e variedade, devendo obrigatoriamente inscrever, se for o caso, de forma clara e inequívoca, que a variedade é geneticamente modificada.
+
+### Artigo 27.º — Etiquetas oficiais, fecho e selagem das embalagens
+
+1 - Todas as embalagens de batata-semente certificada, além de não revelarem sinais de violação, devem ser providas no exterior de uma etiqueta oficial emitida pelo serviço responsável pela certificação e conforme com as disposições do anexo v do presente decreto-lei e de um sistema de fecho que assegure as condições enunciadas no n.º 4 do artigo anterior e que preencha as disposições do número seguinte.
+
+2 - Com o fim de garantir a inviolabilidade das embalagens, o sistema de fecho pode comportar:
+
+a) A incorporação de uma etiqueta oficial no caso de esta ser constituída por material difícil de rasgar e de se deteriorar e de a operação de fecho ser realizada mediante equipamento mecânico apropriado; ou
+
+b) A incorporação de uma etiqueta oficial e aposição de um selo oficial não reutilizável, emitido pelo serviço responsável pela certificação, sempre que a etiqueta oficial seja constituída por material que não garanta as condições indicadas na alínea anterior ou que a mesma seja provida de um olhal.
+
+3 - As embalagens de batata-semente certificada devem ainda ser providas no seu interior de uma etiqueta, emitida pelo serviço responsável pela certificação e conforme com as disposições do anexo v do presente decreto-lei, concebida de forma a não ser confundida com a etiqueta oficial referida no n.º 1.
+
+4 - A incorporação nas embalagens da etiqueta referida no número anterior é dispensada quando o sistema de fecho adotado corresponda à situação indicada na alínea a) do n.º 2 ou quando as indicações previstas no anexo v do presente decreto-lei, que nela deveriam ser inscritas, sejam impressas de maneira indelével sobre a própria embalagem.
+
+5 - Em casos especiais devidamente justificados, a DGAV pode autorizar várias operações de fecho e selagem das embalagens utilizadas, desde que realizadas oficialmente ou sob controlo oficial, devendo a data da última operação de fecho e o nome do serviço responsável ser indicado nas correspondentes etiquetas oficiais, em conformidade com o disposto no n.º 1.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 28.º — Controlo a posteriori
+
+1 - A DGAV pode efetuar ensaios de controlo, a posteriori, compreendendo ensaios de campo e, se necessário, testes laboratoriais, com amostras de lotes de batata-semente em comercialização no território nacional, com o objetivo de verificar as classificações atribuídas e a qualidade da produção nacional, assim como a efetiva qualidade de lotes de batata-semente provenientes da União Europeia ou de países terceiros.
+
+2 - Na verificação são tidas em conta as condições mínimas previstas no n.º 2, D) do anexo IV ao presente decreto-lei, assim como os aspetos de caráter varietal e etiquetagem previstos no presente decreto-lei.
+
+3 - As amostras a submeter aos ensaios e testes são colhidas oficialmente.
+
+### Artigo 29.º — Ensaios comunitários
+
+1 - Com recurso a amostras de batata-semente cuja comercialização foi efetuada em Portugal, a DGAV participa nos ensaios e testes comparativos, promovidos pela Comissão Europeia, os quais têm por objetivo harmonizar os métodos de inspeção ou de análise da batata-semente e verificar se esta cumpre a legislação em vigor, nomeadamente, no que respeita aos aspetos de caráter varietal, fitossanitário e etiquetagem.
+
+2 - As amostras a submeter aos ensaios e testes são colhidas oficialmente.
+
+### Artigo 30.º — Condições aplicáveis à comercialização de batata-semente
+
+1 - Só é autorizada a comercialização de batata-semente quando esta se encontre nas condições previstas no n.º 1 do artigo 12.º e satisfaça o disposto nos artigos 26.º e 27.º, bem como os requisitos previstos na legislação fitossanitária a que se refere o artigo 35.º
+
+2 - Para efeitos do presente decreto-lei, entende-se por comercialização a venda, a detenção com vista à venda, a oferta para venda e qualquer cessão, fornecimento ou transferência de batata-semente a terceiros, a título oneroso ou não, para fins de exploração comercial, não sendo, no entanto, considerado comercialização o fornecimento de batata-semente sem objetivos comerciais, designadamente nos seguintes casos:
+
+a) Fornecimento de batata-semente a instituições oficiais para ensaios e controlo;
+
+b) Fornecimento de batata-semente a prestadores de serviços, para processamento e embalagem, desde que estes não adquiram direitos sobre a batata-semente fornecida.
+
+3 - O fornecimento de batata-semente, sob certas condições, a agricultores-multiplicadores, para produção de batata destinada a fins industriais ou à produção de batata-semente, não deve ser considerado comercialização, desde que estes não adquiram direitos quer sobre o produto da colheita quer sobre a batata-semente.
+
+4 - Para efeitos do número anterior, o produtor de batata-semente deve facultar à DGAV uma cópia das cláusulas relevantes do contrato celebrado com o agricultor-multiplicador ou prestador de serviços, devendo incluir as normas e condições a que obedece a batata-semente fornecida.
+
+5 - A batata-semente proveniente da União Europeia ou de países terceiros em conformidade com as alíneas b) a d) do n.º 1 do artigo 12.º só pode ser comercializada desde que satisfaça as condições relativas ao calibre previstas no n.º 3, D), do anexo iv do presente decreto-lei e as disposições relativas às etiquetas oficiais previstas no anexo v do presente decreto-lei.
+
+6 - No caso de batata-semente importada em conformidade com as alíneas c) e d) do n.º 1 do artigo 12.º, e para a comercialização de quantidades superiores a 2 kg, é obrigatório o fornecimento dos seguintes elementos:
+
+a) Espécie;
+
+b) Variedade;
+
+c) Categoria;
+
+d) País de produção e serviço oficial de controlo;
+
+e) País de expedição;
+
+f) Importador e quantidade de batata-semente importada.
+
+7 - Nos lotes de batata-semente provenientes da União Europeia ou de países terceiros que se encontrem nas situações previstas alíneas b) a d) do n.º 1 do artigo 12.º aplicam-se as tolerâncias previstas no n.º 3, B) do anexo IV ao presente decreto-lei.
+
+8 - Os lotes de batata-semente em que as tolerâncias a que se refere o número anterior sejam ultrapassadas, mas em que não se observem mais de 25 %, em peso, de tubérculos afetados, podem ser objeto de escolha adequada, sendo posterior e obrigatoriamente sujeitos a nova inspeção.
+
+9 - Os tubérculos aprovados nos termos do número anterior podem ser novamente certificados e autorizada a sua comercialização, devendo o sistema de fecho das respetivas embalagens ser provido de um selo oficial não reutilizável, nos termos do artigo 27.º, emitido pelo serviço responsável, e ser indicada nas respetivas etiquetas oficiais a data do novo fecho e certificação e ainda o nome do serviço responsável.
+
+10 - Os tubérculos rejeitados durante as operações referidas no n.º 8 não podem ser comercializados como batata-semente.
+
+11 - Não é permitido, em qualquer caso, sob a designação de batata-semente, comercializar batata de consumo, nem tão-pouco utilizar denominações ou expressões, no caso deste produto, suscetíveis de induzirem ou gerarem situações de confusão com batata-semente.
+
+12 - A comercialização de batata-semente de variedades para as quais foi concedida uma autorização de colocação no mercado com base num pedido de inscrição num catálogo nacional de um Estado-Membro, de acordo com os procedimentos previstos na Decisão n.º 2004/842/CE, da Comissão, de 1 de dezembro de 2004, alterada pela Decisão de Execução da Comissão (UE) 2016/320, da Comissão, de 3 de março, deve cumprir os requisitos estabelecidos nos n.os 2 e 3 do anexo Iv, assim como as menções adicionais na etiqueta oficial previstas no anexo v, do presente decreto-lei.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 31.º — Tratamento dos tubérculos
+
+1 - Os tubérculos que hajam sido tratados com produtos que inibam o abrolhamento ou que sejam provenientes de campos sujeitos a idêntico tratamento não podem ser comercializados como batata-semente.
+
+2 - Os tubérculos que tenham sido objeto de tratamento químico só podem ser transportados em embalagens ou recipientes que sejam fechados.
+
+3 - Sempre que os tubérculos tenham sido sujeitos a qualquer tratamento, é obrigatória a indicação, nas embalagens de batata-semente destinada a comercialização, do tratamento efetuado aos tubérculos, através de inscrição na etiqueta oficial referida no n.º 1 do artigo 27.º ou numa etiqueta do produtor e na embalagem ou na etiqueta referida no n.º 3 do mesmo artigo.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 32.º — Exigências reduzidas
+
+1 - Se se verificarem dificuldades temporárias de aprovisionamento de batata-semente que satisfaça os requisitos do presente decreto-lei, que não possam ser superadas na União Europeia, podem ser estabelecidas por despacho do diretor-geral de Alimentação e Veterinária, com base em aviso emitido pela Comissão Europeia, as condições para a comercialização, no território nacional, de batata-semente das categorias base e certificada objeto de condições menos rigorosas que as previstas no presente decreto-lei ou a utilização de variedades de batata não inscritas no catálogo comum de variedades de espécies agrícolas nem no CNV.
+
+2 - A batata-semente cuja comercialização tenha sido autorizada nos termos do número anterior deve respeitar o disposto no n.º 2 do artigo 24.º, nos artigos 26.º e 27.º, nos n.os 3 a 11 do artigo 30.º e no artigo 31.º, sendo utilizada uma etiqueta oficial em conformidade com a categoria do material, da qual deve constar a indicação de que a batata-semente corresponde a exigências menos rigorosas.
+
+3 - Nos termos do número anterior, no caso de se tratar de variedade não incluída no catálogo comum de variedades de espécies agrícolas nem no CNV, a etiqueta oficial é a prescrita no anexo v do presente decreto-lei.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 33.º — Inspeção e fiscalização
+
+1 - A DGAV pode realizar, em qualquer fase do processo de produção, conservação ou comercialização de batata-semente, inspeções, testes ou exames complementares destinados a verificar as condições da cultura e o seu estado sanitário e pureza varietal, bem como a qualidade do produto e o respeito pelas disposições do presente decreto-lei e legislação complementar.
+
+2 - Os organismos com competência de fiscalização velam para que a batata-semente em trânsito ou em comercialização, no território nacional, cumpra o disposto no presente decreto-lei.
+
+### Artigo 34.º — Realização de experiências temporárias
+
+1 - Em condições a definir por despacho do diretor-geral de Alimentação e Veterinária, pode ser decidida a realização de experiências, na área da produção e comercialização de batata-semente, desde que não excedam a duração de sete anos.
+
+2 - No âmbito da realização das experiências referidas no número anterior, a DGAV pode dispensar o cumprimento de algumas normas e regras de carácter técnico definidas no presente decreto-lei, com exceção das de carácter fitossanitário.
+
+### Artigo 35.º — Legislação fitossanitária
+
+1 - Para além do definido no presente decreto-lei, a batata-semente e as respetivas culturas devem apresentar-se isentas de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União, e estão sujeitas a requisitos especiais, em cumprimento do disposto no Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016.
+
+2 - A batata-semente e as respetivas culturas devem ainda, ao abrigo do Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, apresentar-se isentas de pragas regulamentadas não sujeitas a quarentena, ou abaixo dos limiares definidos, e ficar sujeitas às medidas adotadas para prevenir a presença dessas pragas, sem prejuízo das medidas tomadas nos termos do presente decreto-lei.
+
+3 - Para todas as categorias de batata-semente, o passaporte fitossanitário a emitir, nos termos da legislação referida nos números anteriores, deve estar incluído na etiqueta oficial elaborada nos termos do anexo v do presente decreto-lei.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 36.º — Taxas
+
+1 - Pelos serviços prestados relativos à produção, controlo, certificação e comercialização de batata-semente, são devidas as taxas fixadas na Portaria n.º 17/2018, de 16 de janeiro, na sua redação atual.
+
+2 - (Revogado.)
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+## Capítulo IV — Regime sancionatório
+
+### Artigo 37.º — Contraordenações quanto à comercialização de batata para consumo humano
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) O incumprimento das normas de qualidade da batata para consumo humano a que se refere o artigo 3.º;
+
+b) O incumprimento do registo da colheita a que se refere o artigo 4.º;
+
+c) O incumprimento das regras de rotulagem da batata para consumo humano previstas nos artigos 5.º, 6.º e 7.º;
+
+d) O incumprimento das normas de acondicionamento e apresentação da batata para consumo humano previstas nos artigos 8.º e 9.º
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+- *Alterado pelo/a Artigo 147.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+### Artigo 38.º — Contraordenações quanto à produção e certificação de batata-semente
+
+1 - Constitui contraordenação económica grave, punível nos termos do RJCE:
+
+a) A intervenção no processo de produção de batata-semente por quem não se encontre registado na DGAV, em violação do n.º 2 do artigo 12.º conjugado com o artigo 20.º;
+
+b) A multiplicação de variedades de batata que não respeitem as condições constantes do artigo 13.º;
+
+c) A utilização na produção de batata-semente de materiais que não respeitem as exigências constantes dos n.os 1 a 4 do artigo 18.º;
+
+d) A não comunicação pelo produtor da cessação ou de alterações no exercício da sua atividade ou de quaisquer alterações aos dados registados, em violação do n.º 5 do artigo 20.º-A;
+
+e) A comercialização como batata-semente de tubérculos rejeitados, em violação do disposto no n.º 5 do artigo 25.º e no n.º 10 do artigo 30.º;
+
+f) A comercialização de batata-semente que não respeita as condições de embalamento, certificação, etiquetagem, fecho e selagem, referidas nos artigos 26.º e 27.º, em violação do disposto no n.º 1 do artigo 30.º;
+
+g) A comercialização de batata-semente importada que não esteja identificada com os elementos constantes do n.º 6 do artigo 30.º;
+
+h) A comercialização de variedades de batata, em fase de inscrição num catálogo, que não cumpram os requisitos e menções previstos no n.º 12 do artigo 30.º;
+
+i) A comercialização como batata-semente de tubérculos, em violação do disposto nos n.os 1 e 3 do artigo 31.º
+
+2 - Em função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:
+
+a) Perda de objetos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou atividades cujo exercício dependa de autorização de autoridade pública;
+
+c) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização de autoridade administrativa;
+
+d) Suspensão de autorizações.
+
+3 - (Revogado.)
+
+4 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+- *Alterado pelo/a Artigo 147.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 39.º — Fiscalização
+
+1 - Sem prejuízo de competência atribuída por lei a outras entidades, compete à ASAE a fiscalização:
+
+a) Do disposto no capítulo II do presente decreto-lei;
+
+b) Da comercialização da batata semente, quando necessário em colaboração técnica com a DGAV.
+
+2 - Sem prejuízo das competências atribuídas a outras entidades, a inspeção e fiscalização da produção e certificação da batata-semente compete às DRAP territorialmente competentes e à DGAV.
+
+### Artigo 40.º — Instrução e decisão
+
+1 - Sem prejuízo de competência atribuída por lei a outras entidades, cabe à ASAE a instrução dos processos de contraordenação previstos no n.º 1 do artigo anterior, competindo a aplicação das respetivas coimas e sanções acessórias ao inspetor-geral desta autoridade.
+
+2 - Cabe à DRAP da área da prática da contraordenação o levantamento dos autos e a instrução dos processos de contraordenação pelas infrações a que se refere o n.º 2 do artigo anterior, competindo ao diretor-geral de Alimentação e Veterinária a aplicação das coimas e sanções acessórias.
+
+### Artigo 41.º — Destino do produto das coimas
+
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do Regime Jurídico das Contraordenações Económicas.
+
+- *Alterado pelo/a Artigo 147.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Capítulo V — Disposições complementares e finais
+
+### Artigo 42.º — Regiões Autónomas
+
+1 - Sem prejuízo das competências conferidas por lei à DGAV, os atos e os procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira cabem aos órgãos das respetivas administrações regionais com competências sobre as matérias em causa.
+
+2 - As competências conferidas à DGAV pelo artigo 23.º são exercidas nas Regiões Autónomas pelos correspondentes órgãos competentes.
+
+3 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas.
+
+4 - As taxas relativas às inspeções de campos e à certificação de batata-semente são estabelecidas e cobradas pelas Regiões Autónomas constituindo sua receita própria.
+
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 43.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 216/2001, de 3 de agosto, alterado pelo Decreto-Lei n.º 21/2004, de 22 de janeiro;
+
+b) O Decreto-Lei n.º 175/2015, de 25 de agosto;
+
+c) O Despacho Normativo n.º 2/2002, de 19 de janeiro.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 18 de fevereiro de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Manuel de Herédia Caldeira Cabral - Luís Medeiros Vieira.
+
+Promulgado em 2 de março de 2016.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 3 de março de 2016.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
