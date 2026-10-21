@@ -8,6 +8,8 @@
 
 ## O que é este repositório, o que cobre e o que não cobre
 
+Para consultar a legislação com o Claude Code só precisas de instalar um plugin, o [legislacao-pt](https://github.com/LawAgents/legislacao-pt-plugin). Os dados deste repositório não se instalam: o plugin lê os ficheiros diretamente daqui.
+
 Cada diploma é um ficheiro markdown, com os metadados no topo e cada artigo como título próprio (por exemplo "Artigo 12.º"). Os textos vêm do Diário da República eletrónico. A base de partida tem cerca de 4.800 diplomas. Os códigos grandes ficam divididos por livro ou título dentro da pasta `codigos/`.
 
 O repositório é pensado para servir de conhecimento a agentes de IA, que leem os ficheiros e citam o artigo, o ficheiro e a ligação oficial.
