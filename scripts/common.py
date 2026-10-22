@@ -15,6 +15,11 @@ LEGAL_NOTICE = ("Texto consolidado sem valor legal. Confirma no Diário da Repú
 STATUS_IN_FORCE = "em vigor"
 TEXT_CONSOLIDATED = "consolidado"
 TEXT_ORIGINAL = "original sem alterações"
+# Curated diploma (config/extras.txt) that the DRE never consolidated: original text, may have been amended since.
+TEXT_EXTRA = "original sem consolidação"
+TEXT_VERSIONS = (TEXT_CONSOLIDATED, TEXT_ORIGINAL, TEXT_EXTRA)
+# Body line right after the title of a TEXT_EXTRA file (pt-PT on purpose: it is data shown to users).
+EXTRA_NOTICE = "Texto original, sem consolidação: pode ter sido alterado depois."
 
 # Front matter fields in file order (SCHEMA.xml#table.diploma_file).
 FIELDS = ["id", "dre_id", "title", "type", "number", "year", "date", "issuer", "status", "text_version",

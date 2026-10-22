@@ -2,6 +2,7 @@
 
 | id | título | caminho | nome comum | siglas | sumário | source | last_amended | text_version |
 |---|---|---|---|---|---|---|---|---|
+| despacho-1974-dre-168985 | Despacho, de 29 de novembro de 1974 | despachos/1974/despacho-1974-dre-168985.md |  |  | De delegação do Primeiro-Ministro no Dr. Rui Grácio, Secretário de Estado da Orientação Pedagógica, dos seus poderes como Ministro da Educação e Cultura | https://diariodarepublica.pt/dr/detalhe/despacho/1974-168985 |  | original sem alterações |
 | despacho-1974-dre-298230 | Despacho, de 17 de dezembro de 1974 | despachos/1974/despacho-1974-dre-298230.md |  |  | Estabelece requisitos específicos para a indústria de concentrado de tomate | https://diariodarepublica.pt/dr/detalhe/despacho/1974-298230 |  | original sem alterações |
 | despacho-1974-dre-461415 | Despacho, de 28 de dezembro de 1974 | despachos/1974/despacho-1974-dre-461415.md |  |  | Fixa as percentagens em que devem ser repostas para os quantitativos estabelecidos no Decreto-Lei n.º 46868, de 10 de Fevereiro de 1966, as existências mínimas… | https://diariodarepublica.pt/dr/detalhe/despacho/1974-461415 |  | original sem alterações |
 | despacho-1974-dre-461416 | Despacho, de 28 de dezembro de 1974 | despachos/1974/despacho-1974-dre-461416.md |  |  | Estabelece requisitos específicos para a indústria de trefilagem de ferro e aço | https://diariodarepublica.pt/dr/detalhe/despacho/1974-461416 |  | original sem alterações |

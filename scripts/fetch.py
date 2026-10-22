@@ -4,7 +4,8 @@
   python scripts/fetch.py --mode initial|weekly --raw DIR [--budget-seconds N]
 
 Raw cache layout (DIR):
-  list.json            search list of the current cycle (every diploma with a public consolidation)
+  list.json            search list of the current cycle (every diploma with a public consolidation, plus the
+                       curated config/extras.txt diplomas, flagged "extra": true)
   codigos.json         the "Legislacao por codigo" page (main codes, with acronyms)
   json/<dbId>.json.gz  one record per diploma: {"search", "frag", "url", "data", "original", "fetched"}
   cycle.json           progress of the current cycle, so an interrupted run resumes without repeating work
@@ -51,6 +52,10 @@ def selected(src):
     return src.get("vigencia") not in ("NAO_VIGENTE", "CADUCADO")
 
 
+class ExtrasError(Exception):
+    """config/extras.txt cannot be used (bad line, unresolved, ambiguous, not in force). Nothing is guessed."""
+
+
 def now_iso():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -87,6 +92,55 @@ class Raw:
 
     def write_json(self, name, obj):
         atomic_write(self.dir / name, json.dumps(obj, ensure_ascii=False, separators=(",", ":")))
+
+
+# ---- curated extras (diplomas the DRE does not consolidate) -----------------------------------------
+
+EXTRA_LINE = re.compile(r"^(\d+(?:-[A-Za-z])?)/(\d{4})$")
+
+
+def parse_extras(path):
+    """[(line number, tipo, numero, ano, nota)] from lines `tipo | numero/ano | nota`; blanks and '#' lines ignored."""
+    rows = []
+    for n, ln in enumerate(Path(path).read_text(encoding="utf-8").splitlines(), 1):
+        ln = ln.strip()
+        if not ln or ln.startswith("#"):
+            continue
+        cells = [c.strip() for c in ln.split("|")]
+        m = EXTRA_LINE.match(cells[1]) if len(cells) >= 2 else None
+        if not cells[0] or not m:
+            raise ExtrasError(f"{path}:{n}: expected `tipo | numero/ano | nota`, got {ln!r}")
+        rows.append((n, cells[0], m.group(1), m.group(2), cells[2] if len(cells) > 2 else ""))
+    return rows
+
+
+def resolve_extras(dre, path, listed_ids, log=lambda m: None):
+    """DRE search records (flagged extra=True) for the lines of `path` that are not already in the normal list.
+    Raises ExtrasError, with the line number, for a line that matches no record, more than one, or a diploma that is
+    not in force."""
+    out = []
+    for n, tipo, num, ano, _ in parse_extras(path):
+        hits, start = [], 0
+        while True:  # filters by type and year; the exact number is matched here, so no text search is trusted
+            r = dre.search([("docType_facet.keyword", "LEGISLACAO"), ("tipo_facet.keyword", tipo), ("ano", ano)], start, 500)
+            page = [h["_source"] for h in r["hits"]["hits"]]
+            hits += page
+            start += 500
+            if not page or start >= r["hits"]["total"]["value"]:
+                break
+        found = {h["dbId"]: h for h in hits if h.get("tipo") == tipo and str(h.get("ano")) == ano
+                 and (h.get("numero") or "").split("/")[0].strip() == num}
+        if len(found) != 1:
+            raise ExtrasError(f"{path}:{n}: {tipo} {num}/{ano} matches {len(found)} DRE records (need exactly 1)")
+        src = next(iter(found.values()))
+        if src["dbId"] in listed_ids:
+            log(f"extras line {n}: {tipo} {num}/{ano} is consolidated, the consolidated text wins")
+            continue
+        if not selected(src) or src.get("vigencia") not in (None, "", "VIGENTE"):
+            raise ExtrasError(f"{path}:{n}: {tipo} {num}/{ano} is not in force at the DRE "
+                              f"(vigencia {src.get('vigencia')!r}, state {src.get('consolidacaoEstado')!r})")
+        out.append(dict(src, extra=True))
+    return out
 
 
 # ---- DRE calls ---------------------------------------------------------------------------------
@@ -167,6 +221,10 @@ def fetch_diploma(dre, src, cached=None, with_eli=False):
             rec["url"] = url
     if not data["LegConsBase"]["List"]:
         rec["original"] = fetch_original(dre, src)
+        if src.get("extra"):
+            vig = (rec["original"] or {}).get("Vigencia")
+            if not rec["original"] or vig not in (None, "", "VIGENTE"):
+                raise ExtrasError(f"extras: dbId {src['dbId']} has no original text or is not in force (Vigencia {vig!r})")
     rec["fetched"] = now_iso()
     return rec, True
 
@@ -212,8 +270,9 @@ def fetch_revocations(dre, raw, left, today, log=lambda m: None):
 # ---- driver ------------------------------------------------------------------------------------
 
 def run_fetch(dre, raw, mode, budget_seconds=None, clock=time.monotonic, log=lambda m: print(m, file=sys.stderr),
-              with_eli=False, workers=1):
-    """Run (or resume) a fetch cycle. Returns the exit code 0, 1 or 2."""
+              with_eli=False, workers=1, extras=None):
+    """Run (or resume) a fetch cycle. Returns the exit code 0, 1 or 2. `extras`: path of config/extras.txt; its
+    diplomas are added to the cycle's list (ExtrasError is raised before anything is written)."""
     t0 = clock()
     try:
         state = raw.read_json("cycle.json")
@@ -222,6 +281,8 @@ def run_fetch(dre, raw, mode, budget_seconds=None, clock=time.monotonic, log=lam
             lst = raw.read_json("list.json")
         else:
             lst = fetch_list(dre, log=log)
+            if extras and Path(extras).exists():
+                lst += resolve_extras(dre, extras, {s["dbId"] for s in lst}, log)
             codes = dre.codigos()
             raw.write_json("list.json", lst)
             raw.write_json("codigos.json", codes)
@@ -271,9 +332,11 @@ def run_fetch(dre, raw, mode, budget_seconds=None, clock=time.monotonic, log=lam
 
 def left_force_ids(raw, repo):
     """dre ids of main files in the repo whose diploma is no longer in force according to the raw list."""
-    from common import main_files
+    from common import TEXT_EXTRA, main_files
     sel = {str(s["dbId"]) for s in raw.read_json("list.json", []) if selected(s)}
-    return sorted({str(m["dre_id"]) for m in main_files(repo) if m.get("dre_id")} - sel, key=int)
+    # an extras diploma dropped from config/extras.txt just leaves the repo: it was never shown to be revoked
+    kept = {str(m["dre_id"]) for m in main_files(repo) if m.get("dre_id") and m.get("text_version") != TEXT_EXTRA}
+    return sorted(kept - sel, key=int)
 
 
 def run_revocations(dre, raw, repo, log=lambda m: print(m, file=sys.stderr)):
@@ -296,11 +359,12 @@ def main(argv=None):
                     help="diplomas in flight at once; the total start rate stays at most 2 requests per second")
     ap.add_argument("--eli", action="store_true",
                     help="also ask for the per-diploma metadata (ELI link): one more request per diploma")
+    ap.add_argument("--extras", default=None, help="curated list of diplomas the DRE does not consolidate (config/extras.txt)")
     ap.add_argument("--repo", default=None,
                     help="current repo: diplomas in it that are no longer in force get their revocation date fetched")
     a = ap.parse_args(argv)
     dre, raw = DRE(), Raw(a.raw)
-    rc = run_fetch(dre, raw, a.mode, a.budget_seconds, with_eli=a.eli, workers=a.workers)
+    rc = run_fetch(dre, raw, a.mode, a.budget_seconds, with_eli=a.eli, workers=a.workers, extras=a.extras)
     if rc == 0 and a.repo:
         rc = run_revocations(dre, raw, a.repo)
     return rc

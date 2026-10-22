@@ -25,34 +25,38 @@ Os dados não se instalam: o plugin lê os ficheiros deste repositório diretame
 
 ## O que contém
 
-4.968 diplomas em vigor, em 11.223 ficheiros (os códigos e os diplomas grandes estão divididos em partes).
+4.987 diplomas em vigor, em 11.245 ficheiros (os códigos e os diplomas grandes estão divididos em partes).
 
 | Texto | Diplomas |
 | --- | ---: |
-| Consolidado | 4.525 |
-| Original, nunca alterado | 443 |
-| **Total** | **4.968** |
+| Consolidado | 4.526 |
+| Original, nunca alterado | 454 |
+| Original, sem consolidação (lista escolhida) | 7 |
+| **Total** | **4.987** |
 
 Por tipo de ato:
 
 | Tipo | Diplomas | | Tipo | Diplomas |
 | --- | ---: | --- | --- | ---: |
-| Decreto-Lei | 1.695 | | Decreto Regulamentar | 71 |
-| Portaria | 1.438 | | Decreto | 66 |
-| Lei | 536 | | Resolução da Assembleia da República | 56 |
-| Resolução do Conselho de Ministros | 298 | | Decreto do Presidente da República | 37 |
-| Decreto Legislativo Regional | 265 | | Declaração | 36 |
-| Aviso | 190 | | Outros tipos | 178 |
+| Decreto-Lei | 1.699 | | Decreto Regulamentar | 71 |
+| Portaria | 1.440 | | Decreto | 67 |
+| Lei | 540 | | Resolução da Assembleia da República | 56 |
+| Resolução do Conselho de Ministros | 303 | | Decreto do Presidente da República | 37 |
+| Decreto Legislativo Regional | 265 | | Declaração | 37 |
+| Aviso | 190 | | Outros tipos | 180 |
 | Decreto Regulamentar Regional | 102 | | | |
 
 Os tipos incluem a Constituição, os códigos, as leis orgânicas, os despachos e a legislação regional dos Açores e da Madeira
-(43 tipos no total, em `config/act-types.txt`). As contagens são de 2026-10-21.
+(43 tipos no total, em `config/act-types.txt`). As contagens são de 2026-10-22.
 
 ### O que fica de fora
 
 - Jurisprudência: esta versão não tem acórdãos.
 - Regulamentos municipais.
 - Atos da 2.ª série do Diário da República sem consolidação pública.
+- Diplomas em vigor que o Diário da República não consolida: só entram os de uma lista escolhida em `config/extras.txt` (7 hoje, como o Decreto-Lei 84/2021 da compra e venda de bens de consumo), com o aviso "Texto original, sem consolidação: pode ter sido alterado depois." Numa medição de 2026-10-22 havia 22.816 leis, decretos-leis e decretos legislativos regionais marcados em vigor sem consolidação, muitos só de alteração ou de execução única. Para propor mais um, abre um pull request que acrescente uma linha a `config/extras.txt`.
+- O Código Comercial de 1888 não tem texto utilizável no Diário da República (só a lei de aprovação) e por isso não está aqui.
+- O "Código do Consumidor" não existe: houve projetos em 2006 e 2008 que nunca foram aprovados. A lei do consumo está na Lei 24/96, no Decreto-Lei 446/85 (cláusulas contratuais gerais) e no Decreto-Lei 84/2021.
 - Diplomas revogados: saem da pasta principal e a lista `revogados.md` guarda o id, o título, a data da revogação e a ligação oficial. O texto anterior fica no histórico do git.
 - Versões anteriores de um diploma: o histórico de alterações fica no git, com um commit por atualização.
 
@@ -124,7 +128,7 @@ legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da Repúbl
 
 Uma tarefa do GitHub corre todos os domingos às 03:00 UTC, descarrega o que mudou no Diário da República, valida e faz um commit por
 atualização. Se algo falhar, não publica dados parciais e abre uma issue com o erro. Um ensaio completo no GitHub (sem commit)
-descarregou de novo os 4.968 diplomas, validou sem erros e confirmou que o repositório publicado é idêntico ao resultado.
+descarregou de novo os diplomas, validou sem erros e encontrou os diplomas novos que o Diário da República tinha acrescentado entretanto.
 Ainda não vi uma atualização real com alterações do Diário da República.
 
 ---
@@ -212,7 +216,7 @@ O texto integral dos avisos e os termos do site consultam-se em https://diarioda
 
 ## Como contribuir
 
-- Pull requests só são aceites para a lista de nomes comuns, a documentação e o kit de agente.
+- Pull requests só são aceites para a lista de nomes comuns, a lista de diplomas extra (`config/extras.txt`), a documentação e o kit de agente.
 - Os ficheiros de legislação não aceitam edições à mão, porque são gerados a partir do Diário da República.
 - Encontraste um erro num diploma? Abre uma issue com o id do diploma e a ligação oficial do Diário da República onde se vê o texto correto.
 

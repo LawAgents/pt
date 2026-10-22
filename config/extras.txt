@@ -1,0 +1,10 @@
+# Curated in-force diplomas that the Diario da Republica does not consolidate.
+# One per line: tipo | numero/ano | nota.  Blank lines and lines starting with # are ignored.
+# A diploma that is (or becomes) consolidated is taken from the normal list; a revoked one stops the update.
+Decreto-Lei | 84/2021 | compra e venda de bens de consumo e conteúdos digitais
+Lei | 60/2013 | 30.ª alteração ao Código Penal
+Lei | 83/2021 | teletrabalho
+Lei | 23/2018 | indemnização por infração ao direito da concorrência
+Lei | 58/2019 | execução do RGPD na ordem jurídica nacional
+Decreto-Lei | 62/2013 | atrasos de pagamento em transações comerciais
+Decreto-Lei | 69/2015 | reprivatização da CP Carga

@@ -17,7 +17,7 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import (DATE_FIELDS, ISO_DATE, REQUIRED, STATUS_IN_FORCE, TEXT_CONSOLIDATED, TEXT_ORIGINAL,  # noqa: E402
+from common import (DATE_FIELDS, ISO_DATE, REQUIRED, EXTRA_NOTICE, STATUS_IN_FORCE, TEXT_EXTRA, TEXT_VERSIONS,  # noqa: E402
                     article_number, iter_owned_files, load_act_types, parse_frontmatter, split_articles)
 
 ROW_RE = re.compile(r"^\|([^|\n]*)\|\s*([^|\n]+?\.md)\s*\|([^|\n]*)\|([^|\n]*)\|\s*$", re.M)
@@ -65,6 +65,11 @@ def validate(root, act_types, expected_counts=None, other_headings=None):
         # keep summaries only (the corpus is hundreds of MB): the body is needed later just for overview tables
         files.append((rel, meta, [article_number(h) for h, _ in arts], [h for h, b in arts if article_empty(b)],
                       body if "| parte | caminho |" in body else "", bool(core)))
+        if meta.get("text_version") == TEXT_EXTRA:
+            if meta.get("last_amended"):
+                errors.append(_issue("bad_text_version", rel, str(meta.get("dre_id") or "") or None, "an unconsolidated text has no last_amended"))
+            if [ln for ln in body.splitlines() if ln.strip()][1:2] != [EXTRA_NOTICE]:
+                errors.append(_issue("bad_text_version", rel, str(meta.get("dre_id") or "") or None, "the notice line must follow the title"))
 
     ids, by_dre = {}, {}
     for rel, meta, nums, empties, _, has_text in files:
@@ -83,7 +88,7 @@ def validate(root, act_types, expected_counts=None, other_headings=None):
                 errors.append(_issue("incomplete_metadata", rel, did, f"{k} is not an ISO date: {meta[k]!r}"))
         if meta.get("status") and meta["status"] != STATUS_IN_FORCE:
             errors.append(_issue("incomplete_metadata", rel, did, f"status not allowed: {meta['status']!r}"))
-        if meta.get("text_version") and meta["text_version"] not in (TEXT_CONSOLIDATED, TEXT_ORIGINAL):
+        if meta.get("text_version") and meta["text_version"] not in TEXT_VERSIONS:
             errors.append(_issue("incomplete_metadata", rel, did, f"text_version not allowed: {meta['text_version']!r}"))
         if bool(meta.get("part_of")) != bool(meta.get("part")):
             errors.append(_issue("bad_part", rel, did, "part_of and part must both be filled or both empty"))

@@ -45,3 +45,4 @@ lei-19-2012 | Lei da Concorrência | Lei 19/2012
 lei-83-2017 | Lei do Branqueamento de Capitais | Lei 83/2017
 lei-4-2007 | Lei de Bases da Segurança Social | LBSS
 decreto-lei-72-2008 | Regime Jurídico do Contrato de Seguro | RJCS
+decreto-lei-84-2021 | Compra e venda de bens de consumo | DL 84/2021

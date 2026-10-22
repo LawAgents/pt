@@ -2,33 +2,33 @@
 
 Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-22. Gerado por `scripts/estatisticas.py`.
 
-- Atos em vigor: **4.968**, em 11.223 ficheiros (258 MB sem compressão).
+- Atos em vigor: **4.987**, em 11.245 ficheiros (259 MB sem compressão).
 - Atos revogados listados em `revogados.md`: 0.
 
 ## Por tipo de ato
 
 | Tipo | Atos |
 | --- | ---: |
-| Decreto-Lei | 1.695 |
-| Portaria | 1.438 |
-| Lei | 536 |
-| Resolução do Conselho de Ministros | 298 |
+| Decreto-Lei | 1.699 |
+| Portaria | 1.440 |
+| Lei | 540 |
+| Resolução do Conselho de Ministros | 303 |
 | Decreto Legislativo Regional | 265 |
 | Aviso | 190 |
 | Decreto Regulamentar Regional | 102 |
 | Decreto Regulamentar | 71 |
-| Decreto | 66 |
+| Decreto | 67 |
 | Resolução da Assembleia da República | 56 |
+| Declaração | 37 |
 | Decreto do Presidente da República | 37 |
-| Declaração | 36 |
-| Despacho | 27 |
+| Despacho | 28 |
 | Despacho Normativo | 26 |
 | Resolução da Assembleia Legislativa da Região Autónoma dos Açores | 16 |
 | Lei Orgânica | 14 |
 | Declaração de Retificação | 11 |
 | Regulamento da CMVM | 11 |
 | Mapa Oficial | 10 |
-| Regulamento | 9 |
+| Regulamento | 10 |
 | Edital | 8 |
 | Resolução da Assembleia Legislativa da Região Autónoma da Madeira | 7 |
 | Declaração de Rectificação | 5 |
@@ -57,8 +57,9 @@ Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-22. Gerado 
 
 | Texto | Atos |
 | --- | ---: |
-| consolidado | 4.525 |
-| original sem alterações | 443 |
+| consolidado | 4.526 |
+| original sem alterações | 454 |
+| original sem consolidação | 7 |
 
 ## Por década do ato
 
@@ -69,27 +70,27 @@ Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-22. Gerado 
 | 1940 | 1 |
 | 1950 | 3 |
 | 1960 | 15 |
-| 1970 | 388 |
+| 1970 | 391 |
 | 1980 | 243 |
 | 1990 | 589 |
-| 2000 | 1.186 |
-| 2010 | 1.475 |
-| 2020 | 1.066 |
+| 2000 | 1.187 |
+| 2010 | 1.481 |
+| 2020 | 1.075 |
 
 ## Por entidade emissora (as 20 maiores)
 
 | Entidade | Atos |
 | --- | ---: |
-| Presidência do Conselho de Ministros | 711 |
-| Assembleia da República | 620 |
-| Ministério das Finanças | 172 |
+| Presidência do Conselho de Ministros | 718 |
+| Assembleia da República | 624 |
+| Ministério das Finanças | 173 |
 | Ministério da Justiça | 149 |
 | Região Autónoma dos Açores - Assembleia Legislativa | 127 |
 | Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos | 119 |
 | Ministério da Agricultura, do Desenvolvimento Rural e das Pescas | 112 |
 | Região Autónoma da Madeira - Assembleia Legislativa | 108 |
 | Ministério da Saúde | 102 |
-| Ministério da Administração Interna | 99 |
+| Ministério da Administração Interna | 100 |
 | Ministério da Defesa Nacional | 76 |
 | Ministério da Economia | 67 |
 | Trabalho, Solidariedade e Segurança Social | 63 |
@@ -97,7 +98,7 @@ Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-22. Gerado 
 | Agricultura, Florestas e Desenvolvimento Rural | 52 |
 | Região Autónoma dos Açores - Presidência do Governo | 52 |
 | Ministério da Agricultura e do Mar | 51 |
-| Saúde | 50 |
+| Saúde | 51 |
 | Finanças | 49 |
 | Presidência da República | 46 |
 
@@ -105,21 +106,21 @@ Números medidos nos cabeçalhos dos ficheiros publicados em 2026-10-22. Gerado 
 
 | Pasta | Atos |
 | --- | ---: |
-| decretos-lei | 1.672 |
-| portarias | 1.438 |
-| leis | 521 |
-| resolucoes-conselho-ministros | 298 |
+| decretos-lei | 1.676 |
+| portarias | 1.440 |
+| leis | 525 |
+| resolucoes-conselho-ministros | 303 |
 | decretos-legislativos-regionais | 263 |
 | avisos | 190 |
-| outros | 110 |
+| outros | 111 |
 | decretos-regulamentares-regionais | 102 |
 | decretos-regulamentares | 71 |
-| decretos | 66 |
+| decretos | 67 |
 | resolucoes-assembleia-republica | 56 |
 | codigos | 40 |
+| declaracoes | 37 |
 | decretos-presidente-republica | 37 |
-| declaracoes | 36 |
-| despachos | 27 |
+| despachos | 28 |
 | despachos-normativos | 26 |
 | leis-organicas | 14 |
 | constituicao | 1 |

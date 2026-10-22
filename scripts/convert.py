@@ -23,8 +23,8 @@ from collections import deque
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import (LEGAL_NOTICE, REVOKED_MARK, SITE, STATUS_IN_FORCE, TEXT_CONSOLIDATED, TEXT_ORIGINAL,  # noqa: E402
-                    TYPE_DIRS, article_number, atomic_write, format_frontmatter, main_files)
+from common import (LEGAL_NOTICE, REVOKED_MARK, SITE, STATUS_IN_FORCE, TEXT_CONSOLIDATED, TEXT_EXTRA, TEXT_ORIGINAL,  # noqa: E402
+                    EXTRA_NOTICE, TYPE_DIRS, article_number, atomic_write, format_frontmatter, main_files)
 from fetch import tipo_slug, selected  # noqa: E402
 
 CONSTITUTION_TYPE = "Decreto de Aprovação da Constituição"
@@ -574,7 +574,7 @@ def convert_record(rec, act_id, code_frag_ids, max_bytes=DEFAULT_MAX_PART_BYTES,
         "id": act_id, "dre_id": str(src["dbId"]), "title": title, "type": src.get("tipo") or "",
         "number": (src.get("numero") or "").strip(), "year": year,
         "date": (src.get("dataPublicacao") or "")[:10], "issuer": (src.get("emissor") or "").strip(),
-        "status": STATUS_IN_FORCE, "text_version": TEXT_CONSOLIDATED if frags else TEXT_ORIGINAL,
+        "status": STATUS_IN_FORCE, "text_version": TEXT_CONSOLIDATED if frags else (TEXT_EXTRA if src.get("extra") else TEXT_ORIGINAL),
         "last_amended": last, "source": source, "eli": eli,
         "original_pdf": data.get("URLPDF") or (orig or {}).get("URL_PDF") or "",
         "retrieved": (rec.get("fetched") or "")[:10], "summary": plain(src.get("sumario")),
@@ -597,6 +597,8 @@ def convert_record(rec, act_id, code_frag_ids, max_bytes=DEFAULT_MAX_PART_BYTES,
     files = []
     if len(parts) == 1:
         body = assemble(parts[0][1])
+        if meta["text_version"] == TEXT_EXTRA:
+            body = EXTRA_NOTICE + ("\n\n" + body if body else "")
         meta["part_of"] = meta["part"] = ""
         files.append((f"{single}/{act_id}.md", format_frontmatter(meta) + f"\n\n# {title}\n\n" + (body + "\n" if body else "")))
         return Act(src["dbId"], act_id, files, [], kind)

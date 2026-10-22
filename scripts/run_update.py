@@ -141,6 +141,7 @@ def run(mode, raw_dir, repo, budget_seconds=None, config=None, dre=None, max_par
         kw = {"clock": clock} if clock else {}
         kw["with_eli"] = with_eli
         kw["workers"] = workers
+        kw["extras"] = config / "extras.txt"
         rc = fetch.run_fetch(dre, raw, mode, budget_seconds, **kw)
         if rc == 2:
             return 2
@@ -174,6 +175,9 @@ def run(mode, raw_dir, repo, budget_seconds=None, config=None, dre=None, max_par
         added, changed, removed = apply_stage(stage, repo)
         _log(f"repo updated: {added} added, {changed} changed, {removed} removed; {len(warnings)} warnings")
         return _report_changed(bool(added or changed or removed))
+    except fetch.ExtrasError as e:
+        write_errors(raw_dir, mode, "extras", [{"code": "extras_error", "message": str(e)}], warnings)
+        return 1
     except Failure as f:
         write_errors(raw_dir, mode, f.stage, f.errors, f.warnings or warnings)
         return 1

@@ -47,3 +47,4 @@
 | Lei do Branqueamento de Capitais | Lei 83/2017 | lei-83-2017 | leis/2017/lei-83-2017/lei-83-2017.md |
 | Lei de Bases da Segurança Social | LBSS | lei-4-2007 | leis/2007/lei-4-2007.md |
 | Regime Jurídico do Contrato de Seguro | RJCS | decreto-lei-72-2008 | decretos-lei/2008/decreto-lei-72-2008/decreto-lei-72-2008.md |
+| Compra e venda de bens de consumo | DL 84/2021 | decreto-lei-84-2021 | decretos-lei/2021/decreto-lei-84-2021.md |
