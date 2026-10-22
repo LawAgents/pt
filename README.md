@@ -4,31 +4,126 @@
 - Step-by-step guides in European Portuguese for non-programmers, plus a ready-made kit to build your own personal legal agent.
 - Consolidated texts have no legal value: always confirm in the Diario da Republica. Scripts and plugin are MIT; the legal texts carry no licence of their own.
 
-# Legislação portuguesa em markdown (LawAgents/pt)
+# Legislação portuguesa em markdown
 
-## O que é este repositório, o que cobre e o que não cobre
+A legislação portuguesa em vigor que o Diário da República disponibiliza consolidada, convertida para markdown, com
+cabeçalho estruturado e ligação oficial em cada ficheiro. Cada artigo tem o seu título, para um agente de IA ou uma
+pessoa chegar ao texto certo e citar a fonte.
 
-Para consultar a legislação com o Claude Code só precisas de instalar um plugin, o [legislacao-pt](https://github.com/LawAgents/legislacao-pt-plugin). Os dados deste repositório não se instalam: o plugin lê os ficheiros diretamente daqui.
+O repositório existe para quem precisa de ter a certeza de que o artigo que lê é o que está em vigor e de saber de onde vem:
+investigadores, juristas e agentes de IA. O texto da União Europeia está no repositório irmão
+[LawAgents/ue-pt](https://github.com/LawAgents/ue-pt).
 
-Cada diploma é um ficheiro markdown, com os metadados no topo e cada artigo como título próprio (por exemplo "Artigo 12.º"). Os textos vêm do Diário da República eletrónico. A base de partida tem cerca de 4.800 diplomas. Os códigos grandes ficam divididos por livro ou título dentro da pasta `codigos/`.
+Para consultar com o Claude Code só precisas de instalar o plugin [legislacao-pt](https://github.com/LawAgents/legislacao-pt-plugin).
+Os dados não se instalam: o plugin lê os ficheiros deste repositório diretamente e cita a fonte em cada resposta.
 
-O repositório é pensado para servir de conhecimento a agentes de IA, que leem os ficheiros e citam o artigo, o ficheiro e a ligação oficial.
+> [!IMPORTANT]
+> Os textos consolidados não têm valor legal e não substituem a publicação no Diário da República. Confirma sempre na ligação
+> oficial do cabeçalho antes de citar.
 
-Cobre. Os diplomas em vigor que o Diário da República disponibiliza como consolidados, de todos os tipos de ato (Constituição, códigos, leis, decretos-lei, portarias, resoluções e restantes tipos, incluindo a legislação regional dos Açores e da Madeira), mais os originais que nunca foram alterados. Cada ficheiro traz a ligação ao ato no Diário da República, a data da versão consolidada e um aviso de que o texto consolidado não tem valor legal.
+---
 
-Não cobre:
+## O que contém
 
-- Jurisprudência. A versão 1 não tem acórdãos.
+4.968 diplomas em vigor, em 11.223 ficheiros (os códigos e os diplomas grandes estão divididos em partes).
+
+| Texto | Diplomas |
+| --- | ---: |
+| Consolidado | 4.525 |
+| Original, nunca alterado | 443 |
+| **Total** | **4.968** |
+
+Por tipo de ato:
+
+| Tipo | Diplomas | | Tipo | Diplomas |
+| --- | ---: | --- | --- | ---: |
+| Decreto-Lei | 1.695 | | Decreto Regulamentar | 71 |
+| Portaria | 1.438 | | Decreto | 66 |
+| Lei | 536 | | Resolução da Assembleia da República | 56 |
+| Resolução do Conselho de Ministros | 298 | | Decreto do Presidente da República | 37 |
+| Decreto Legislativo Regional | 265 | | Declaração | 36 |
+| Aviso | 190 | | Outros tipos | 178 |
+| Decreto Regulamentar Regional | 102 | | | |
+
+Os tipos incluem a Constituição, os códigos, as leis orgânicas, os despachos e a legislação regional dos Açores e da Madeira
+(43 tipos no total, em `config/act-types.txt`). As contagens são de 2026-10-21.
+
+### O que fica de fora
+
+- Jurisprudência: esta versão não tem acórdãos.
 - Regulamentos municipais.
-- Direito da União Europeia (a fonte própria é o EUR-Lex).
 - Atos da 2.ª série do Diário da República sem consolidação pública.
-- Diplomas revogados. Saem da pasta principal; o texto fica no histórico do git e a lista `revogados.md` guarda o id, o título, a data da revogação e a ligação oficial.
-- Versões anteriores de um diploma. O histórico de alterações fica no git, com um commit por atualização.
-- Qualquer diploma fora do conjunto acima. Para esses, o texto oficial consulta-se no Diário da República.
+- Diplomas revogados: saem da pasta principal e a lista `revogados.md` guarda o id, o título, a data da revogação e a ligação oficial. O texto anterior fica no histórico do git.
+- Versões anteriores de um diploma: o histórico de alterações fica no git, com um commit por atualização.
 
-Limite conhecido: alguns anexos e quadros do Diário da República são um único bloco de texto e, por isso, não se dividem. 92 ficheiros ficam acima de 90 KB (a maioria tem um só artigo) e os agentes podem ter dificuldade em lê-los de uma vez. Os códigos e os restantes diplomas dividem-se em partes até 70 KB.
+Limite conhecido: alguns anexos e quadros do Diário da República são um único bloco de texto e não se dividem. 92 ficheiros
+ficam acima de 90 KB (a maioria tem um só artigo) e os agentes podem ter dificuldade em lê-los de uma vez.
 
-Os ficheiros de índice na raiz do repositório (`nomes-comuns.md`, `indice.md`, `revogados.md` e os índices por tipo de ato) ajudam o agente a encontrar o diploma certo sem ler tudo.
+---
+
+## Estrutura
+
+```
+leis/AAAA/lei-N-AAAA.md                     um ficheiro por diploma, por tipo e por ano do ato
+decretos-lei/  portarias/  avisos/  ...     uma pasta por tipo de ato (os mesmos nomes de `config/act-types.txt`)
+codigos/<codigo>/                           códigos e diplomas grandes: uma visão geral e partes de até 70 KB
+constituicao/                               Constituição da República Portuguesa
+nomes-comuns.md                             nomes e siglas (Código Civil, CC) para o id certo, 45 entradas
+indice.md  indice-<tipo>-<anos>.md          índices por tipo de ato e ano (ficheiros de até 40 KB)
+indice-temas.md                             índice por tema
+revogados.md                                diplomas revogados, com a data e a ligação oficial
+config/                                     tipos de ato, nomes comuns e temas
+scripts/                                    o código que descarrega, converte, valida e gera os índices
+docs/kit.md                                 kit de agente legal pessoal
+```
+
+Os diplomas divididos em partes têm um ficheiro de visão geral (`id.md`, com a tabela `## Estrutura` e o primeiro e o último artigo de cada
+parte) e ficheiros `id-<parte>.md`. Um agente começa pela visão geral e abre só a parte de que precisa.
+
+Os ids são estáveis e legíveis: `lei-24-1996`, `decreto-lei-100-2023`, `decreto-lei-47344-1966` (o Código Civil, que `nomes-comuns.md` encontra por "Código Civil" ou "CC").
+
+---
+
+## Formato dos ficheiros
+
+Todo o ficheiro tem cabeçalho YAML e, no corpo, o título em `#` seguido do texto, com um título por artigo:
+
+```markdown
+---
+id: "lei-24-1996"
+dre_id: "406882"
+title: "Lei n.º 24/96, de 31 de julho"
+type: "Lei"
+number: "24/96"
+year: 1996
+date: 1996-07-31
+issuer: "Assembleia da República"
+status: "em vigor"
+text_version: "consolidado"
+last_amended: 2023-07-04
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-34491075"
+original_pdf: "https://files.diariodarepublica.pt/1s/1996/07/176a00/21842189.pdf"
+retrieved: 2026-10-21
+summary: "Estabelece o regime legal aplicável à defesa dos consumidores. ..."
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Lei n.º 24/96, de 31 de julho
+```
+
+`source` é a ligação oficial do texto consolidado e `retrieved` a data da descarga. Os artigos revogados mantêm a marca oficial
+`*(Revogado)*`. Os ficheiros só mudam quando o Diário da República altera o texto.
+
+---
+
+## Atualização
+
+Uma tarefa do GitHub corre todos os domingos às 03:00 UTC, descarrega o que mudou no Diário da República, valida e faz um commit por
+atualização. Se algo falhar, não publica dados parciais e abre uma issue com o erro. Um ensaio completo no GitHub (sem commit)
+descarregou de novo os 4.968 diplomas, validou sem erros e confirmou que o repositório publicado é idêntico ao resultado.
+Ainda não vi uma atualização real com alterações do Diário da República.
+
+---
 
 ## Passo a passo para quem não programa
 
