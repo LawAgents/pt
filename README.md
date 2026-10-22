@@ -59,6 +59,8 @@ Os tipos incluem a Constituição, os códigos, as leis orgânicas, os despachos
 Limite conhecido: alguns anexos e quadros do Diário da República são um único bloco de texto e não se dividem. 92 ficheiros
 ficam acima de 90 KB (a maioria tem um só artigo) e os agentes podem ter dificuldade em lê-los de uma vez.
 
+`COBERTURA.md` e `estatisticas.html` são gerados por `python -I scripts/estatisticas.py` e não se atualizam sozinhos: refazem-se à mão depois de uma atualização.
+
 ---
 
 ## Estrutura
@@ -72,8 +74,10 @@ nomes-comuns.md                             nomes e siglas (Código Civil, CC) p
 indice.md  indice-<tipo>-<anos>.md          índices por tipo de ato e ano (ficheiros de até 40 KB)
 indice-temas.md                             índice por tema
 revogados.md                                diplomas revogados, com a data e a ligação oficial
+COBERTURA.md                                números por tipo, década, entidade e pasta
+estatisticas.html                           página com gráficos, um único ficheiro para abrir no navegador
 config/                                     tipos de ato, nomes comuns e temas
-scripts/                                    o código que descarrega, converte, valida e gera os índices
+scripts/                                    o código que descarrega, converte, valida e gera os índices e as estatísticas
 docs/kit.md                                 kit de agente legal pessoal
 ```
 
