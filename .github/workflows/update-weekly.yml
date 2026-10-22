@@ -107,6 +107,10 @@ jobs:
         if: steps.update.outputs.rc == '0' && steps.update.outputs.has_changes == 'true'
         run: python scripts/check_size.py --repo "$GITHUB_WORKSPACE" 2>&1 | tee -a "$LOG"
 
+      - name: Statistics (COBERTURA.md and estatisticas.html)
+        if: steps.update.outputs.rc == '0' && steps.update.outputs.has_changes == 'true'
+        run: python -I scripts/estatisticas.py --repo "$GITHUB_WORKSPACE" --name "Legislação portuguesa" 2>&1 | tee -a "$LOG"
+
       - name: Commit and push
         if: steps.update.outputs.rc == '0' && steps.update.outputs.has_changes == 'true'
         env:

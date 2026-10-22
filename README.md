@@ -59,7 +59,7 @@ Os tipos incluem a Constituição, os códigos, as leis orgânicas, os despachos
 Limite conhecido: alguns anexos e quadros do Diário da República são um único bloco de texto e não se dividem. 92 ficheiros
 ficam acima de 90 KB (a maioria tem um só artigo) e os agentes podem ter dificuldade em lê-los de uma vez.
 
-`COBERTURA.md` e `estatisticas.html` são gerados por `python -I scripts/estatisticas.py` e não se atualizam sozinhos: refazem-se à mão depois de uma atualização.
+`COBERTURA.md` e `estatisticas.html` são gerados por `python -I scripts/estatisticas.py` e refazem-se na atualização semanal sempre que há alterações.
 
 ---
 

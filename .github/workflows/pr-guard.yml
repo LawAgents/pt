@@ -39,7 +39,7 @@ jobs:
           shopt -u nocasematch
 
           # Diploma folders (*.md) and the generated index files at the repo root.
-          re='^(((codigos|leis|decretos-lei|portarias|leis-organicas|constituicao|outros|avisos|declaracoes|resolucoes-[^/]+|decretos[^/]*|despachos[^/]*)/.*\.md)|((nomes-comuns|indice|indice-[^/]*|revogados)\.md))$'
+          re='^(((codigos|leis|decretos-lei|portarias|leis-organicas|constituicao|outros|avisos|declaracoes|resolucoes-[^/]+|decretos[^/]*|despachos[^/]*)/.*\.md)|((nomes-comuns|indice|indice-[^/]*|revogados|COBERTURA|estatisticas)\.(md|html)))$'
 
           # previous_filename covers renames away from a protected path.
           files=$(gh api --paginate "repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER/files" \
