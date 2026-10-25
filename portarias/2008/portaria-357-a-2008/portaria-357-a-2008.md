@@ -9,10 +9,10 @@ date: 2008-05-09
 issuer: "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2008-10-27
+last_amended: 2009-06-18
 source: "https://diariodarepublica.pt/dr/detalhe/portaria/2008-618169"
 original_pdf: "https://files.diariodarepublica.pt/1s/2008/05/09001/0000200006.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Aprova o Regulamento de Aplicação da Acção n.º 1.1.3, «Instalação de Jovens Agricultores», da medida n.º 1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 ---

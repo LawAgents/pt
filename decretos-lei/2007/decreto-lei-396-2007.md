@@ -9,10 +9,10 @@ date: 2007-12-31
 issuer: "Ministério do Trabalho e da Solidariedade Social"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2019-06-28
+last_amended: 2026-10-22
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34556675"
 original_pdf: "https://files.diariodarepublica.pt/1s/2007/12/25100/0916509173.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Estabelece o regime jurídico do Sistema Nacional de Qualificações e define as estruturas que regulam o seu funcionamento"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 ---
@@ -369,11 +369,14 @@ b) Ações de formação inicial e contínua, nomeadamente as realizadas por emp
 
 1 - Constituem a rede de entidades formadoras do SNQ os estabelecimentos de ensino básico e secundário, os centros de formação profissional e de reabilitação profissional de gestão direta e protocolares do IEFP, I. P., no âmbito dos ministérios responsáveis pelas áreas da educação e da formação profissional, as entidades formadoras integradas noutros ministérios ou noutras pessoas coletivas de direito público, bem como os estabelecimentos de ensino particular e cooperativo, as escolas profissionais, os centros especializados em qualificação de adultos e as entidades com estruturas formativas certificadas do setor privado, sem prejuízo no disposto nos n.os 2, 3 e 4 do artigo 1.º
 
-2 - A certificação das entidades formadoras é realizada pelo serviço competente do ministério responsável pela área da formação profissional envolvendo a participação dos parceiros sociais e outras entidades representativas do setor, nos termos de portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+2 - A certificação das entidades formadoras é realizada pelo serviço competente do ministério responsável pela área da formação profissional envolvendo a participação de um representante de cada região autónoma, dos parceiros sociais e outras entidades representativas do setor, nos termos de portaria conjunta dos membros do Governo responsáveis pelas áreas da educação e da formação profissional, sem prejuízo do disposto no n.º 4.
 
-3 -(Revogado).
+3 - (Revogado.)
 
-- *Alterado pelo/a Artigo 207.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29*
+4 - Os representantes das regiões autónomas são nomeados por despacho do secretário regional que tutela a área da formação e qualificação profissional.
+
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 64-A/2026 - Diário da República n.º 205/2026, Suplemento, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2026-1184484176), em vigor a partir de 2026-10-23.*
+- *Alterado pelo/a Artigo 207.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29.*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27*
 
 ### Artigo 17.º — Conselhos sectoriais para a qualificação

@@ -6,7 +6,7 @@
 | indice-avisos-1973-2025.md | Aviso | 1973 | 2025 | 104 |
 | indice-codigos.md | Decreto Legislativo Regional, Decreto-Lei, Lei | 1940 | 2018 | 40 |
 | indice-constituicao.md | Decreto de Aprovação da Constituição | 1976 | 1976 | 1 |
-| indice-declaracoes.md | Declaração | 1974 | 2026 | 37 |
+| indice-declaracoes.md | Declaração | 1974 | 2026 | 39 |
 | indice-decretos-legislativos-regionais-1984-2007.md | Decreto Legislativo Regional | 1984 | 2007 | 81 |
 | indice-decretos-legislativos-regionais-2008-2015.md | Decreto Legislativo Regional | 2008 | 2015 | 85 |
 | indice-decretos-legislativos-regionais-2016-2024.md | Decreto Legislativo Regional | 2016 | 2024 | 89 |
@@ -35,14 +35,14 @@
 | indice-decretos-regulamentares-regionais-1984-2023.md | Decreto Regulamentar Regional | 1984 | 2023 | 85 |
 | indice-decretos-regulamentares-regionais-2024-2026.md | Decreto Regulamentar Regional | 2024 | 2026 | 17 |
 | indice-decretos-regulamentares.md | Decreto Regulamentar | 1980 | 2025 | 71 |
-| indice-decretos.md | Decreto | 1926 | 2026 | 67 |
+| indice-decretos.md | Decreto | 1926 | 2026 | 68 |
 | indice-despachos-normativos.md | Despacho Normativo | 1978 | 2026 | 26 |
-| indice-despachos.md | Despacho | 1974 | 2026 | 28 |
+| indice-despachos.md | Despacho | 1974 | 2026 | 29 |
 | indice-leis-1961-2002.md | Lei | 1961 | 2002 | 140 |
 | indice-leis-2003-2009.md | Lei | 2003 | 2009 | 124 |
 | indice-leis-2010-2014.md | Lei | 2010 | 2014 | 83 |
 | indice-leis-2015-2019.md | Lei | 2015 | 2019 | 109 |
-| indice-leis-2020-2026.md | Lei | 2020 | 2026 | 69 |
+| indice-leis-2020-2026.md | Lei | 2020 | 2026 | 72 |
 | indice-leis-organicas.md | Lei Orgânica | 2000 | 2026 | 14 |
 | indice-outros-acordo-colectivo-trabalho.md | Acordo Colectivo de Trabalho | 2009 | 2009 | 1 |
 | indice-outros-aviso-banco-portugal.md | Aviso do Banco de Portugal | 2002 | 2003 | 2 |
@@ -56,8 +56,8 @@
 | indice-outros-deliberacao.md | Deliberação | 2020 | 2024 | 2 |
 | indice-outros-despacho-conselho-ministros.md | Despacho do Conselho de Ministros | 1974 | 1974 | 1 |
 | indice-outros-despacho-extrato.md | Despacho (extrato) | 2025 | 2025 | 1 |
-| indice-outros-despacho-ministerial.md | Despacho Ministerial | 1974 | 1974 | 1 |
-| indice-outros-diretiva.md | Diretiva | 2024 | 2025 | 4 |
+| indice-outros-despacho-ministerial.md | Despacho Ministerial | 1974 | 1974 | 2 |
+| indice-outros-diretiva.md | Diretiva | 2024 | 2025 | 5 |
 | indice-outros-edital.md | Edital | 2025 | 2025 | 8 |
 | indice-outros-mapa-oficial.md | Mapa Oficial | 2009 | 2025 | 10 |
 | indice-outros-mapa.md | Mapa | 1976 | 1976 | 1 |
@@ -65,14 +65,14 @@
 | indice-outros-regimento-assembleia-republica.md | Regimento da Assembleia da República | 2020 | 2023 | 2 |
 | indice-outros-regimento.md | Regimento | 1984 | 1984 | 1 |
 | indice-outros-regulamento-cmvm.md | Regulamento da CMVM | 2000 | 2020 | 11 |
-| indice-outros-regulamento.md | Regulamento | 2018 | 2026 | 10 |
+| indice-outros-regulamento.md | Regulamento | 2018 | 2026 | 11 |
 | indice-outros-resolucao-assembleia-legislativa-regiao-autonoma-acores.md | Resolução da Assembleia Legislativa da Região Autónoma dos Açores | 2007 | 2026 | 16 |
 | indice-outros-resolucao-assembleia-legislativa-regiao-autonoma-madeira.md | Resolução da Assembleia Legislativa da Região Autónoma da Madeira | 2007 | 2026 | 7 |
 | indice-outros-resolucao-assembleia-legislativa-regional.md | Resolução da Assembleia Legislativa Regional | 2002 | 2005 | 4 |
 | indice-outros-resolucao-assembleia-regional.md | Resolução da Assembleia Regional | 1987 | 1987 | 1 |
 | indice-outros-resolucao.md | Resolução | 1974 | 1981 | 3 |
-| indice-portarias-1960-1984.md | Portaria | 1960 | 1984 | 116 |
-| indice-portarias-1985-1998.md | Portaria | 1985 | 1998 | 114 |
+| indice-portarias-1960-1984.md | Portaria | 1960 | 1984 | 120 |
+| indice-portarias-1985-1998.md | Portaria | 1985 | 1998 | 113 |
 | indice-portarias-1999-2003.md | Portaria | 1999 | 2003 | 112 |
 | indice-portarias-2004-2007.md | Portaria | 2004 | 2007 | 94 |
 | indice-portarias-2008-2009.md | Portaria | 2008 | 2009 | 94 |
@@ -84,12 +84,12 @@
 | indice-portarias-2017-2018.md | Portaria | 2017 | 2018 | 86 |
 | indice-portarias-2019-2020.md | Portaria | 2019 | 2020 | 109 |
 | indice-portarias-2021-2022.md | Portaria | 2021 | 2022 | 100 |
-| indice-portarias-2023-2023.md | Portaria | 2023 | 2023 | 76 |
+| indice-portarias-2023-2023.md | Portaria | 2023 | 2023 | 77 |
 | indice-portarias-2024-2024.md | Portaria | 2024 | 2024 | 72 |
-| indice-portarias-2025-2026.md | Portaria | 2025 | 2026 | 87 |
-| indice-resolucoes-assembleia-republica.md | Resolução da Assembleia da República | 1985 | 2026 | 56 |
-| indice-resolucoes-conselho-ministros-1974-2016.md | Resolução do Conselho de Ministros | 1974 | 2016 | 85 |
+| indice-portarias-2025-2026.md | Portaria | 2025 | 2026 | 92 |
+| indice-resolucoes-assembleia-republica.md | Resolução da Assembleia da República | 1985 | 2026 | 57 |
+| indice-resolucoes-conselho-ministros-1974-2016.md | Resolução do Conselho de Ministros | 1974 | 2016 | 87 |
 | indice-resolucoes-conselho-ministros-2017-2020.md | Resolução do Conselho de Ministros | 2017 | 2020 | 80 |
 | indice-resolucoes-conselho-ministros-2021-2023.md | Resolução do Conselho de Ministros | 2021 | 2023 | 83 |
-| indice-resolucoes-conselho-ministros-2024-2026.md | Resolução do Conselho de Ministros | 2024 | 2026 | 55 |
+| indice-resolucoes-conselho-ministros-2024-2026.md | Resolução do Conselho de Ministros | 2024 | 2026 | 58 |
 | indice-temas.md | temas |  |  | 46 |

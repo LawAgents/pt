@@ -9,10 +9,10 @@ date: 2010-04-29
 issuer: "Ministério das Obras Públicas, Transportes e Comunicações"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2010-06-28
+last_amended: 2026-10-22
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-70916272"
 original_pdf: "https://files.diariodarepublica.pt/1s/2010/04/08301/0000201972.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Regula o transporte terrestre, rodoviário e ferroviário, de mercadorias perigosas, transpondo para a ordem jurídica interna a Directiva n.º 2006/90/CE , da Comissão, de 3 de Novembro, e a Directiva n.º 2008/68/CE , do Parlamento Europeu e do Conselho, de 24 de Setembro"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-41-a-2010"

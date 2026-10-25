@@ -9,10 +9,10 @@ date: 2012-02-06
 issuer: "Ministério da Economia e do Emprego"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2021-01-06
+last_amended: 2026-10-22
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-115495237"
 original_pdf: "https://files.diariodarepublica.pt/1s/2012/02/02600/0058000589.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Consolida as prescrições mínimas em matéria de protecção dos trabalhadores contra os riscos para a segurança e a saúde devido à exposição a agentes químicos no trabalho e transpõe a Directiva n.º 2009/161/UE, da Comissão, de 17 de Dezembro de 2009"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-24-2012"
@@ -20,8 +20,6 @@ part: "Diploma de aprovação"
 ---
 
 # Decreto-Lei n.º 24/2012, de 6 de fevereiro — Diploma de aprovação
-
-Decreto-Lei n.º 24/2012
 
 de 6 de fevereiro
 
@@ -61,6 +59,18 @@ c) Directiva n.º 2000/39/CE, da Comissão, de 8 de Junho de 2000, relativa ao e
 
 d) Directiva n.º 2006/15/CE, da Comissão, de 7 de Fevereiro de 2006, que estabelece uma segunda lista de valores limite de exposição profissional indicativos para execução da Directiva 98/24/CE, do Conselho, de 7 de Abril de 1998, e altera as Directivas n.os 91/322/CEE, da Comissão, de 29 de Maio de 1991, e 2000/39/CE, da Comissão, de 8 de Junho de 2000.
 
+3 - O presente diploma integra, ainda, total ou parcialmente, as alterações legislativas que resultam da transposição das seguintes diretivas:
+
+a) Diretiva 2014/27/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, que altera as Diretivas 92/58/CEE, 92/85/CEE, 94/33/CE e 98/24/CE do Conselho e a Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, a fim de as adaptar ao Regulamento (CE) n.º 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e misturas;
+
+b) Diretiva (UE) 2017/164 da Comissão, de 31 de janeiro de 2017, que estabelece uma quarta lista de valores-limite de exposição profissional indicativos nos termos da Diretiva 98/24/CE do Conselho e que altera as Diretivas 91/322/CEE, 2000/39/CE e 2009/161/CE;
+
+c) Diretiva (UE) 2019/1831 da Comissão de 24 de outubro de 2019 que estabelece uma quinta lista de valores-limite de exposição profissional indicativos nos termos da Diretiva 98/24/CE do Conselho e que altera a Diretiva 2000/39/CE da Comissão;
+
+d) Diretiva (UE) 2024/869 do Parlamento Europeu e do Conselho, de 13 de março de 2024, que altera a Diretiva 2004/37/CE do Parlamento Europeu e do Conselho e a Diretiva 98/24/CE do Conselho no que diz respeito aos valores-limite para o chumbo e os seus compostos inorgânicos e para os diisocianatos.
+
+- *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.*
+
 ### Artigo 2.º — Âmbito de aplicação
 
 1 - O presente diploma é aplicável:
@@ -71,9 +81,11 @@ b) Ao transporte de mercadorias perigosas, sem prejuízo de disposições previs
 
 2 - O presente diploma não prejudica a aplicação:
 
-a) De disposições especiais relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes químicos classificados como cancerígenos ou mutagénicos durante o trabalho;
+a) De disposições especiais relativas à proteção dos trabalhadores contra riscos ligados à exposição a agentes químicos classificados como cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho;
 
 b) Da legislação relativa a agentes químicos quanto a medidas de protecção contra radiações, resultante da transposição de directivas adoptadas ao abrigo do Tratado que institui a Comunidade Europeia da Energia Atómica.
+
+- *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.*
 
 ## Capítulo II — Exposição a agentes químicos
 
@@ -93,9 +105,9 @@ i) Qualquer agente químico que preencha os critérios para ser classificado com
 
 ii) Qualquer agente químico que, embora não preencha os critérios para ser classificado como perigoso nos termos da subalínea anterior, possa, devido às suas propriedades físico-químicas, químicas ou toxicológicas e à forma como é utilizado ou está presente no local de trabalho, apresentar riscos para a segurança e a saúde dos trabalhadores, incluindo qualquer agente químico que esteja sujeito a um valor limite de exposição profissional estabelecido no presente diploma;
 
-d) «Chumbo», chumbo metálico e respectivos compostos iónicos;
+d) (Revogada.)
 
-e) «Concentração de chumbo no ar», grandeza que exprime a quantidade de chumbo existente no ar dos locais de trabalho, expressa em miligrama por metro cúbico (mg/m3) e obtida por medição da concentração do chumbo no ar, ponderada em função do tempo;
+e) (Revogada.)
 
 f) «Produtos intermédios», as substâncias que se formam no decurso de uma reacção química, que são convertidas e, por conseguinte, desaparecem antes do final da reacção ou do processo;
 
@@ -111,15 +123,18 @@ l) «Valor limite de exposição profissional obrigatório», o limite da concen
 
 m) «Vigilância da saúde», a avaliação do estado de saúde do trabalhador relacionada com a exposição a agentes químicos específicos no local de trabalho.
 
+- *Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.*
 - *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
 #### Artigo 4.º — Valores limite
 
-1 - O valor limite de exposição profissional obrigatório relativo ao chumbo e aos seus compostos iónicos consta do anexo i ao presente diploma e que dele faz parte integrante.
+1 - Os valores-limite de exposição profissional obrigatórios a agentes químicos constam do anexo i ao presente diploma e que dele faz parte integrante.
 
-2 - O valor limite biológico obrigatório relativo ao chumbo e aos seus compostos iónicos consta do anexo ii ao presente diploma e que dele faz parte integrante.
+2 - [Revogado.]
 
 3 - Os valores limite de exposição profissional com carácter indicativo relativos a agentes químicos constam do anexo iii ao presente diploma e que dele faz parte integrante.
+
+- *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.*
 
 #### Artigo 5.º — Agentes químicos proibidos e limites de concentração para isenção
 
@@ -177,9 +192,9 @@ d) A presença simultânea de vários agentes químicos perigosos;
 
 e) As condições de trabalho que impliquem a presença desses agentes, incluindo a sua quantidade;
 
-f) Os valores limite estabelecidos nos anexos i, ii e iii;
+f) Os valores-limite estabelecidos nos anexos i e iii;
 
-g) Os valores limite de exposição profissional a agentes cancerígenos ou mutagénicos e ao amianto, estabelecidos em legislação especial;
+g) Os valores-limite de exposição profissional a agentes cancerígenos, mutagénicos, substâncias tóxicas para a reprodução e ao amianto, estabelecidos em legislação especial;
 
 h) O efeito das medidas de prevenção implementadas ou a implementar;
 
@@ -203,6 +218,7 @@ c) O resultado da vigilância da saúde justificar a necessidade de nova avalia�
 
 8 - Constitui contra-ordenação muito grave a violação do disposto no n.º 2 e contra-ordenação grave a violação do disposto nos n.os 3 a 6.
 
+- *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.*
 - *Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
 #### Artigo 8.º — Resultado da avaliação de riscos
@@ -265,9 +281,11 @@ c) As instalações, o equipamento e as máquinas ou equipamentos de prevenção
 
 d) Os efeitos de explosões sejam reduzidos ou sejam adoptadas medidas para reduzir a pressão;
 
-e) A emissão de poeiras e fumos contendo chumbo seja reduzida ao mínimo.
+e) A emissão de poeiras e fumos contendo agentes químicos perigosos seja reduzida ao mínimo.
 
 4 - Constitui contra-ordenação muito grave a violação do disposto no presente artigo.
+
+- *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.*
 
 #### Artigo 12.º — Acidentes, incidentes e situações de emergência
 
@@ -361,113 +379,27 @@ g) A aplicação das disposições do presente diploma.
 
 #### Artigo 17.º — Objecto
 
-Sem prejuízo do disposto na secção anterior, a determinação da concentração de chumbo no ar, bem como a ultrapassagem do valor limite de exposição profissional obrigatório, a ultrapassagem do valor limite biológico obrigatório do chumbo e a vigilância da saúde dos trabalhadores regem-se pelo regime previsto nos artigos seguintes.
+*(Revogado)* — *Revogado pelo/a Artigo 11.º do/a Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22, em vigor a partir de 2026-11-02.*
 
 #### Artigo 18.º — Determinação da concentração de chumbo no ar
 
-1 - A colheita de amostras para determinação da concentração de chumbo no ar deve ser individual, de modo a permitir a avaliação da exposição do trabalhador, tendo em conta o trabalho efectuado, as condições em que é prestado e a duração da exposição.
-
-2 - A duração da colheita deve ser representativa da exposição diária do trabalhador, podendo ser realizadas uma ou mais amostras, no mesmo dia ou em dias distintos.
-
-3 - Quando existam grupos de trabalhadores que realizem tarefas idênticas com um risco de exposição análogo, as colheitas individuais podem ser reduzidas a um número de postos de trabalho representativo desse grupo ou grupos, com o mínimo de uma colheita individual por cada dez trabalhadores e turno de trabalho.
-
-4 - A colheita de amostras e a determinação analítica das concentrações de chumbo no ar devem basear-se em métodos publicados em bibliografia técnica e validados pelo laboratório de ensaio, devendo a metodologia seguida e respectivos limiares analíticos, limites de detecção e quantificação ser indicados com a apresentação dos resultados.
-
-5 - A incerteza associada à concentração de chumbo no ar deve ser calculada para um nível de confiança de 95 %, considerando as componentes relativas à amostragem e à determinação analítica.
+*(Revogado)* — *Revogado pelo/a Artigo 11.º do/a Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22, em vigor a partir de 2026-11-02.*
 
 #### Artigo 19.º — Níveis de alerta de concentração de chumbo no ar
 
-1 - Sempre que a determinação da concentração de chumbo no ar revele a existência de qualquer trabalhador sujeito a uma exposição profissional igual ou superior a 0,075 mg/m3, sendo este valor a média ponderada em função do tempo calculada ao longo de 40 horas por semana, o empregador aplica as medidas previstas nos números seguintes para minimizar o risco de ultrapassagem do valor limite de exposição profissional obrigatório.
-
-2 - A determinação da concentração de chumbo no ar e a avaliação da exposição profissional do trabalhador devem efectuar-se pelo menos de três em três meses, podendo ser reduzidas a uma vez por ano quando não ocorram alterações significativas nos processos de trabalho ou nas condições dos locais de trabalho e desde que se verifique uma das seguintes situações:
-
-a) A exposição profissional do trabalhador ao chumbo for inferior a 0,1 mg/m3 nas duas últimas avaliações;
-
-b) A taxa individual de plumbémia em qualquer trabalhador exposto não ultrapasse 60 (mi)g/100 ml de sangue.
-
-3 - Constitui contra-ordenação muito grave a violação do disposto no presente artigo.
+*(Revogado)* — *Revogado pelo/a Artigo 11.º do/a Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22, em vigor a partir de 2026-11-02.*
 
 #### Artigo 20.º — Ultrapassagem do valor limite de exposição profissional obrigatório
 
-1 - Quando a determinação da concentração de chumbo no ar revele a existência de qualquer trabalhador sujeito a uma exposição profissional superior ao valor limite de exposição profissional obrigatório, o empregador deve, além das medidas previstas no artigo 12.º, adoptar os seguintes procedimentos:
-
-a) Identificar as causas da situação e tomar rapidamente as medidas adequadas;
-
-b) Proceder a nova determinação da concentração de chumbo no ar e avaliação da exposição profissional do trabalhador, a fim de verificar a eficácia das medidas adoptadas.
-
-2 - Sempre que as medidas referidas na alínea a) do número anterior não possam ser, em virtude da sua natureza ou importância, tomadas no prazo de um mês, ou quando uma nova avaliação da exposição profissional ao chumbo indique que persiste a situação de ultrapassagem do valor limite de exposição profissional obrigatório, o trabalho na zona afectada só pode prosseguir desde que sejam tomadas medidas para protecção dos trabalhadores expostos, ouvido o médico responsável pela vigilância da saúde.
-
-3 - O médico responsável pela vigilância da saúde dos trabalhadores decide se deve ser efectuada uma determinação imediata dos parâmetros biológicos dos trabalhadores expostos.
-
-4 - A verificação da ultrapassagem do valor limite de exposição profissional obrigatório obtém-se por comparação directa entre a concentração obtida e o valor limite de exposição, no caso de duração total da colheita das amostras igual a 40 horas numa mesma semana, ou no caso de aquela duração ser inferior a 40 horas numa mesma semana, nos termos seguintes:
-
-a) O valor limite de exposição profissional obrigatório não se considera ultrapassado quando a concentração obtida nos termos do artigo 18.º for inferior ao valor limite;
-
-b) Se a concentração referida na alínea anterior ultrapassar o valor limite, devem ser colhidas pelo menos três novas amostras representativas da exposição média ao chumbo, cada uma com uma duração de colheita não inferior a quatro horas, considerando-se como não tendo sido ultrapassado o valor limite quando se verifiquem três valores de concentração inferiores ao valor limite em quatro amostras colhidas durante uma semana.
-
-5 - Quando na execução de trabalhos seja previsível a ultrapassagem do valor limite de exposição profissional obrigatório e não seja possível a aplicação de medidas técnicas para o reduzir, o empregador adopta as medidas de protecção adequadas, devendo consultar os trabalhadores e os seus representantes para a segurança e saúde antes de iniciar os referidos trabalhos.
-
-6 - Constitui contra-ordenação muito grave a violação do disposto nos n.os 1, 2 e 5.
+*(Revogado)* — *Revogado pelo/a Artigo 11.º do/a Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22, em vigor a partir de 2026-11-02.*
 
 #### Artigo 21.º — Ultrapassagem do valor limite biológico obrigatório
 
-1 - Sempre que, através do controlo biológico dos trabalhadores expostos, seja detectada a ultrapassagem do valor limite biológico obrigatório, o empregador deve identificar imediatamente as causas e tomar as medidas adequadas.
-
-2 - Os trabalhadores que se encontrem na situação prevista no número anterior devem ser submetidos, no prazo de três meses, a novo controlo da taxa de plumbémia, não podendo regressar ao seu posto de trabalho inicial ou a outro que envolva risco de exposição igual ou superior se este resultado indicar uma taxa superior ao valor limite biológico.
-
-3 - As medidas a que se refere o n.º 1 podem incluir o afastamento dos trabalhadores afectados dos postos de trabalho com exposição ao chumbo e a sua colocação provisória noutros postos de trabalho isentos desse risco.
-
-4 - A colocação dos trabalhadores referidos no número anterior noutros postos de trabalho que apresentem um risco de exposição menor só pode efectivar-se após parecer favorável do médico responsável pela vigilância da saúde, devendo, neste caso, ser submetidos a vigilância mais frequente.
-
-5 - Os trabalhadores que se encontrem nas situações previstas nos números anteriores, bem como o empregador, podem solicitar a qualquer momento a revisão das taxas de plumbémia.
-
-6 - Constitui contra-ordenação muito grave a violação do disposto nos n.os 1, 2 e 4.
+*(Revogado)* — *Revogado pelo/a Artigo 11.º do/a Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22, em vigor a partir de 2026-11-02.*
 
 #### Artigo 22.º — Vigilância da saúde dos trabalhadores expostos ao chumbo
 
-1 - Sem prejuízo da obrigatoriedade de exames complementares prescritos pelo médico responsável pela vigilância da saúde, os exames médicos devem, no mínimo, conter:
-
-a) A história clínica detalhada e os antecedentes profissionais relacionados com o risco;
-
-b) O estudo hematológico e das funções renal e hepática, assim como do sistema nervoso central e periférico.
-
-2 - O controlo biológico compreende a determinação de chumbo no sangue (plumbémia, PbB) e, sempre que o médico responsável pela vigilância da saúde o prescreva, a determinação da protoporfirina de zinco no sangue (ZPP), do ácido delta-aminolevulínico na urina (ALAU) e da desidratase do ácido delta-aminolevulínico no sangue (ALAD).
-
-3 - Sempre que os trabalhadores tenham estado sujeitos a exposição elevada num período de tempo inferior a um mês, a determinação de chumbo no sangue pode ser substituída pela do nível de ácido delta-aminolevulínico na urina.
-
-4 - A determinação dos valores dos diferentes indicadores biológicos deve basear-se em métodos publicados em bibliografia técnica e validados pelo laboratório de ensaio, devendo a metodologia seguida e respectivos limiares analíticos, limites de detecção e quantificação, ser indicados com a apresentação dos resultados.
-
-5 - A incerteza associada ao resultado analítico deve ser calculada para um nível de confiança de 95 %.
-
-6 - A vigilância da saúde dos trabalhadores expostos ao chumbo é efectuada quando:
-
-a) A exposição a uma concentração de chumbo no ar seja superior ao valor indicado no n.º 1 do artigo 19.º;
-
-b) A detecção de uma concentração de chumbo no sangue dos trabalhadores seja superior a 40 (mi)g Pb/100 ml.
-
-7 - O empregador promove a realização de exames médicos ocasionais sempre que se verifique uma das seguintes situações:
-
-a) O trabalhador exposto os solicite;
-
-b) O médico responsável pela vigilância da saúde os considere convenientes;
-
-c) Tenham decorrido três meses após a colocação do trabalhador em posto de trabalho exposto ao risco.
-
-8 - A periodicidade dos exames médicos e do controlo biológico deve ser trimestral quando a taxa individual de plumbémia for superior a 60 (mi)g/100 ml de sangue ou a exposição profissional ao chumbo for superior a 0,1 mg/m3 e sempre que sejam ultrapassados os valores limite referidos nos anexos i e ii.
-
-9 - A periodicidade do controlo biológico pode ser anual, desde que se verifiquem simultaneamente as seguintes condições:
-
-a) A exposição profissional ao chumbo não ultrapasse o valor indicado no n.º 1 do artigo 19.º;
-
-b) A taxa individual de plumbémia não seja superior a 40 (mi)g/100 ml.
-
-10 - Sem prejuízo do disposto no n.º 6, os exames médicos periódicos devem ser realizados anualmente.
-
-11 - O controlo biológico deve ser realizado de seis em seis meses, salvo nos casos referidos nos n.os 6 e 7.
-
-12 - O médico responsável pela vigilância da saúde deve ter acesso a todos os dados informativos que se tornem necessários para a avaliação da exposição dos trabalhadores ao chumbo, incluindo os resultados do controlo da concentração de chumbo no ar.
-
-13 - Constitui contra-ordenação grave a violação do disposto nos n.os 5 a 11.
+*(Revogado)* — *Revogado pelo/a Artigo 11.º do/a Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22, em vigor a partir de 2026-11-02.*
 
 ## Capítulo III — Disposições finais
 

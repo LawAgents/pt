@@ -9,10 +9,10 @@ date: 2010-04-29
 issuer: "Ministério das Obras Públicas, Transportes e Comunicações"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2010-06-28
+last_amended: 2026-10-22
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-70916272"
 original_pdf: "https://files.diariodarepublica.pt/1s/2010/04/08301/0000201972.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Regula o transporte terrestre, rodoviário e ferroviário, de mercadorias perigosas, transpondo para a ordem jurídica interna a Directiva n.º 2006/90/CE , da Comissão, de 3 de Novembro, e a Directiva n.º 2008/68/CE , do Parlamento Europeu e do Conselho, de 24 de Setembro"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-41-a-2010"
@@ -21,7 +21,7 @@ part: "Diploma de aprovação"
 
 # Decreto-Lei n.º 41-A/2010, de 29 de abril — Diploma de aprovação
 
-Decreto-Lei n.º 41-A/2010, de 29 de Abril
+, de 29 de Abril
 
 O transporte de mercadorias perigosas por via terrestre apresenta riscos de acidentes consideráveis, pelo que deve ser assegurado que tais transportes sejam realizados nas melhores condições de segurança possíveis, minimizando o risco de acidentes, bem como melhorando os níveis de qualidade daqueles transportes.
 
@@ -45,23 +45,25 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ### Artigo 1.º — Objecto
 
-1 - O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º 2006/90/CE, da Comissão, de 3 de Novembro, e a Directiva n.º 2008/68/CE, do Parlamento Europeu e do Conselho, de 24 de Setembro, relativa ao transporte terrestre de mercadorias perigosas.
+1 - O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva 2008/68/CE do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, relativa ao transporte terrestre de mercadorias perigosas, e a Diretiva (UE) 2022/1999 do Parlamento Europeu e do Conselho, de 19 de outubro de 2022, alterada pela Decisão (UE) 2024/1254 do Parlamento Europeu e do Conselho, de 24 de abril de 2024, e pela Diretiva Delegada (UE) 2025/1801 da Comissão, de 23 de junho de 2025, relativa a procedimentos uniformes de controlo do transporte rodoviário de mercadorias perigosas, que revoga a Diretiva 95/50/CE do Conselho, de 6 de outubro de 1995.
 
 2 - O presente decreto-lei aplica-se às operações de transporte de mercadorias perigosas, incluindo as operações de carga e de descarga, as transferências de um modo de transporte para outro e as paragens exigidas pelas condições do transporte, realizadas nas vias do domínio público, bem como em quaisquer outras vias abertas ao trânsito público, excluindo-se as operações realizadas unicamente dentro do perímetro de uma ou várias empresas sem utilização de vias abertas ao trânsito público.
 
-3 - As disposições constantes do anexo i do presente decreto-lei, do qual faz parte integrante, aplicam-se ao transporte rodoviário de mercadorias perigosas.
+3 - As disposições constantes do anexo i a que se refere o artigo 20.º-C, que respeita à regulamentação do transporte de mercadorias perigosas por estrada, aplicam-se ao transporte rodoviário de mercadorias perigosas.
 
-4 - As disposições constantes do anexo ii do presente decreto-lei, do qual faz parte integrante, aplicam-se ao transporte ferroviário de mercadorias perigosas.
+4 - As disposições constantes do anexo ii a que se refere o artigo 20.º-C, que respeita à regulamentação do transporte de mercadorias perigosas por caminho-de-ferro, aplicam-se ao transporte ferroviário de mercadorias perigosas.
 
 5 - Os requisitos específicos de segurança para as operações de transporte nacional e internacional de mercadorias perigosas realizadas no território nacional são definidos por decreto regulamentar, no que diz respeito:
 
-a) Ao transporte de mercadorias perigosas por veículos ou vagões não abrangidos pelo presente decreto-lei, de acordo com as definições constantes das alíneas e) e f) do artigo 2.º;
+a) Ao transporte de mercadorias perigosas por veículos ou vagões não abrangidos pelo presente decreto-lei, de acordo com as definições constantes das alíneas f) e g) do artigo 2.º;
 
 b) À eventual utilização de itinerários prescritos, incluindo a utilização de modos de transporte prescritos;
 
 c) Às normas especiais para o transporte das mercadorias perigosas em comboios de passageiros.
 
 6 - As eventuais restrições, exclusivamente por motivos que não se prendam com a segurança durante o transporte, aplicáveis ao transporte de mercadorias perigosas no território nacional, são definidas por decreto regulamentar.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800), em vigor a partir de 2026-11-02.*
 
 ### Artigo 2.º — Definições
 
@@ -75,9 +77,13 @@ c) «Mercadorias perigosas» quaisquer matérias, objectos, soluções ou mistur
 
 d) «RID» o regulamento relativo ao transporte internacional ferroviário de mercadorias perigosas, constante do apêndice C da Convenção Relativa aos Transportes Internacionais Ferroviários (COTIF), concluída em Vilnius em 3 de Junho de 1999, e que foi aprovada para adesão pelo Decreto n.º 3/2004, de 25 de Março;
 
-e) «Vagão» qualquer veículo ferroviário desprovido de meios de tracção, apto a circular com as suas próprias rodas sobre vias férreas e destinado a transportar mercadorias;
+e) «Unidade de transporte», automóvel ao qual não está atrelado nenhum reboque nem semirreboque ou um conjunto de veículos constituído por um automóvel e reboque ou semirreboque;
 
-f) «Veículo» qualquer veículo a motor destinado a circular na via pública, tendo, pelo menos, quatro rodas e uma velocidade máxima de projecto superior a 25 km/h, bem como quaisquer reboques, à excepção dos veículos que se deslocam sobre carris, das máquinas móveis e dos tractores agrícolas e florestais, desde que não atinjam uma velocidade superior a 40 km/h ao transportarem mercadorias perigosas.
+f) «Vagão» qualquer veículo ferroviário desprovido de meios de tracção, apto a circular com as suas próprias rodas sobre vias férreas e destinado a transportar mercadorias;
+
+g) «Veículo» qualquer veículo a motor destinado a circular na via pública, tendo, pelo menos, quatro rodas e uma velocidade máxima de projecto superior a 25 km/h, bem como quaisquer reboques, à excepção dos veículos que se deslocam sobre carris, das máquinas móveis e dos tractores agrícolas e florestais, desde que não atinjam uma velocidade superior a 40 km/h ao transportarem mercadorias perigosas.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800), em vigor a partir de 2026-11-02.*
 
 ### Artigo 3.º — Restrições por razões de segurança do transporte
 
@@ -171,15 +177,119 @@ e) Autoridade de Segurança Alimentar e Económica.
 
 2 - As autoridades fiscalizadoras têm acesso a todos os elementos relevantes para a segurança do transporte, nomeadamente no que respeita às embalagens, às cisternas, aos contentores, aos veículos e aos vagões, às mercadorias e à documentação relacionada com o transporte ou com as mercadorias transportadas, podendo ainda efectuar acções de fiscalização nas instalações dos intervenientes nas operações de transporte, quer a título preventivo quer na sequência de infracções detectadas na realização do transporte.
 
-3 - Na fiscalização realizada no decurso do transporte rodoviário é utilizada a lista de controlo que constitui o anexo iv do presente decreto-lei, do qual faz parte integrante, devendo o agente da autoridade entregar um duplicado da lista de controlo ao condutor do veículo fiscalizado.
+3 - Na fiscalização realizada no decurso do transporte rodoviário é utilizada a lista de controlo que constitui o anexo iv a que se refere o n.º 3 do artigo 20.º-C, devendo o agente da autoridade entregar um duplicado da lista de controlo ao condutor do veículo fiscalizado.
 
-4 - No preenchimento da lista de controlo a que se refere o número anterior, as autoridades fiscalizadoras classificam as infracções verificadas nas categorias de risco i, ii ou iii, consoante as obrigações incumpridas, nos seguintes termos:
+4 - No preenchimento da lista de controlo a que se refere o número anterior, as autoridades fiscalizadoras classificam as infrações verificadas nas categorias de risco i, ii ou iii, nos termos previstos nos n.os 5 a 10.
 
-a) Na categoria de risco i, o incumprimento das obrigações previstas nas alíneas a), a f) e i) do n.º 1, nas alíneas a) e b) do n.º 2, nas alíneas a), b), d), e), h), l), m) e n) do n.º 4 e nos n.os 6, 7, 9, 10 e 11 do artigo 13.º, que deve conduzir à adopção imediata das medidas correctivas adequadas, designadamente à imobilização do veículo;
+5 - A categoria de risco i diz respeito a infrações às disposições do ADR que acarretem um risco elevado de morte, lesões corporais graves ou danos significativos para o ambiente, devendo, quando observadas durante os controlos na estrada, conduzir à aplicação de medidas corretivas imediatas e adequadas, como a imobilização do veículo, e, quando observadas durante os controlos nas instalações, estar sujeitas a outras medidas adequadas.
 
-b) Na categoria de risco ii, o incumprimento das obrigações previstas nas alíneas g) e h) do n.º 1, nas alíneas c), d) e e) do n.º 2, no n.º 3, nas alíneas c), f) e j) do n.º 4, e nas alíneas a) e b) do n.º 5 do artigo 13.º, que deve conduzir à adopção das medidas correctivas apropriadas, tais como, se possível e adequado, a exigência de rectificação no local do controlo ou, o mais tardar, aquando da conclusão da operação de transporte em curso;
+6 - São infrações referentes à categoria de risco i as seguintes:
 
-c) Na categoria de risco iii, o incumprimento das obrigações previstas na alínea j) do n.º 1 e nas alíneas g) e i) do n.º 4 do artigo 13.º e ainda a não exibição, no acto da fiscalização, dos documentos a que se referem as alíneas b) e g) do n.º 1 e as alíneas b) e h) do n.º 4 do artigo 13.º, que pode conduzir a medidas correctivas a ser adoptadas posteriormente nas instalações da empresa.
+a) O transporte de mercadorias perigosas cujo transporte seja proibido;
+
+b) O transporte de mercadorias perigosas num meio de contenção proibido ou não aprovado, que ponha em perigo vidas humanas ou o ambiente de tal forma que seja tomada a decisão de imobilizar o veículo;
+
+c) O transporte de mercadorias perigosas sem identificação no veículo, quando aplicável, pondo em perigo vidas humanas ou o ambiente de tal forma que seja tomada a decisão de imobilizar o veículo;
+
+d) A fuga ou derrame de mercadorias perigosas;
+
+e) A utilização de um meio de acondicionamento proibido;
+
+f) O transporte a granel num contentor estruturalmente inadequado para essa utilização;
+
+g) O transporte em veículo que não disponha de um certificado de aprovação adequado;
+
+h) O transporte em veículo que deixou de satisfazer as normas de aprovação e constitui um perigo imediato;
+
+i) A utilização de volumes, cisternas, contentores ou veículos não aprovados;
+
+j) A utilização de embalagens não conformes com as instruções de embalagem aplicáveis e a utilização de cisternas, veículos e contentores não conformes com as disposições aplicáveis;
+
+k) O incumprimento das disposições especiais relativas à embalagem em comum;
+
+l) O incumprimento das regras relativas à fixação e estiva das cargas;
+
+m) O incumprimento das regras relativas aos géneros alimentares, outros objetos de consumo e alimentos para animais;
+
+n) O incumprimento das regras que regem o carregamento em comum de volumes;
+
+o) O incumprimento das disposições que limitam as quantidades autorizadas para o transporte numa única unidade de transporte, incluindo os graus e taxas admissíveis de enchimento das cisternas ou volumes;
+
+p) O transporte de mercadorias perigosas sem os documentos necessários disponíveis no interior da cabina da tripulação, ou acessíveis e em local seguro a bordo da unidade de transporte, conforme aplicável ou num formato eletrónico adequado, se permitido;
+
+q) O transporte de mercadorias perigosas em volumes que não ostentem a marcação, a etiquetagem ou outros sinais de identificação necessários;
+
+r) O transporte de mercadorias perigosas sem qualquer sinalização, marcação (incluindo a sinalização com painéis laranja) ou outros sinais de identificação no veículo;
+
+s) Informação incompleta ou incorreta sobre a mercadoria transportada que permita determinar uma infração correspondente à categoria de risco i (designadamente, número ONU, designação oficial de transporte ou grupo de embalagem, quando aplicável);
+
+t) O motorista não possuir certificado de formação profissional válido;
+
+u) A utilização de fogo ou equipamento de iluminação não protegido;
+
+v) O incumprimento da proibição de fumar;
+
+w) A não nomeação de um conselheiro de segurança para cada empresa, quando tal for exigido;
+
+x) O incumprimento das disposições relativas à segurança pública referidas no capítulo 1.10, quando tal for exigido.
+
+7 - A categoria de risco ii diz respeito a infrações às disposições do ADR que acarretem um risco de lesões corporais ou de danos para o ambiente, devendo, quando observadas durante os controlos na estrada, conduzir a medidas corretivas adequadas, como a retificação no local, sempre que possível, ou o mais tardar após a conclusão da operação de transporte em curso, e, quando observadas durante os controlos nas instalações, estão normalmente sujeitas a outras medidas adequadas.
+
+8 - São infrações referentes à categoria de risco ii as seguintes:
+
+a) A operação de uma unidade de transporte com mais de um reboque/semirreboque;
+
+b) A operação de um veículo que não satisfaz as normas de aprovação, mas que não apresenta perigo imediato;
+
+c) O incumprimento dos requisitos estabelecidos para os extintores de incêndio a bordo de um veículo, conforme exigido, ou equipamento de combate a incêndios não conforme com disposições específicas;
+
+d) O incumprimento do equipamento prescrito de acordo com o ADR ou as instruções escritas a bordo de um veículo;
+
+e) O incumprimento das datas de ensaio e de inspeção e dos períodos de utilização das embalagens, dos grandes recipientes para granel (GRG), das grandes embalagens, das cisternas, dos veículos ou dos contentores;
+
+f) O transporte de volumes com embalagens, GRG ou grandes embalagens danificadas, ou transporte de embalagens vazias danificadas e por limpar;
+
+g) O transporte das mercadorias embaladas num veículo ou contentor estruturalmente inadequado para tal fim;
+
+h) O não fechar corretamente cisternas/contentores-cisterna, veículos, contentores ou volumes, incluindo os que estão vazios e por limpar;
+
+i) Os volumes, cisternas, veículos ou contentores apresentarem etiquetagem, marcação, sinalização ou outros sinais de identificação incorretos;
+
+j) A inexistência de instruções escritas adequadas em conformidade com o ADR;
+
+k) A falta de supervisão ou o estacionamento inadequado de um veículo;
+
+l) O transporte de pessoas, com exceção dos tripulantes, em unidades de transporte que transportem mercadorias perigosas;
+
+m) O incumprimento das disposições regulamentares previstas na secção 7.5.10, relativas às medidas a tomar para evitar a acumulação de cargas eletrostáticas durante as operações de enchimento e descarga;
+
+n) O incumprimento das disposições regulamentares relativas à chegada aos locais de carga e descarga;
+
+o) O incumprimento das disposições regulamentares relativas ao papel, aos deveres e aos certificados do conselheiro de segurança para cada empresa, quando tal for exigido;
+
+p) O incumprimento das disposições regulamentares relativas ao período mínimo de retenção do documento de transporte de mercadorias perigosas e às informações e documentação adicionais especificadas;
+
+q) O incumprimento das disposições regulamentares relativas à formação das pessoas envolvidas no transporte de mercadorias perigosas;
+
+r) A não apresentação dos documentos e/ou relatórios exigidos às autoridades competentes.
+
+9 - A categoria de risco iii diz respeito a infrações às disposições do ADR que acarretem um risco reduzido de lesões corporais ou de danos para o ambiente e relativamente às quais as medidas corretivas adequadas não necessitam de ser tomadas no local do controlo na estrada, podendo ser adotadas posteriormente pela empresa, e se forem observadas durante os controlos nas instalações, estão normalmente sujeitas a outras medidas adequadas.
+
+10 - São infrações referentes à categoria de risco iii as seguintes:
+
+a) O incumprimento da regulamentação relativa à dimensão da sinalização ou das etiquetas ou ao tamanho das letras, algarismos ou símbolos apostos na sinalização ou nas etiquetas;
+
+b) Informações, com exceção das informações abrangidas pela categoria de risco i, não disponíveis na documentação de transporte;
+
+c) A não apresentação do certificado de formação a bordo do veículo, mas comprovativo de que o condutor o detém;
+
+d) A não apresentação de um meio de identificação, com fotografia, por cada tripulante do veículo;
+
+e) A colocação incorreta de sinalização e marcação (incluindo a marcação com painéis laranja) ou outros sinais de identificação;
+
+f) A apresentação tardia dos documentos e/ou relatórios exigidos às autoridades competentes.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800), em vigor a partir de 2026-11-02.*
 
 ### Artigo 13.º — Obrigações dos intervenientes no transporte
 
@@ -189,15 +299,15 @@ a) Expedir apenas mercadorias perigosas cujo transporte não esteja expressament
 
 b) Expedir mercadorias perigosas com autorização especial de transporte ou autorização de derrogação, quando os anexos i e ii o exijam;
 
-c) Classificar correctamente as mercadorias perigosas e emitir o respectivo documento de transporte;
+c) Classificar corretamente as mercadorias perigosas e emitir o respetivo documento de transporte, conservando cópia do mesmo, bem como das informações e da documentação suplementares previstas nos anexos i e ii a que se refere o artigo 20.º-C, pelo período mínimo de três meses, sem prejuízo do disposto no artigo 11.º-A;
 
 d) Preencher de forma correcta e completa o documento de transporte, no que se refere ao número ONU e à designação oficial de transporte da mercadoria perigosa transportada, bem como no que se refere às etiquetas, ao código de classificação, ao grupo de embalagem e ao código de restrição em túneis, quando os anexos i e ii o exijam;
 
-e) Utilizar embalagens aprovadas, adequadas à matéria transportada, evidenciando a respectiva marcação de aprovação e sem deterioração grave, e respeitar as taxas máximas de enchimento das embalagens e a proibição de embalagem em comum num mesmo volume;
+e) Utilizar embalagens adequadas à matéria transportada e respeitar as taxas máximas de enchimento ou o grau de enchimento das embalagens, conforme aplicável, e a proibição de embalagem em comum num mesmo volume, e, quando obrigatório, utilizar embalagens aprovadas, evidenciando as respetivas marcas de aprovação e de inspeção válidas;
 
-f) Utilizar cisternas desmontáveis, CGEM, cisternas móveis ONU, contentores-cisternas e contentores para granel admitidos para o transporte em causa;
+f) Utilizar cisternas desmontáveis, CGEM, cisternas móveis ONU, contentores-cisterna, caixas móveis cisterna, contentores para transporte a granel e contentores-saco admitidos para o transporte em causa;
 
-g) Utilizar cisternas desmontáveis, CGEM, cisternas móveis ONU, contentores-cisternas e contentores para granel aprovados, com os equipamentos e acessórios adequados, sem deterioração grave, bem como fornecer ao transportador o documento de aprovação dos reservatórios das cisternas em causa ou garantir que existam outros meios de evidência da respectiva aprovação;
+g) Utilizar cisternas desmontáveis, CGEM, cisternas móveis ONU, contentores-cisterna, caixas móveis cisterna e contentores para transporte a granel aprovados, com os equipamentos e acessórios adequados, sem deterioração grave, evidenciando as respetivas marcas de aprovação e de inspeção válidas;
 
 h) Cumprir as prescrições sobre a marcação e etiquetagem dos volumes;
 
@@ -225,13 +335,13 @@ a) Utilizar apenas veículos ou vagões admitidos e que cumpram as condições t
 
 b) Garantir a existência a bordo do certificado de aprovação do veículo, correspondendo às prescrições estabelecidas para o transporte em causa;
 
-c) Fornecer instruções escritas (fichas de segurança) aos membros da tripulação do veículo, antes do início da viagem numa língua que cada um possa ler e entender;
+c) Fornecer instruções escritas aos membros da tripulação do veículo ou aos maquinistas do comboio, antes do início da viagem e numa língua que cada um possa ler e entender, as quais devem ser guardadas num local acessível, no interior da cabina da tripulação ou no interior da cabina do maquinista;
 
 d) Realizar o transporte em embalagens, cisternas ou contentores para granel que não apresentem fugas da matéria transportada, bem como realizar o transporte em veículos-cisternas ou vagões-cisternas com os equipamentos e acessórios adequados e sem deterioração grave;
 
-e) Garantir a existência da sinalização adequada nos veículos, vagões ou cisternas, no que se refere aos painéis cor-de-laranja e às placas-etiquetas;
+e) Garantir a existência da sinalização adequada nos veículos, vagões ou cisternas, no que se refere aos painéis cor de laranja, às placas-etiquetas, às marcas e aos sinais de alerta, bem como as respetivas marcas de aprovação e inspeção dos reservatórios das cisternas dos veículos-cisterna e dos veículos-bateria;
 
-f) Garantir a existência dos extintores adequados correspondentes ao veículo ou à carga, operacionais, e dentro da respectiva validade;
+f) Garantir a existência dos extintores adequados correspondentes ao veículo ou à carga, operacionais, dentro da respetiva validade, selados e colocados em local acessível pela tripulação e que lhes confira proteção contra fenómenos climatéricos;
 
 g) Garantir a existência dos equipamentos de protecção geral e individual do veículo e da sua tripulação, aplicáveis de acordo com as instruções escritas (fichas de segurança);
 
@@ -245,7 +355,11 @@ l) Garantir a existência a bordo dos veículos de um documento de identificaç�
 
 m) Garantir, em caso de transporte de mercadorias perigosas de alto risco, a existência e operacionalidade de dispositivos, equipamentos ou sistemas de protecção que impeçam o roubo do veículo, do vagão ou da carga;
 
-n) Não utilizar a bordo dos veículos aparelhos de iluminação com chama ou susceptíveis de produzir faíscas.
+n) Não utilizar a bordo dos veículos aparelhos de iluminação com chama ou susceptíveis de produzir faíscas;
+
+o) Garantir a existência dos documentos obrigatórios para o transporte no interior da cabina da tripulação, ou acessível e em local seguro a bordo da unidade de transporte, conforme aplicável;
+
+p) Garantir que a unidade de transporte não tem mais do que um reboque ou semirreboque, salvo nas situações previstas no Decreto-Lei n.º 132/2017, de 11 de outubro.
 
 5 - Constituem obrigações do destinatário, nos termos dos anexos i e ii:
 
@@ -255,9 +369,9 @@ b) Cumprir as normas de proibição da descarga em locais públicos ou aglomerad
 
 6 - Constitui obrigação comum do carregador e do transportador, nos termos dos anexos i e ii, respeitar o limite máximo de quantidades transportadas, específico do transporte de mercadorias perigosas, no transporte em volumes.
 
-7 - Constitui obrigação comum do enchedor e do transportador, nos termos dos anexos i e ii, respeitar as taxas máximas de enchimento, específicas do transporte de mercadorias perigosas, no transporte em cisternas.
+7 - Constitui obrigação comum do enchedor e do transportador, nos termos dos anexos i e ii a que se refere o artigo 20.º-C, respeitar as taxas de enchimento ou o grau de enchimento, conforme aplicável, específicos do transporte de mercadorias perigosas, no transporte em cisternas.
 
-8 - Constituem obrigações do embalador, do carregador, do enchedor, do transportador ou do destinatário, consoante o caso, nos termos dos anexos i e ii:
+8 - Constituem obrigações do embalador, do carregador, do enchedor, do expedidor, do transportador ou do descarregador, consoante o caso, nos termos dos anexos i e ii a que se refere o artigo 20.º-C:
 
 a) Nomear um ou mais conselheiros de segurança, quando a empresa não esteja isenta de tal obrigação;
 
@@ -267,7 +381,7 @@ c) Garantir a existência e a adequação do certificado de formação do consel
 
 d) Garantir a elaboração do relatório anual de segurança por parte do conselheiro de segurança nomeado, o mais tardar até ao dia 31 de Março do ano seguinte a que respeita, de acordo com modelo definido por deliberação do conselho directivo do IMTT, I. P.;
 
-e) Garantir a elaboração da documentação escrita sobre acções de formação e procedimentos de emergência, por parte do conselheiro de segurança nomeado;
+e) Garantir a formação adequada das pessoas intervenientes no transporte de mercadorias perigosas, conforme o previsto nos capítulos 1.3 e 1.10 dos anexos i e ii, e na secção 8.2.5 do anexo i a que se refere o artigo 20.º-C, devendo manter por um período mínimo de cinco anos os registos da formação recebida pelos intervenientes no transporte de mercadorias perigosas, bem como da documentação escrita sobre procedimentos de emergência;
 
 f) Garantir a elaboração dos relatórios de acidente por parte do conselheiro de segurança nomeado, de acordo com os critérios e modelos definidos por despacho do presidente da Autoridade Nacional de Protecção Civil, no prazo de 20 dias úteis a contar da data da ocorrência do acidente;
 
@@ -275,7 +389,7 @@ g) Remeter à Autoridade Nacional de Protecção Civil cópia dos relatórios de
 
 9 - Constitui obrigação do proprietário das instalações, cais de acostagem ou gares de triagem, utilizados para permanência temporária de veículos ou vagões durante o transporte de mercadorias perigosas, nos termos dos anexos i e ii, garantir que as zonas de permanência temporária se encontrem adequadamente controladas, bem iluminadas e não acessíveis ao público.
 
-10 - Constitui obrigação do expedidor, do embalador, do carregador, do enchedor, do transportador ou do destinatário, consoante o caso, nos termos dos anexos i e ii, garantir a adopção e aplicação do plano de protecção física para as mercadorias de alto risco.
+10 - Constitui obrigação do expedidor, do embalador, do carregador, do enchedor, do transportador, do descarregador, do destinatário ou do operador de contentor-cisterna ou de cisterna móvel, consoante o caso, nos termos dos anexos i e ii a que se refere o artigo 20.º-C, e do operador de vagão-cisterna, da entidade responsável pela manutenção ou do gestor da infraestrutura ferroviária, nos termos do anexo ii a que se refere o artigo 20.º-C, garantir a adoção e aplicação do plano de proteção física para as mercadorias perigosas de alto risco.
 
 11 - Constitui obrigação de qualquer pessoa, interveniente ou não no transporte, nos termos dos anexos i e ii, não abrir os volumes durante a carga, o transporte, a descarga ou qualquer manuseamento ou movimentação de mercadorias perigosas.
 
@@ -283,13 +397,17 @@ g) Remeter à Autoridade Nacional de Protecção Civil cópia dos relatórios de
 
 13 - Constitui obrigação comum do gestor da infra-estrutura ferroviária e do transportador, nos termos do anexo ii, elaborar planos de emergência internos para as gares de triagem e aplicar as respectivas medidas.
 
+14 - Constitui obrigação do gestor da infraestrutura ferroviária garantir a formação adequada das pessoas intervenientes no transporte de mercadorias perigosas, nos termos da alínea e) do n.º 8.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800), em vigor a partir de 2026-11-02.*
+
 ### Artigo 14.º — Contra-ordenações
 
 1 - O incumprimento das obrigações previstas no presente decreto-lei constitui contra-ordenação.
 
-2 - É punível com coima de (euro) 1000 a (euro) 3000 ou de (euro) 2000 a (euro) 6000, consoante se trate de pessoa singular ou colectiva, o incumprimento das obrigações previstas nas alíneas a) e i) do n.º 1, nas alíneas b) e l) do n.º 4, nas alíneas a) e c) do n.º 8 e nos n.os 9 e 10 do artigo 13.º
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação dos deveres de entidade formadora a que se refere o n.º 3 do artigo 10.º e o incumprimento das obrigações previstas nas alíneas a) e i) do n.º 1, nas alíneas b), l) e o) do n.º 4, nas alíneas a) e c) do n.º 8 e nos n.os 9, 10 e 14 do artigo 13.º
 
-3 - É punível com coima de (euro) 750 a (euro) 2250 ou de (euro) 1500 a (euro) 4500, consoante se trate de pessoa singular ou colectiva, o incumprimento das obrigações previstas nas alíneas b) a f) do n.º 1, nas alíneas a) e b) do n.º 2, nas alíneas a), d), e), h), m) e n) do n.º 4 e nos n.os 6, 7, 11 e 12 do artigo 13.º
+3 - Constitui contraordenação económica leve, punível nos termos do RJCE, o incumprimento das obrigações previstas nas alíneas b) a h) e j) do n.º 1, nas alíneas a) a e) do n.º 2, no n.º 3, nas alíneas a), c) a j), m), n) e p) do n.º 4, nas alíneas a) e b) do n.º 5, nos n.os 6 e 7, nas alíneas b) e d) a g) do n.º 8 e nos n.os 11, 12 e 13 do artigo 13.º
 
 4 - É punível com coima de (euro) 500 a (euro) 1500 ou de (euro) 1000 a (euro) 3000, consoante se trate de pessoa singular ou colectiva, o incumprimento das obrigações previstas na alínea g) do n.º 1, na alínea d) do n.º 2, na alínea c) do n.º 4, na alínea b) do n.º 5, nas alíneas d), e) e f) do n.º 8 e no n.º 13 do artigo 13.º
 
@@ -302,6 +420,10 @@ g) Remeter à Autoridade Nacional de Protecção Civil cópia dos relatórios de
 8 - Caso os documentos referidos nas alíneas b) e g) do n.º 1 e nas alíneas b) e h) do n.º 4 do artigo 13.º não sejam exibidos no acto da fiscalização, o valor das coimas aplicáveis por força dos n.os 2 a 4 do presente artigo, consoante o caso, é reduzido para (euro) 50 a (euro) 150 ou (euro) 100 a (euro) 300, tratando-se respectivamente de pessoa singular ou colectiva, se até ao termo do prazo fixado para o exercício do direito de audição e defesa no processo contra-ordenacional for comprovada a existência dos documentos.
 
 9 - A tentativa e a negligência são puníveis.
+
+10 - Caso os documentos referidos na alínea b) do n.º 1 e nas alíneas b) e h) do n.º 4 do artigo 13.º não sejam exibidos no ato da fiscalização, o valor das coimas aplicáveis por força dos n.os 2 a 4 do presente artigo, consoante o caso, é reduzido para 50 € a 150 € ou 100 € a 300 €, tratando-se respetivamente de pessoa singular ou coletiva, se até ao termo do prazo fixado para o exercício do direito de audição e defesa no processo contraordenacional for comprovada a existência dos documentos.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800), em vigor a partir de 2026-11-02.*
 
 ### Artigo 15.º — Infractores não domiciliados em Portugal
 
@@ -362,6 +484,18 @@ A representação no Comité para o Transporte de Mercadorias Perigosas a que se
 ### Artigo 20.º — Comissão Nacional do Transporte de Mercadorias Perigosas
 
 As alterações necessárias para adaptar os anexos i e ii ao progresso científico e técnico, nos domínios abrangidos pelo presente decreto-lei, nomeadamente para ter em conta as alterações aos ADR e RID e à Directiva n.º 2008/68/CE, do Parlamento Europeu e do Conselho, de 24 de Setembro, bem como os projectos das derrogações a que se referem os artigos 6.º a 9.º do presente decreto-lei, são estudados e propostos pela Comissão Nacional do Transporte de Mercadorias Perigosas, criada pelo despacho conjunto n.º 113-A/98, de 17 de Fevereiro.
+
+### Artigo 20.º-C — Anexos
+
+1 - Os anexos i e ii, aprovados por portaria do membro do Governo responsável pela área da mobilidade nos termos do artigo 3.º do Decreto-Lei n.º 99/2021, de 17 de novembro, correspondem aos anexos da Diretiva 2008/68/CE do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, os quais são atualizados de dois em dois anos, por ato delegado da Comissão Europeia, tendo em vista a adaptação dos referidos anexos ao progresso científico e técnico.
+
+2 - O anexo iii designa as autoridades competentes para execução dos anexos i e ii.
+
+3 - O anexo iv corresponde à lista de controlo constante dos anexos da Diretiva (UE) 2022/1999 do Parlamento Europeu e do Conselho, de 19 de outubro de 2022, alterada pela Decisão (UE) 2024/1254 do Parlamento Europeu e do Conselho de 24 de abril de 2024, e pela Diretiva Delegada (UE) 2025/1801 da Comissão, de 23 de junho de 2025, relativa a procedimentos uniformes de controlo do transporte rodoviário de mercadorias perigosas, e pelas alterações subsequentes, através de ato delegado a adotar pela Comissão Europeia.
+
+4 - Os anexos iii e iv revestem, por força do presente decreto-lei, natureza regulamentar, devendo ser aprovados por portaria do membro do Governo responsável pela área da mobilidade.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2026-1184326800), em vigor a partir de 2026-11-02.*
 
 ### Artigo 21.º — Taxas
 

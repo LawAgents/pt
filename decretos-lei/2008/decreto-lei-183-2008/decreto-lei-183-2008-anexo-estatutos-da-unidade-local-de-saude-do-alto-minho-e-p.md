@@ -9,10 +9,10 @@ date: 2008-09-04
 issuer: "Ministério da Saúde"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2009-08-04
+last_amended: 2015-01-26
 source: "https://diariodarepublica.pt/dr/detalhe/decreto-lei/2008-453991"
 original_pdf: "https://files.diariodarepublica.pt/1s/2008/09/17100/0622506233.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Cria a Unidade Local de Saúde do Alto Minho, E. P. E., a Unidade Local de Saúde do Baixo Alentejo, E. P. E., e a Unidade Local de Saúde da Guarda, E. P. E., e aprova os respectivos estatutos"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-183-2008"

@@ -12,7 +12,7 @@ text_version: "consolidado"
 last_amended: 2013-10-24
 source: "https://diariodarepublica.pt/dr/detalhe/decreto-lei/2007-641676"
 original_pdf: "https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf"
-retrieved: 2026-10-22
+retrieved: 2026-10-25
 summary: "Aprova o Regulamento Referente aos Bancos, à Sua Fixação e aos Apoios de Cabeça dos Automóveis, transpondo para a ordem jurídica interna a Directiva n.º 2005/39/CE, do Parlamento Europeu e do Conselho, de 7 de Setembro"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 ---
@@ -31,7 +31,7 @@ Este diploma está dividido em partes. Cada parte é um ficheiro; os números de
 
 - Assinatura (decreto-lei-336-2007-diploma-de-aprovacao.md)
 - Anexo — REGULAMENTO RELATIVO AOS BANCOS, À SUA FIXAÇÃO E AOS APOIOS DE CABEÇA DOS AUTOMÓVEIS (decreto-lei-336-2007-capitulo-i-a-anexo-vii-ensaios-e-instrumentos-de-utilizacao.md)
-  - Capítulo I — Disposições administrativas relativas (decreto-lei-336-2007-capitulo-i-a-anexo-vii-ensaios-e-instrumentos-de-utilizacao.md)
+  - Capítulo I — Disposições administrativas relativas à homologação CE (decreto-lei-336-2007-capitulo-i-a-anexo-vii-ensaios-e-instrumentos-de-utilizacao.md)
     - Secção I — Âmbito de aplicação e definição de veículo (decreto-lei-336-2007-capitulo-i-a-anexo-vii-ensaios-e-instrumentos-de-utilizacao.md)
     - Secção II — Pedido de homologação CE de um veículo e pedido de homologação CE como componente de um tipo de banco (decreto-lei-336-2007-capitulo-i-a-anexo-vii-ensaios-e-instrumentos-de-utilizacao.md)
     - Secção III — Homologação CE, modificação de modelos, alteração de homologações, conformidade da produção e marcações (decreto-lei-336-2007-capitulo-i-a-anexo-vii-ensaios-e-instrumentos-de-utilizacao.md)

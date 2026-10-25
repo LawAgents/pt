@@ -1,0 +1,71 @@
+---
+id: "portaria-857-1974"
+dre_id: "236082"
+title: "Portaria n.º 857/74, de 31 de dezembro"
+type: "Portaria"
+number: "857/74"
+year: 1974
+date: 1974-12-31
+issuer: "Ministério da Coordenação Interterritorial - Gabinete do Ministro"
+status: "em vigor"
+text_version: "original sem alterações"
+source: "https://diariodarepublica.pt/dr/detalhe/portaria/857-1974-236082"
+original_pdf: "https://files.diariodarepublica.pt/1s/1974/12/30302/00290029.pdf"
+retrieved: 2026-10-25
+summary: "Torna extensivo aos territórios ultramarinos o Decreto n.º 621-B/74, de 15 de Novembro"
+legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
+---
+
+# Portaria n.º 857/74, de 31 de dezembro
+
+Portaria n.º 857/74
+
+de 31 de Dezembro
+
+Tendo em atenção o artigo 1.º da Lei Constitucional n.º 3/74, de 14 de Maio;
+
+Nos termos do § 2.º do artigo 136.º da Constituição Política:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Coordenação Interterritorial:
+
+1.º É tornado extensivo aos territórios ultramarinos o Decreto-Lei n.º 621-B/74, de 15 de Novembro, passando as alíneas f) e n) do artigo 1.º e o n.º 1 do artigo 4.º a ter a seguinte redacção:
+
+Artigo 1.º ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Governador-Geral, secretário provincial, governador de província, secretário-geral, governador de distrito, governador civil e governador de distrito autónomo;
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) Comissário nacional, comissário nacional-adjunto e comissário provincial das extintas Mocidade Portuguesa e Mocidade Portuguesa Feminina;
+
+o) ...
+
+...
+
+Art. 4.º - 1. Os Tribunais da Relação, em Angola e Moçambique, e os tribunais de comarca com sede nas capitais dos outros territórios ultramarinos poderão, a requerimento dos interessados que tenham residência nas respectivas áreas, declarar não abrangidos pelas incapacidades previstas nos artigos 1.º e 2.º os que, anteriormente a 25 de Abril de 1974, hajam praticado actos de inequívoco repúdio do regime político deposto pelo Movimento das Forças Armadas ou se tenham conduzido em termos de a sua acção não constituir apoio efectivo a esse regime.
+
+2.º Esta portaria entra imediatamente em vigor.
+
+Ministério da Coordenação Interterritorial, 13 de Dezembro de 1974. - O Ministro da Coordenação Interterritorial, António de Almeida Santos.
+
+Para ser publicada nos Boletins Oficiais de todos os territórios ultramarinos. - Almeida Santos.

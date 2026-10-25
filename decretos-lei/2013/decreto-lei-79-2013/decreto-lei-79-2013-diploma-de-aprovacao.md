@@ -9,10 +9,10 @@ date: 2013-06-11
 issuer: "Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-04-23
+last_amended: 2026-09-16
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-74788790"
 original_pdf: "https://files.diariodarepublica.pt/1s/2013/06/11100/0324303254.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE , do Parlamento Europeu e do Conselho, de 8 de junho de 2011"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-79-2013"

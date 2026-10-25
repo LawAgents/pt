@@ -1,7 +1,7 @@
 ---
 id: "decreto-lei-79-2013-anexo-i-aplicacoes-isentas-da-restricao-prevista-no-n-1-do-a"
 dre_id: "496704"
-title: "Decreto-Lei n.º 79/2013, de 11 de junho — Anexo I — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º a Anexo IV —…"
+title: "Decreto-Lei n.º 79/2013, de 11 de junho — Anexo I — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º"
 type: "Decreto-Lei"
 number: "79/2013"
 year: 2013
@@ -9,22 +9,514 @@ date: 2013-06-11
 issuer: "Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-04-23
+last_amended: 2026-09-16
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-74788790"
 original_pdf: "https://files.diariodarepublica.pt/1s/2013/06/11100/0324303254.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), transpondo a Diretiva n.º 2011/65/UE , do Parlamento Europeu e do Conselho, de 8 de junho de 2011"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-79-2013"
-part: "Anexo I — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º a Anexo IV —…"
+part: "Anexo I — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º"
 ---
 
-# Decreto-Lei n.º 79/2013, de 11 de junho — Anexo I — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º a Anexo IV —…
+# Decreto-Lei n.º 79/2013, de 11 de junho — Anexo I — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º
 
 ## Anexo I — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º
 
-(ver documento original)
+<table style="background-color:rgb(255, 255, 255);border-color:rgb(0, 0, 0);" id="table001"><thead><tr><th style="border-width: 1px !important;border-style:solid !important;border-bottom-color:rgb(221, 221, 221);border-left-color:black;border-right-color:black;border-top-color:black;padding:0.5rem;" colspan="2">Isenção</th><th style="border-width: 1px !important;border-style:solid !important;border-bottom-color:rgb(221, 221, 221);border-left-color:black;border-right-color:black;border-top-color:black;padding:0.5rem;">Âmbito e período de aplicação</th><th style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;"> </th></tr></thead><tbody><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas fluorescentes de casquilho simples (compactas) — quantidade máxima (por elemento luminoso):<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;"></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(a)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para iluminação geral (&lt; 30 W): 2,5 mg. . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(b)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para iluminação geral (≥ 30 W e &lt; 50 W): 3,5 mg . . . . . . . . . . . <br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(c)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para iluminação geral (≥ 50 W e &lt; 150 W): 5 mg . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(d)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para iluminação geral (≥ 150 W): 15 mg . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(e)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">De forma circular ou quadrada e tubo de diâmetro não superior a 17 mm, para iluminação geral: 5 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(f)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para fins especiais: 5 mg<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;"></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(f)-I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para as lâmpadas concebidas para emitir principalmente luz no espetro ultravioleta: 5 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(f)-II<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para fins especiais: 5 mg . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2025.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">1(g)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Para iluminação geral (&lt; 30 W e vida útil igual ou superior a 20 000 h): 3,5 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de agosto de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(a)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas fluorescentes lineares de casquilho duplo, para iluminação geral — quantidade máxima (por lâmpada):<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;"></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(a)(1)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Fósforo tribanda com vida útil normal e tubo de diâmetro inferior a 9 mm (p. ex. T2): 4 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(a)(2)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Fósforo tribanda com vida útil normal e tubo de diâmetro não inferior a 9 mm e não superior a 17 mm (p. ex. T5): 3 mg<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de agosto de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(a)(3)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Fósforo tribanda com vida útil normal e tubo de diâmetro superior a 17 mm, mas não superior a 28 mm (p. ex. T8): 3,5 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de agosto de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(a)(4)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Fósforo tribanda com vida útil normal e tubo de diâmetro superior a 28 mm (p. ex. T12): 3,5 mg<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(a)(5)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Fósforo tribanda com vida útil longa (≥ 25 000h): 5 mg . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em outras lâmpadas fluorescentes – quantidade máxima (por lâmpada):<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;"></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)(1)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Lâmpadas lineares de halosfosfato com tubo de diâmetro superior a 28 mm (p. ex. T10 e T12): 10 mg<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caducou em 13 de abril de 2012<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)(2)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Lâmpadas não -lineares de halosfosfato (todos os diâmetros): 15 mg<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 13 de abril de 2016<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)(3)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Lâmpadas não lineares de fósforo tribanda com tubo de diâmetro superior a 17 mm (p. ex., T9): 15 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023; podem ser utilizados 10 mg por lâmpada de 25 de fevereiro de 2023 até 24 de fevereiro de 2025.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)(4)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Lâmpadas para outros fins de iluminação geral e para fins especiais (p. ex. lâmpadas de indução)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Sem limite de utilização até 31 de dezembro de 2011; podem utilizar -se 15 mg por lâmpada a partir de 1 de janeiro de 2012</td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)(4)- I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Lâmpadas para outros fins de iluminação geral e para fins especiais (p. ex., lâmpadas de indução): 15 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2025.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)(4)-II<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Lâmpadas que emitem principalmente luz no espetro ultravioleta: 15 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">2(b)(4)-III<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Lâmpadas de emergência: 15 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">3<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo (CCFL e EEFL) para fins especiais utilizadas em EEE colocados no mercado antes de 24 de fevereiro de 2022 — quantidade máxima (por lâmpada):<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;"></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">3(a)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Curtas (≤ 500 mm): 3,5 mg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2025.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">3(b)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Médias (&gt; 500 mm e ≤ 1 500 mm) 5 mg . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2025.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">3(c)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Longas (&gt; 1 500 mm): 13 mg . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2025.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(a)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em outras lâmpadas de descarga de baixa pressão — quantidade máxima (por lâmpada): 15 mg.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(a)-I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de descarga não fosfatadas de baixa pressão, em que a aplicação exige que a gama principal da saída espetral da lâmpada se situe no espetro ultravioleta: pode utilizar- -se até 15 mg de mercúrio por lâmpada.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(b)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de vapor de sódio de alta pressão, para iluminação geral — quantidade máxima (por elemento luminoso) em lâmpadas com índice de reprodução cromática elevado, Ra &gt; 80: P ≤ 105 W: podem ser utilizados 16 mg por elemento luminoso.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(b)-I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de vapor de sódio de alta pressão, para iluminação geral — quantidade máxima (por elemento luminoso) em lâmpadas com índice de reprodução cromática elevado, Ra &gt; 60: P ≤ 155 W: podem ser utilizados 30 mg por elemento luminoso.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(b)-II<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de vapor de sódio de alta pressão, para iluminação geral — quantidade máxima (por elemento luminoso) em lâmpadas com índice de reprodução cromática elevado, Ra &gt; 60: 155 W &lt; P ≤ 405 W: podem ser utilizados 40 mg por elemento luminoso.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(b)-III<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de vapor de sódio de alta pressão, para iluminação geral — quantidade máxima (por elemento luminoso) em lâmpadas com índice de reprodução cromática elevado, Ra &gt; 60: P ≤ 405 W: podem ser utilizados 40 mg por elemento luminoso.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2023.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(c)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em outras lâmpadas de vapor de sódio de alta pressão, para iluminação geral — quantidade máxima (por elemento luminoso):<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;"></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(c)-I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">P ≤ 155 W: 20 mg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(c)-II<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">155 W &lt; P ≤ 405 W: 25 mg . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(c)-III<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">P &gt; 405 W: 25 mg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(d)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de vapor de mercúrio de alta pressão (HPMV)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 13 de abril de 2015<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(e)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de halogeneto de metal (MH) . . . . . . . . .<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(f)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em outras lâmpadas de descarga para fins especiais não referidas especificamente no presente anexo</td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;"></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(f)-I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em outras lâmpadas de descarga para fins especiais não referidas especificamente no presente anexo.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2025<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(f)-II<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de vapor de mercúrio de alta pressão utilizadas em projetores em que é necessária uma potência de luz de saída ≥ 2000 lúmenes ANSI.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(f)-III<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas de vapor de sódio de alta pressão utilizadas para iluminação de horticultura.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(f)-IV<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em lâmpadas que emitem luz no espetro ultravioleta<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 24 de fevereiro de 2027.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">4(g)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Mercúrio em tubos luminosos de descarga artesanais para anúncios, iluminação decorativa ou arquitetónica, iluminação especializada e iluminação artística, com os seguintes teores máximos de mercúrio:<br/>a) 20 mg por par de elétrodos + 0,3 mg por centímetro de comprimento do tubo, sem, contudo, exceder 80 mg, para aplicações em espaços exteriores e em espaços interiores expostos a temperaturas inferiores a 20 °C;<br/>b) 15 mg por par de elétrodos + 0,24 mg por centímetro de comprimento do tubo, sem, contudo, exceder 80 mg, para todas as outras aplicações em espaços interiores.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 31 de dezembro de 2018</td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">5(a)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Chumbo em vidro de tubos de raios catódicos<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 31 de dezembro de 2018<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">5(b)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Chumbo em vidro de tubos de fluorescência – quantidade máxima: 0,2 % em massa<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca em 31 de dezembro de 2018<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">6(a)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Chumbo como elemento de liga em aço para maquinagem e em aço galvanizado, num teor ponderal não superior a 0,35 %<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca a 11 de dezembro de 2026.</td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">6(a)-I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Chumbo como elemento de liga em aço para maquinagem e em aço galvanizado, num teor ponderal não superior a 0,35 % (*)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca a 30 de junho de 2027 para todas as categorias.</td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">6(a)-II<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Chumbo como elemento de liga em componentes de aço galvanizado a quente pelo processo descontínuo, num teor ponderal não superior a 0,2 % (*)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca a 30 de junho de 2027 para todas as categorias.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">6(b)<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;">Chumbo como elemento de liga em alumínio, num teor ponderal não superior a 0,4 %<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-left-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">Caduca a 11 de junho de 2027.<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);border-width:0px;padding:0.5rem;vertical-align:top;"> </td></tr><tr><td style="border-width: 1px !important;border-style:solid !important;border-bottom-width:1px;border-color:rgb(0, 0, 0);border-right-width:1px;border-top-width:1px;padding:0.5rem;vertical-align:top;">6(b)-I<br/></td><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:0.5rem;vertical-align:top;"><div class="tableContent" id="DR_TABLE2"><table style="background-color:rgb(243, 246, 248);border-color:rgb(0, 0, 0);" id="table001"><tbody><tr><td style="border-width: 1px !important;border-style:solid !important;border-color:rgb(0, 0, 0);padding:10px;vertical-align:top;"><br/>Chumbo como elemento de liga em alumínio, num teor ponderal não superior a 0,4 %, desde que resulte da reciclagem de sucatas de alumínio que contenham chumbo (*)</td></tr></tbody></table>
 
+Caduca a 11 de dezembro de 2026, para as categorias 1 a 7 e 10.
+
+Caduca a 30 de junho de 2027, para as categorias 9 (instrumentos industriais de monitorização e controlo) e 11.
+
+6(b)-II
+
+Chumbo como elemento de liga em alumínio para maquinagem, num teor ponderal não superior a 0,4 % (*)
+
+Caduca a 11 de junho de 2027, para as categorias 1 a 7 e 10.
+
+Caduca a 30 de junho de 2027, para as categorias 9 (instrumentos industriais de monitorização e controlo) e 11 (*)
+
+6(b)-III
+
+| <br>Chumbo como elemento de liga em ligas de alumínio vazadas, num teor ponderal não superior a 0,3 %, desde que resulte da reciclagem de sucatas de alumínio que contenham chumbo (*) |
+|---|
+
+Caduca a 30 de junho de 2027, para as categorias 1 a 8, para a categoria 9, com exceção dos instrumentos industriais de monitorização e controlo, e para a categoria 10.
+
+6(c)
+
+Chumbo em ligas de cobre, num teor ponderal não superior a 4 % (*)
+
+Caduca a 30 de junho de 2027.
+
+7(a)
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %).
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 30 de junho de 2027.
+
+7(a)-I
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %)
+
+para interligações internas para fixação de pastilhas ou de outros componentes juntamente com uma pastilha numa montagem de semicondutores com correntes, estacionárias ou transitórias/de impulsos, iguais ou superiores a 0,1 A ou tensões de bloqueio superiores a 10 V, ou rebordos de pastilha superiores a 0,3 mm × 0,3 mm.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 31 de dezembro de 2027.
+
+7(a)-II
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %) para ligações integrais (ou seja, internas e externas) de pastilhas em componentes elétricos e eletrónicos, se estiverem preenchidas todas as seguintes condições:
+
+- a condutividade térmica do material curado/sinterizado é superior a 35 W/(m × K);
+
+- a condutividade elétrica do material curado/sinterizado é superior a 4,7 MS/m;
+
+- a temperatura de fusão da solda é superior a 260ºC.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 31 de dezembro de 2027.
+
+7(a)-III
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %) nas juntas de soldadura de primeiro nível (ligações internas ou integrais - ou seja, internas e externas) para o fabrico de componentes de modo que a subsequente montagem de componentes eletrónicos em subconjuntos (ou seja, módulos, placas de subcircuitos, substratos ou soldadura ponto a ponto) com uma solda secundária não provoque o refluxo da solda de primeiro nível. Esta subentrada exclui as aplicações de «pastilha» e a selagem hermética.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 31 de dezembro de 2027.
+
+7(a)-IV
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %) nas juntas de soldadura de segundo nível para a fixação de componentes a placas de circuitos impressos ou a armações de chumbo:
+
+1. em esferas de soldadura para a fixação de redes de esferas de cerâmica (BGA);
+
+2. em sobremoldagens plásticas de alta temperatura (superior a 220ºC).
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 31 de dezembro de 2027.
+
+7(a)-V
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %) como material de selagem hermética entre:
+
+1. um pacote ou ficha cerâmicos e um invólucro metálico;
+
+2. pontas de componentes e uma subparte interna.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 31 de dezembro de 2027.
+
+7(a)-VI
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %) para estabelecer ligações elétricas entre componentes de lâmpadas refletoras incandescentes para aquecimento por infravermelhos, lâmpadas de descarga de alta intensidade ou lâmpadas de forno.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 31 de dezembro de 2027.
+
+7(a)-VII
+
+Chumbo em soldas com alta temperatura de fusão (isto é, ligas com teor ponderal de chumbo igual ou superior a 85 %) para transdutores áudio cuja temperatura máxima de funcionamento seja superior a 200ºC.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pela isenção 24 do presente anexo) e caduca a 31 de dezembro de 2027.
+
+7(b)
+
+Chumbo em soldas para servidores, sistemas de armazenamento de dados, incluindo sistemas matriciais, equipamento de infraestrutura de rede para comutação, sinalização e transmissão e para gestão de redes de telecomunicações
+
+7(c)-I
+
+Componentes elétricos e eletrónicos com chumbo, em vidros ou materiais cerâmicos diversos de materiais cerâmicos de condensadores (p. ex. dispositivos piezoeletrónicos) ou numa matriz de vidro ou cerâmica.
+
+Aplica-se a todas as categorias e caduca a 30 de junho de 2027.
+
+7(c)-II
+
+Chumbo em materiais cerâmicos dielétricos de condensadores com tensão nominal de 125 V CA, 250 V CC ou superior.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pelas isenções 7 c)-I ou 7 c)-IV) e caduca a 31 de dezembro de 2027.
+
+7(c)-III
+
+Chumbo em materiais cerâmicos dielétricos de condensadores com tensão nominal inferior a 125 V AC ou 250 V DC
+
+Caducou em 1 de janeiro de 2013; após esta data, pode ser utilizado em peças sobresselentes de equipamentos elétricos e eletrónicos colocados no mercado antes de 1 de janeiro de 2013
+
+7 (c)-IV
+
+Chumbo em materiais cerâmicos dielétricos de PZT para condensadores incorporados em circuitos integrados ou em semicondutores discretos.
+
+Caduca em: — 21 de julho de 2021, para as categorias 1 a 7 e 10; — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e
+
+7 (c)-V
+
+Componentes elétricos e eletrónicos com chumbo em vidros ou numa matriz de vidro que cumpra uma das seguintes funções:
+
+1) para proteção e isolação elétrica em esferas de vidro de díodos de alta tensão e camadas de vidro para bolachas;
+
+2) para selagem hermética entre partes cerâmicas, metálicas e/ou de vidro;
+
+3) para efeitos de ligação numa janela de parâmetros de processo de temperatura inferior a 500ºC combinada com uma viscosidade de 1013,3 dPa.s («temperatura de transição do vidro»);
+
+4) para utilização como material resistivo, como a tinta, com uma resistividade compreendida entre 1 ohm/quadrado e 100 megaohm/quadrado, excluindo os potenciómetros trimmer;
+
+5) para utilização em superfícies de vidro quimicamente modificadas para placas de microcanais, multiplicadores de eletrões de canal único e produtos de vidro resistivo.
+
+Aplica-se a todas as categorias e caduca a 31 de dezembro de 2027.
+
+7 (c)-VI
+
+Componentes elétricos e eletrónicos com chumbo em materiais cerâmicos que cumpram uma das seguintes funções:
+
+1) para utilização em materiais cerâmicos de titanato de zircónio piezoelétrico;
+
+2) para dar ao material cerâmico um coeficiente de temperatura positivo.
+
+Aplica-se a todas as categorias (com exceção das aplicações abrangidas pelas isenções 7 c)-II, 7 c)-III e 7 c-IV) do presente anexo, bem como das aplicações abrangidas pelo ponto 14 do anexo II, e caduca a 31 de dezembro de 2027. 8(a)
+
+Cádmio e seus compostos em dispositivos de corte térmico de disparo único do tipo pellet
+
+Caducou em 1 de janeiro de 2012; após esta data, pode ser utilizado em peças sobresselentes de equipamentos elétricos e eletrónicos colocados no mercado antes de 1 de janeiro de 2012
+
+8(b)
+
+Cádmio e seus compostos em contactos elétricos.
+
+Aplica -se às categorias 8, 9 e 11 e caduca em: — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11.
+
+8(b)-I
+
+Cádmio e seus compostos em contactos elétricos utilizados em:
+
+— disjuntores, — controlos de sensores térmicos, — dispositivos térmicos de proteção de motores (exceto dispositivos térmicos de proteção de motores herméticos),
+
+— interruptores de CA de: — 6 A ou mais a 250 V CA ou mais, ou — 12 A ou mais a 125 V CA ou mais, — interruptores de CC de 20 A ou mais a 18 V CC ou mais, —interruptores para utilização em frequências de alimentação de tensão ≥ 200 Hz.
+
+Aplica -se às categorias 1 a 7 e 10 e caduca em 21 de julho de 2021.
+
+9
+
+Crómio hexavalente utilizado como agente anticorrosivo em sistemas de arrefecimento de aço -carbono de frigoríficos de absorção (teor ponderal não superior a 0,75 % na solução refrigerante).
+
+Aplica -se às categorias 8, 9 e 11; caduca a: 21 de julho de 2021, no caso das categorias 8 e 9, exceto dispositivos médicos de diagnóstico in vitro e instrumentos industriais de monitorização e controlo; 21 de julho de 2023, no caso dos dispositivos médicos de diagnóstico in vitro da categoria 8; 21 de julho de 2024, no caso da categoria 11 e dos instrumentos industriais de monitorização e controlo da categoria 9.
+
+9 (a)-I
+
+Até 0,75 % de crómio hexavalente, em percentagem ponderal, utilizado como agente anticorrosivo na solução refrigerante de sistemas de arrefecimento de aço -carbono de frigoríficos de absorção (incluindo minibares) concebidos para funcionarem, em pleno ou parcialmente, com sistemas de aquecimento elétricos cuja potência de entrada, em valor médio utilizado, seja inferior a 75 W em condições de funcionamento constantes
+
+Aplica -se às categorias 1 a 7 e 10; caduca a 5 de março de 2021.
+
+9 (a)-II
+
+Até 0,75 % de crómio hexavalente, em percentagem ponderal, utilizado como agente anticorrosivo na solução refrigerante de sistemas de arrefecimento de aço -carbono de frigoríficos de absorção: — concebidos para funcionarem, em pleno ou parcialmente, com sistemas de aquecimento elétricos cuja potência de entrada, em valor médio utilizado, seja igual ou superior a 75 W em condições de funcionamento constantes, — concebidos para funcionarem em pleno com sistemas de aquecimento não elétricos.
+
+Aplicável às categorias 1 a 7 e 10; caduca a 21 de julho de 2021.
+
+9 (a)-III
+
+Até 0,7 %, em percentagem ponderal, de crómio hexavalente utilizado como agente anticorrosivo no fluido de funcionamento do circuito vedado de aço-carbono de bombas de calor de absorção de gás para aquecimento de espaços e de água.
+
+Aplica-se à categoria 1 e caduca em 31 de dezembro de 2026.
+
+9(b)
+
+Chumbo em casquilhos e buchas de chumaceiras de compressores com refrigerantes para aquecimento, ventilação, ar condicionado e refrigeração (HVACR)
+
+É aplicável às categorias 8, 9 e 11; caduca em: — 21 de julho de 2023, no respeitante aos dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, no respeitante aos instrumentos industriais de monitorização e controlo da categoria 9, bem como à categoria 11; — 21 de julho de 2021, no respeitante a outras subcategorias das categorias 8 e 9.
+
+9(b)-I
+
+Chumbo em casquilhos e buchas de chumaceiras de compressores herméticos de espiral com refrigerantes com uma potência de entrada declarada igual ou inferior a 9 kW para aplicações de aquecimento, ventilação, ar condicionado e refrigeração (HVACR).
+
+É aplicável à categoria 1; caduca em 21 de julho de 2019.
+
+11(a)
+
+Chumbo utilizado em sistemas de conexão por pinos conformes do tipo C -press
+
+Pode ser utilizado em peças sobresselentes de equipamentos elétricos e eletrónicos colocados no mercado antes de 24 de setembro de 2010
+
+11(b)
+
+Chumbo utilizado em sistemas de conexão por pinos conformes diversos do tipo C -press
+
+Caducou em 1 de janeiro de 2013; após esta data, pode ser utilizado em peças sobresselentes de equipamentos elétricos e eletrónicos colocados no mercado antes de 1 de janeiro de 2013
+
+12
+
+Chumbo utilizado como material de revestimento para o anel em C de módulos termocondutores
+
+Pode ser utilizado em peças sobresselentes de equipamentos elétricos e eletrónicos colocados no mercado antes de 24 de setembro de 2010
+
+13(a)
+
+Chumbo em vidros brancos para aplicações óticas
+
+É aplicável a todas as categorias; caduca em: — 21 de julho de 2023, no respeitante aos dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, no respeitante aos instrumentos industriais de monitorização e controlo da categoria 9, bem como à categoria 11; — 21 de julho de 2021, no respeitante a todas as outras categorias e subcategorias.
+
+13(b)
+
+Cádmio e chumbo em vidros para filtrantes e vidros utilizados para padrões de refletância
+
+É aplicável às categorias 8, 9 e 11; caduca em: — 21 de julho de 2023, no respeitante aos dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, no respeitante aos instrumentos industriais de monitorização e controlo da categoria 9, bem como à categoria 11; — 21 de julho de 2021, no respeitante a outras subcategorias das categorias 8 e 9.
+
+13(b)-I
+
+Chumbo em tipos de vidros óticos para filtrantes coloridos ionicamente
+
+É aplicável às categorias 1 a 7 e 10; caduca em 21 de julho de 2021 para as categorias 1 a 7 e 10
+
+13(b)-II
+
+Cádmio em filtros óticos para filtrantes coloridos por tratamento térmico; excluindo aplicações abrangidas pela isenção 39 do presente anexo
+
+É aplicável às categorias 1 a 7 e 10; caduca em 21 de julho de 2021 para as categorias 1 a 7 e 10
+
+13(b)-III
+
+Cádmio e chumbo em vidros utilizados para padrões de refletância
+
+É aplicável às categorias 1 a 7 e 10; caduca em 21 de julho de 2021 para as categorias 1 a 7 e 10
+
+14
+
+Chumbo em soldas com mais de dois elementos, para a conexão entre os pinos e o invólucro de microprocessadores, com teor ponderal de chumbo superior a 80 % e inferior a 85 %
+
+Caducou em 1 de janeiro de 2011; após esta data, pode ser utilizado em peças sobresselentes de equipamentos elétricos e eletrónicos colocados no mercado antes de 1 de janeiro de 2011
+
+15
+
+Chumbo em soldas destinadas a estabelecer uma ligação elétrica viável entre a pastilha do semicondutor e o substrato, no interior dos invólucros de circuitos integrados do tipo Flip Chip.
+
+Aplica -se às categorias 8, 9 e 11 e caduca em: — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11.
+
+15(a)
+
+Chumbo em soldas destinadas a estabelecer uma ligação elétrica viável entre a pastilha do semicondutor e o substrato, no interior dos invólucros de circuitos integrados do tipo Flip Chip, desde que seja cumprido um dos seguintes critérios:
+
+— nó tecnológico de semicondutor de 90 nm ou dimensão superior; — pastilha única de 300 mm2 ou área superior em qualquer nó tecnológico de semicondutor; — invólucros de pastilhas empilhadas com pastilhas de 300 mm2 ou área superior, ou interpositores de silício de 300 mm2 ou área superior.
+
+Aplica -se às categorias 1 a 7 e 10 e caduca em 21 de julho de 2021.
+
+16
+
+Chumbo em lâmpadas de incandescência lineares com tubos de silicato revestidos
+
+Caduca em 1 de setembro de 2013
+
+17
+
+Halogeneto de chumbo com agente radiante em lâmpadas HID (High Intensity Discharge) utilizadas em aplicações profissionais de reprografia
+
+18(a)
+
+Chumbo (teor ponderal não superior a 1 %) como ativador do pó fluorescente das lâmpadas de descarga, utilizadas como lâmpadas especiais para reprografia com impressão diazo, litografia, armadilhas para insetos, e processos foto químicos e de cura, que recorram a substâncias fosforescen tes como o SMS [(Sr,Ba)2MgSi2O7:Pb]
+
+Caducou em 1 de janeiro de 2011
+
+18(b)
+
+Chumbo (teor ponderal não superior a 1 %) como ativador no pó fluorescente de lâmpadas de descarga, utilizadas como lâmpadas bronzeadoras, que contenham substâncias luminescentes como BSP (BaSi2O5:Pb).
+
+Caduca em: — Categorias 1 a 7 e 10: 21 de julho de 2021; — Categorias 8 e 9, exceto dispositivos médicos de diagnóstico in vitro e instrumentos industriais de monitorização e controlo: 21 de julho de 2021; — Dispositivos médicos de diagnóstico in vitro da categoria 8: 21 de julho de 2023; — Instrumentos industriais de monitorização e controlo da categoria 9 e categoria 11: 21 de julho de 2024.
+
+18(b)-I
+
+Chumbo (teor ponderal não superior a 1 %) como ativador no pó fluorescente de lâmpadas de descarga, utilizadas em equipamento médico de fototerapia, que contenham substâncias luminescentes como BSP (BaSi2O5:Pb).
+
+É aplicável às categorias 5 e 8, excluindo as aplicações abrangidas pela entrada 34 do anexo IV; caduca a 21 de julho de 2021. 19
+
+Chumbo com PbBiSn -Hg e PbInSn -Hg em composições es pecíficas, como amálgama principal, e com PbSn -Hg, como amálgama auxiliar, em lâmpadas económicas ESL (Energy Saving Lamps) muito compactas
+
+Caducou em 1 de junho de 2011
+
+20
+
+Óxido de chumbo presente no vidro utilizado para ligar os substratos anteriores e posteriores das lâmpadas planas fluorescentes utilizadas nos ecrãs de cristais líquidos (LCD)
+
+Caducou em 1 de junho de 2011
+
+21
+
+Chumbo e cádmio em tintas de impressão para a aplicação de esmaltes em vidros, nomeadamente de borossilicato e de cal sodada.
+
+Aplica -se às categorias 8, 9 e 11 e caduca em: — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11.
+
+21(a)
+
+Cádmio utilizado em vidro impresso a cores para fornecer funções de filtragem, utilizado como componente em aplicações de iluminação instaladas nos ecrãs e painéis de controlo de EEE.
+
+Aplica -se às categorias 1 a 7 e 10, com exceção das aplicações abrangidas pela isenção 21 (b) ou pela isenção 39, e caduca em 21 de julho de 2021.
+
+21(b)
+
+Cádmio em tintas de impressão para a aplicação de esmaltes em vidros, nomeadamente de borossilicato e de cal sodada
+
+Aplica -se às categorias 1 a 7 e 10, com exceção das aplicações abrangidas pela isenção 21 (a) ou pela isenção 39, e caduca em 21 de julho de 2021.
+
+21(c)
+
+Chumbo em tintas de impressão para a aplicação de esmaltes em vidros, exceto em vidros de borossilicato
+
+Aplica -se às categorias 1 a 7 e 10 e caduca em 21 de julho de 2021.
+
+23
+
+Chumbo em acabamentos de componentes com pequeno afastamento, com exceção dos conectores, com afastamento não superior a 0,65 mm
+
+Pode ser utilizado em peças sobresselentes de equipamentos elétricos e eletrónicos colocados no mercado antes de 24 de setembro de 2010
+
+24
+
+Chumbo em soldas para soldadura a condensadores cerâmicos multicamadas, de forma discoide ou em matriz plana, maquinados por orifício
+
+Caduca em: — 21 de julho de 2021, para as categorias 1 a 7 e 10; — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8;
+
+— 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11.
+
+25
+
+Óxido de chumbo em ecrãs de emissão de eletrões com condução em superfície (SED) utilizados em elementos estruturais, nomeadamente na frita de selagem e no anel de frita
+
+[...]
+
+26
+
+Óxido de chumbo no vidro das lâmpadas BLB (Black Light Blue)
+
+Caducou em 1 de junho de 2011
+
+27
+
+Ligas de chumbo como soldas para transdutores utilizados em altifalantes de alta potência (destinados a funcionar várias horas a potências sonoras iguais ou superiores a 125 db SPL)
+
+Caducou em 1 de julho de 2010
+
+29
+
+Chumbo do vidro cristal conforme definido no anexo I (categorias 1, 2, 3 e 4) da Diretiva 69/493/CEE do Conselho (*).
+
+Caduca em: — 21 de julho de 2021, para as categorias 1 a 7 e 10; — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11. 30
+
+Óxido de chumbo na frita de selagem utilizada na montagem de janelas para tubos laser de árgon e crípton.
+
+Caduca em: — 21 de julho de 2021, para as categorias 1 a 7 e 10; — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11.
+
+31
+
+Chumbo nos materiais de soldadura das lâmpadas fluorescentes planas sem mercúrio (utilizadas, por exemplo, em ecrãs de cristais líquidos ou em iluminação decorativa ou industrial)
+
+32
+
+Óxido de chumbo na frita de selagem utilizada na montagem de janelas para tubos laser de árgon e crípton
+
+33
+
+Chumbo em soldas utilizadas na soldadura de filamentos de cobre de diâmetro não superior a 100 μm, em transformadores elétricos
+
+[...]
+
+34
+
+Chumbo em elementos de ceramal (cermet) de potenciómetros trimmer
+
+Aplica -se a todas as categorias; caduca em: — 21 de julho de 2021, para as categorias 1 a 7 e 10; — 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11.
+
+36
+
+Mercúrio utilizado como inibidor de pulverização catódica em ecrãs de plasma de corrente contínua, na quantidade máxima de 30 mg por ecrã
+
+Caducou em 1 de julho de 2010
+
+37
+
+Chumbo na camada de revestimento de díodos de alta tensão de vidro de borato de zinco.
+
+Caduca em: — 21 de julho de 2021, para as categorias 1 a 7 e 10;
+
+— 21 de julho de 2021, para as categorias 8 e 9, com exceção dos dispositivos médicos de diagnóstico in vitro e dos instrumentos industriais de monitorização e controlo; — 21 de julho de 2023, para os dispositivos médicos de diagnóstico in vitro da categoria 8; — 21 de julho de 2024, para os instrumentos industriais de monitorização e controlo da categoria 9 e para a categoria 11.
+
+38
+
+Cádmio e óxido de cádmio em pastas de película espessa aplicadas sobre ligas de óxido de berílio e alumínio
+
+[...]
+
+39
+
+Cádmio presente nos LED II -VI de conversão de cor (teor inferior a 10 μg de Cd por mm2 de superfície de emissão de luz) para utilização em sistemas de iluminação de estado sólido ou de visualização
+
+Caduca em 1 de julho de 2014
+
+39 a)
+
+Seleneto de cádmio nos pontos quânticos de nanocristais semicondutores contendo cádmio para conversão descendente para utilização na retroiluminação de ecrãs (< 0,2 μg de Cd por mm2 de área do ecrã)
+
+Caduca, para todas as categorias, a 21 de novembro de 2025
+
+39 b)
+
+Cádmio nos pontos quânticos de nanocristais semicondutores para conversão descendente depositados diretamente sobre os dispositivos semicondutores LED para utilização em aplicações de visualização e projeção (< 5 μg de Cd por mm2 de superfície do circuito integrado LED), com uma quantidade máxima por dispositivo de 1 mg
+
+Caduca, para todas as categorias, a 31 de dezembro de 2027
+
+40
+
+Cádmio em fotorresistências para acopladores óticos analógicos aplicados em equipamento áudio profissional
+
+Caducou em 31 de dezembro de 2013
+
+41
+
+Chumbo em soldas e acabamentos de componentes elétricos e eletrónicos e em acabamentos de placas de circuitos impressos utilizadas em módulos de ignição e em outros sistemas elétricos e eletrónicos de controlo de motores, que, por razões técnicas, tenham de ser montados diretamente no cárter ou no cilindro de motores de combustão portáteis [classes SH:1, SH:2, SH:3 da Diretiva 97/68/CE do Parlamento Europeu e do Conselho (*)]
+
+Aplica -se a todas as categorias e caduca: Em 31 de março de 2022, no caso das categorias 1 a 7, 10 e 11; Em 21 de julho de 2021, no caso das categorias 8 e 9, exceto dispositivos médicos de diagnóstico in vitro e instrumentos industriais de monitorização e controlo; Em 21 de julho de 2023, no caso dos dispositivos médicos de diagnóstico in vitro da categoria 8; Em 21 de julho de 2024, no caso dos instrumentos industriais de monitorização e controlo da categoria 9.
+
+42
+
+Chumbo em chumaceiras e buchas de motores de combustão interna a gasóleo ou a gás incorporados em equipamentos profissionais não -rodoviários:
+
+— com cilindrada total do motor ≥ 15 litros;
+
+ou
+
+— com cilindrada total do motor < 15 litros, destinando -se o motor a aplicações nas quais o tempo decorrido entre o sinal de arranque e a carga máxima tenha de ser inferior a 10 segundos, ou cuja manutenção seja normalmente efetuada num ambiente exterior adverso e sujo, como em minas, obras ou atividades agrícolas.
+
+É aplicável à categoria 11, estando excluídas as aplicações abrangidas pela entrada 6(c) do presente anexo. Caduca em 21 de julho de 2024.
+
+43
+
+Ftalato de bis(2 -etil -hexilo) em componentes de borracha de sistemas de motor concebidos para utilização em equipamentos que não se destinam a ser utilizados exclusivamente pelos consumidores, desde que nenhum material plastificado entre em contacto com as mucosas humanas ou em contacto prolongado com a pele humana, e desde que o valor de concentração de ftalato de bis(2 -etil -hexilo) não exceda:
+
+a) 30 % em massa da borracha, no caso de: i) revestimentos de juntas, ii) juntas de borracha maciça, iii) componentes de borracha incluídos em conjuntos de pelo menos três componentes que utilizem energia elétrica, mecânica ou hidráulica para efetuar trabalho e estejam ligados ao motor; b) 10 % em massa da borracha, no caso de componentes de borracha não referidos na alínea a). Para efeitos do presente ponto, entende -se por ‘contacto prolongado com a pele humana’ um contacto contínuo de duração superior a 10 minutos ou um contacto intermitente ao longo de um período de 30 minutos, por dia.
+
+Aplica -se à categoria 11 e caduca em 21 de julho de 2024.
+
+44
+
+Chumbo em soldas de sensores, atuadores e unidades de controlo de motores de combustão abrangidos pelo âmbito de aplicação do Regulamento (UE) 2016/1628 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016, (**), instalados em equipamentos utilizados em posições fixas durante o funcionamento, destinados a profissionais, mas também utilizados por utilizadores não profissionais
+
+Aplica -se à categoria 11 e caduca em 21 de julho de 2024.
+
+45
+
+Diazida de chumbo, estifnato de chumbo, dipicramato de chumbo, mínio -laranja (tetróxido de chumbo) e dióxido de chumbo, em iniciadores elétricos e eletrónicos de explosivos para utilização civil (profissional), e cromato de bário nas cargas retardadoras de iniciadores elétricos de explosivos para utilização civil (profissional).
+
+Aplica -se à categoria 11 e caduca em 20 de abril de 2026.
+
+46
+
+Cádmio e chumbo em perfis de plástico que contenham misturas produzidas a partir de resíduos de policloreto de vinilo (a seguir designadas por "PVC rígido recuperado"), utilizados em janelas e portas elétricas e eletrónicas, desde que a concentração ponderal no material de PVC rígido recuperado não exceda 0,1 % de cádmio nem 1,5 % de chumbo
+
+A partir de 28 de maio de 2026, o PVC rígido recuperado proveniente de janelas e portas elétricas e eletrónicas só pode ser utilizado na produção de novos artigos das categorias especificadas na entrada 63, ponto 18, alíneas a) a d), do anexo xvii do Regulamento (CE) n.º 1907/2006
+
+Os fornecedores de artigos de PVC que contenham PVC rígido recuperado com uma concentração ponderal de chumbo igual ou superior a 0,1 % do material de PVC devem assegurar, antes da colocação desses artigos no mercado, que os mesmos ostentam, de forma visível, legível e indelével, a frase: "Contém ≥ 0,1 % de chumbo." Se não puder ser aposta no artigo devido à natureza deste, a marcação deve ser aposta na embalagem do artigo
+
+Os fornecedores de artigos de PVC que contenham PVC rígido recuperado devem apresentar às autoridades nacionais responsáveis pela aplicação da legislação que lho solicitem provas documentais que fundamentem as suas alegações sobre a origem de recuperação do PVC utilizado nesses artigos. Podem ser utilizados para fundamentar essas alegações relativamente a artigos de PVC produzidos na União certificados emitidos por regimes que visem fornecer prova de rastreabilidade e de teor reciclado, tais como os elaborados em conformidade com a norma EN 15343:2007 ou com normas reconhecidas equivalentes. As alegações relativas à origem de recuperação do PVC de artigos importados devem ser acompanhadas de um certificado que forneça prova equivalente de rastreabilidade e de teor reciclado, emitido por entidade terceira independente
+
+Aplica-se à categoria 11 e caduca a 28 de maio de 2028 (*) A isenção não abrange os equipamentos elétricos e eletrónicos destinados ao público em geral quando esses equipamentos, ou parte dos mesmos, possam, em condições normais ou previsíveis de utilização, ser colocados na boca por crianças. No entanto, a isenção é aplicável sempre que se possa demonstrar que:
+
+A taxa de libertação de chumbo desses equipamentos elétricos e eletrónicos ou de qualquer parte acessível, revestida ou não, não excede 0,05 μg/cm2 por hora (equivalente a 0,05 μg/g/h);
+
+No caso dos artigos revestidos, o revestimento é suficiente para garantir que esta taxa de libertação não é excedida durante um período de, pelo menos, dois anos, em condições normais ou razoavelmente previsíveis de utilização dos equipamentos elétricos e eletrónicos.
+
+Para efeitos da presente nota de rodapé, considera-se que um equipamento elétrico e eletrónico, ou uma parte acessível do mesmo, pode ser colocado na boca por crianças se uma das suas dimensões for inferior a 5 cm ou tiver uma parte destacável ou saliente desse tamanho.
+
+- *Alterado pelo/a Anexo do/a [Decreto-Lei n.º 185/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2026-1171382772), em vigor a partir de 2026-09-17, com efeitos a partir de 2026-07-10.*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2026 - Diário da República n.º 79/2026, Série I de 2026-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2026-1088732648), em vigor a partir de 2026-04-24, com efeitos a partir de 2026-07-01.*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2024 - Diário da República n.º 196/2024, Série I de 2024-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2024-890389079), produz efeitos a partir de 2024-08-01*
 - *Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 106/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2023-224427488), em vigor a partir de 2023-11-18*
@@ -38,260 +530,3 @@ part: "Anexo I — Aplicações isentas da restrição prevista no n.º 1 do art
 - *Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923), em vigor a partir de 2017-11-09*
 - *Alterado pelo/a Anexo do/a [Decreto-Lei n.º 30/2016 - Diário da República n.º 120/2016, Série I de 2016-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2016-74788785), em vigor a partir de 2016-06-25*
 - *Alterado pelo/a Anexo do/a [Decreto-Lei n.º 119/2014 - Diário da República n.º 150/2014, Série I de 2014-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2014-55235780), em vigor a partir de 2014-08-11*
-
-## Anexo II — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º no que respeita aos dispositivos médicos e aos instrumentos de monitorização e controlo
-
-Equipamentos que utilizam ou detetam radiação ionizante
-
-1 - Chumbo, cádmio e mercúrio em detetores de radiação ionizante
-
-Sensores, detetores e elétrodos
-
-a) Chumbo e cádmio em elétrodos seletivos de iões, incluindo o vidro dos elétrodos de pH;
-
-b) Ânodos de chumbo nos sensores eletroquímicos de oxigénio;
-
-c) Chumbo, cádmio e mercúrio em detetores de infravermelhos;
-
-d) Mercúrio em elétrodos de referência: Cloreto de mercúrio com baixo teor de cloro, sulfato de mercúrio e óxidos de mercúrio.
-
-2 - Rolamentos de chumbo em tubos de raios X
-
-3 - Chumbo em dispositivos de amplificação da radiação eletromagnética: Placas de microcanais (micro-channel) e placas capilares.
-
-4 - Chumbo em fritas de vidro de tubos de raios X e intensificadores de imagem e chumbo em colas de fritas de vidro para a montagem de lasers a gás e de tubos de vácuo que convertem a radiação eletromagnética em eletrões.
-
-5 - Chumbo em blindagens contra a radiação ionizante.
-
-6 - Chumbo em objetos que servem como alvo para ensaios de raios X.
-
-7 - Cristais de estearato de chumbo para a difração de raios X.
-
-8 - Fontes de isótopos radioativos de cádmio para espetrómetros de fluorescência de raios X portáteis.
-
-Outros
-
-9 - Cádmio em lasers de hélio-cádmio.
-
-10 - Chumbo e cádmio em lâmpadas para espetroscopia de absorção atómica.
-
-11 - Chumbo em ligas, nomeadamente como supercondutor e condutor de temperatura em IRM.
-
-12 - Chumbo e cádmio em ligações metálicas que permitam a criação de circuitos magnéticos supercondutores em detetores de IRM, SQUID, RMN (Ressonância magnética nuclear) ou FTMS (Espetrómetro de massa de transformada de Fourier). Caduca em 30 de junho de 2021.
-
-13 - Chumbo em contrapesos.
-
-14 - Chumbo em materiais piezoelétricos de cristal único para transdutores ultrassónicos.
-
-15 - Chumbo em soldas para a ligação a transdutores ultrassónicos.
-
-16 - Mercúrio em bridges de medição de alta precisão da capacidade e das perdas e em interruptores e relés RF de alta frequência em instrumentos de monitorização e controlo, que não excedam 20 mg de mercúrio por interruptor ou relé.
-
-17 - Chumbo em soldaduras de desfibrilhadores portáteis de emergência.
-
-18 - Chumbo em soldaduras de módulos de imagem de alto desempenho na zona dos infravermelhos, para deteção na gama dos 8 -14 (mi)m.
-
-19 - Chumbo em ecrãs de cristais líquidos sobre silício (LCoS).
-
-20 - Cádmio em filtros de medição de raios X.
-
-21 - Cádmio em revestimentos fosforescentes de intensificadores de imagens de raios X, até 31 de dezembro de 2019, e em peças sobresselentes de aparelhos de raios X colocados no mercado anteriormente a 1 de janeiro de 2020.
-
-22 - Marcadores de acetato de chumbo destinados a quadros estereotáxicos cranianos utilizados em tomografia computorizada e imagiologia por ressonância magnética e a sistemas de posicionamento para equipamentos de terapia por raios gama e de terapia com partículas. Caduca em 30 de junho de 2021.
-
-23 - Chumbo como elemento de liga em rolamentos e superfícies de desgaste nos equipamentos médicos expostos a radiações ionizantes. Caduca em 30 de junho de 2021.
-
-24 - Chumbo em ligações estanques ao vácuo entre alumínio e aço em intensificadores de imagens de raios X. Caduca em 31 de dezembro de 2019.
-
-25 - Chumbo em revestimentos de superfície de sistemas de conexão por pinos que necessitem de conectores não magnéticos, utilizados de forma durável a temperaturas inferiores a - 20 ºC, em condições normais de funcionamento e armazenagem. Caduca em 30 de junho de 2021.
-
-26 - Chumbo nas seguintes aplicações, que são utilizadas de forma durável a temperaturas inferiores a - 20 º C, em condições normais de funcionamento e armazenagem:
-
-a) Soldas para placas de circuitos impressos;
-
-b) Revestimentos de pontos terminais de componentes elétricos e eletrónicos e revestimentos de placas de circuitos impressos;
-
-c) Soldas para fios e cabos de ligação;
-
-d) Soldas para ligação de transdutores e sensores;
-
-e) Chumbo em soldas de ligações elétricas para sensores de medição da temperatura instalados em dispositivos destinados a ser utilizados periodicamente a temperaturas inferiores a - 150 º C.
-
-As isenções caducam em 30 de junho de 2021.
-
-27 - Chumbo em
-
-a) Soldas,
-
-b) Revestimentos de pontos terminais de componentes elétricos e eletrónicos e placas de circuito impresso,
-
-c) Bobinas de IRM não integradas, para as quais a declaração de conformidade deste modelo seja emitida pela primeira vez antes de 23 de setembro de 2022; ou
-
-d) Dispositivos de IRM, incluindo bobinas integradas, utilizados em campos magnéticos dentro de uma esfera com 1 m de raio em torno do isocentro do íman em equipamentos médicos de imagiologia por ressonância magnética, para os quais a declaração de conformidade seja emitida pela primeira vez antes de 30 de junho de 2024.
-
-Caduca em 30 de junho de 2027.
-
-28 - Chumbo em soldas para a montagem de detetores digitais de telureto de cádmio e de telureto de cádmio e zinco em placas de circuito impresso. Caduca em 31 de dezembro de 2017.
-
-29 - Chumbo em ligas como supercondutor ou condutor térmico, utilizadas em cabeças frias de criorrefrigeradores e/ou em sondas frias criorrefrigeradas e/ou em sistemas de ligação equipotencial criorrefrigerados, em dispositivos médicos (categoria 8) e/ou em instrumentos industriais de monitorização e controlo. Caduca em 30 de junho de 2021.
-
-30 - Crómio hexavalente em geradores de metais alcalinos utilizados para criar fotocátodos em intensificadores de imagens de raios X, até 31 de dezembro de 2019, e em peças sobresselentes de sistemas de raios X colocados no mercado da UE antes de 1 de janeiro de 2020.
-
-31 - Chumbo, cádmio, crómio hexavalente e éteres difenílicos polibromados (PBDE) em peças sobresselentes recuperadas de dispositivos médicos, incluindo dispositivos médicos de diagnóstico in vitro, ou de microscópios eletrónicos e de acessórios destes, e utilizadas na reparação ou na renovação desses equipamentos, desde que a reutilização tenha lugar no âmbito de sistemas fechados de retorno interempresas, passíveis de controlo, e que o cliente seja informado de cada reutilização de peças.
-
-As isenções caducam:
-
-a) A 21 de julho de 2021, relativamente à utilização em dispositivos médicos não destinados a diagnóstico in vitro;
-
-b) A 21 de julho de 2023, relativamente à utilização em dispositivos médicos destinados a diagnóstico in vitro;
-
-c) A 21 de julho de 2024, relativamente à utilização em microscópios eletrónicos e acessórios destes.
-
-32 - Chumbo em soldas sobre placas de circuito impresso de detetores e unidades de aquisição de dados para tomógrafos por emissão de positrões que estão integrados em equipamento de imagiologia por ressonância magnética. Caduca em 31 de dezembro de 2019.
-
-33 - Chumbo em soldas sobre placas de circuito impresso de alta densidade utilizadas em dispositivos médicos móveis, que não sejam desfibrilhadores portáteis de emergência, das classes IIa e IIb da Diretiva 93/42/CEE. A isenção caduca em 30 de junho de 2016 no que se refere aos equipamentos da classe IIa e em 31 de dezembro de 2020 no que se refere aos equipamentos da classe IIb.
-
-34 - Chumbo como ativador do pó fluorescente de lâmpadas de descarga, utilizadas para fotoférese extracorpórea com substâncias fosforescentes à base de BSP (BaSi(índice 2)O(índice 5):Pb). Caduca em 22 de julho de 2021.
-
-35 - Mercúrio em lâmpadas fluorescentes de cátodo frio para retroiluminação de ecrãs de cristais líquidos, numa quantidade não superior a 5 mg por lâmpada, utilizadas em instrumentos industriais de monitorização e controlo colocados no mercado antes de 22 de julho de 2017. Caduca em 21 de julho de 2024.
-
-36 - Chumbo utilizado em sistemas de conexão por pinos conformes, diversos do tipo C-press, para instrumentos industriais de monitorização e controlo. Caduca em 31 de dezembro de 2020. Após essa data, pode ser utilizado em peças sobresselentes de instrumentos industriais de monitorização e controlo colocados no mercado antes de 1 de janeiro de 2021.
-
-37 - Chumbo em elétrodos de platina platinada utilizados para medições de condutividade, pelo menos, numa das seguintes condições:
-
-a) Medições numa gama vasta de condutividades, que abranja mais de uma ordem de grandeza (por exemplo de 0,1 mS/m a 5 mS/m), em aplicações laboratoriais com concentrações desconhecidas;
-
-b) Medições de soluções, se for necessária uma precisão de (mais ou menos) 1 % da gama de amostragem e elevada resistência do elétrodo à corrosão, em qualquer dos seguintes meios:
-
-i) Soluções com acidez (menor que) pH 1;
-
-ii) Soluções com alcalinidade (maior que) pH 13;
-
-iii) Soluções corrosivas de gases halogéneos;
-
-c) Medições de condutividades superiores a 100 mS/m, efetuadas com instrumentos portáteis.
-
-Caduca a 31 de dezembro de 2025.
-
-38 - Chumbo em soldas de interfaces de elementos empilhados de grande superfície, com mais de 500 interconexões por interface, utilizados em detetores de raios X para tomografia computorizada e em sistemas de raios X. Caduca em 31 de dezembro de 2019. Após essa data, pode ser utilizado em peças sobresselentes para tomografia computorizada e sistemas de raios X colocados no mercado antes de 1 de janeiro de 2020.
-
-39 - Chumbo em placas de microcanais (PMC) utilizadas em equipamentos que possuam, pelo menos, uma das seguintes propriedades:
-
-a) Dimensão compacta do detetor de eletrões ou iões, se o espaço para o detetor for limitado a um máximo de 3 mm/PMC (espessura do detetor + espaço para instalação da PMC), num total máximo de 6 mm, e for científica e tecnicamente impraticável um desenho alternativo que proporcione mais espaço para o detetor;
-
-b) Resolução espacial bidimensional para deteção de eletrões ou iões, caso se verifique pelo menos uma das seguintes condições:
-
-i) tempo de resposta inferior a 25 ns;
-
-ii) área de deteção de amostras superior a 149 mm2;
-
-iii) Fator multiplicador superior a 1,3 x 10(elevado a 3).
-
-c) Tempo de resposta inferior a 5 ns na deteção de eletrões ou iões;
-
-d) Área de deteção de amostras superior a 314 mm2, para a deteção de eletrões ou iões;
-
-e) Fator multiplicador superior a 4,0 x 10(elevado a 7).
-
-Caduca nas seguintes datas:
-
-a) 21 de julho de 2021, no respeitante aos dispositivos médicos e aos instrumentos de monitorização e controlo;
-
-b) 21 de julho de 2023, no respeitante aos dispositivos médicos de diagnóstico in vitro;
-
-c) 21 de julho de 2024, no respeitante aos instrumentos industriais de monitorização e controlo.
-
-40 - Chumbo em materiais cerâmicos dielétricos de condensadores com tensão nominal inferior a 125 V AC ou 250 V DC para instrumentos industriais de monitorização e controlo. Caduca em 31 de dezembro de 2020. Após essa data, pode ser utilizado em peças sobresselentes de instrumentos industriais de monitorização e controlo colocados no mercado antes de 1 de janeiro de 2021.
-
-41 - Chumbo como estabilizador térmico no poli(cloreto de vinilo) (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos usados em dispositivos médicos de diagnóstico in vitro para análise de amostras de sangue e de outros fluidos e gases corporais.
-
-Caduca a 31 de março de 2022.
-
-41-A - Chumbo como estabilizador térmico no poli(cloreto de vinilo) (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos usados em dispositivos médicos de diagnóstico in vitro para análise de creatinina e azoto ureico sanguíneo em amostras de sangue integral.
-
-Aplica-se à categoria 8. Caduca a 31 de dezembro de 2023.
-
-42 - Mercúrio em conectores elétricos rotativos utilizados em sistemas de imagiologia de ultrassom intravascular capazes de funcionar a alta frequência (maior que) 50 MHz). Caduca em 30 de junho de 2026.
-
-43 - Ânodos de Cádmio em células Hersch para sensores de oxigénio utilizados em instrumentos industriais de monitorização e controlo, se for necessária uma sensibilidade inferior a 10 ppm.
-
-A isenção caduca a 15 de julho de 2023.
-
-44 - Cádmio em tubos de câmaras de vídeo resistentes a radiações concebidos para câmaras com resolução central superior a 450 TVL utilizadas em ambientes expostos a radiações ionizantes geradoras de doses superiores a 100 Gy/hora e de doses totais superiores a 100 kGy. Aplica-se à categoria 9.
-
-Caduca a 31 de março de 2027.
-
-45 - Ftalato de bis(2-etil-hexilo) (DEHP) em elétrodos seletivos de iões usados na análise, junto do doente, de substâncias iónicas presentes nos fluidos corporais humanos e/ou nas soluções de diálise.
-
-Caduca em 21 de julho de 2028.
-
-46 - Ftalato de bis(2-etil-hexilo) (DEHP) em componentes plásticos de bobinas de deteção para IRM.
-
-Caduca em 1 de janeiro de 2024.
-
-47 - Ftalato de bis(2-etil-hexilo) (DEHP), ftalato de benzilo e butilo (BBP), ftalato de dibutilo (DBP) e ftalato de di-isobutilo (DIBP) em peças sobresselentes recuperadas de dispositivos médicos, incluindo dispositivos médicos de diagnóstico in vitro, e de acessórios destes, e utilizadas para a reparação ou renovação desses equipamentos, desde que a reutilização ocorra em sistemas fechados de retorno interempresas, passíveis de controlo, e que o cliente seja informado de cada reutilização de peças.
-
-Caduca em 21 de julho de 2028.
-
-48 - Chumbo em cabos e fios supercondutores de óxido de bismuto, estrôncio, cálcio e cobre (BSCCO) e nas ligações elétricas a esses cabos e fios.
-
-Caduca em 30 de junho de 2027.
-
-49 - Mercúrio em transdutores de pressão de fusão para reómetros capilares a temperaturas superiores a 300ºC e pressões superiores a 1000 bar.
-
-Aplica-se à categoria 9 e caduca em 31 de dezembro de 2025.
-
-- *Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 106/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2023-224427488), em vigor a partir de 2023-11-18*
-- *Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 23/2023 - Diário da República n.º 68/2023, Série I de 2023-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515), em vigor a partir de 2023-04-06, produz efeitos a partir de 2023-03-01*
-- *Alterado pelo/a ANEXO do/a [Decreto-Lei n.º 60/2022 - Diário da República n.º 178/2022, Série I de 2022-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2022-201054617), em vigor a partir de 2022-09-15, produz efeitos a partir de 2021-07-21*
-- *Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 100/2021 - Diário da República n.º 223/2021, Série I de 2021-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2021-174480991), em vigor a partir de 2021-11-18, produz efeitos a partir de 2019-07-01*
-- *Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 86/2020 - Diário da República n.º 200/2020, Série I de 2020-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2020-145359680), em vigor a partir de 2020-10-15*
-- *Alterado pelo/a Anexo do/a [Decreto-Lei n.º 61/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2017-107495708), em vigor a partir de 2017-06-10*
-- *Alterado pelo/a Anexo do/a [Decreto-Lei n.º 30/2016 - Diário da República n.º 120/2016, Série I de 2016-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2016-74788785), em vigor a partir de 2016-06-25*
-- *Alterado pelo/a Anexo do/a [Decreto-Lei n.º 119/2014 - Diário da República n.º 150/2014, Série I de 2014-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2014-55235780), em vigor a partir de 2014-08-11*
-
-## Anexo III — Pedidos de concessão, renovação e revogação de isenções nos termos do artigo 6.º
-
-Os pedidos de isenções, de renovação de isenções ou, com as necessárias adaptações, de revogação de isenções, podem ser apresentados por fabricante, mandatário de um fabricante ou qualquer interveniente no circuito comercial e devem incluir, pelo menos, os seguintes elementos:
-
-a) Nome, morada e dados de contacto do requerente;
-
-b) Informação sobre o material ou componente e os usos específicos da substância no material e componente para o qual se solicita uma isenção, ou a sua revogação, e as suas características especiais;
-
-c) Uma justificação demonstrável e referenciada para uma isenção, ou para a sua revogação, com base nas condições estabelecidas no artigo 5.º;
-
-d) Uma análise de eventuais substâncias alternativas em termos de materiais ou conceções com base no ciclo de vida, incluindo, quando disponível, informação sobre investigação independente, estudos revistos pelos pares e atividades de desenvolvimento realizadas pelo requerente e uma análise da disponibilidade dessas alternativas;
-
-e) Informação sobre a eventual preparação para a reutilização ou a reciclagem de materiais provenientes de resíduos de EEE e sobre as disposições apropriadas relativas ao tratamento de resíduos, nos termos do anexo II da Diretiva n.º 2002/96/CE, do Parlamento Europeu e do Conselho, de 27 de janeiro de 2003;
-
-f) Outras informações relevantes;
-
-g) As ações propostas pelo requerente para desenvolver, requerer o desenvolvimento e/ou aplicar alternativas possíveis incluindo um calendário de tais ações;
-
-h) Quando adequado, uma indicação da informação que deve ser considerada confidencial acompanhada de uma justificação demonstrável;
-
-i) Para efeitos de pedido de uma isenção, uma proposta de formulação exata e clara dos termos da isenção;
-
-j) Um resumo do pedido.
-
-## Anexo IV — Estrutura do Modelo da Declaração «UE» de conformidade, prevista no n.º 2 do artigo 13.º
-
-1. N.º ... (número de identificação único do EEE):
-
-2. Nome e endereço do fabricante ou do respetivo mandatário:
-
-3. A presente declaração de conformidade é emitida sob a exclusiva responsabilidade do fabricante (ou instalador):
-
-4. Objeto da declaração (identificação do EEE, que permita rastreá-lo. Pode incluir uma fotografia, se for caso disso):
-
-5. O objeto da declaração acima mencionada está em conformidade com a Diretiva n.º 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos.
-
-6. Se for esse o caso, referências às normas harmonizadas aplicáveis utilizadas ou às especificações técnicas em relação às quais é declarada a conformidade:
-
-7. Outras informações:
-
-Assinado por e em nome de: ...
-
-(local e data da emissão)
-
-(nome, cargo) (assinatura)

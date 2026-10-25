@@ -12,7 +12,7 @@ text_version: "consolidado"
 last_amended: 2025-05-06
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-137784327"
 original_pdf: "https://files.diariodarepublica.pt/1s/2000/11/267a00/65886593.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Regula a protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 ---
@@ -24,10 +24,12 @@ Este diploma está dividido em partes. Cada parte é um ficheiro; os números de
 | parte | caminho | primeiro artigo | último artigo |
 |---|---|---|---|
 | Diploma de aprovação | decretos-lei/2000/decreto-lei-301-2000/decreto-lei-301-2000-diploma-de-aprovacao.md | 1.º | 22.º |
-| Anexo — Recomendações relativas às medidas e aos níveis de confinamento a Anexo II | decretos-lei/2000/decreto-lei-301-2000/decreto-lei-301-2000-anexo-recomendacoes-relativas-as-medidas-e-aos-niveis-de-con.md |  |  |
+| Anexo I — Valores limite de exposição profissional | decretos-lei/2000/decreto-lei-301-2000/decreto-lei-301-2000-anexo-i-valores-limite-de-exposicao-profissional.md |  |  |
+| Anexo II — Valores-limite biológicos e medidas de vigilância da saúde | decretos-lei/2000/decreto-lei-301-2000/decreto-lei-301-2000-anexo-ii-valores-limite-biologicos-e-medidas-de-vigilancia-d.md |  |  |
 
 ## Estrutura
 
 - Assinatura (decreto-lei-301-2000-diploma-de-aprovacao.md)
-- Anexo — Recomendações relativas às medidas e aos níveis de confinamento (decreto-lei-301-2000-anexo-recomendacoes-relativas-as-medidas-e-aos-niveis-de-con.md)
-- Anexo II (decreto-lei-301-2000-anexo-recomendacoes-relativas-as-medidas-e-aos-niveis-de-con.md)
+- Anexo I — Valores limite de exposição profissional (decreto-lei-301-2000-anexo-i-valores-limite-de-exposicao-profissional.md)
+- Anexo II — Valores-limite biológicos e medidas de vigilância da saúde (decreto-lei-301-2000-anexo-ii-valores-limite-biologicos-e-medidas-de-vigilancia-d.md)
+- Anexo II — Valores-limite biológicos e medidas de vigilância da saúde (decreto-lei-301-2000-anexo-ii-valores-limite-biologicos-e-medidas-de-vigilancia-d.md)

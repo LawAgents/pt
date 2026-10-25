@@ -9,10 +9,10 @@ date: 2025-05-23
 issuer: "Agricultura e Pescas"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-07-31
+last_amended: 2026-09-08
 source: "https://diariodarepublica.pt/dr/detalhe/portaria/2025-919311876"
 original_pdf: "https://files.diariodarepublica.pt/1s/2025/05/09901/0000200018.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Estabelece o regime específico dos apoios a conceder ao abrigo do artigo 78.º do Regulamento (UE) 2021/2115 , no que se refere à intervenção C.5.5 «Acompanhamento técnico especializado ― Intercâmbio de conhecimento», do domínio C.5 «Conhecimento», do eixo C «Desenvolvimento Rural» do PEPAC no continente."
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 ---

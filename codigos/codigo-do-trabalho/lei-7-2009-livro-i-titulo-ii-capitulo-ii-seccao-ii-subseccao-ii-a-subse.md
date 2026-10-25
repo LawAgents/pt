@@ -12,7 +12,7 @@ text_version: "consolidado"
 last_amended: 2025-03-27
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475"
 original_pdf: "https://files.diariodarepublica.pt/1s/2009/02/03000/0092601029.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Aprova a revisão do Código do Trabalho"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "lei-7-2009"
@@ -134,7 +134,7 @@ i) Acidente ou risco de acidente iminente.
 
 2 - O período normal de trabalho pode ser aumentado até quatro horas diárias e pode atingir sessenta horas semanais, tendo o acréscimo por limite duzentas horas por ano.
 
-3 - O limite anual referido no número anterior pode ser afastado por instrumento de regulamentação colectiva de trabalho caso a utilização do regime tenha por objectivo evitar a redução do número de trabalhadores, só podendo esse limite ser aplicado durante um período até 12 meses.´
+3 - O limite anual referido no número anterior pode ser afastado por instrumento de regulamentação colectiva de trabalho caso a utilização do regime tenha por objectivo evitar a redução do número de trabalhadores, só podendo esse limite ser aplicado durante um período até 12 meses.
 
 4 - O instrumento de regulamentação colectiva de trabalho deve regular:
 
@@ -152,7 +152,7 @@ c) O período em que a redução do tempo de trabalho para compensar trabalho pr
 
 5 - Constitui contra-ordenação grave a prática de horário de trabalho em violação do disposto neste artigo.
 
-- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2012 - Diário da República n.º 121/2012, Série I de 2012-06-25](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), em vigor a partir de 2012-08-01*
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2012 - Diário da República n.º 121/2012, Série I de 2012-06-25](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), em vigor a partir de 2012-08-01.*
 
 ###### Artigo 208.º-A — Banco de horas individual
 

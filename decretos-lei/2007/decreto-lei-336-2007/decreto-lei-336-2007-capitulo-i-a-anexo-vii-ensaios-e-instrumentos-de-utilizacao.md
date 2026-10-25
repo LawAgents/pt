@@ -12,7 +12,7 @@ text_version: "consolidado"
 last_amended: 2013-10-24
 source: "https://diariodarepublica.pt/dr/detalhe/decreto-lei/2007-641676"
 original_pdf: "https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf"
-retrieved: 2026-10-22
+retrieved: 2026-10-25
 summary: "Aprova o Regulamento Referente aos Bancos, à Sua Fixação e aos Apoios de Cabeça dos Automóveis, transpondo para a ordem jurídica interna a Directiva n.º 2005/39/CE, do Parlamento Europeu e do Conselho, de 7 de Setembro"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-336-2007"
@@ -23,9 +23,7 @@ part: "Capítulo I a Anexo VII — Ensaios e instrumentos de utilização"
 
 ## Anexo — REGULAMENTO RELATIVO AOS BANCOS, À SUA FIXAÇÃO E AOS APOIOS DE CABEÇA DOS AUTOMÓVEIS
 
-### Capítulo I — Disposições administrativas relativas
-
-à homologação CE
+### Capítulo I — Disposições administrativas relativas à homologação CE
 
 #### Secção I — Âmbito de aplicação e definição de veículo
 

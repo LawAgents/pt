@@ -12,7 +12,7 @@ text_version: "consolidado"
 last_amended: 2025-03-27
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475"
 original_pdf: "https://files.diariodarepublica.pt/1s/2009/02/03000/0092601029.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Aprova a revisão do Código do Trabalho"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "lei-7-2009"
@@ -445,13 +445,15 @@ c) A mesa da secção de voto dirige a respectiva votação e é composta por um
 
 1 - Os membros da comissão e das subcomissões de trabalhadores são eleitos, de entre as listas apresentadas pelos trabalhadores da empresa ou estabelecimento, por voto directo e secreto, segundo o princípio de representação proporcional.
 
-2 - A convocatória da eleição é efetuada com a antecedência de 15 dias, ou prazo superior estabelecido nos estatutos, pela comissão eleitoral constituída nos termos dos estatutos ou, na falta de iniciativa desta, por, no mínimo, 100 ou 20 % dos trabalhadores da empresa, com ampla publicidade e menção expressa de data, hora, local e ordem de trabalhos, devendo ser remetida simultaneamente cópia da convocatória ao empregador.3 - Só podem concorrer listas subscritas por, no mínimo, 100 ou 20 % dos trabalhadores da empresa ou, no caso de listas de subcomissões de trabalhadores, 10 % dos trabalhadores do estabelecimento, não podendo qualquer trabalhador subscrever ou fazer parte de mais de uma lista concorrente à mesma estrutura.
+2 - A convocatória da eleição é efetuada com a antecedência de 15 dias, ou prazo superior estabelecido nos estatutos, pela comissão eleitoral constituída nos termos dos estatutos ou, na falta de iniciativa desta, por, no mínimo, 100 ou 20 % dos trabalhadores da empresa, com ampla publicidade e menção expressa de data, hora, local e ordem de trabalhos, devendo ser remetida simultaneamente cópia da convocatória ao empregador.
+
+3 - Só podem concorrer listas subscritas por, no mínimo, 100 ou 20 % dos trabalhadores da empresa ou, no caso de listas de subcomissões de trabalhadores, 10 % dos trabalhadores do estabelecimento, não podendo qualquer trabalhador subscrever ou fazer parte de mais de uma lista concorrente à mesma estrutura.
 
 4 - A eleição dos membros da comissão e das subcomissões de trabalhadores decorre em simultâneo, sendo aplicável o disposto nos artigos 431.º e 432.º, com as necessárias adaptações.
 
 5 - (Revogado.)
 
-- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01*
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01.*
 
 ###### Artigo 434.º — Conteúdo dos estatutos da comissão de trabalhadores
 

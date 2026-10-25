@@ -9,10 +9,10 @@ date: 2010-04-29
 issuer: "Ministério das Obras Públicas, Transportes e Comunicações"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2010-06-28
+last_amended: 2026-10-22
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-70916272"
 original_pdf: "https://files.diariodarepublica.pt/1s/2010/04/08301/0000201972.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Regula o transporte terrestre, rodoviário e ferroviário, de mercadorias perigosas, transpondo para a ordem jurídica interna a Directiva n.º 2006/90/CE , da Comissão, de 3 de Novembro, e a Directiva n.º 2008/68/CE , do Parlamento Europeu e do Conselho, de 24 de Setembro"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-41-a-2010"
@@ -681,12 +681,8 @@ As mercadorias perigosas só podem ser transportadas como bagagem de mão ou bag
 
 ## Anexo III — AUTORIDADES COMPETENTES PARA EXECUÇÃO DA REGULAMENTAÇÃO
 
-NOTA GERAL: Os actos das autoridades competentes para a execução da regulamentação do transporte de mercadorias perigosas por estrada e por caminho de ferro, a que se referem, respectivamente, os Anexos I e II, devem ser assegurados pelas autoridades ou quaisquer outros organismos designados como tais em cada Estado e em cada caso particular segundo o direito nacional, em conformidade com a definição de "autoridade competente" constante da secção 1.2.1 dos mencionados anexos. No presente Anexo III são designadas as autoridades que, no conjunto do território português, são competentes para a execução dos parágrafos dos Anexos I e II em que se prevê explicitamente a intervenção de uma "autoridade competente". De acordo com o artigo 23.º do decreto-lei que aprova a presente regulamentação, são competentes, no território das Regiões Autónomas dos Açores e da Madeira, as correspondentes autoridades ou organismos das administrações regionais. Os actos das autoridades competentes devem ser praticados por escrito e obedecer aos demais requisitos previstos para a prática de actos administrativos no Código do Procedimento Administrativo, aprovado pelo Decreto-Lei nº 442/91, de 15 de Novembro, e alterado pelo Decreto-Lei nº 6/96, de 31 de Janeiro.
-
-(ver documento original)
-
-- *Retificado pelo/a [Declaração de Rectificação n.º 18/2010 - Diário da República n.º 123/2010, Série I de 2010-06-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2010-334921), produz efeitos a partir de 2010-05-04*
+*(Revogado)* — *Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22.*
 
 ## Anexo IV — LISTA DE CONTROLO
 
-(ver documento original)
+*(Revogado)* — *Revogado pelo/a Artigo 6.º do/a Decreto-Lei n.º 204/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22.*

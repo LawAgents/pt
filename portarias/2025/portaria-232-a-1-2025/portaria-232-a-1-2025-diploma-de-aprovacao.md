@@ -9,10 +9,10 @@ date: 2025-05-23
 issuer: "Agricultura e Pescas"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2026-07-31
+last_amended: 2026-09-08
 source: "https://diariodarepublica.pt/dr/detalhe/portaria/2025-919311876"
 original_pdf: "https://files.diariodarepublica.pt/1s/2025/05/09901/0000200018.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Estabelece o regime específico dos apoios a conceder ao abrigo do artigo 78.º do Regulamento (UE) 2021/2115 , no que se refere à intervenção C.5.5 «Acompanhamento técnico especializado ― Intercâmbio de conhecimento», do domínio C.5 «Conhecimento», do eixo C «Desenvolvimento Rural» do PEPAC no continente."
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "portaria-232-a-1-2025"
@@ -161,7 +161,7 @@ v) Elaboração de um relatório final resultante do acompanhamento realizado a 
 
 a) Abrangência territorial;
 
-b) Beneficiários indiretos que usufruem de apoio técnico especializado à primeira instalação, designadamente jovens agricultores;
+b) [Revogada.]
 
 c) Diversidade nas ações previstas;
 
@@ -170,6 +170,8 @@ d) Experiência na prestação de serviços de acompanhamento técnico;
 e) Experiência na prestação de serviços de aconselhamento agrícola e florestal.
 
 2 - A hierarquização dos critérios constantes no número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão do PEPAC no continente e constam do aviso de abertura do período de apresentação de candidaturas.
+
+- *Alterado pelo/a Artigo 10.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2025-05-24.*
 
 #### Artigo 9.º — Forma, nível e limite do apoio
 
@@ -467,9 +469,17 @@ c) Manter a autenticação como entidade reconhecedora de regante, até ao termo
 
 d) Apresentar relatórios anuais de progresso, até 31 de março de cada ano, em relação às atividades realizadas no ano anterior, de acordo com modelo divulgado pela autoridade de gestão do PEPAC no continente.
 
-6 - Os relatórios previstos na alínea b) do n.º 2, na alínea b) do n.º 3, na alínea b) do n.º 4 e na alínea d) do n.º 5 do presente artigo estão sujeitos a aprovação pela autoridade de gestão do PEPAC no continente.
+6 - Para além do disposto nos números anteriores, os beneficiários devem manter os critérios de seleção que tenham contribuído para a pontuação da VGO, previstos no correspondente aviso para apresentação de candidaturas, nos termos e condições aprovados.
 
-7 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação dos prazos previstos na alínea b) do n.º 2, na alínea b) do n.º 3, na alínea b) do n.º 4 e da alínea d) do n.º 5.
+7 - Os relatórios previstos na alínea b) do n.º 2, na alínea b) do n.º 3, na alínea b) do n.º 4 e na alínea d) do n.º 5 do presente artigo estão sujeitos a aprovação pela autoridade de gestão do PEPAC no continente.
+
+8 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação dos prazos previstos na alínea b) do n.º 2, na alínea b) do n.º 3, na alínea b) do n.º 4 e da alínea d) do n.º 5.
+
+9 - Sem prejuízo do disposto no número anterior, incumprimento da obrigação prevista na alínea b) do n.º 2 constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+10 - Sem prejuízo do disposto no n.º 8 do artigo 27.º da presente portaria, o incumprimento do n.º 7 do mesmo artigo constitui fundamento suscetível de determinar a revogação da decisão de aprovação.
+
+- *Alterado pelo/a Artigo 10.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2025-05-24.*
 
 ### Artigo 25.º — Execução das operações
 
@@ -497,13 +507,15 @@ d) Apresentar relatórios anuais de progresso, até 31 de março de cada ano, em
 
 6 - Podem ser apresentados anualmente até quatro pedidos de pagamento, não incluindo o pedido a título de adiantamento, devendo cada pedido de pagamento representar, no mínimo, 10 % do montante da despesa pública aprovada.
 
-7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias seguidos a contar da data de conclusão do plano de ação, sendo liquidado após a aprovação deste.
+7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias seguidos a contar da data de conclusão do plano de ação, sendo liquidado após a aprovação do relatório referido na alínea b) do n.º 2 do artigo 24.º da presente portaria.
 
 8 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
 
 9 - O disposto nos n.os 2 e 3 não é aplicável à forma de apoio prevista no artigo 9.º, no n.º 4 do artigo 14.º e no n.º 4 do artigo 19.º, todos da presente portaria.
 
 10 - No ano do encerramento do PEPAC, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt.
+
+- *Alterado pelo/a Artigo 10.º do/a [Portaria n.º 426/2026/1 - Diário da República n.º 174/2026, Série I de 2026-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/426-2026-1167945131), em vigor a partir de 2026-09-09, com efeitos a partir de 2025-05-24.*
 
 ### Artigo 28.º — Análise e decisão dos pedidos de pagamento
 

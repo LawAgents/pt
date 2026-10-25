@@ -12,7 +12,7 @@ text_version: "consolidado"
 last_amended: 2025-05-06
 source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-137784327"
 original_pdf: "https://files.diariodarepublica.pt/1s/2000/11/267a00/65886593.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Regula a protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "decreto-lei-301-2000"
@@ -20,10 +20,6 @@ part: "Diploma de aprovação"
 ---
 
 # Decreto-Lei n.º 301/2000, de 18 de novembro — Diploma de aprovação
-
-Decreto-Lei n.º 301/2000
-
-de 18 de Novembro
 
 1 - O Decreto-Lei n.º 390/93, de 20 de Novembro, transpôs para a ordem jurídica interna a Directiva n.º 90/394/CEE, do Conselho, de 28 de Junho, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos durante o trabalho.
 
@@ -59,7 +55,6 @@ O presente diploma transpõe para a ordem jurídica interna a Directiva n.º 90/
 
 5 - O disposto pelo n.º 1 inclui os trabalhos suscetíveis de provocar exposição a qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, e que integre a composição dos medicamentos.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
@@ -103,7 +98,6 @@ h) Trabalhos que impliquem a exposição cutânea a óleos minerais, que tenham 
 
 i) Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
@@ -141,7 +135,6 @@ g) Considerar a possibilidade de não existir um nível seguro de exposição à
 
 4 - (Revogado.)
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 
 ## Artigo 4.º-A — Ultrapassagem do valor-limite de exposição profissional
@@ -158,7 +151,6 @@ b) Procede a nova determinação da concentração do agente cancerígeno, mutag
 
 4 - Sempre que a determinação da concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho revele a existência de um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo i ao presente decreto-lei, a frequência do controlo é trimestral, nos termos do n.º 2 do artigo anterior.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04*
 - *Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 
@@ -178,7 +170,6 @@ b) Procede a nova determinação da concentração do agente cancerígeno, mutag
 
 7 - A substituição dos medicamentos que, na sua composição, contenham qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, não pode prejudicar a saúde dos doentes.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
 ## Artigo 6.º — Redução dos riscos de exposição
@@ -227,7 +218,6 @@ d) Selecionar, utilizar, manter e eliminar os equipamentos de proteção individ
 
 e) (Revogada.)
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
@@ -251,7 +241,6 @@ a) Os elementos que serviram de base à avaliação do risco;
 
 b) O resultado de investigações que promova sobre a substituição e redução de agentes cancerígenos ou mutagénicos e a redução dos riscos de exposição.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
@@ -343,15 +332,12 @@ d) Transferir os registos clínicos e outros elementos informativos do trabalhad
 
 12 - Sem prejuízo do disposto em matéria de comunicação obrigatória estabelecido no regime de reparação de acidentes de trabalho e de doenças profissionais, o serviço com competências na área da proteção contra os riscos profissionais deve considerar prioritária a tramitação dos casos referidos na última parte do número anterior.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 - *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
-## Artigo 12.º-A — Valores-limite biológicos e medidas de vigilância médica
+# Artigo 12.º-A — Valores-limite biológicos e medidas de vigilância médica
 
 Sempre que seja indicado no anexo ii ao presente decreto-lei um valor-limite biológico relativamente a um agente cancerígeno ou mutagénico ou a uma substância tóxica para reprodução a que o trabalhador esteja exposto ou potencialmente exposto, a vigilância de saúde deve incluir obrigatoriamente o respetivo controlo biológico.
-
-- *Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
 
 ## Artigo 13.º — Formação dos trabalhadores
 
@@ -375,7 +361,7 @@ b) Disponibilizada periodicamente em contextos de prestação de cuidados de sa�
 
 c) Periodicamente repetida noutros contextos, se necessário.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02 00:00:00.*
 
 ## Artigo 14.º — Informação dos trabalhadores
 
@@ -395,13 +381,13 @@ c) Às referidas na alínea g) do n.º 3 do artigo 4.º e na alínea a) do artig
 
 5 - O empregador deve colocar à disposição dos trabalhadores as informações constantes da lista referida no número anterior que lhe digam directamente respeito, bem como facultar aos representantes dos trabalhadores as informações colectivas anónimas.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02 00:00:00.*
 
 ## Artigo 15.º — Informação e consulta dos trabalhadores
 
 O empregador deve assegurar a informação e consulta dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho sobre a aplicação das disposições do presente decreto-lei.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02 00:00:00.*
 
 ## Artigo 16.º — Registo e arquivo de documentos
 
@@ -429,7 +415,7 @@ d) Os registos de acidentes e incidentes de trabalho e das doenças profissionai
 
 Os organismos competentes das áreas governativas do trabalho, solidariedade e segurança social e da saúde podem elaborar guias técnicos, ou outros referenciais, que contenham orientações práticas sobre a prevenção dos riscos profissionais, a proteção e vigilância da saúde dos trabalhadores expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, assim como sobre a avaliação de risco profissional.
 
-- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2020-08-03 00:00:00.*
 - *Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03*
 
 ## Artigo 18.º — Contra-ordenações
@@ -466,11 +452,11 @@ Sem prejuízo das competências legislativas próprias, as competências atribu�
 
 1 - O presente diploma entra em vigor no 5.º dia útil após a sua publicação.
 
-2 - (Revogado);
+2 - (Revogado.)
 
 3 - O presente diploma aplica-se aos trabalhos suscetíveis de provocar a exposição a poeira de madeira de folhosas e às substâncias ou misturas que neles se libertem, bem como ao valor limite de exposição profissional para a referida poeira a partir de 30 de abril de 2003.
 
-- *Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02*
+- *Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.*
 - *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01*
 
 ## Assinatura

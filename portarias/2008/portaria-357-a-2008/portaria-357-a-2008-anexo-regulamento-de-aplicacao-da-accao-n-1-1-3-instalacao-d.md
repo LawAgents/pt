@@ -9,10 +9,10 @@ date: 2008-05-09
 issuer: "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2008-10-27
+last_amended: 2009-06-18
 source: "https://diariodarepublica.pt/dr/detalhe/portaria/2008-618169"
 original_pdf: "https://files.diariodarepublica.pt/1s/2008/05/09001/0000200006.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Aprova o Regulamento de Aplicação da Acção n.º 1.1.3, «Instalação de Jovens Agricultores», da medida n.º 1.1, «Inovação e desenvolvimento empresarial», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 part_of: "portaria-357-a-2008"
@@ -146,19 +146,21 @@ c) De 1 de Novembro a 31 de Dezembro.
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade dos beneficiários, bem como a aplicação dos factores referidos no artigo 8.º
 
-2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário de candidatura ou elementos complementares, que devem ser prestados no prazo de 10 dias úteis, decorridos os quais a ausência de resposta constitui fundamento de não aprovação do pedido.
+2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.
 
 3 - Sem prejuízo do disposto no n.º 2, o parecer referido no n.º 1 é emitido num prazo máximo de 40 dias úteis a contar do termo do período de apresentação dos pedidos de apoio, sendo remetido à autoridade de gestão.
 
-4 - A autoridade de gestão hierarquiza os pedidos em função da pontuação obtida no cálculo da VJA até ao limite da dotação orçamental, privilegiando, em caso de empate, os pedidos com VPE superior e, entre estes, os que primeiro tenham sido apresentados.
+4 - O secretariado técnico avalia a uniformidade de aplicação dos critérios de selecção em função do princípio da coesão territorial e hierarquiza os pedidos de acordo com a pontuação obtida no cálculo da VJA até ao limite da dotação orçamental, privilegiando, em caso de empate, os pedidos com VPE superior e, entre estes, os que primeiro tenham sido apresentados.
 
-5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da autoridade de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 10 dias úteis a contar da data de recepção do parecer previsto no n.º 3.
+5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 10 dias úteis a contar da data de recepção do parecer previsto no n.º 3.
 
 6 - Se o plano empresarial previsto no n.º 2 do artigo 5.º incluir investimentos inseridos em pedido de apoio à acção n.º 1.1.1, «Modernização e capacitação das empresas», o referido pedido deverá ser apresentado em simultâneo com o pedido de apoio objecto da presente portaria.
 
 7 - No caso previsto no número anterior, a decisão do pedido ao prémio à primeira instalação depende da aprovação do pedido apresentado à acção n.º 1.1.1, «Modernização e capacitação das empresas», quando o jovem agricultor também se tenha candidatado a esta, sendo, neste caso, o prazo referido no n.º 5 contado a partir da data de decisão adoptada naquela acção.
 
 8 - No caso previsto nos n.os 6 e 7 do presente artigo, os prazos aplicáveis à apreciação e decisão dos pedidos à acção n.º 1.1.1 são os previstos nos n.os 3 e 5 do presente artigo.
+
+- *Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19.*
 
 #### Artigo 11.º — Transição de pedidos
 
@@ -172,7 +174,7 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 #### Artigo 13.º — Pagamento
 
-1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e está sujeito a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
+1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
 2 - Os pedidos de pagamento devem ser apresentados de acordo com o seguinte:
 
@@ -180,15 +182,19 @@ a) 80 % do valor do prémio até 10 dias úteis após a celebração do contrato
 
 b) 20 % do valor do prémio após 36 meses a contar da data da celebração do contrato de financiamento, condicionado ao cumprimento das etapas e metas definidas no plano empresarial.
 
-3 - Para efeitos de pagamento ao beneficiário, o gestor emite as autorizações e envia-as ao IFAP, I. P.
+3 - Para efeitos de pagamento ao beneficiário, o secretariado técnico verifica a existência de dotação orçamental, que comunica ao IFAP, I. P.
 
 4 - O pagamento do apoio é efectuado pelo IFAP, I. P., por transferência bancária, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da respectiva autorização.
 
+- *Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19.*
+
 #### Artigo 14.º — Controlo
 
-1 - O cumprimento do plano empresarial está sujeito a controlos, até cinco anos após a data de celebração de contrato.
+1 - O cumprimento das obrigações previstas nas alíneas a) e b) do n.º 1 do artigo 6.º está sujeito a controlo, até cinco anos após a data de celebração do contrato.
 
-2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo elaborado o respectivo relatório da visita, o qual deve ser notificado ao beneficiário, que tem 10 dias úteis para se pronunciar sobre o mesmo.
+2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.
+
+- *Alterado pelo/a Artigo 4.º do/a [Portaria n.º 666/2009 - Diário da República n.º 116/2009, Série I de 2009-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776), em vigor a partir de 2009-06-19.*
 
 #### Artigo 15.º — Reduções e exclusões
 

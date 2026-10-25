@@ -9,10 +9,10 @@ date: 2008-07-14
 issuer: "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas"
 status: "em vigor"
 text_version: "consolidado"
-last_amended: 2008-11-11
+last_amended: 2010-08-27
 source: "https://diariodarepublica.pt/dr/detalhe/portaria/2008-456533"
 original_pdf: "https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf"
-retrieved: 2026-10-21
+retrieved: 2026-10-25
 summary: "Aprova o Regulamento de Aplicação da Subacção n.º 2.2.3.2, «Componente Animal», da Acção n.º 2.2.3, «Conservação e Melhoramento de Recursos Genéticos», da medida n.º 2.2, «Valorização de modos de produção», integrado no subprograma n.º 2, «Gestão sustentável do espaço rural», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER"
 legal_notice: "Texto consolidado sem valor legal. Confirma no Diário da República antes de o usares. Não substitui aconselhamento jurídico."
 ---
